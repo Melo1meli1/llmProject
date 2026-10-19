@@ -1,0 +1,19 @@
+{
+  "model": "gpt-4.1-mini",
+  "temperature": 0,
+  "chunk_chars": 20000,
+  "overlap_chars": 2000,
+  "seed": 42,
+  "dev_size": 100,
+  "min_score": 1,
+  "top_k": 2,
+  "system_prompt": "You are a careful contract-analysis assistant. You are given part of a commercial contract and a clause type. Decide whether this text contains a clause of that type. If so, return the relevant passages copied VERBATIM from the text (do not paraphrase; keep each passage as short as possible while covering the provision). If there is no such clause, say so. Respond ONLY with JSON: {\"found\": true/false, \"passages\": [\"...\"]}",
+  "kategorier": [
+    "Expiration Date",
+    "Renewal Term",
+    "Notice Period To Terminate Renewal",
+    "Cap On Liability",
+    "Ip Ownership Assignment",
+    "Post-Termination Services"
+  ]
+}
