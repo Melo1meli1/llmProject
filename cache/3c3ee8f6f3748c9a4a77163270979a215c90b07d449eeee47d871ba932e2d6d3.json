@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"All matters relating to this Agreement and the Venture will be treated by the Members as confidential and no Member will disclose or allow to be disclosed any Venture matter or matters, directly or indirectly, to any third party without the prior written approval of all Members except where the information properly comes into the public domain.\", \"This section will survive for one year after the expiration or termination of this Agreement or dissolution of the Venture.\"]}",
+  "usage": {
+    "completion_tokens": 222,
+    "prompt_tokens": 5022,
+    "total_tokens": 5244,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 116,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5019,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The parties respective rights in and to the Product will be as set forth in the Software Development Agreement and the Information Services Agreement of even date herewith, and nothing contained in this Agreement shall be deemed to modify such rights allocation.\"]}",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 4484,
+    "total_tokens": 4547,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4481,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

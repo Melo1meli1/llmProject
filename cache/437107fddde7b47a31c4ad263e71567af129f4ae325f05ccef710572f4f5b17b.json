@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The Company, the MHCs and the Bank also agree that the Agent shall not have any liability (whether direct or indirect, in contract or tort or otherwise) to the MHCs and its members, the Bank, the Company's, the MHCs's or the Bank's creditors relating to or arising out of the engagement of the Agent pursuant to, or the performance by the Agent of the services contemplated by, this Agreement.\",\"Notwithstanding anything to the contrary set forth herein, to the extent permitted by applicable law, in no event shall the Agent be required to contribute an aggregate amount in excess of the aggregate marketing fees to which the Agent is entitled and actually paid pursuant to this Agreement.\",\"If this Agreement is terminated pursuant to this Section, such termination shall be without liability of any party to any other party except as provided in Sections 2 and 4 hereof relating to the reimbursement of expenses and except that the provisions of Sections 6 and 7 hereof shall survive any termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 373,
+    "prompt_tokens": 4122,
+    "total_tokens": 4495,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 149,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4119,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

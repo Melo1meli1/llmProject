@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Each of the covenants, representations and warranties of the parties in this Agreement and the Subscription Agreement shall survive the Closing through and including the date thirty (30) days following the receipt by SMBC/Nikko of the audited financial statements of Moelis Holdings as of and for the year ended December 31, 2012.\"]}",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 4113,
+    "total_tokens": 4196,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4110,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"To the extent, if any, that ownership of the Hose Materials does not automatically vest in Tadeo by virtue of this Agreement or otherwise, Diplomat hereby transfers and assigns to Tadeo all rights, title and interest which Diplomat may have in and to the Host Materials.\"]}",
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 4288,
+    "total_tokens": 4363,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4285,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

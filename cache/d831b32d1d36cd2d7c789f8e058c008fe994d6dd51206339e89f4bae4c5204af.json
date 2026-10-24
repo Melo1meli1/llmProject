@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The Company shall maintain the effectiveness of the Eligible Registration Statement until the earlier of (i) the date on which all Registrable Securities included in such Eligible Registration Statement have actually been sold and (ii) the date that is (x) 180 days (in respect of a Resale Shelf Registration Statement) or (y) 90 days (in respect of any Eligible Registration Statement other than a Resale Shelf Registration Statement) from the effective date of such Eligible Registration Statement.\"]}",
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 3937,
+    "total_tokens": 4050,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3934,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

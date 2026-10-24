@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"12.15 Termination of Other Agreements. The following agreements are herby terminated without penalty to any party and are of no further force and effect: (i) the TS ISO Agreement; and (ii) the PCS ISO Agreement; provided, however, that neither the termination of the TS ISO Agreement or the PCS ISO Agreement nor anything contained in this Agreement shall act as a waiver or otherwise preclude FDMS from reconciling and/or collecting any billing, residual or other fee-related issues under either the TS ISO Agreement or the PCS ISO Agreement except where otherwise agreed to by FDMS.\"]}",
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 4526,
+    "total_tokens": 4660,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4523,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

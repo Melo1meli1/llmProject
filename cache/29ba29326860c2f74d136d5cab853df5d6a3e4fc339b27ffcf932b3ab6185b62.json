@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"This Agreement shall be effective as of the date first set forth above and, shall expire on the later of (i) five (5) years from the date hereof, or (ii) with respect to any projects identified in any contract for which VET TECH is billing the client directly, upon the completion of COOL TECH's Services and receipt of payment by COOL TECH from VET TECH for said services. This Agreement shall be automatically renewed for successive one year periods unless either party gives written notice of termination to the other party at least thirty (30) days prior to the date of expiration.\"]}",
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 2926,
+    "total_tokens": 3061,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2923,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

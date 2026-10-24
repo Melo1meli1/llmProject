@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"BLI shall fulfill any Production Purchase orders placed by Ginkgo prior to the effective date of termination and Ginkgo shall pay for such orders pursuant to Section 5.3.3 (Delivery and Payment).\", \"For all Development Purchases, BLI shall deliver to Ginkgo all works-in-progress and any report or analysis prepared prior to the effective date of termination within [***] ([***]) days after the effective date of termination.\", \"then such Party will continue to maintain such insurance after Expiration or the termination of this Agreement for a period of [***] ([***]) years following the end of the Term.\"]}",
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 4813,
+    "total_tokens": 4956,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4810,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

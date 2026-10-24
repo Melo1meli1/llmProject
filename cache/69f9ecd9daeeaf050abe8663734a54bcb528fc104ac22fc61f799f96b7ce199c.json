@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon termination of this Agreement for any reason whatsoever, the Receiving Party shall cease all use of and return to the Disclosing Party, or destroy, as the Disclosing Party shall specify in writing promptly upon such expiration or termination, all materials transferred pursuant to Section 11.4 and all copies of all documents and other materials that contain or embody any of the Disclosing Party's Confidential Information, except to the extent that the Receiving Party is required by Applicable Laws to retain such documents, and provided further that each Party may keep copies of all Confidential Information within its ordinary legal archives (including IT back-up systems). Within [***] ([***]) days after the date of expiration or termination of this Agreement, the Receiving Party shall furnish the Disclosing Party with a certificate, duly executed by an officer of the Receiving Party, confirming that the Receiving Party has complied with its obligations under this Section 11.4.\"]}",
+  "usage": {
+    "completion_tokens": 199,
+    "prompt_tokens": 4241,
+    "total_tokens": 4440,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4238,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

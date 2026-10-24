@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The terms, provisions, representations, and warranties contained in Sections 3.7, 3.9, 9, 10, 11, 12, and 13 of this Agreement by their terms are intended to survive the performance thereof by either party or both Parties hereunder shall so survive the completion of performance, expiration, termination or cancellation of this Agreement.\",\"Upon the termination or expiration of this Agreement, all obligations and rights of both MBRK and DD hereunder shall terminate, except all obligations and rights (i) to make or receive payments becoming due prior to the date of termination or expiration, (ii) to pay or receive payments for any damages from any breach of the Agreement and (iii) otherwise provided in Section 14 of this Agreement.\",\"In addition to the foregoing, upon termination or expiration of this Agreement for any reason, each party shall continue to maintain accurate records necessary to demonstrate compliance with applicable laws, regulations and guidelines, including, without limitation, records relating to MOXATAG promotion to DD Target Segment Prescribers.\",\"If MBRK terminates this Agreement in the first year of the Agreement for any reason, then MBRK will pay DD a) an Early Termination Fee plus b) the End of Agreement Fee.\"]}",
+  "usage": {
+    "completion_tokens": 344,
+    "prompt_tokens": 4328,
+    "total_tokens": 4672,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4325,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"If Metavante terminates any Service pursuant to this paragraph, Metavante agrees to assist Customer, without additional charge, in identifying an alternate provider of such terminated Service, and the Customer shall not be assessed a Termination Fee for such terminated service.\",\"The \\\"Termination Fee\\\" shall be paid prior to the Effective Date of Termination of the Agreement, as applicable. In addition to the foregoing, Customer shall pay to Metavante any amortized but unpaid one-time set-up fees, enhancement fees or implementation fees and all reasonable costs in connection with the disposition of equipment, facilities and contracts exclusively related to Metavante's performance of the Services under this Agreement.\",\"To the extent any insurance coverage required under this Section is purchased on a \\\"claims-made\\\" basis, such insurance shall cover all prior acts of Metavante during the Term, and such insurance shall be continuously maintained until at least four (4) years beyond the expiration or termination of the Term, or Metavante shall purchase \\\"tail\\\" coverage, effective upon termination of any such policy or upon termination or expiration of the Term, to provide coverage for at least four (4) years from the occurrence of either such event.\"]}",
+  "usage": {
+    "completion_tokens": 254,
+    "prompt_tokens": 4360,
+    "total_tokens": 4614,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4357,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

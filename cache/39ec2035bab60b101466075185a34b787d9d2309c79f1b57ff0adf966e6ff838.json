@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"This Agreement shall be effective on the later of the dates that it is executed by Imprimis and Surgical (the \\\"Effective Date\\\") and shall terminate pursuant to the terms of the SOW (the \\\"Term\\\").\"]}",
+  "usage": {
+    "completion_tokens": 245,
+    "prompt_tokens": 4158,
+    "total_tokens": 4403,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 179,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4155,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The Book of Business is that portion of each sale belonging to the Agent under the commission percentage agreed to at the time of sale and the continuing flow of income produced so long as the customers pay to use the Kallo Mobile care suite of products license.\", \"All sales made by the Agent of the Kallo Mobile care suite of products shall create a Book of Business owned by the Agent, which constitutes all funds due to Agent under this agreement flowing from each sale for a period not to exceed 36 months from the date of acceptance by Kallo of the Client EULA or until the EULA terminates under the provision that are outlined therein of the Kallo Mobile care suite of products.\", \"Agent or its successors shall maintain during the term of this Agreement and while it is still responsible for its Book of Business: i.All required workers' compensation or similar insurance; ii.Comprehensive general liability insurance.\", \"Agent shall supply to Kallo the full business data of each customer as a qualified prospect and at the time of sale and shall, during this Agreement and while it is still responsible for its Book of Business, and for a period of one year after the termination of this Agreement maintain records sufficient for Kallo to verify amounts due under this Agreement relating to the contracts, invoices, accounts, complaints, and other transactions relating to the placement and licensing of the Kallo Mobile care suite of products.\"]}",
+  "usage": {
+    "completion_tokens": 458,
+    "prompt_tokens": 5103,
+    "total_tokens": 5561,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 157,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5100,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

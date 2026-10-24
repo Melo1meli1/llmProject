@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Expiration Date: August 31, 2006\",\"This Agreement shall be effective as of the Effective Date and shall expire on the Expiration Date set forth above (the \\\"Initial Term\\\"), unless earlier terminated in accordance with Section 3(b). Upon mutual agreement, this Agreement may be renewed for one (1) additional one (1) year term upon the expiration of the Initial Term.\"]}",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 3342,
+    "total_tokens": 3437,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3339,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

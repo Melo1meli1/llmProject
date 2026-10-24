@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Upon any termination or expiration of this Agreement, all rights, licenses (including any sublicenses granted by DIALOG) and obligations hereunder will cease, except that the provisions of Sections 6 (Intellectual Property Ownership), 9 (Royalties and Service Fees), 10 (Confidentiality), 11 (Representations and Warranties; Disclaimers), 12 (Indemnification), 13 (Limitation of Liability), 15.3 (Effect of Termination), 15.4 (Wind Down Period), 16 (Escrow), 18 (Non-Solicitation), 19 (Choice of Law and Dispute Resolution) and any provisions to give effect thereto, will survive such termination or expiration and remain in full force and effect in accordance with their terms.\",\"Notwithstanding any statement in Section 15.3 to the contrary, upon any termination or expiration of this Agreement and until the later to occur of (i) [***] from the Effective Date or (ii) [***] following the effective date of termination or expiration of this Agreement (the \\\"Wind Down Period\\\"), the parties' respective rights and obligations under Sections 2 (License), 3 (Sourcing), 7 (Product Sales), 9 (Royalties and Service Fees), 11 (Representations and Warranties; Disclaimers), 12 (Indemnification), 13 (Limitation of Liability), 14 (Compliance with Laws), 15.2 (Termination), 16 (Escrow) and all Exhibits hereto which are associated with any of the foregoing listed sections will remain in full force and effect as to (A) any Products or repackaged Product Die with respect to which DIALOG or any of its Affiliates has secured a design win at a customer prior to or within one (1) month after the start of the Wind Down Period, or (B) the sale of any MCMs which have been released for production at a foundry, provided, however, that DIALOG's license rights under Section 2.1 (including any sublicenses granted by DIALOG pursuant to Section 2.4) will be non-exclusive during the Wind Down Period.\",\"If, at the time of notice of any termination of this Agreement, DIALOG or any of its Affiliates has a written supply contract with a customer that extends beyond the end of the Wind Down Period (a \\\"Continuing Obligation\\\"), DIALOG and/or its Affiliates may continue to Sell Licensed Products to such customer through the term of the Wind Down Period and for the remainder of the term of such Continuing Obligation, provided that in no event may DIALOG or its Affiliates Sell Licensed Products to such customer pursuant to this Section 15.4(b) for a period longer than [***] after the effective date of termination of this Agreement.\",\"In such event, the provisions of this Agreement that survive during the Wind Down Period will continue to survive for the remainder of the period of time that DIALOG is authorized to Sell Licensed Products to any customer in accordance with the foregoing sentence.\",\"ENERGOUS will at its expense, at DIALOG's written request during the Term and any Wind Down Period, enter into a three- party escrow deposit arrangement, in accordance with this Section 16, with a recognized escrow agent (the \\\"Escrow Agent\\\") of mutual agreement.\"]}",
+  "usage": {
+    "completion_tokens": 700,
+    "prompt_tokens": 4396,
+    "total_tokens": 5096,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4393,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

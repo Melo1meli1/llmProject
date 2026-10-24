@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"the Company has no liability to him if payment of any contribution to, or the provision of any benefit under, the Plan (whether by itself or when aggregated with any contribution to or any increase in value of the Executive's rights under any other arrangement) gives rise to an annual allowance or lifetime allowance charge\", \"the Company has no liability to him in respect of any loss for any reason of enhanced protection, fixed protection, fixed protection 2014, fixed protection 2016 or any similar protection allowed in future\"]}",
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 4279,
+    "total_tokens": 4399,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4276,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

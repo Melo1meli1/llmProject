@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"EXCEPT IN CONNECTION WITH A BREACH BY EITHER PARTY OF SECTION 8, EACH PARTY'S LIABILITY FOR DAMAGES HEREUNDER (OTHER THAN IN RESPECT OF ANY CLAIM FOR MONIES DUE) SHALL NOT EXCEED £200,000.\"]}",
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 4146,
+    "total_tokens": 4212,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4143,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

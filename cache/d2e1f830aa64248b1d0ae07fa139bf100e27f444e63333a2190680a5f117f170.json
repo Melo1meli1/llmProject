@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Licensee acknowledges that, as between the Parties, Licensor (or its third party providers) is the owner of all right, title and interest in and to the Licensed Domain Names and Licensed Content, and all such right, title and interest shall remain exclusively with Licensor (or its third party providers).\"]}",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 4245,
+    "total_tokens": 4324,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4242,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

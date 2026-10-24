@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Each of SMBC/Nikko and Moelis Holdings agrees not to solicit or hire any employee of the other party during the term of this Agreement and for a period of 12 months thereafter\",\"Each of SMBC/Nikko and Moelis Holdings agrees, during the term of this Agreement (except pursuant to this Agreement) and for a period of 12 months thereafter, not to solicit any Client Introduced by the other party in connection with an assignment on Covered Businesses involving Japanese Companies where all principal parties involved are located within Covered Regions.\",\"This Section 10.1 shall terminate with respect to Confidential Information relating to a (prospective) Client, two years following receipt of such information, and with respect to any other Confidential Information, two years following the termination of this Agreement.\",\"In the event of the termination of this Agreement, no party shall have any liability to any other party in respect of this Agreement except for any liabilities relating to any breach or any payment obligation hereunder and arising prior to such termination\"]}",
+  "usage": {
+    "completion_tokens": 384,
+    "prompt_tokens": 4338,
+    "total_tokens": 4722,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 163,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4335,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

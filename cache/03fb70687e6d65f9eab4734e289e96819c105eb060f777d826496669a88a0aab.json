@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Moelis Holdings will use its commercially reasonable efforts (i) to cause any Registration Statement to be declared effective (unless it becomes effective automatically upon filing) as promptly as practicable after the filing thereof with the SEC and (ii) to keep such Registration Statement current and effective for a period of 90 days, or such shorter time necessary for the completion of the sale of Registrable Securities registered thereon.\"]}",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 4296,
+    "total_tokens": 4395,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4293,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

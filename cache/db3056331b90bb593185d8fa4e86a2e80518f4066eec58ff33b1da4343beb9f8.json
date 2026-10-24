@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Unless otherwise agreed to in writing by the Parties, as between the Parties, Ginkgo shall own:\\n\\n(a) all biological entities, including all organisms, cells, strains, enzymes and other proteins, nucleic acids and other biomaterials (that are not BLI-provided biological entities listed in Section 8.2.2(f) (BLI Inventions)) [***], in each case that Ginkgo loads onto the Beacon Platform or provides to BLI [***];\\n\\n(b) all [***];\\n\\n(c) any assays [***];\\n\\n(d) all chemical entities other than [***], developed, generated, created, used or otherwise exploited in connection with the use of the Beacon Platform (clauses (a) through (d) of this Section 8.2.1 (Ginkgo Inventions) collectively, with the exception of [***], the \\\"Ginkgo Materials\\\");\\n\\n(e) all [***];\\n\\n(f) the [***];\\n\\n(g) the Ginkgo Workflows, with the exception of any BLI Inventions; and\\n\\n(h) all rights to the Intellectual Property contained or otherwise embodied in the inventions, discoveries, improvements, materials, chemical entities, Ginkgo Materials, [***], [***], or Ginkgo Workflows, described in clauses (a) through (g) of this Section 8.2.1 (Ginkgo Inventions) (clauses (a) through (g) collectively, the \\\"Ginkgo Inventions\\\").\", \"Unless otherwise agreed to in writing by the Parties, as between the Parties, BLI shall own:\\n\\n(a) all inventions or discoveries [***]related to, or improvements or modifications to, the Beacon Platform that are developed, generated, created, used or otherwise exploited in connection with the use of the Beacon Platform under a Workflow Development Plan;\\n\\n(b) any materials or chemical entities that are not Ginkgo Materials that are developed, generated, created, used or otherwise exploited in connection with the use of the Beacon Platform under a Workflow Development Plan, with the exception of any materials that are publicly available for purchase or are otherwise rightfully in the public domain;\\n\\n(c) all BLI Proprietary Workflows;\\n\\n(d) Generalized Workflows, with the exception of any Ginkgo Inventions;\\n\\n(e) all Consumables provided by BLI related to the Beacon Platform and [***], in each case (i) developed, generated, created, used or otherwise exploited in connection with the use of the Beacon Platform under a Workflow Development Plan and (ii) [***];\\n\\n(f) although generally not expected during the Term, any [***]; and\\n\\n(g) all rights to the Intellectual Property contained or otherwise embodied in the inventions, discoveries, improvements, materials, chemical entities, Beacon Platform or Consumables described in clauses (a) through (f) of this Section 8.2.2 (BLI Inventions) (collectively, clauses (a) through (f) of this Section 8.2.2 (BLI Inventions), the \\\"BLI Inventions\\\").\", \"Subject to Section 8.2 (Ownership of Ginkgo Inventions and BLI Inventions), as between the Parties, BLI shall solely own all right, title and interest to all Collaboration Intellectual Property [***].\"]}",
+  "usage": {
+    "completion_tokens": 862,
+    "prompt_tokens": 5416,
+    "total_tokens": 6278,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 141,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5413,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

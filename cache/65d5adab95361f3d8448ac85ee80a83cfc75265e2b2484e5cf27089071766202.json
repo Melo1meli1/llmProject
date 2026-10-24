@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Inktomi shall keep true and accurate books and records, in accordance with Generally Accepted Accounting Principles (\\\"GAAP\\\"), relating to all costs and expenses for which Inktomi is entitled to charge Microsoft pursuant to Section 4.1 above, throughout the Term and for eighteen (18) additional months thereafter.\", \"Upon receipt of such notice, Inktomi will discontinue all work hereunder. If Microsoft terminates this Agreement without cause pursuant to this Section 10.2, then Microsoft will pay for all services provided by Inktomi up until the date of termination under this Section 10.2.\", \"Inktomi may require Microsoft to pay to Inktomi, in [*] immediately following the effective termination date, an amount equal to [*] ([*]) of all outstanding principal, interest and other amounts owed or owing to Microsoft by Inktomi on the date of termination under the Loan Agreement (and outstanding Promissory Notes issued thereunder);\", \"Inktomi may deliver that portion of the Collateral (as defined in the Loan Agreement) which was purchased with Advances evidenced by the then-outstanding Promissory Notes (as defined in the Loan Agreement) (the \\\"Returned Collateral\\\") to Microsoft, and assign all right, title and interest in and to said Returned Collateral to Microsoft\"]}",
+  "usage": {
+    "completion_tokens": 426,
+    "prompt_tokens": 5429,
+    "total_tokens": 5855,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 135,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5426,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

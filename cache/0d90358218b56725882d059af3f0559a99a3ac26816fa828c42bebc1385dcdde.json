@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In the event of termination under this Paragraph 12.03 where FCE is the defaulting Party, FCE's royalty-free licenses described in Paragraph 7.01(b)(1), 8.02(b)(1)(i), 8.02 (b)(1)(ii), 8.02(b)(1)(iii), and 8.02(b)(2)(i) will immediately convert to royalty-bearing licenses, with the royalty rate to be negotiated by the Parties in good faith.\", \"Any licenses granted to ExxonMobil under this Agreement that would otherwise survive termination will continue to survive termination.\", \"then ExxonMobil and its Affiliates shall retain all rights hereunder in perpetuity without further royalty payments of any kind and FCE (in any capacity, including debtor-in- possession) and its successors and assigns (including, without limitations, a trustee) shall not interfere with such rights.\", \"In the event FCE admits in writing its inability generally to pay its debts as they fall due in the general course, becomes or is determined to be insolvent, makes a general assignment for the benefit of creditors, suffers or permits the appointment of a receiver for its business or assets, or a substantial part thereof, or becomes subject to a proceeding under any statute or act relating to insolvency or the protection of rights of creditors, ExxonMobil receives, at its election, continued access to all Program Information, including the Project materials, equipment, and FCE's Background Information and Background Patents, and ExxonMobil will have access to relevant lab notebooks, computers containing technical information and know-how, journals, ledgers and manuals containing technical information and know-how in each case relating to the Program Information and FCE's Background Information and Background Patents.\", \"In the event of termination under this Paragraph 12.05 and subject to ExxonMobil's waiver (in its sole discretion), any licenses granted to FCE under this Agreement that would otherwise survive termination will automatically terminate and any licenses granted to ExxonMobil under this Agreement that would otherwise survive termination will continue to survive termination.\", \"Article 10 (Payment), but only to the extent there are continuing license and/or royalty share obligations pertaining to the commercial use of Program Results, Background Information and/or Background Patents;\", \"Such books, records and accounts will be maintained for a period of at least three (3) years following the termination or expiration of this Agreement, provided there are no pending disputes between the Parties. In the case of a dispute, the books, records, and accounts will be maintained for one (1) year following resolution of such dispute.\", \"At the request of ExxonMobil, FCE will permit, at reasonable intervals and during regular business hours, during the Term of this Agreement and at least three (3) years thereafter, but no more than once per fiscal year, an independent certified public accounting firm of nationally recognized standing selected by ExxonMobil (and approved by FCE, which approval will not be unreasonably withheld) to inspect, during regular business hours, such books, records, and accounts and any part of the applicable operations and facilities of FCE relevant to this Agreement, and to have access to FCE's knowledgeable personnel, as may be necessary to determine the completeness and accuracy of any accounting and payments required to be made under this Agreement and compliance with other terms of this Agreement\"]}",
+  "usage": {
+    "completion_tokens": 692,
+    "prompt_tokens": 4374,
+    "total_tokens": 5066,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4371,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

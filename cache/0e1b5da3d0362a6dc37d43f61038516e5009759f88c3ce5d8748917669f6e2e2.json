@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"the expiration or termination of this Agreement shall not release any of the Parties from any obligation or liability which accrued prior to such expiration or termination (including the costs to plug and abandon the Initial Well and any Substitute Wells and Additional Wells) or which, by the terms hereof, is intended to survive such expiration or termination, including but not limited to Articles I, X, XI, XII, XIII, XIV, XV, and XVI and Sections 5.1 and 5.6, which terms shall survive indefinitely.\"]}",
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 4132,
+    "total_tokens": 4254,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4129,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

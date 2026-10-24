@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"IN NO EVENT SHALL EITHER PARTY'S TOTAL LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT EXCEED THE AMOUNTS PAID BY SONOS FOR THE PRODUCTS IN THE [*] PERIOD IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE LIABILITY.\", \"In any event, the maximum Sonos liability for such cancellation or reduction will be limited to [*], provided that [*].\"]}",
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 4417,
+    "total_tokens": 4520,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4414,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

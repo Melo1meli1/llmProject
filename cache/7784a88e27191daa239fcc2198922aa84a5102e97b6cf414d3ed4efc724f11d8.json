@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"In the event of termination of this Agreement, Licensee shall: (i) immediately stop in all respects the sale and distribution of the Wireless Products and provide Fox with a complete inventory report and accounting with payment of all Royalties, and (ii) at Fox's election shall either (A) deliver to Fox all materials related to the Wireless Products or (B) give Fox satisfactory evidence of their destruction.\",\"Fox shall not distribute the Wireless Products after the termination or expiration of this Agreement without obtaining from Licensee a separate license to the Licensee Materials.\",\"Notwithstanding Paragraph 15(b), in the event of termination of this Agreement, Licensee shall have a period of ***** from the date of such termination (unless such termination occurs less than ***** prior to the expiration of this Agreement in which case the time period shall be shortened accordingly so as not to exceed the date of expiration) in which to sell-off existing inventory of Wireless Products already in the Distribution Channels (\\\"Sell Off Period\\\").\",\"Upon the expiration of the Sell Off Period, Licensee agrees to destroy all such remaining inventory and confirm same in writing to Fox (and require that any Licensed CSP do the same). Any revenues, credits or other consideration received by Licensee for the Wireless Products during the Sell Off Period will be subject to Licensee's obligation to pay Fox Royalties pursuant to Paragraph 7 above.\",\"In the event of termination of this Agreement and without limitation of Fox's rights and remedies all of which are expressly reserved, the following payment penalties shall apply: (i) if termination occurs in the first year of the Term, Licensee shall forfeit any Guarantee paid, and shall immediately pay any remaining Guarantee, up to the amount of ***** dollars (US$*****), and any Guarantee payments made in excess of ***** dollars ($*****) shall be refunded by Fox to Licensee; and (ii) if termination occurs in the second year of the Term, Licensee shall forfeit any Guarantee paid, and shall immediately pay any remaining portion of the Guarantee then unpaid, up to the amount of ***** dollars (US$*****).\",\"Each party agrees to use reasonable efforts, and at least the same care that it uses to protect its own confidential information of like importance, to prevent unauthorized dissemination and disclosure of the other party's confidential information during and for a period of three (3) years after the Term.\"]}",
+  "usage": {
+    "completion_tokens": 611,
+    "prompt_tokens": 5179,
+    "total_tokens": 5790,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5176,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

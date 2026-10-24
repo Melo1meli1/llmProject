@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Client will retain all right, title and interest in and to the Client Site worldwide including, but not limited to, ownership of all copyrights and other intellectual property rights therein.\", \"Excite will retain all right, title, and interest in and to the Excite Network worldwide including, but not limited to, ownership of all copyrights, look and feel and other intellectual property rights therein.\"]}",
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 3894,
+    "total_tokens": 3988,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3891,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

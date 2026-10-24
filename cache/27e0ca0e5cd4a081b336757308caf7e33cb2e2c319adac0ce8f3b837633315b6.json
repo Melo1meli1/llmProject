@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"This Agreement shall automatically extend for an additional two (2) years on the same terms herein (\\\"Renewal Term\\\") provided WPT receives payments greater than twelve million U.S. dollars ($12,000,000) within the Initial Term.\"]}",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4393,
+    "total_tokens": 4458,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4390,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

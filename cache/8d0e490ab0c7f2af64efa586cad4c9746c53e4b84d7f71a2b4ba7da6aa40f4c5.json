@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The Company reserves the right to require the Executive to take any outstanding holiday during any period of notice of termination of employment or to make a payment in lieu of holiday outstanding at the Termination Date. If, at the Termination Date, the Executive has taken more holiday than he has accrued, the Executive hereby expressly consents to the Company deducting an appropriate amount from any payments otherwise due him.\",\"any such copy, record or memorandum made by the Executive during the Appointment shall be and remain the property of the Company and accordingly shall be returned by the Executive to the Company on the Termination Date\",\"assisting the Company in defending and enforcing such rights during and after the employment (at the Company's expense).\",\"The Executive shall promptly transfer to the Company all IP Materials in his possession or under his control as at the Termination Date, or at any time when the Company requests. No copies or other record of any IP Materials may be retained by the Executive except with the prior written consent of the Company.\",\"If the Company elects to terminate the Executive's employment in this way, it will make, within 30 days, either the first instalment (of equal monthly instalments) of a, or an entire, payment in lieu of notice (Payment in Lieu)\",\"On the Termination Date or, at the request of the Board on either party giving notice to terminate this Agreement, the Executive will immediately: (a) deliver to the Company all other property in his possession, custody or under his control belonging to any Group Company including (but not limited to) computers and any other electronic devices, business cards, credit and charge cards, security passes, original and copy documents or other media on which information is held in his possession relating to the business or affairs of any Group Company; and (b) to the extent possible, irretrievably delete (without keeping any copies in any format) any information relating to the business or affairs of the Company or any Group Company or any of its or their business contacts from any computer or communications systems, including any website or email account, owned or used by the Executive outside the Company's premises and notify the Company of any passwords the Executive used in relation to its computer system.\"]}",
+  "usage": {
+    "completion_tokens": 706,
+    "prompt_tokens": 4272,
+    "total_tokens": 4978,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 240,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4269,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The term of this Agreement will begin upon acceptance of Affiliate's Program application and will end when terminated by either party of this Agreement. This Agreement is entered into for an unlimited period of time.\"]}",
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 1122,
+    "total_tokens": 1176,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 1119,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

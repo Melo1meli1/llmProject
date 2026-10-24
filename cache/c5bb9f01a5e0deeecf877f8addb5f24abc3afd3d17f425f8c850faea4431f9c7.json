@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The provisions of this Section 11 shall survive the termination or expiration of this Agreement.\", \"provided, however, that neither the termination of the TS ISO Agreement or the PCS ISO Agreement nor anything contained in this Agreement shall act as a waiver or otherwise preclude FDMS from reconciling and/or collecting any billing, residual or other fee-related issues under either the TS ISO Agreement or the PCS ISO Agreement except where otherwise agreed to by FDMS.\"]}",
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 5288,
+    "total_tokens": 5395,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5285,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

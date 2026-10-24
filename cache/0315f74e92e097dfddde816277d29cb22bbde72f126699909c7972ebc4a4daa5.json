@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Upon termination of your employment you will receive pay in lieu of accrued but untaken holiday. The Company may deduct an appropriate sum in respect of days taken in excess of your pro rata entitlement from your final remuneration on the basis that one day's holiday will be calculated as 1/260ths of your basic annual salary.\",\"The Company reserves the right in its sole and absolute discretion to give written notice to terminate your employment forthwith and to make a payment to you in lieu of salary and the benefits set out in paragraph 5 of this Agreement for all or any unexpired part of the notice period.\"]}",
+  "usage": {
+    "completion_tokens": 364,
+    "prompt_tokens": 4338,
+    "total_tokens": 4702,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 223,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4335,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

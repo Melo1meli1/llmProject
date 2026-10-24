@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In the event of termination of this Agreement or a cancellation of a Purchase Order, and/or discontinuance of a Product, or excess materials created by an Engineering Change, Customer agrees to compensate Contractor for unused material inventory which are affected by such termination, cancellation or discontinuance, as follows: (i) The cost of material inventory, whether in raw form or work in process, which are not returnable to the vendor without charge (unless the charge was approved by Customer, or usable for other Contractor's customers, including EOQ of unique parts. (ii) The cost of materials on order which cannot be cancelled without charge (unless the charge was approved by Customer. (iii) To the above applicable compensation, the Contractor shall be entitled to a handling fee of 2% of the compensation due. The compensation under this Sub-section shall be the sole compensation due to Contractor with respect to handling the Products/materials. (v) Payment shall be made to Contractor against delivery of the compensated materials to Customer.\"]}",
+  "usage": {
+    "completion_tokens": 384,
+    "prompt_tokens": 5016,
+    "total_tokens": 5400,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 159,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5013,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

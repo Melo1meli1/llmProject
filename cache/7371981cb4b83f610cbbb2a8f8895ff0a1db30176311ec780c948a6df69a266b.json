@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"IN NO EVENT SHALL ABG'S, AUTHENTIC BRANDS GROUP LLC'S, AND CELEBRITY'S TOTAL LIABILITY UNDER THIS AGREEMENT EXCEED THE AMOUNTS ACTUALLY RECEIVED BY ABG (EXCLUSIVE OF REIUMBURSEMENT OF EXPENSES) HEREUNDER, REGARDLESS OF THE NUMBER OR TYPE OF CLAIMS.\"]}",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 3264,
+    "total_tokens": 3353,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3261,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

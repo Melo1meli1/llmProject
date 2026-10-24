@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Dexcel's responsibility for Product supplied by it to Kitov failing to meet the Specifications shall be limited to the replacement of the Product or the refund of the Supply Price paid by Kitov for such order, as agreed by the parties, except as otherwise provided under this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 4214,
+    "total_tokens": 4285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4211,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

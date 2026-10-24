@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"This Agreement shall continue in effect for two years from the date hereof, and thereafter shall continue automatically for successive annual periods, provided that such continuance is specifically approved at least annually by (A) the vote of the Board, or by the vote of a majority of the outstanding voting securities of the Fund and (B) the vote of a majority of the Fund's directors who are not parties to this Agreement or \\\"interested persons\\\" (as such term is defined in Section 2(a)(19) of the Investment Fund Act) of any such party, in accordance with the requirements of the Investment Fund Act.\"]}",
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 3069,
+    "total_tokens": 3209,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3066,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

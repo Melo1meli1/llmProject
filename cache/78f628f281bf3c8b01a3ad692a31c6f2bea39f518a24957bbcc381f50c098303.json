@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"If this Agreement is terminated for any reason, WYZZ may continue to use Nexstar's facility (to the extent of, and consistent with, the use immediately prior to the termination) for a period of six (6) months following the date of actual termination, without regard to any continuation which occurs as a result of the immediately succeeding sentence (the \\\"Continuation Period\\\"). If the Parties elect to continue the Services during the Continuation Period, then the Nexstar shall continue to provide the Services and pay the Section 2(a) Amount in accordance with this Agreement during the Continuation Period.\",\"Notwithstanding the termination of this Agreement, any amounts due hereunder with respect to the period prior to the end of the Term shall be paid in accordance with the provisions hereof following the end of the Term.\"]}",
+  "usage": {
+    "completion_tokens": 177,
+    "prompt_tokens": 4311,
+    "total_tokens": 4488,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4308,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

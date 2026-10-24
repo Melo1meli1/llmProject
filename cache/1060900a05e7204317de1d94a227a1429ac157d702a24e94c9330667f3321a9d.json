@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"No action, case, suit or proceeding, regardless of form, arising out of or related to this Agreement, may be brought by either party more than one (1) year after the cause of action has arisen, or in the case of nonpayment, more than two (2) years from the date of the last payment.\"]}",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 4111,
+    "total_tokens": 4193,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4108,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

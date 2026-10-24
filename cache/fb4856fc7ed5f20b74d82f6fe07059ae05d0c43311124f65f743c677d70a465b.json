@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Accuray will be registered as the sole owner of any rights, title and interest to any of the Products or Spare Parts, as the case may be; provided, however, that should any applicable law or regulation require that Distributor alone be entitled to such ownership rights, Distributor shall hold this approval as trustee for Accuray and hereby consents to transfer or sublicense such approval to Accuray free of charge or to support Accuray in its efforts to re-obtain the approval for the benefit of Accuray or a third party named by Accuray upon expiration or termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 4104,
+    "total_tokens": 4243,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4101,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

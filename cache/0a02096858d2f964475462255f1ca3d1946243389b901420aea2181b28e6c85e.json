@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon any failure of a Product to comply with the above warranty, Contractor's sole obligation, and Customer's sole remedy, is for Contractor, at its option, to promptly repair or replace such Product and return it to Customer freight prepaid.\"]}",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4091,
+    "total_tokens": 4156,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4088,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

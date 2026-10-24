@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Termination shall not relieve either party of obligations incurred prior thereto.\", \"Upon termination of this Agreement all further rights and obligations of the parties shall cease, except that Distributor shall not be relieved of (i) its obligation to pay any monies due, or to become due, as of or after the date of termination, and (ii) any other obligation set forth in this Agreement which is to take effect after the date of termination.\", \"Distributor agrees it will not at any time, either during the term of this Agreement or thereafter, use the Brand, Products or Snotarator™ mark in any manner that might infringe upon the Company's ownership rights to same directly or indirectly.\"]}",
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 3537,
+    "total_tokens": 3690,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3534,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

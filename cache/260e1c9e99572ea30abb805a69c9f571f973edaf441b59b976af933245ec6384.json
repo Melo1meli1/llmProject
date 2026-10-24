@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"All undisputed payments that have accrued prior to the termination or expiration of this Agreement will be payable in full within thirty (30) days thereof.\",\"The provisions of Section 12 (Confidentiality and User Data), Section 13 (Indemnity), Section 14 (Limitation of Liability) and Section 15 (Dispute Resolution) will survive any termination or expiration of this Agreement.\",\"Upon the expiration or termination of this Agreement, each party will cease using the trademarks, service marks and/or trade names of the other except:\",\"Client will not use User Data to directly or indirectly solicit any Excite users either individually or in the aggregate during the term of this Agreement and for a period of twelve (12) months following the expiration or termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 170,
+    "prompt_tokens": 3919,
+    "total_tokens": 4089,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3916,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

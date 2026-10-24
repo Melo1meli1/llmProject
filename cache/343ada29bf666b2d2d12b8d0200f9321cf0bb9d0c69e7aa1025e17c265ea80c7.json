@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Agent or its successors shall maintain during the term of this Agreement and while it is still responsible for its Book of Business: i.All required workers' compensation or similar insurance; ii.Comprehensive general liability insurance.\",\"Agent shall, during this Agreement and while it is still responsible for its Book of Business, and for a period of one year after the termination of this Agreement maintain records sufficient for Kallo to verify amounts due under this Agreement relating to the contracts, invoices, accounts, complaints, and other transactions relating to the placement and licensing of the Kallo Mobile care suite of products.\",\"Should agreement not be reached, Agent may maintain its existing \\\"book of business\\\" and cease making sales under this agreement without prejudice so long as Agent meets its support obligations to its clients and financial obligations to Kallo.\"]}",
+  "usage": {
+    "completion_tokens": 261,
+    "prompt_tokens": 4183,
+    "total_tokens": 4444,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4180,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"13.l Sections 6 through 12, inclusive, and this Section 13, shall survive and remain in force notwithstanding the expiration or other termination of this Agreement for any reason whatsoever. Any expiration or termination of this Agreement shall be without prejudice to any rights and obligations of the parties hereto arising or existing up to the effective date of such expiration or termination, or any remedies of the parties with respect thereto.\"]}",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 3353,
+    "total_tokens": 3453,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3350,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

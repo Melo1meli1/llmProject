@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"For each quarterly report, Licensee shall maintain records reflecting the Net Sales and Gross Margins contained in such quarterly report for [***] ([***]) years following the date that such quarterly report is delivered to Bioeq. The provisions of this Section 7.3.5 shall survive the expiration or termination of this Agreement for [***] ([***]) years.\",\"Upon reasonable written request of Bioeq, and no more than once during a given calendar year, Licensee shall make all records reasonably necessary to verify the accuracy of its quarterly reports pursuant to Section 7.3.2 available for inspection by an independent auditor of an internationally recognized auditing firm during Licensee's standard business hours. Such audit shall be for the purpose of ensuring Licensee's compliance with its payment obligations hereunder only. Bioeq shall pay all audit expenses, provided, however, that in the event the audit reveals a greater than [***] percent ([***]%) payment shortfall in the amounts owed to Bioeq by Licensee during the relevant period, Licensee shall reimburse all audit expenses to Bioeq. Bioeq shall treat all financial information subject to review under this Section 7.3.6 as confidential, and shall cause its accounting firm to retain all such financial information in confidence under Section 11 below. The provisions of this Section 7.3.6 shall survive the expiration or termination of this Agreement for [***] ([***]) years.\",\"Licensee hereby grants to Bioeq during the term of this Agreement (and, subject to Section 15.3.4, after termination or expiration of this Agreement) a non-exclusive, fully-paid, irrevocable license (including the right to grant sublicenses) under all Intellectual Property Rights and Know-How Controlled by Licensee and embodied within, or claiming or covering the Licensee Improvements, to Develop, Manufacture, sell, import, or otherwise Commercialize Licensed Products outside of the Territory.\"]}",
+  "usage": {
+    "completion_tokens": 512,
+    "prompt_tokens": 4523,
+    "total_tokens": 5035,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4520,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

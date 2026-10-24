@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon expiration or termination for any reason of this Agreement, the Franchisee's right to use the Burger King Marks and the Burger King System shall terminate. The Franchisee shall not thereafter identify itself as a Burger King franchisee or former Burger King franchisee or use, any of BKC's trade secrets, operating procedures, promotional materials, Burger King Marks or any marks confusingly similar.\", \"The Franchisee will immediately return to BKC the MOD Manual loaned to the Franchisee including any translations thereof, together with all other materials containing trade secrets, restaurant operating instructions or business practices of BKC.\", \"The Franchisee will, at the request and cost of BKC, cooperate in any such steps.\", \"Upon termination or expiration of this Agreement, if the parties do not enter into a successor Franchise Agreement whereby the Franchisee shall continue to be a franchisee and operate the Franchised Restaurant at the Location, BKC or its designee shall have the option subject to obtaining any necessary governmental consent:\", \"If BKC or its designee do not exercise this option the Franchisee agrees to immediately make such removals or changes in signs and the building as BKC shall request so as to effectively distinguish the Location from its former appearance and from any other Burger King Restaurant.\", \"This provision shall continue in full force and effect subsequent to and notwithstanding expiration or termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 294,
+    "prompt_tokens": 4229,
+    "total_tokens": 4523,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4226,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

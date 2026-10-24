@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"11.3. Liability Cap. Without affecting Section 10 or the respective obligations of the parties under the Confidentiality Agreement and except for any liability (i) relating to any breach associated with the unauthorized use of Intellectual Property, (ii) arising from the intentional breach or willful misconduct of a party, or (iii) arising from the non-compliance with any mandatory applicable law or regulation, the total aggregate liability of one party to another party for any claim relating to any breach of this Agreement (or any Purchase Order or other agreement entered into in connection with this Agreement) (a \\\"Claim\\\") shall be limited to the aggregate amount of the purchase prices paid by Distributor to Accuray for Products pursuant to this Agreement (or any Purchase Order or other Agreement entered into in connection with this Agreement) during the twelve calendar months preceding the date of the notification to the other party of such Claim less any amounts paid or payable in respect of any other Claim of which the other party was notified during such twelve month period.\"]}",
+  "usage": {
+    "completion_tokens": 219,
+    "prompt_tokens": 4288,
+    "total_tokens": 4507,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4285,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

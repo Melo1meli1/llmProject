@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"At all times during the Term and for six (6) months following the termination of this Agreement, WYZZ shall have the right, upon prior written request to Nexstar, to review all of the books and records of Nexstar relating to the BCF Report and the Distributions.\"]}",
+  "usage": {
+    "completion_tokens": 281,
+    "prompt_tokens": 5300,
+    "total_tokens": 5581,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 200,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5297,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

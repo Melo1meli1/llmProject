@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"within fifteen (15) days following the termination or expiration of this Agreement, Rogers shall either return to Licensor all such Masters then in its possession, or issue a certificate of erasure.\",\"If either party terminates this Agreement prior to its expiration, Rogers shall be entitled to continue to distribute and exhibit all Licensed Programs then being distributed and exhibited on the ROD Service, in each case, for a period of sixty (60) days from the effective date of termination or the expiry of the relevant License Period, whichever is earlier, and, in such event, Rogers shall continue to be bound by its payment obligations set forth herein in respect of such Licensed Programs.\",\"This Section shall survive the termination of this Agreement for a period of sixty (60) days.\",\"This Section shall survive the termination or expiration of this Agreement.\",\"This Section shall survive the termination or expiration of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 313,
+    "prompt_tokens": 5212,
+    "total_tokens": 5525,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 116,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5209,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

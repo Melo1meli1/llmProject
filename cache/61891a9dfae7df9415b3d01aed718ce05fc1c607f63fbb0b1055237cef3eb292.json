@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"NEITHER PARTY WILL BE LIABLE TO THE OTHER PARTY (NOR TO ANY PERSON CLAIMING RIGHTS DERIVED FROM THE OTHER PARTY'S RIGHTS) IN CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, FOR INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE, OR EXEMPLARY DAMAGES OF ANY KIND—including lost profits, loss of business, or other economic damage, and further including injury to property, AS A RESULT OF BREACH OF ANY WARRANTY OR OTHER TERM OF THIS AGREEMENT, INCLUDING ANY FAILURE OF PERFORMANCE, REGARDLESS OF WHETHER THE PARTY LIABLE OR ALLEGEDLY LIABLE WAS ADVISED, HAD OTHER REASON TO KNOW, OR IN FACT KNEW OF THE POSSIBILITY THEREOF.\", \"No lawsuit or other action may be brought by either party hereto, or on any claim or controversy based upon or arising in any way out of this Agreement, after two(2) years from the date on which the party knew or reasonably should have known of an event for which a cause of action arose regardless of the nature of the claim or form of action, whether in contract, tort (including negligence), or otherwise; provided, however, the foregoing limitation shall not apply to the collection of any amounts due Metavante under this Agreement.\", \"each party hereby knowingly, voluntarily, and intentionally waives any right to recover from the other party, and Customer waives any right to recover from any Eligible Provider, any economic losses or damages in any action brought under tort theories, including, misrepresentation, negligence and/or strict liability\"]}",
+  "usage": {
+    "completion_tokens": 318,
+    "prompt_tokens": 4185,
+    "total_tokens": 4503,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4182,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"IAC shall secure any and all Intellectual Property Rights that may pertain to the Sonos Products that are created by such IAC Subcontractor, and hereby transfers and assigns all such Intellectual Property Rights.\"]}",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 4120,
+    "total_tokens": 4179,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4117,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

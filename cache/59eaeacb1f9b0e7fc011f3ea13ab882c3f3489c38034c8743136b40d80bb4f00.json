@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Upon and after the termination of this Agreement (the \\\"Termination Date\\\"): (a) All accrued and unpaid amounts shall become immediately due and payable, including the pro rata amount of the annual Minimum Royalty for the applicable Year based upon the Termination Date; (b) All licenses granted pursuant to this Agreement shall immediately terminate; (c) EFS shall cease the display and use of the Playboy Content, Derivative Works, Playboy Marks, Authorized Modifications, Licensed Domain Names in any manner; (d) EFS shall return any and all Playboy Content and Derivative Works to Client within five (5) business days of the Termination Date; (e) Each party will promptly, at the direction of the other party, return or destroy any and all Confidential Information of the other party in any medium and all copies thereof; (f) EFS shall discontinue the use of any User Data collected hereunder, and subject to applicable Laws, shall promptly deliver and assign all User Data to Client per Client's instructions; and (g) If so requested by Client in connection with a planned or potential continuation of the business, EFS shall cooperate with Client and its affiliates in order to transfer any remaining operations to them or any other entity that Client may so designate without interruption of the Playboy Commerce Business' availability.\",\"As of the Termination Date, EFS shall not process any new orders placed through the Playboy Commerce Business. Notwithstanding the foregoing, EFS may fulfill any outstanding orders placed through the Playboy Commerce Business prior to the Termination Date and may continue collection activities related thereto, which shall be subject to Section 6 hereof.\",\"In addition, Sections 6.1 through 6.10 shall survive any termination of this Agreement until all amounts due in connection with activities during the Term are paid and all reports provided.\"]}",
+  "usage": {
+    "completion_tokens": 382,
+    "prompt_tokens": 4413,
+    "total_tokens": 4795,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4410,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

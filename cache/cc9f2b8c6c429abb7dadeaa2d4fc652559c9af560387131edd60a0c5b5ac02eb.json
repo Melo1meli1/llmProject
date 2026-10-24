@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"all materials produced by or on behalf of PAPA JOHN'S in connection with this Agreement and all elements thereof, including all advertising and promotional materials, trademarks, phrases, words, writing, dialogue, adlibs, music, titles or characters therein, but in all cases specifically excluding the Celebrity Endorsement and the Personality Rights (the \\\"Materials\\\"), shall be and remain the absolute and exclusive property of PAPA JOHN'S. Neither CELEBRITY nor ABG has any right, title, or interest, and agrees that neither will claim any, in or to the Materials. Except as otherwise provided herein, all the results of ABG's provision of CELEBRITY'S Services hereunder, including, but not limited to, Materials (but in all cases specifically excluding the Celebrity Endorsement and the Personality Rights), will be deemed a \\\"work made for hire\\\" under the provisions of the United States Copyright Act (17 U.S.C. Sec. 101) and will be owned by PAPA JOHN'S for all purposes. If any Materials created under this Agreement are not legally capable of being a work-made-for-hire under the applicable copyright laws, then all right, title, and interest in such Materials is hereby assigned to Papa John's and CELEBRITY or ABG will execute any documents consistent herewith necessary to perfect such assignment.\"]}",
+  "usage": {
+    "completion_tokens": 289,
+    "prompt_tokens": 5414,
+    "total_tokens": 5703,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5411,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

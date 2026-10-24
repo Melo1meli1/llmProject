@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"(a) In the event the Company fails to sell the required minimum number of the Shares by _________, 2000, and in accordance with the provisions of the Plan or as required by the MHC Regulations, and applicable law, this Agreement shall terminate upon refund by the Company to each person who has subscribed for or ordered any of the Shares the full amount which it may have received from such person, together with interest as provided in the Prospectus, and no party to this Agreement shall have any obligation to the other hereunder, except for payment by the Company, the MHC and/or the Bank as set forth in Sections 2(a), 6, 8 and 9 hereof.\",\"The Company, the MHC and the Bank jointly and severally agree to indemnify and hold harmless the Agent, its respective officers and directors, employees and agents, and each person, if any, who controls the Agent within the meaning of Section 15 of the 1933 Act or Section 20(a) of the 1934 Act, against any and all loss, liability, claim, damage or expense whatsoever (including but not limited to settlement expenses), joint or several, that the Agent or any of them may suffer or to which the Agent and any such persons may become subject under all applicable federal or state laws or otherwise\",\"The agreements contained in this Section 8 and in Section 9 hereof and the representations and warranties of the Company, the MHC and the Bank set forth in this Agreement shall remain operative and in full force and effect regardless of: (iii) any termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 764,
+    "prompt_tokens": 4330,
+    "total_tokens": 5094,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 416,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4327,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

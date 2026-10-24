@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"If the Parties elect to continue the Services during the Continuation Period, then the Nexstar shall continue to provide the Services and pay the Section 2(a) Amount in accordance with this Agreement during the Continuation Period.\",\"If the Parties, or any one of them, elect(s) to discontinue the provision of Services during the Continuation Period, the WYZZ shall pay to the Nexstar a commercially reasonable rent (on a monthly basis in advance) for the use and occupancy of, or any part of, the Nexstar's facilities. WYZZ shall make all payments due to Nexstar hereunder within ten (10) days following receipt of an invoice from Nexstar for the payment of such rent.\",\"Notwithstanding the termination of this Agreement, any amounts due hereunder with respect to the period prior to the end of the Term shall be paid in accordance with the provisions hereof following the end of the Term.\",\"Upon final termination of this Agreement, WYZZ shall have the obligation to hire any employee of Nexstar solely providing services to WYZZ-TV, including (without limitation) all of the account executives of Nexstar exclusively selling time on WYZZ-TV.\",\"For a period of one year from the termination of this Agreement, neither Party hereto (or any of its affiliates) will directly or indirectly solicit to employ or employ any of the employees of the other Party hereto if such employees were employed by either of the Stations at any time during the six month period immediately preceding the termination of this Agreement.\",\"Upon the final termination of this Agreement, the parties shall negotiate in good faith regarding which party shall retain any Combined Capital Equipment purchased during the term hereof for use on both Stations, as well as any payment to be made by the retaining party to the other party after taking into account the allocation among the parties during the term hereof of the cost of acquiring and maintaining such Combined Capital Equipment, as well as the benefit of any depreciation deductions received by Nexstar with respect thereto.\"]}",
+  "usage": {
+    "completion_tokens": 509,
+    "prompt_tokens": 5254,
+    "total_tokens": 5763,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5251,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

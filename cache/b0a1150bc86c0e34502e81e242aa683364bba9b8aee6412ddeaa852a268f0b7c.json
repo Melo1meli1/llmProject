@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The provisions of Section 5 of this Agreement shall remain in full force and effect, and the Blockchain Administrator shall remain entitled to the benefits thereof, notwithstanding any termination of this Agreement.\",\"Further, notwithstanding the termination or expiration of this Agreement as aforesaid, the Blockchain Administrator shall be entitled to any amounts owed under Section 4 through the date of termination or expiration, and Section 5 shall continue in force and effect and apply to the Blockchain Administrator and its representatives as and to the extent applicable.\",\"all records which it maintains for the Fund shall at all times remain the property of the Fund, shall be readily accessible during normal business hours, and shall be promptly surrendered upon the termination of the Agreement or otherwise on written request.\"]}",
+  "usage": {
+    "completion_tokens": 160,
+    "prompt_tokens": 3087,
+    "total_tokens": 3247,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3084,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

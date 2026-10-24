@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"If the Company fails to perform within 30 days upon notice from the Principal on nonperformance by the Company of any of its obligations under this Contract, and keeps non-performing it, then the Principal may upon expiry of the indicated 30 day period, terminate this Contract, with obligatory accounts settling.\",\"If the Principal fails to perform within 30 days upon notice from the Company on nonperformance by the Principal of any of its obligations under this Contract, and keeps non-performing it, then the Company is entitled, upon expiry of such 30 day period, to terminate this Contract, with obligatory accounts settling.\",\"If performance of the obligations by any Party under this Contract have been delayed for a period of 3 months, the other Party shall be entitled to terminate this Contract thereafter by giving notice to that effect to the Party claiming relief under Section 10, with obligatory accounts settling.\"]}",
+  "usage": {
+    "completion_tokens": 312,
+    "prompt_tokens": 4443,
+    "total_tokens": 4755,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 116,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4440,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

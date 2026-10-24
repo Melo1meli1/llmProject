@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"4.15. Spare Parts. Upon a termination of this Agreement, Accuray shall continue to make available to Customers support services on commercially reasonable terms, including, without limitation, spare parts for the Systems for a minimum period of 10 years after the last shipment of a System pursuant to this Agreement.\", \"Upon expiration of the Term (or other termination of this Agreement):\", \"6.3.1. Transition of Activities. Accuray and Distributor agree to negotiate in good faith an orderly transition of Distributor's distribution responsibilities and activities to Accuray or a third party designated by Accuray and Distributor agrees to assist in the transition.\", \"6.3.2. Pending Obligations. Each party must continue to fulfill any obligations, including but not limited to pending Quotes, accrued before the effective date of such termination.\", \"6.3.3. Return of Materials. Distributor shall transfer to Accuray upon Accuray's request: any regulatory clearances, licenses or permits obtained for conduct of the business pursuant to this Agreement; any Confidential Information; and other items as negotiated in good faith between the parties. Furthermore, each of the parties agree to cooperate fully with the other for any reasonable transition assistance required in the case of termination or expiration of this Agreement.\", \"6.5. Accruals. No termination or expiration of this Agreement will terminate any obligation of payment which has accrued prior to the effective date of such termination or expiration.\", \"In the event of expiration or termination of this Agreement, Distributor shall immediately discontinue all use of Accuray's trademarks except for the sale of Distributor's inventory of Products.\"]}",
+  "usage": {
+    "completion_tokens": 347,
+    "prompt_tokens": 5205,
+    "total_tokens": 5552,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5202,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

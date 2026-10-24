@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Unless any party is in violation of the confidentiality clause, in any case, neither party shall be liable for any indirect, punitive claims, or claims for losses of commercial profits, or damages for business losses of the company or any third Party Arising from this Agreement, or for any loss or inaccuracy of data of any form, whether based on Agreement, tort or any other legal principle, even though the party has been informed of the possibility of such damage.\",\"Upon the fulfillment of the aforesaid obligations, the affected party shall not be liable to the other party for the breach within the scope of effects of such event of force majeure.\"]}",
+  "usage": {
+    "completion_tokens": 221,
+    "prompt_tokens": 4412,
+    "total_tokens": 4633,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4409,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

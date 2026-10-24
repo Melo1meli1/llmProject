@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"ENERGOUS retains right, title and interest in and to the Product IP, ENERGOUS' Marks and ENERGOUS' Confidential Information, including all Intellectual Property Rights embodied therein.\",\"DIALOG retains rights, title and interest in and to DIALOG's Marks and DIALOG's Confidential Information, including all Intellectual Property Rights embodied therein.\",\"For the avoidance of doubt, as between the parties, ENERGOUS will also continue to own all right, title and interest in and to the firmware, DSP code and GUI software embedded in the Products, including all Intellectual Property Rights embodied therein.\"]}",
+  "usage": {
+    "completion_tokens": 268,
+    "prompt_tokens": 4300,
+    "total_tokens": 4568,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 127,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4297,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

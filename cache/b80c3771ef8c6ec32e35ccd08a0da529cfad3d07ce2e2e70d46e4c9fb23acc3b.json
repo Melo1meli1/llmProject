@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Neither Party shall be liable to the Other Party for any direct, indirect, consequential, incidental, special, punitive or exemplary damages arising out of or relating to the suspension or termination of any of its obligations or duties under this Agreement by reason of the occurrence of Force Majeure.\"]}",
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 1826,
+    "total_tokens": 1900,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 1823,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

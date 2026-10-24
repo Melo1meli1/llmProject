@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Upon termination of the relationship under this agreement, the Affiliate is obligated to undertake all of the technical measures necessary to delete from its Web site all links that refer to the Web sites of element 5 or to the Software Publisher.\",\"(3) element 5 is authorized to retain final payment for a reasonable time, minimum for 30 days after the end of the respective quarter, to ensure that the correct amount is paid.\",\"Affiliate is only eligible to earn the Advertising Cost Compensation on sales of Software Publishers Products occurring during the term of this Agreement and fees earned up to the date termination will remain payable only if the related orders are not cancelled or returned. If the Advertising Cost Compensation was previously paid by element 5, it can be offset or invoiced to Affiliate at element 5's own discretion.\"]}",
+  "usage": {
+    "completion_tokens": 283,
+    "prompt_tokens": 1980,
+    "total_tokens": 2263,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 1977,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

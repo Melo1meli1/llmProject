@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Upon and after the termination of this Agreement (the \\\"Termination Date\\\"): (a) All accrued and unpaid amounts shall become immediately due and payable, including the pro rata amount of the annual Minimum Royalty for the applicable Year based upon the Termination Date;\",\"(d) EFS shall return any and all Playboy Content and Derivative Works to Client within five (5) business days of the Termination Date;\",\"(f) EFS shall discontinue the use of any User Data collected hereunder, and subject to applicable Laws, shall promptly deliver and assign all User Data to Client per Client's instructions;\",\"(g) If so requested by Client in connection with a planned or potential continuation of the business, EFS shall cooperate with Client and its affiliates in order to transfer any remaining operations to them or any other entity that Client may so designate without interruption of the Playboy Commerce Business' availability.\",\"As of the Termination Date, EFS shall not process any new orders placed through the Playboy Commerce Business. Notwithstanding the foregoing, EFS may fulfill any outstanding orders placed through the Playboy Commerce Business prior to the Termination Date and may continue collection activities related thereto, which shall be subject to Section 6 hereof.\",\"Sections 6.11, 7.5, 8, 9, 10.4, 10.5, 10.6, 11.4, and 12 through 14 shall survive any expiration or termination of this Agreement. In addition, Sections 6.1 through 6.10 shall survive any termination of this Agreement until all amounts due in connection with activities during the Term are paid and all reports provided.\"]}",
+  "usage": {
+    "completion_tokens": 353,
+    "prompt_tokens": 4255,
+    "total_tokens": 4608,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4252,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

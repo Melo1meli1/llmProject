@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"All of the Kitov Product IP, including the Marketing Authorizations (but excluding any of Dexcel's Intellectual Property Rights), shall be retained by Kitov at all times, and Dexcel shall have no rights with respect to the Kitov Product IP, except for any rights provided to it pursuant to the terms of this Agreement and the Development Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4282,
+    "total_tokens": 4370,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4279,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"13.01 You shall not, during the term of this Agreement or thereafter, communicate, divulge, or use for the benefit of any other person or entity any confidential information, knowledge, or know-how concerning AIRSOPURE's system, the Products or the operation of the Franchise, including without limitation the Operations Manual.\",\"15.01. Upon termination or expiration of this Agreement, this Agreement and all rights granted hereunder to You shall immediately terminate, and:\",\"D. You shall promptly pay all sums owing to AIRSOPURE and its subsidiaries and affiliates, including all damages, costs and expenses, including reasonable attorneys' fees, incurred by AIRSOPURE as a result of the default.\",\"F. You shall immediately turn over to AIRSOPURE the Operations Manual, records, files, instructions, software, correspondence, and all other materials provided by AIRSOPURE related to the operation of the Franchise, and all copies thereof (all of which are acknowledged to be AIRSOPURE's property), and shall retain no copy or record of any of the foregoing, except only Your copy of this Agreement and any correspondence between the Parties, and any other documents which You reasonably need for compliance with any applicable provision of law.\",\"G. AIRSOPURE shall have the right, but not the duty, to be exercised by notice of intent to do so within 30 days after termination or expiration, to purchase any or all signs, advertising materials, supplies and inventory and any other items bearing AIRSOPURE's Licensed Marks, at Your cost or at fair market value, whichever is less.\",\"16.03. You covenant and agree that You (or any shareholder if Your Franchise is a corporation) shall not, for a period of two years following termination of this Agreement for any reason, either directly or indirectly own, maintain, engage in, be employed by, advise, consult, assist, invest in or have any interest whatsoever in any business or entity which competes with or offers products or services which are the same or similar to those of AIRSOPURE or the Franchise within a radius of 25 miles of Your Exclusive Territory.\"]}",
+  "usage": {
+    "completion_tokens": 447,
+    "prompt_tokens": 4274,
+    "total_tokens": 4721,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4271,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

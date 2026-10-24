@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"\\\"Maximum Liability\\\" means, with respect to Operator, the aggregate Residual Value of the Portfolio as of such date, and with respect to Owner, One Million Dollars ($1,000,000); provided that a reduction in the Maximum Liability of Operator shall never result in a requirement for Owner or any Owner Indemnitee to return any money to Operator. Maximum Liability will be determined on an aggregate basis between this Agreement and the MESPA.\"]}",
+  "usage": {
+    "completion_tokens": 216,
+    "prompt_tokens": 4323,
+    "total_tokens": 4539,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4320,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

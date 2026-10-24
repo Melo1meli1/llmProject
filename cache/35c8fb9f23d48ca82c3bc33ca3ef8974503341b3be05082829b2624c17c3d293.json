@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"WEBMD OR ITS SUPPLIERS OR LICENSORS BE LIABLE UNDER ANY THEORY OF LIABILITY, HOWEVER ARISING, FOR ANY COSTS OF COVER OR FOR INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND ARISING OUT OF THIS AGREEMENT, OR THE PROVISION OR USE OF CONTENT, EVEN IF WEBMD HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. WEBMD'S AGGREGATE LIABILITY FOR ALL DAMAGES, LOSSES AND CAUSES OF ACTION IN ANY WAY RELATED TO THIS AGREEMENT OR THE CONTENT, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, EITHER JOINTLY OR SEVERALLY, SHALL NOT EXCEED FIFTY DOLLARS ($50).\"]}",
+  "usage": {
+    "completion_tokens": 155,
+    "prompt_tokens": 3275,
+    "total_tokens": 3430,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3272,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

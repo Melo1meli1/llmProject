@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Cremer's liability arising from this Agreement is limited to intentional misconduct or gross negligence. This limitation of liability does not apply to the injury of the life, body or health of a person, to claims according to the Product Liability Act (Produkthaftungsgesetz) or any other coercive legal liability claims.\",\"NEITHER PARTY MAY CLAIM AND NEITHER PARTY IS LIABLE FOR CLAIMS FOR INDIRECT DAMAGES AND LOSSES, SUCH AS SPECIAL OR CONSEQUENTIAL LOSS OR DAMAGE, ANY LOSS OF ACTUAL OR ANTICIPATED PROFIT, OR REVENUE, ANTICIPATED SAVINGS OR BUSINESS OR DAMAGE TO GOODWILL OR BRAND EQUITY, ARE EXCLUDED.\"]}",
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 3197,
+    "total_tokens": 3347,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3194,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"During the Term of this Agreement and for two (2) years thereafter, in the event that either Party decides to sell or convey its interest in or otherwise dispose of any Prior JDA Project Patent to any Non-Affiliated Third Party, such Party will inform the other Party, who will then have the right of first refusal to purchase or otherwise acquire the sole interest at same or better terms.\"]}",
+  "usage": {
+    "completion_tokens": 194,
+    "prompt_tokens": 4174,
+    "total_tokens": 4368,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4171,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

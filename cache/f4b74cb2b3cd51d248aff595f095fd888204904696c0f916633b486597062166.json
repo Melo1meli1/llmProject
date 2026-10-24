@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Sections 5, 7, 8, 10 and 11; any payment obligations of the Parties hereunder accrued prior to the date of termination; and any other provision herein expressly surviving termination or necessary to interpret the rights and obligations of the Parties in connection with the termination of this Agreement will survive the termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2076,
+    "total_tokens": 2186,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 21,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2073,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

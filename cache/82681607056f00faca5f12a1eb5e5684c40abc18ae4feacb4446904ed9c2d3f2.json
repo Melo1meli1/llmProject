@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The obligations of the Agent pursuant to this Agreement (other than those set forth in Sections 2(d), 8 and 9 hereof) shall terminate upon the completion or termination or abandonment of the Plan by the Company or upon termination of the Offering, but in no event later than the date (the \\\"End Date\\\") which is 45 days after the Closing Date (as hereinafter defined). All fees or expenses due to the Agent but unpaid will be payable to the Agent in next day funds at the earlier of the Closing Date (as hereinafter defined) or the End Date.\", \"In the event the Company is unable to sell a minimum of 708,050 Shares within the period herein provided, this Agreement shall terminate and the Company shall refund to any persons who have subscribed for any of the Shares, the full amount which it may have received from them plus accrued interest as set forth in the Prospectus; and none of the parties to this Agreement shall have any obligation to the other parties hereunder, except as set forth in this Section 2 and in Sections 6, 8 and 9 hereof.\", \"In the event the Offering is terminated, the Agent shall be reimbursed for its actual accountable out-of-pocket expenses.\"]}",
+  "usage": {
+    "completion_tokens": 270,
+    "prompt_tokens": 4208,
+    "total_tokens": 4478,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4205,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"This Agreement shall be subject to an automatic extension for consecutive one (1) year periods thereafter (each, an \\\"Extension Term\\\" and together with the Initial Term, the \\\"Term\\\"), unless terminated (i) in accordance with its terms or (ii) upon thirty (30) days' written notice by either Party to the other Party.\"]}",
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4010,
+    "total_tokens": 4097,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4007,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

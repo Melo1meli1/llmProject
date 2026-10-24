@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The Agreement shall commence on the Effective Date and remain in full force and effect for an initial term of **** from the Supply Commencement Date of the Product (\\\"Initial Term\\\"). Following the Initial Term, the Agreement shall automatically be renewed for additional periods of **** (each, a \\\"Renewal Term,\\\" and, together with the Initial Term, the \\\"Term\\\")), unless a Party provides written notification of non-renewal to the other Party at least **** of the Initial Term or a Renewal Term.\"]}",
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 4293,
+    "total_tokens": 4410,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4290,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

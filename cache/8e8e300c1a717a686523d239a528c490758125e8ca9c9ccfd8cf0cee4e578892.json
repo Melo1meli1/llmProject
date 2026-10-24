@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Licensee shall, within [***] ([***]) days of the effective date of termination of the Agreement at the latest ... transfer and assign to Bioeq or its designee all of Licensee's right, title and interest in and to any and all Biologics License Applications and Biologics License Application Approvals controlled by Licensee for the Licensed Products in the Field in the Territory as of the effective date of such termination\",\"Licensee shall ... use Commercially Reasonable Efforts to cooperate with Bioeq or its designee, and provide [***] reasonable assistance and support, to [***] Bioeq or its designee to take over the Commercialization of the Licensed Products in the Field in the Territory [***] following the effective date of such termination\",\"Termination of this Agreement for any reason whatsoever shall not relieve Licensee of its obligations to pay all amounts payable to Bioeq which have accrued prior to, but remain unpaid as of, the date of termination hereof, or which accrue thereafter. Upon termination of this Agreement any accrued payment obligations shall become immediately due and payable.\"]}",
+  "usage": {
+    "completion_tokens": 235,
+    "prompt_tokens": 4743,
+    "total_tokens": 4978,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4740,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

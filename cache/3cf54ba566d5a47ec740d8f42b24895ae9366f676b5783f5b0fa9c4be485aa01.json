@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"All rights to either party's Intellectual Property, including all rights in patents, patent applications, formulae, trademarks, trademark applications, trade names, confidential information, trade secrets, inventions, copyright, industrial designs and know-how, (\\\"Intellectual Property\\\") shall remain that party's absolute property during and after the Term of this Agreement. The Products and any Intellectual Property owned by the Company in connection therewith shall be the absolute property of the Company during and after the Term of this Agreement.\", \"All paper or electronic records, files, documents, work papers and other information in any form, whether marked \\\"confidential\\\" or not, provided by the Company, its employees, agents or Affiliates or generated pursuant to this Agreement shall remain the exclusive property of the Company (collectively, \\\"Files and Work Papers\\\").\"]}",
+  "usage": {
+    "completion_tokens": 182,
+    "prompt_tokens": 4072,
+    "total_tokens": 4254,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4069,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

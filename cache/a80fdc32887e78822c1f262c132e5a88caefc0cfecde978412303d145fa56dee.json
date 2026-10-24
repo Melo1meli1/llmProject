@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Unless this Agreement is terminated by Apollo due to a Triggering Event, in which case APOLLO shall bear the following costs: (i) ESTABLISHMENT may charge APOLLO for ESTABLISHMENT actual, documented, reasonable labor expenses incurred by ESTABLISHMENT for transfer or destruction of such documents and (ii) in the event of transfer of documents all freight costs shall be borne by APOLLO.\",\"Each Party agrees not to use the Confidential Information of the other Party for any purpose, including trading in the financial instruments of the other Party, except in its performance under this Agreement. In addition, the receiving Party shall treat and protect such Confidential Information in the same manner as it treats its own information of like character, but with not less than reasonable care. The receiving Party agrees to take appropriate measures by instruction and/or written agreement prior to disclosure of Confidential Information to its employees and contractors to prevent unauthorized use or disclosure. The receiving Party's confidentiality obligations under this Article 9 shall survive the termination of this Agreement, and shall remain binding on the Parties hereto until the earlier of a) the Confidential Information falls within one of the exceptions stated in Section 9.1 and b) five (5) years from the expiration or termination of the Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 464,
+    "prompt_tokens": 4271,
+    "total_tokens": 4735,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 187,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4268,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

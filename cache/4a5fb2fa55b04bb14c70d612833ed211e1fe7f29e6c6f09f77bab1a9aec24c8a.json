@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The following Sections shall survive termination of this Agreement: Article 5 (Confidentiality), Article 6 (Representations, Warranties and Indemnification), Article 7 (Limitation of Liability), and Article 9 (General).\"]}",
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 4732,
+    "total_tokens": 4799,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4729,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

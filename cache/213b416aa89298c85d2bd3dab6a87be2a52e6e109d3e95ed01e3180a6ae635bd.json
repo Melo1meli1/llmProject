@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In the event that Diplomat terminates this Agreement other than in accordance with Section 3, Diplomat shall be obligated to pay for the Services in accordance with the fee schedule contained on EXHIBIT A throughout the balance of the Period as though Tadeo continued to provide the terminated Services through the balance of the Period.\"]}",
+  "usage": {
+    "completion_tokens": 166,
+    "prompt_tokens": 5217,
+    "total_tokens": 5383,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5214,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

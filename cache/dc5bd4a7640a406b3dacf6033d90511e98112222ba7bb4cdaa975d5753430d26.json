@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The Monthly Compensation shall be paid for the remaining monthly periods remaining in the Term, as if the termination of this Agreement had not occurred, or twenty four (24) calendar months, which ever period is less\"]}",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 4140,
+    "total_tokens": 4199,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4137,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

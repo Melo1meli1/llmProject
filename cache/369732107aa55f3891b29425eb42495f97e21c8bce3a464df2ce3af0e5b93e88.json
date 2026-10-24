@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The initial term of this Agreement shall begin on the Effective Date and continue for three (3) years, subject to the prior termination rights provided below. At the end of such initial term, and any renewed term, as applicable, this Agreement shall automatically renew for an additional one (1) year term, unless a party provides written notice to the other parties at least six (6) months prior to the end of the initial term.\"]}",
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 4156,
+    "total_tokens": 4261,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4153,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

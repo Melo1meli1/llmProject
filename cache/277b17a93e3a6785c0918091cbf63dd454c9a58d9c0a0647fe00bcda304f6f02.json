@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Unless earlier terminated as provided herein, this Agreement continues in effect for an initial term of seven (7) years (\\\"Initial Term\\\") and will automatically renew for one or more annual periods after the Initial Term (each a \\\"Renewal Term\\\") unless either party gives notice of non-renewal at least one hundred eighty (180) days prior to the beginning of any Renewal Term.\"]}",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 4458,
+    "total_tokens": 4553,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4455,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

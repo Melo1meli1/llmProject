@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"(b) cease to make use of the Trademark, the other LEO Product Branding and all other information related to the Combination Product, and all rights in the Trademark, the other\\n\\n7\\n\\nLEO Product Branding and all other information relating to the Combination Product will promptly revert to LEO and be transferred to LEO;\",\"(c) if GALEN is then the owner of any patents specifically related to the Combination Product, GALEN shall transfer such ownership to LEO, except for LEO being in breach in which case GALEN will sell said patents and LEO will purchase said patents at a price equal to the expenses GALEN has borne in relation to developing, establishing and maintaining said patent rights;\"]}",
+  "usage": {
+    "completion_tokens": 272,
+    "prompt_tokens": 5224,
+    "total_tokens": 5496,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5221,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

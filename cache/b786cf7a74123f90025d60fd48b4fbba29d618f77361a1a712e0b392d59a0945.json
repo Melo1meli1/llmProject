@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon termination (but not expiration) of this Agreement for any reason, Licensee shall be entitled to use the Licensed Domain Names and Licensed Content for a limited period of time, not to exceed ninety (90) days, during which it shall diligently work to transition to another solution. Upon expiration of this Agreement or such 90-day period, (i) all rights granted to Licensee under this Agreement with respect to the Licensed Domain Names and Licensed Content shall immediately cease, and (ii) Licensee shall immediately discontinue all use of the Licensed Domain Names and Licensed Content.\", \"Upon termination or expiration of the Agency Agreement (other than as described in Section 6.5), Licensee's rights under Section 2.1(b) are terminated and Licensee shall immediately discontinue all use of the Licensed Content, provided, however that in the event the Agency Agreement is amended or restated, such amendment or restatement shall not be deemed a termination or expiration of the Agency Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 214,
+    "prompt_tokens": 4424,
+    "total_tokens": 4638,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4421,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

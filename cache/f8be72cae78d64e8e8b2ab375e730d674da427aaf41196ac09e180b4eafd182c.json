@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"This Agreement shall terminate and, subject to the provisions set forth below, be of no further force or effect on the exercise by the Sponsor of its right to terminate this Agreement as provided in subsection 6.2, provided that, in any event, sections 3, 7 and 8 and, in the event that such termination occurs by virtue of paragraph 6.2(b), subsection 2.5 shall not terminate (except as set forth therein) and shall continue in full force and effect for the benefit of the Sponsor or the other parties to this Agreement, as the case may be.\", \"Whether or not the Sponsor signs the certificate as contemplated in subsection 2.3, the Issuer will bear the costs and expenses in connection with the Offering, the preparation, execution and delivery of this Agreement, amendments to the Prospectus and the other documents to be delivered hereunder, including, without limitation:\", \"The Issuer shall and does hereby indemnify and save the Indemnified Parties harmless from and against any liability, claim, demand or loss, excluding loss of profits, which the Indemnified Parties may suffer, whether pursuant to statute or otherwise, howsoever arising, in consequence of:\"]}",
+  "usage": {
+    "completion_tokens": 261,
+    "prompt_tokens": 4366,
+    "total_tokens": 4627,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4363,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

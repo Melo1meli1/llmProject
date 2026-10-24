@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"PAPA JOHN'S has exerted its best efforts to cease use of the Celebrity Endorsement and/or Personality Rights as provided above\", \"in any event, all use of the Celebrity Endorsement and/or Personality Rights must cease by no later than nine (9) months following the effective date of expiration or termination of this Agreement.\", \"such amounts shall be immediately due as of the effective date of termination and paid to ABG.\", \"any and all unpaid amounts under this Agreement for the eighteen (18) months following the effective date of termination (including, without limitation, any balance due of the Cash Payment as of the effective date of termination, in addition to any and all of the Cash Payments that would have become payable during the next eighteen (18) months but for the termination) shall be immediately due as of the effective date of termination and paid to ABG;\", \"CELEBRITY shall be entitled to immediately vest in the pro-rata share of the respective number of RSUs for the then-current Contract Year\", \"CELEBRITY shall be entitled to immediately vest in all of the RSUs for the eighteen (18) months following the effective date of termination\", \"PAPA JOHN'S has not and will not, during the Term or at any time after expiration of the Term, create any expenses chargeable to ABG or CELEBRITY without Approval.\"]}",
+  "usage": {
+    "completion_tokens": 453,
+    "prompt_tokens": 5483,
+    "total_tokens": 5936,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 153,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5480,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

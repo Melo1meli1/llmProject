@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Customer Service Transfer of 800 numbers 2/15/2008 Test Orders 2/18/2008-2/23/2008 Create Live Chat 2/15/2008 Turn on phone Lines 3/1/2008 IRI terminates taking returns 6/1/2008 Turn off IRI CS Lines 6/1/2008\"]}",
+  "usage": {
+    "completion_tokens": 280,
+    "prompt_tokens": 2897,
+    "total_tokens": 3177,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 179,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2894,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

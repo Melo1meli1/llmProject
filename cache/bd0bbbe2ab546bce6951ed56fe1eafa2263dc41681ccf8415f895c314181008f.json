@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Depomed will provide reasonable assistance to King in connection therewith, including by transferring or licensing to King all Technology necessary or useful to give King the capability of manufacturing the Product so that King can undertake manufacture of the Product;\"]}",
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 4025,
+    "total_tokens": 4087,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4022,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

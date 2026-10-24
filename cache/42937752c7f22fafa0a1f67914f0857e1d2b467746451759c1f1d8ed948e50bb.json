@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"In the event that EFS creates any modifications, alterations or other derivative works of any Playboy Content (\\\"Derivative Works\\\"), EFS hereby irrevocably assigns to Client all right, title and interest in and to all of those Derivative Works, including the copyrights and other proprietary rights therein.\",\"EFS hereby irrevocably assigns, and Client hereby accepts, all right, title and interest in and to each and every Authorized Modification\"]}",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 4276,
+    "total_tokens": 4378,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4273,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

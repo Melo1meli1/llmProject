@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"This Agreement will come into effect on the Effective Date and shall continue in full force for ten (10) years from the Launch (the \\\"Initial Term\\\"), or the date of expiry of the last valid patent of the Licensed Product, whichever comes later, subject to clauses 19.2, 19.3, 19.4 and 19.5 hereunder.\"]}",
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 3194,
+    "total_tokens": 3286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3191,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

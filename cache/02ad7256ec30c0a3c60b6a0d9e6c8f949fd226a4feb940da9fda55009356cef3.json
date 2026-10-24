@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"the cumulative liability of each of SERVICERS and ISO for all Losses, claims, suits, controversies, breaches or damages arising out of or related to this Agreement regardless of the form of action or legal theory relating to events in any one Processing Year shall not exceed [***] [***] times the amount of clearing/sponsorship fees paid to SERVICERS by ISO pursuant to this Agreement during the immediately preceding [***] [***] full months; provided, however, that this limitation shall not apply to either party's obligation to indemnify the other for credit/fraud losses or Losses arising from or related to the indemnifying party's (or its agents, representatives, Merchants, Other MSP's or IC's) failure to comply with Rules.\"]}",
+  "usage": {
+    "completion_tokens": 169,
+    "prompt_tokens": 4351,
+    "total_tokens": 4520,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4348,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

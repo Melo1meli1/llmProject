@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"this Contract shall come into force on the Effective Date, remain effective throughout the Initial Term, and be prolonged, or further extended automatically for a period of 12 months, each such extension commencing at the end of the last day of the Initial Term or the relevant anniversary thereof, unless either Party serves written notice of termination on the other Party at least 65 days prior to the end of the Initial Term, or any subsequent extension.\"]}",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 5037,
+    "total_tokens": 5139,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5034,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

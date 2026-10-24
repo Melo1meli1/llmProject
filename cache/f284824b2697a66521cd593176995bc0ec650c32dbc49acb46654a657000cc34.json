@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The Consultant agrees that all discoveries, maps, technical studies, plans, spreadsheets, documents, inventions, copyright, software, improvements, know-how or other intellectual property, whether or not patentable or copyrightable, created by the Consultant during the Term of this Agreement pertaining to any service, matter, thing, process or method related to this Agreement (the \\\"Works\\\") will be the sole and absolute property of the Company.\",\"The Consultant agrees, upon request, to execute all applications, assignments, instruments and papers and perform all acts that the Company or its counsel may deem necessary or desirable to obtain any and all patents, copyrights or other protection in such Works and otherwise to protect the interests of the Company therein.\"]}",
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 3983,
+    "total_tokens": 4140,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3980,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

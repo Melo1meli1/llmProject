@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"As regards Intellectual Property created by Rubicon, Rubicon acknowledges and agrees that those Works, as defined below, shall belong exclusively to ISA subject to payment in accordance with clause 4.2.\", \"With respect to Works that do not constitute \\\"works for hire,\\\" Rubicon, its employees, contractors, consultants and agents do hereby assign to ISA or its designee all of their respective right, title and interest in and to such Works and all related patents, patent applications, copyrights and copyright applications\"]}",
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 5048,
+    "total_tokens": 5165,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5045,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

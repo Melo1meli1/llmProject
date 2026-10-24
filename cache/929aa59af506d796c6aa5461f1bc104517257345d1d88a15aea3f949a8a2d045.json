@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Subject to the terms contained herein, PAPA JOHN'S and ABG agree and acknowledge that during the Term of this Agreement and for one (1) year thereafter, ABG shall be prohibited from granting any rights for CELEBRITY identical or similar to the rights granted to PAPA JOHN'S hereunder to any entity other than PAPA JOHN'S for the purpose of directly promoting, advertising, making an appearance on behalf of, or endorsing Competitive Products; provided, however, that in the event this Agreement is terminated pursuant to Section 7.B. of this Agreement, the prohibition referenced above shall be for a period of six (6) months, except that the prohibition shall referenced above shall not apply (or shall immediately cease to apply, as applicable) in the event of any one or more of the following: (i) the Agreement is terminated due to PAPA JOHN'S failure to pay to ABG any monies under this Agreement, as set forth herein, (ii) the Agreement is terminated due to PAPA JOHN'S failure to grant, issue, or cause to vest any of the RSUs (as hereinafter defined) under this Agreement, as set forth herein, (iii) PAPA JOHN'S failure to pay to ABG any monies under Section 7.D.a. or Section 7.D.b. of this Agreement, as set forth herein, or (iv) PAPA JOHN'S failure to grant, issue, or cause to vest any of the RSUs under Section 7.E.a. or Section 7.E.b. of this Agreement, as set forth herein.\", \"PAPA JOHN'S shall not, during the Term or at any time thereafter: (I) defame or disparage CELEBRITY or the Personality Rights (or any portion thereof), nor shall PAPA JOHN'S place the CELEBRITY or the Personality Rights (or any portion thereof) in a negative light, whether in connection with this Agreement or otherwise, or (ii) utilize the Personality Rights (or any portion thereof) in association with, nor shall PAPA JOHN'S associate CELEBRITY with any of the following: (A) alcohol, drugs (including, without limitation, both prescription and non-prescription) or other supplements; (B) death; (C) pornography or other \\\"adult only\\\" or sexually explicit activities; (D) massage parlors, prostitution or any dating or escort activities; (E) weapons or ammunition; (F) denigration or discrimination against individuals based on race, national origin, gender, religion, disability, ethnicity, sexual orientation, gender identity or age; (G) incontinence; (H) weight loss/gain; (I) medical conditions (including, without limitation, hair loss); or (J) political campaigns or causes.\", \"PAPA JOHN'S shall not, during the Term or at any time thereafter, attack or challenge, or lend assistance to any third party in connection with an attack or challenge, of any right, title or interest of ABG in and to any Personality Rights (including, without limitation, copyrights, trademarks and/or patents), whether by way of: (i) an application for and/or an opposition against any intellectual property rights relating to the Personality Rights, (ii) adoption and/or application for and/or registration of any intellectual property rights (including, without limitation, domain names, business names, and social media accounts) that are confusingly similar to, that dilute, or that infringe, any of the Personality Rights, or (iii) any lawsuit, cancellation proceeding or action, or otherwise.\"]}",
+  "usage": {
+    "completion_tokens": 869,
+    "prompt_tokens": 5513,
+    "total_tokens": 6382,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5510,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

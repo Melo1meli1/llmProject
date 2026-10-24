@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"6.4 No Consequential Damages. IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY UNDER THIS AGREEMENT IN A DIRECT ACTION BETWEEN THE PARTIES FOR SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS) SUFFERED BY THE OTHER PARTY.\",\"ARTARA EXPRESSLY AGREES THAT ANY RELIANCE UPON OR CONCLUSIONS DRAWN FROM THE PROGRAM DATA SHALL BE AT ARTARA'S OWN RISK TO THE MAXIMUM EXTENT PERMITTED BY LAW AND SHALL NOT GIVE RISE TO ANY LIABILITY OF OR AGAINST THE UNIVERSITY. ARTARA HEREBY WAIVES AND RELEASES ANY CLAIMS ARISING UNDER THIS AGREEMENT, COMMON LAW OR ANY STATUTE ARISING OUT OF ANY PROGRAM DATA, RELATED MATERIALS, DOCUMENTS OR INFORMATION PROVIDED TO IT BY THE UNIVERSITY.\"]}",
+  "usage": {
+    "completion_tokens": 291,
+    "prompt_tokens": 4223,
+    "total_tokens": 4514,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4220,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

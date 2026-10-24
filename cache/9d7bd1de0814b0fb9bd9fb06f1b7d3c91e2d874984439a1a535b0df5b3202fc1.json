@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"If a termination notice is delivered pursuant to 15.2, 15.3, 15.4 or if Sonos decides to transfer the manufacturing of a Product from IAC during the Term of the Agreement, IAC shall cooperate fully with Sonos to effect the transfer of the manufacturing of the Products\", \"In the event that such transfer is the result of a termination notice pursuant to 15.2, 15.3 or 15.4 and such transfer is not completed by the termination date pursuant to 15.2, 15.3 or 15.4, the parties shall, acting reasonably and in good faith, agree to continue to cooperate fully to effect the transfer and extend the Term of this Agreement on such appropriate terms as the parties may agree for one or more ninety (90) day periods\"]}",
+  "usage": {
+    "completion_tokens": 185,
+    "prompt_tokens": 4411,
+    "total_tokens": 4596,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4408,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

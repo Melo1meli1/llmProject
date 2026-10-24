@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Following the termination of this Agreement at the conclusion of the initial five year term or any additional term, for each of the eight full calendar quarters following such termination, Depomed shall pay to King an amount equal to, in each of the first four such calendar quarters, [***]% of the Net Sales for each such quarter and, in each of the fifth through eighth such calendar quarters, [***]% of such Net Sales for each such quarter.\", \"The auditor will only examine such books and records during business hours but not more than once each fiscal year while this Agreement remains in effect and for three years thereafter to verify expenses, Net Sales, Depomed Net Sales, PDEs or Details completed, or payments due under this Agreement.\", \"This right to audit shall extend throughout the term of this Agreement and for one year after expiration or termination of this Agreement.\", \"provided that, in the event King continues to manufacture the Product for Depomed, the parties will negotiate in good faith with respect to adjusting the pricing mechanism for the manufacture of such Product following the Term, and such eight calendar quarter period, in order to compensate King for such savings and for any discounts King provided to Depomed as a result of the relationship of the parties hereunder.\"]}",
+  "usage": {
+    "completion_tokens": 429,
+    "prompt_tokens": 4970,
+    "total_tokens": 5399,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 157,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4967,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

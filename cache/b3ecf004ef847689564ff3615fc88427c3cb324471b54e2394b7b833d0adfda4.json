@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"d)All sales made by the Agent of the Kallo Mobile care suite of products shall create a Book of Business owned by the Agent, which constitutes all funds due to Agent under this agreement flowing from each sale for a period not to exceed 36 months from the date of acceptance by Kallo of the Client EULA or until the EULA terminates under the provision that are outlined therein of the Kallo Mobile care suite of products.\", \"c)Kallo represents and warrants to Agent that; i.it has sufficient right, title and interest in and to the Kallo Mobile care suite of products to enter into this Agreement; and ii.all Kallo Mobile care suite of products distributed to Agent is free and clear of all liens.\", \"c) Ownership: Agent acknowledges that Kallo is the sole owner of the Trademarks and nothing herein shall grant to Agent any right or interest in the Trademarks.\"]}",
+  "usage": {
+    "completion_tokens": 201,
+    "prompt_tokens": 4158,
+    "total_tokens": 4359,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4155,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

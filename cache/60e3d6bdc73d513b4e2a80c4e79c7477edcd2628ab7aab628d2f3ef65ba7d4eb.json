@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"in no event shall a Party be liable to the other Party for an aggregate amount in excess of the Maximum Liability\",\"in no event shall a Party be liable to the other Party, and the Parties hereby waive claims, for (a) indirect, punitive, special or consequential damages or loss of profits\",\"in no event shall Operator be liable under this Agreement (including with respect to its obligations related to the Facility Service Warranty, the Power Performance Warranty or Warranty Specification) for (i) any failure of or damage to the Bloom System\"]}",
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 4194,
+    "total_tokens": 4315,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4191,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

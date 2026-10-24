@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"If this Agreement terminates pursuant to this Article, in addition to the payment of the amount incurred and confirmed under this Agreement to the other Party, the Parties shall not be liable for the termination of this Agreement, including, but not limited to, payment of late fees, liquidated damages, compensation.\"]}",
+  "usage": {
+    "completion_tokens": 217,
+    "prompt_tokens": 4369,
+    "total_tokens": 4586,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 135,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4366,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

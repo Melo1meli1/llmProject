@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"If this Agreement is terminated by Service Provider upon a default by Service Recipient, Service Provider will not refund the prepaid Service Fee to Service Recipient.\",\"The Parties covenant and confirm that any verbal communications, written documents or electronic information (including but not limited to software codes and any contents contained in the software) relating to this Agreement between the Parties shall be confidential information. Neither Party may disclose any confidential information of the other Party without prior written consent from the other Party, except that: (1) relevant information has been made public not as a result of any fault or disclosure by the information recipient; (2) such disclosure is required under applicable laws or regulations or rules of securities exchanges. Any employees of one Party disclosing any confidential information shall be deemed as the Party disclosing confidential information and such Party shall be liable therefor under this Agreement. This clause shall survive the termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 333,
+    "prompt_tokens": 3366,
+    "total_tokens": 3699,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 134,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3363,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

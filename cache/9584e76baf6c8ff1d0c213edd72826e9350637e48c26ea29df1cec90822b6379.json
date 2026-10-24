@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"provided, further, that in no event shall any indemnity under this Section 6.8(b) exceed the net proceeds from the offering received by the Farids Group upon the sale of the Registrable Securities giving rise to such indemnification obligation.\",\"provided, that in no event shall any contribution by a Holder hereunder exceed the net proceeds from the offering made under such Eligible Registration Statement received by such Holder.\"]}",
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 4034,
+    "total_tokens": 4176,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 38,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4031,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

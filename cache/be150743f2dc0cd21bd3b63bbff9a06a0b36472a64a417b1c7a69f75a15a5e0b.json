@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The Publication shall occur within […***…] of the date the Project is closed or terminated, or University and/or Principal Investigator shall be free to publish Program Data and results at that time.\", \"In the event of any termination of the Project by University, (a) University agrees to complete Phase I and II of the Project, and (b) ArTara will continue to provide annual funding until the completion of Phase II.\", \"Upon termination of the Project by ArTara this Agreement will terminate subject to Section 8.3 and ArTara will reassign to University the IND if assignment thereof previously occurred pursuant to Section 4.3.\"]}",
+  "usage": {
+    "completion_tokens": 317,
+    "prompt_tokens": 5160,
+    "total_tokens": 5477,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 162,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5157,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

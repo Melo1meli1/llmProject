@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In the event that Customer exercises its rights under this Section 3.4, IBM shall continue to fulfill all of its duties and obligations following the notice date and until the final termination date.\", \"Upon the date of termination, all Customer payment obligations accrued hereunder through the date of termination will become due and payable.\"]}",
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 3952,
+    "total_tokens": 4033,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3949,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

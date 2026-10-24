@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Such reports constitute Developed Intellectual Property and are the sole property and Confidential Information of Licensor.\",\"any intellectual property, know-how, trade secrets, data, processes whether patentable or not which may arise from the Further Development Work and the Supplemental Data shall be solely owned by NLS and shall fall under NLS Intellectual Property Rights and any other rights as the case maybe, except any information that is or becomes public (non-confidential) other than as a direct or indirect result of a disclosure by Licensee or any of its representatives. Licensee Knowhow shall belong to Licensee;\",\"The brand name for the Licensed Product in the Territory shall be Nolazol® (Brazilian trademark application No. 916475913 and in Mexico and elsewhere in the Territory to be provided by Licensor, collectively referred to as \\\"Trademark\\\") and may be modified by another name chosen and solely owned by the Licensor\",\"Such trademarks and names shall be prepared and owned by the Licensor at its expense.\"]}",
+  "usage": {
+    "completion_tokens": 265,
+    "prompt_tokens": 4084,
+    "total_tokens": 4349,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 45,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4081,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

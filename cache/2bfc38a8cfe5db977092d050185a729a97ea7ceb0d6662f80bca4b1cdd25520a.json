@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Distributor agrees to return aforesaid software at its expense upon written request from Company or at the termination of this agreement.\", \"Distributor ... agrees that it will not at any time during or after the term of this Agreement assert or claim any interest in or do anything that may adversely affect the validity or enforceability of any trademark, trade name, copyright or logo belonging to or licensed to Company (including without limitation any act, or assistance to any act, which may infringe or lead to the infringement of any copyright in the Products).\"]}",
+  "usage": {
+    "completion_tokens": 312,
+    "prompt_tokens": 4996,
+    "total_tokens": 5308,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 182,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4993,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

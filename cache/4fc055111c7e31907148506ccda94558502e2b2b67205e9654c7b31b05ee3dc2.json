@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"D. Insurance. PAPA JOHN'S shall procure and maintain, at its sole cost and expense, and use commercially reasonable efforts cause its Sub-Contractors to obtain, at their sole cost and expense, during the Term and for a period of three (3) years thereafter (\\\"Insurance Period\\\"), comprehensive general liability insurance\", \"All Parties agree not to disparage or make derogatory comments, verbal or written, regarding the other Party during the Term of the Agreement, and for one year thereafter.\", \"I. Any sections and any other obligations under the provisions of this Agreement which, by their term or implication, have a continuing effect, shall survive any expiration or termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 3246,
+    "total_tokens": 3403,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3243,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

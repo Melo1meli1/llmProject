@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"During the Term hereof and for a period of six (6) months following the termination of this Agreement or the discontinuation of any of the Company Products, (i) the Reseller shall have the exclusive right to commission for any Registered Referrals, (ii) the Company shall not market, promote, sell, or distribute Company Products or solicit or procure orders for the Company Products, or for any product(s) or service(s) similar to the Company Products, in the Territory other than through the Reseller and pursuant to this Agreement, except with the prior written consent of the Reseller, and (iii) without limitation to the foregoing, the Company shall not, directly or through other parties (whether agents, representatives, intermediaries, resellers or other parties), market, promote, sell, distribute, solicit or procure orders to any existing or prospective customer of the Reseller.\",\"Upon termination or expiration of this Agreement, other than with respect to customers of the Reseller existing at any time prior to the termination or expiration and with respect to ongoing sales or prospective sales, Reseller (i) shall immediately discontinue any use of the name, logotype, Marks or slogans of Company, (ii) shall immediately discontinue all representations or statements from which it might be inferred that any relationship exists between the parties, (iii) will cease to promote, solicit orders for or procure orders for the Product, (iv) will immediately return to Company all Proprietary Information (as defined below) and any other information or materials of Company in its possession, custody or control in whatever form held (including copies or embodiments thereof relating thereto). Notwithstanding the foregoing, the right to payments accruing prior to the termination or expiration shall survive termination or expiration of this Agreement.\",\"The parties shall, at all times, both during the term of this Agreement and after its termination, keep in trust and confidence all such Proprietary Information of the other party, and shall not use such Proprietary Information other than in the course of its duties as expressly provided in this Agreement; nor shall a party or its employees disclose any such Proprietary Information of the other to any person without such other party's prior written consent.\"]}",
+  "usage": {
+    "completion_tokens": 532,
+    "prompt_tokens": 3525,
+    "total_tokens": 4057,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3522,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

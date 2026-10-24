@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Ginkgo shall pay BLI for any amounts due for work performed by BLI under and in accordance with this Agreement prior to the effective date of termination to the extent that BLI cannot reasonably cancel or reallocate such work.\",\"Ginkgo may have to pay royalties to BLI with respect to Licensed Product\",\"BLI will provide Ginkgo, in writing, its then-current commercial terms with respect to royalties for the Licensed Products.\",\"Section 7.5 (Manner of Payments) through Section 7.10 (Late Payments) (solely with respect to any unpaid amounts that accrued prior to the end of the Term or that accrue at any time under Section 7.4.2 (Milestone Payments))\"]}",
+  "usage": {
+    "completion_tokens": 282,
+    "prompt_tokens": 4556,
+    "total_tokens": 4838,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 117,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4553,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

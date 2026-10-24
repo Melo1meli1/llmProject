@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"9.4 Sections which Survive Termination or Expiration of this Agreement. Articles 1, 4 (with respect to outstanding payments), 5, 6, 7, 8, 9 and 10 of this Agreement, any other provisions of this Agreement incorporated into or applicable to such Sections, and any other provisions of this Agreement that by their terms extend beyond any termination of this Agreement, shall survive any termination or expiration hereof for any reason.\", \"Upon the termination of this Agreement by either Party on account of an uncured material breach by the other Party, without prejudice to any other rights that either Party may have, the following will occur: (a) Wildform will immediately cease all use and distribution of the Incorporated Technology. (b) Wildform will immediately return to On2, or destroy, all copies of the Incorporated Technology, and all documentation created under this agreement in its possession or control. Upon written request from On2, Wildform will promptly provide On2 with a written certification of Wildform's compliance with the foregoing.\"]}",
+  "usage": {
+    "completion_tokens": 232,
+    "prompt_tokens": 4179,
+    "total_tokens": 4411,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4176,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

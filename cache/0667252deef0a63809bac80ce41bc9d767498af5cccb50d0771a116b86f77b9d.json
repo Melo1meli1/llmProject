@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"If we cannot agree on a Center location, within 4 months, we may a) extend your search time, b) exchange your territory, or c) terminate your Franchise and refund up to 70% of your Franchise Fee, at our sole discretion.\"]}",
+  "usage": {
+    "completion_tokens": 178,
+    "prompt_tokens": 4491,
+    "total_tokens": 4669,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4488,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

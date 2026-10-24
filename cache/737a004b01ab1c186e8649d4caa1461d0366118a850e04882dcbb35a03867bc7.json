@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The termination of this Agreement shall terminate the obligations of either party to the other party pursuant to any Purchase Order and those obligations pursuant to this Agreement, except as to obligations that are identified herein or in a terminated Purchase Order as surviving termination.\", \"Should the Agreement expire during the period of performance, all remaining Work of each Purchase Order will be completed under the terms of the Agreement then in effect on the date of award for each respective Purchase Order, unless modified in writing by mutual consent of the parties.\", \"The obligations of this Section 13 shall survive termination of this Agreement.\", \"If within one (1) year from the date of completion of Work acceptance, or within one (1) year from the completion of all other work or services and acceptance by EDGE (or within any longer materials warranty period as set forth above), any defects exists or arise, then in each case upon receipt of notice of such defect, Subcontractor shall (unless EDGE chooses another remedy) promptly cause such defect(s) to be repaired or remedied at Subcontractor's sole cost and expense\"]}",
+  "usage": {
+    "completion_tokens": 232,
+    "prompt_tokens": 4189,
+    "total_tokens": 4421,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4186,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Upon termination of this Agreement, DISTRIBUTOR shall forthwith cease all further use of the PPG Trademarks and shall destroy all unused labels and advertisements containing the PPG Trademarks. Thereafter, DISTRIBUTOR shall not use any PPG Trademarks or trade or corporate names similar thereto.\",\"DISTRIBUTOR will not, whether during the Term of this appointment or after its expiry or termination, knowingly do or cause to be done any act or thing directly or indirectly, contest or in any way impair or attempting to impair PPG SHANGHAI or PPG's rights, titles or interests in the PPG Trademarks.\"]}",
+  "usage": {
+    "completion_tokens": 218,
+    "prompt_tokens": 4712,
+    "total_tokens": 4930,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4709,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

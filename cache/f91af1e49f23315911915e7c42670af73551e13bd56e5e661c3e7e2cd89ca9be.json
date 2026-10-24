@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"5.4 Rights and Obligations Following Expiration or Termination It is specifically understood by Dexcel and Kitov that, upon any expiration or termination of this Agreement for any reason, the rights and obligations of the Parties shall include the following:\", \"5.4.1 Neither Party shall be relieved of its duty to discharge in full all obligations accrued or due prior to the date of termination, cancellation or expiration; all sums owed by either Party to the other shall become immediately due and payable thirty (30) days after such date.\", \"5.4.2 Each Party shall remove all references to the other, if any, from its letterhead, business forms, advertising literature, websites and place of business, and shall not thereafter use any name or trademark suggesting that it has any current relationship with the other Party.\", \"5.4.3 Each Party shall return to the other all of the other's Confidential Information and any other material, information or samples relating to the Product which have been provided or made available to the other and shall not retain any copies\", \"Any Confirmed Orders made by Dexcel on or before the expiration or termination of this Agreement but not yet delivered by Dexcel shall be delivered to Kitov and Kitov shall be liable to pay for the same in accordance with the provisions of the Agreement. Kitov shall be entitled to sell or otherwise dispose of its remaining stock of the Product until the end of the inventory's shelf life.\", \"5.4.5 In no event shall any expiration or termination of this Agreement excuse either Party from any breach or violation of this Agreement and full legal and equitable remedies shall remain available therefor. The rights and obligations of the Parties to this Agreement set forth in 4, 5, 6, 7, 9 and 10 shall survive any expiration or termination of this Agreement.\", \"Upon any expiration or termination of this Agreement, at the disclosing Party's request, the recipient Party agrees to return to the disclosing Party all Confidential Information disclosed to the recipient Party by the disclosing Party.\"]}",
+  "usage": {
+    "completion_tokens": 432,
+    "prompt_tokens": 4231,
+    "total_tokens": 4663,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4228,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

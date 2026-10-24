@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The obligations of the Agent pursuant to this Agreement (other than those set forth in Sections 2(d), 8 and 9 hereof) shall terminate upon the completion or termination or abandonment of the Plan by the Company or upon termination of the Offering, but in no event later than the date (the \\\"End Date\\\") which is 45 days after the Closing Date (as hereinafter defined).\"]}",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 4293,
+    "total_tokens": 4392,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4290,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

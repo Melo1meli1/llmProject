@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"At all times during the Term and for a period of [***] ([***]) years following the end of the Term, or with respect to trade secrets ... until such time that such information is no longer a trade secret ... Receiving Party will ... keep confidential and not publish or otherwise disclose to a Third Party and not use for any purpose, any Confidential Information\", \"Upon the end of the Term ... Receiving Party will, as requested by Disclosing Party except as and if necessary for such Receiving Party to exercise surviving rights under this Agreement following such expiration or termination, (a) ... destroy ... specific Confidential Information ... or (b) deliver to Disclosing Party ... all copies of such Confidential Information\"]}",
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 4312,
+    "total_tokens": 4468,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4309,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"(iv) Inktomi will grant to Microsoft an irrevocable, non-exclusive, royalty-free license to use the Product (and all required underlying Inktomi Technology) solely in connection with Microsoft's operation of the Microsoft Search Engine (which license shall include the right to create enhancements and other derivative works based thereon for use in conjunction therewith) for such period as Microsoft may require to transition its search engine services to non-Inktomi technology (the \\\"Transition Period\\\"), and Inktomi will waive all royalties otherwise payable pursuant to the Software Development Agreement and/or the Information Services Agreement between the parties of even date herewith; for the purposes of this clause (iv), the Transition Period will commence at such time as Microsoft assumes control over said separate cluster and begins itself operating the Microsoft Search Engine, and will continue thereafter for eighteen months (18) or until the termination of the Software Development Agreement and Information Services Agreement (whichever is longer);\",\"(v) Inktomi will direct the Escrow Agent to release to Microsoft all Confidential Materials held by the Escrow Agent, subject to Microsoft's agreement to use such Confidential Materials only in connection with its licensed rights under clause (iv) above;\",\"(vi) Inktomi will agree to reimburse Microsoft for all reasonable costs incurred by Microsoft in transitioning its search engine to non-Inktomi technology (whether created by Microsoft or by a third party);\",\"Upon satisfaction of the foregoing conditions precedent, this Software Hosting Agreement shall be deemed terminated pursuant to Section 10.1. Upon expiration of the Transition Period, all rights granted to Microsoft to use the Product (other than Microsoft Technology, Joint Derivative Technology and the Microsoft Derivative Technology) and/or any Inktomi Technology under the transitional license referred to in clause (iv) or otherwise shall cease, and Microsoft shall immediately return to Inktomi all Confidential Materials (and all copies thereof)\"]}",
+  "usage": {
+    "completion_tokens": 556,
+    "prompt_tokens": 2913,
+    "total_tokens": 3469,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 155,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2910,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

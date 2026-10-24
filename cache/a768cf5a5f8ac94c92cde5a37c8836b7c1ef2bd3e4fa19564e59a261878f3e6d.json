@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"12.06 Continuing Rights and Obligations. Except as otherwise stated in this Agreement, the following Articles and Paragraphs will survive termination of this Agreement:\", \"Any rights and obligations that have accrued to either Party against the other prior to the effective date of termination or expiration of this Agreement in any respect will survive such termination or expiration, and rights that have accrued to an Affiliate of a Party will continue regardless of any change in Affiliate status during the Term of this Agreement or thereafter.\", \"Such books, records and accounts will be maintained for a period of at least three (3) years following the termination or expiration of this Agreement, provided there are no pending disputes between the Parties. In the case of a dispute, the books, records, and accounts will be maintained for one (1) year following resolution of such dispute.\", \"At the request of ExxonMobil, FCE will permit, at reasonable intervals and during regular business hours, during the Term of this Agreement and at least three (3) years thereafter, but no more than once per fiscal year, an independent certified public accounting firm of nationally recognized standing selected by ExxonMobil (and approved by FCE, which approval will not be unreasonably withheld) to inspect, during regular business hours, such books, records, and accounts and any part of the applicable operations and facilities of FCE relevant to this Agreement, and to have access to FCE's knowledgeable personnel, as may be necessary to determine the completeness and accuracy of any accounting and payments required to be made under this Agreement and compliance with other terms of this Agreement, subject to the following:\"]}",
+  "usage": {
+    "completion_tokens": 339,
+    "prompt_tokens": 5136,
+    "total_tokens": 5475,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5133,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

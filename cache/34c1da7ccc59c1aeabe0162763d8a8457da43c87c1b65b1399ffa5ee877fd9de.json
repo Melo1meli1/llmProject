@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"will automatically renew for one or more annual periods after the Initial Term (each a \\\"Renewal Term\\\") unless either party gives notice of non-renewal at least one hundred eighty (180) days prior to the beginning of any Renewal Term.\"]}",
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 5148,
+    "total_tokens": 5215,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5145,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon expiration or termination, Eurofarma shall i) immediately transfer the MAs to the Licensor or to any other party designated by the Licensor and return all relevant documents prepared or submitted that are related to the MAs, including those documents, data or information generated post MA filings, in maximum 30 days after the notification of termination;\"]}",
+  "usage": {
+    "completion_tokens": 167,
+    "prompt_tokens": 5029,
+    "total_tokens": 5196,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5026,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

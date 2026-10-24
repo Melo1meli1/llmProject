@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"If this Agreement is terminated pursuant to this Section, such termination shall be without liability of any party to any other party except as provided in Sections 2 and 4 hereof relating to the reimbursement of expenses and except that the provisions of Sections 6 and 7 hereof shall survive any termination of this Agreement.\",\"The Company, the MHCs and the Bank, jointly and severally, agree to indemnify and hold harmless the Agent\",\"The Agent agrees to indemnify and hold harmless the Company, the MHCs and the Bank\",\"the Company, the MHCs, the Bank, and the Agent shall contribute to the aggregate losses, liabilities, claims, damages and expenses of the nature contemplated by said indemnity agreement\"]}",
+  "usage": {
+    "completion_tokens": 448,
+    "prompt_tokens": 4297,
+    "total_tokens": 4745,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 280,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4294,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

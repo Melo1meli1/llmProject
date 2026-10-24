@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"33. Each Member will indemnify the remaining Members against all losses, costs and claims that may arise in the event of the Venture being terminated as a result of breach of the Agreement by that Member.\", \"36. The Venture will be dissolved and its assets liquidated in the event of any of the following: a. the Term expires and is not extended;\", \"37. On dissolution, the Venture will be liquidated promptly and within a reasonable time.\", \"38. On the liquidation of the Venture assets, distribution of any amounts to Members will be made in proportion to their respective capital accounts or as otherwise may be agreed in writing.\"]}",
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 4260,
+    "total_tokens": 4405,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4257,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

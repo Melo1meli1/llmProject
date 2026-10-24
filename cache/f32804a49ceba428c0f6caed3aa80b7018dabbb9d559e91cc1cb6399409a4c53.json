@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"1. Termination for Convenience. Except as set forth in paragraph 3 of this Schedule, if Customer elects to terminate this Agreement or any Service for any reason, Customer shall pay Metavante the termination fee computed in accordance with Section 8.4 of this Agreement.\", \"2. Termination for Cause by Metavante. If Metavante terminates this Agreement in accordance with Sections 8.2 or 8.3 of the Agreement, then Customer shall pay Metavante the termination fee computed in accordance with Section 8.4 of this Agreement.\", \"4. Rebate of Termination Fee. Subject to Metavante' rights under Section 6 below, Customer shall receive a rebate of a portion of any Termination Fee paid by Customer hereunder in the event that Customer shall enter into a new exclusive agreement with Metavante to receive the Initial Services within six (6) months following the Effective Date of Termination.\", \"5. Payment of Rebate. The applicable rebate of the Termination Fee shall become payable to Customer upon execution of a new exclusive agreement for Initial Services by and between Customer and Metavante within six (6) months following the Effective Date of Termination (the \\\"New Agreement\\\").\", \"6. Revocation. Customer's right to receive the rebate of the Termination Fee as provided under Section 5 of this Schedule may not be cancelled or revoked except by a written instrument that is (a) signed by Metavante expressly revoking Customer's right to receive such rebate; and (b) delivered to Customer by Metavante within thirty (30) days following the date of termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 355,
+    "prompt_tokens": 2948,
+    "total_tokens": 3303,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2945,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

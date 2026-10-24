@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Any HOFV Works created pursuant to this Agreement shall exclusively be owned by the Village Media Company; provided, however, that, (i) PFHOF shall own all right, title, interest, and copyright in and to the underlying PFHOF Work(s) as further set forth in Section 2.5\",\"PFHOF shall own and control all right, title, interest, and copyright in and to the PFHOF Works, including, without, limitation, any and all PFHOF Work(s) utilized by, or incorporated in, any HOFV Work and all of its constituent elements\",\"all derivatives of the foregoing (except for derivatives that constitute HOFV Works, which ownership shall be retained by the Village Media Company)\",\"any right that may accrue to the Village Media Company, any of its Affiliates or any of their respective permitted sublicensees related thereto and any goodwill associated therewith are hereby granted and assigned to PFHOF or its designee.\",\"to the extent any HOFV Work incorporates any HOFV trademarks, service marks, or trade dress (\\\"HOFV Trademarks\\\"), use of such HOFV Trademarks shall inure solely to HOFV's benefit.\"]}",
+  "usage": {
+    "completion_tokens": 265,
+    "prompt_tokens": 4534,
+    "total_tokens": 4799,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4531,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

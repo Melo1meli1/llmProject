@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"MKOS will not seek to acquire any technologies presented to MKOS by UTEK from the technology developer directly or indirectly for a period of 24 months following the termination of this Strategic Alliance Agreement.\",\"If this Agreement is terminated any unvested shares will be returned to MKOS.\",\"Neither termination nor completion of the assignment shall affect the provisions of this Agreement, and the Indemnification Provisions that are incorporated herein, which shall remain operative and in full force and effect.\",\"MKOS agrees that for a twenty four months (24) following the execution of this Agreement, MKOS shall not, without UTEK's prior written consent, directly or indirectly solicit for employment any present employee of UTEK, or request, induce or advise any employee of UTEK to leave the employ of UTEK. In turn, UTEK agrees that it will not directly or indirectly solicit any present employee of MKOS.\"]}",
+  "usage": {
+    "completion_tokens": 201,
+    "prompt_tokens": 3186,
+    "total_tokens": 3387,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3183,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

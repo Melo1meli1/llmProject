@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY CONSEQUENTIAL, SPECIAL OR PUNITIVE DAMAGES OR LOST PROFITS ARISING UNDER OR RELATING TO THIS AGREEMENT.\",\"Except in the event of (i) a Party's gross negligence or willful misconduct and/or (ii) a Party's breach of its confidentiality obligation, the total liability of one Party to the other Party (and its Affiliates) arising out of or in connection with this Agreement or the Products, whether in contract, tort (including negligence), statute or otherwise, shall, to the maximum extent permitted by Applicable Law, be limited to the amount of revenues it receives under this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 4514,
+    "total_tokens": 4659,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4511,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

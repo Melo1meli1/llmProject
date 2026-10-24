@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Unless terminated earlier as provided herein, this Agreement shall terminate on the date three (3) years from the Effective Date. This Agreement shall be automatically renewed for additional successive one (1) year periods, unless written notice of non-renewal is received no later than six (6) months prior to the expiration of the then current term.\"]}",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 4496,
+    "total_tokens": 4580,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4493,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

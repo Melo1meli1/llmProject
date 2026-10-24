@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"During the Term and for a period of two (2) years after the termination of the Agreement or the expiry date of the last batch manufactured whichever is later, thereafter, each Party shall obtain and maintain, at its sole expense adequate product liability insurance for the Product as it reasonably deems necessary and appropriate.\",\"In addition, any contract entered into by the Parties with a Marketer for the Product shall survive termination of this Agreement in accordance with its terms, including any renewal rights provided therein.\",\"In the event of termination of this Agreement for whatever cause, in addition to the other obligations of the Parties hereunder, each Party shall return to the other Party or to the other Party's designee no later than thirty (30) days after the effective date of termination all of such other Party's property, including all proprietary information, in its possession, except to the extent required to be retained by law or to comply with such Party's continuing obligations hereunder.\"]}",
+  "usage": {
+    "completion_tokens": 270,
+    "prompt_tokens": 5451,
+    "total_tokens": 5721,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 58,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5448,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

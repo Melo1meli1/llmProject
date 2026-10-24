@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"EXCEPT IN THE EVENT OF A VIOLATION OF SECTION 3 (OWNERSHIP; GRANT OF RIGHTS: TRADEMARKS USAGE), OR FOR EACH PARTY'S OBLIGATIONS UNDER SECTION 11 (INDEMNITY), OR BREACH OF SECTION 12 (CONFIDENTIALITY), IN NO EVENT SHALL EITHER PARTY'S TOTAL LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT EXCEED THE AMOUNTS PAID BY SONOS FOR THE PRODUCTS IN THE [*] PERIOD IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE LIABILITY.\"]}",
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 4429,
+    "total_tokens": 4566,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4426,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

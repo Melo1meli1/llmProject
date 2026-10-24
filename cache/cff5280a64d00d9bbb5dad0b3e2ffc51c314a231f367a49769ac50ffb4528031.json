@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Unless otherwise agreed to in writing by the Parties, as between the Parties, Ginkgo shall own:\",\"all rights to the Intellectual Property contained or otherwise embodied in the inventions, discoveries, improvements, materials, chemical entities, Ginkgo Materials, [***], [***], or Ginkgo Workflows, described in clauses (a) through (g) of this Section 8.2.1 (Ginkgo Inventions)\",\"Unless otherwise agreed to in writing by the Parties, as between the Parties, BLI shall own:\",\"all rights to the Intellectual Property contained or otherwise embodied in the inventions, discoveries, improvements, materials, chemical entities, Beacon Platform or Consumables described in clauses (a) through (f) of this Section 8.2.2 (BLI Inventions)\",\"Subject to Section 8.2 (Ownership of Ginkgo Inventions and BLI Inventions), as between the Parties, BLI shall solely own all right, title and interest to all Collaboration Intellectual Property [***].\"]}",
+  "usage": {
+    "completion_tokens": 221,
+    "prompt_tokens": 4586,
+    "total_tokens": 4807,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4583,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

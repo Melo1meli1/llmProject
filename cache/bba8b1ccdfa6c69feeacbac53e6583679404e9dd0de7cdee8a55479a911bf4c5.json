@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"During the Term hereof and for a period of six (6) months following the termination of this Agreement or the discontinuation of any of the Company Products, (i) the Reseller shall have the exclusive right to commission for any Registered Referrals\", \"Notwithstanding the foregoing, the right to payments accruing prior to the termination or expiration shall survive termination or expiration of this Agreement.\", \"The parties shall, at all times, both during the term of this Agreement and after its termination, keep in trust and confidence all such Proprietary Information of the other party\"]}",
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 3502,
+    "total_tokens": 3633,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3499,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

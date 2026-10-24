@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Subcontractor shall indemnify, defend and hold harmless EDGE and Customer and both of their subsidiaries, directors, shareholders, partners, principals (disclosed or undisclosed), employees, agents and representatives (hereinafter the \\\"Indemnitees\\\") from and against any and all claims, demands, damages, actions, causes of action, suits, losses, judgments, obligations, and any liabilities, costs and expenses, including but not limited to, investigative and repair costs, attorney fees and costs, and consultant's fees and costs (collective, \\\"Claims\\\") arising out of or in connection with the Work performed, materials furnished, or services provided or omitted under this Agreement by Subcontractor or its agents\", \"The obligations of this Section 13 shall survive termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 326,
+    "prompt_tokens": 5132,
+    "total_tokens": 5458,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 144,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5129,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

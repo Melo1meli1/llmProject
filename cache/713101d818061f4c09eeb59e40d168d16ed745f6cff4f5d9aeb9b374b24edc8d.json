@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"term of the Cooperation will be four years from the date on which the channel is uploaded.\", \"The channel is expected to be uploaded on August 1, 2010.\", \"Phase IV will commence on August 1, 2013 and end on July 31, 2014.\"]}",
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 4221,
+    "total_tokens": 4298,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4218,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

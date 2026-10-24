@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"provided, however, that with respect to each Property, all rights and licenses granted herein will continue in full force and effect for a period of eighteen (18) months after the initial theatrical release of that Property.\"]}",
+  "usage": {
+    "completion_tokens": 212,
+    "prompt_tokens": 4311,
+    "total_tokens": 4523,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 148,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4308,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

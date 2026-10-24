@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"“Deconversion” shall mean the activities performed by SERVICERS at the request of ISO to effect a Program Transfer, which activities and associated fees/costs will be set forth in a written plan developed before any such activities are begun and in good faith by ISO and SERVICERS that is designed to complete the Program Transfer within 6 months, at SERVICERS' then-current fees/costs. If ISO requests no services from SERVICERS in connection with the deconversion, then there will be no fees/costs to ISO other than any pass-through Bank Card association fees, if any.\",\"“Termination Reserve Account” shall mean a reserve account to be established upon notice of termination of this Agreement to insure the payment of chargebacks and credit/fraud losses related to transactions with an acquirer's processing date on or before the effective date of termination of this Agreement, fees and other amounts which may become due to SERVICERS following termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 310,
+    "prompt_tokens": 4106,
+    "total_tokens": 4416,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4103,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

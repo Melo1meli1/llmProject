@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon the expiration or termination of this Agreement pursuant to this Article VIII, each party shall promptly transfer and return to the other party all Proprietary Information of the other party (provided that each party may keep one copy of such Proprietary Information of for archival purposes only).\", \"Upon the expiration or termination of this Agreement, King shall provide to Depomed, at King's out-of-pocket cost therefor, all Promotional Materials in King's possession (including electronic files of all Promotional Materials); provided, however, that King may destroy any printed copies of Promotional Materials bearing the King Trademarks and may remove the King Trademarks from electronic files of Promotional Materials.\"]}",
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 4274,
+    "total_tokens": 4422,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4271,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

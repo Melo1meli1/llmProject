@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The Consultant and the Principal shall not, without the prior written consent of the Company, either during the Term or at any time thereafter: (a) use or disclose any Confidential Information outside of the Company or the Affiliated Companies;\", \"Upon the termination of this Agreement, or upon the Company's earlier request, the Consultant and the Principal shall promptly deliver to the Company all of the Confidential Information that the Consultant and the Principal may have in their possession or control.\", \"The Consultant covenants, undertakes and agrees with the Company that during the Term and for a period of one year from the date of expiration or termination of this Agreement for any reason whatsoever, it shall not, on its own behalf or on behalf of any person, whether directly or indirectly, in any capacity whatsoever, offer employment to or solicit the employment of or otherwise entice away from the employment of the Company or any of the Affiliated Companies, any individual who is employed or engaged by the Company or any of the Affiliated Companies at the date of expiration or termination of this Agreement or who was employed or engaged by the Company or any of the Affiliated Companies, within the one year period immediately preceding the date of expiration or termination of this Agreement, as applicable.\", \"The Consultant will assist the Company in obtaining and enforcing, for the Company's own benefit, patents, copyrights and any other protections in any and all countries for any and all Works made by the Consultant (in whole or in part) the rights to which belong to or have been assigned to the Company.\", \"13.l Sections 6 through 12, inclusive, and this Section 13, shall survive and remain in force notwithstanding the expiration or other termination of this Agreement for any reason whatsoever.\"]}",
+  "usage": {
+    "completion_tokens": 531,
+    "prompt_tokens": 4928,
+    "total_tokens": 5459,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 164,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4925,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

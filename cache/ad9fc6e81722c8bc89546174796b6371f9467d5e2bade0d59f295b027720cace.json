@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Subcontractor, during the term of this Agreement and for a period of one year thereafter, shall not, directly or indirectly, for itself or on behalf of or in conjunction with any other person, partnership, corporation, business or organization, solicit, hire, contract with or engage the employment of an employee of EDGE with whom Subcontractor or its personnel have contact as a result of Subcontractor's performance of this Agreement, unless Subcontractor (i) obtains the written consent of EDGE, as applicable, and (ii) pays EDGE as applicable a fee to be mutually agreed upon.\", \"This Paragraph shall survive termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 265,
+    "prompt_tokens": 4926,
+    "total_tokens": 5191,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 112,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4923,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

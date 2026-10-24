@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The provisions of this Section 7.3.5 shall survive the expiration or termination of this Agreement for [***] ([***]) years.\",\"The provisions of this Section 7.3.6 shall survive the expiration or termination of this Agreement for [***] ([***]) years.\",\"Licensee hereby grants to Bioeq during the term of this Agreement (and, subject to Section 15.3.4, after termination or expiration of this Agreement) a non-exclusive, fully-paid, irrevocable license (including the right to grant sublicenses) under all Intellectual Property Rights and Know-How Controlled by Licensee and embodied within, or claiming or covering the Licensee Improvements, to Develop, Manufacture, sell, import, or otherwise Commercialize Licensed Products outside of the Territory.\"]}",
+  "usage": {
+    "completion_tokens": 173,
+    "prompt_tokens": 4342,
+    "total_tokens": 4515,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4339,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

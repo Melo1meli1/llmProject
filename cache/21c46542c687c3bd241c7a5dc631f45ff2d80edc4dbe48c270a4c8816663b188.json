@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"A party will not be held responsible for any activities of the other party or the other party's Sub-Distributors that may be considered to be illegal.\",\"Such party assumes no liability for such illegal activity\"]}",
+  "usage": {
+    "completion_tokens": 260,
+    "prompt_tokens": 4273,
+    "total_tokens": 4533,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 198,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4270,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

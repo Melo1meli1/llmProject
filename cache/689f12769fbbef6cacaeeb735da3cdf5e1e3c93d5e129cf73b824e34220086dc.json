@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"This Supply Agreement shall commence on the Effective Date, and shall continue for a period of [***] unless terminated earlier in accordance with the terms of this Supply Agreement.\", \"Following the Term, this Supply Agreement shall automatically renew for successive periods of one (1) year (each a \\\"Renewal Term\\\"), unless a Party delivers written notice of non-renewal to the other Party [***] prior to the end of the applicable term. The Term, Initial Renewal Term and Renewal Terms shall be collectively referred to as the \\\"Term\\\".\"]}",
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 4412,
+    "total_tokens": 4539,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4409,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

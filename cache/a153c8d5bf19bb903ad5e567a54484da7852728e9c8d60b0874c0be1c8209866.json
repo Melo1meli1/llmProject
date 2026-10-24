@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"IBM is liable for no more than:\",\"the amount of any other actual direct damages, up to the greater of $100,000 or the charges paid by Customer to IBM for the Services in the twelve (12) months immediately preceding the accrual of the first claim related to the Services.\",\"It is the cumulative maximum for which IBM and its Affiliates and Subcontractors are collectively responsible.\",\"Customer is liable for no more than:\",\"the amount of any other actual direct damages, up to the greater of $100,000 or the charges paid by Customer to IBM for the Services in the twelve (12) months immediately preceding the accrual of the first claim related to the Services.\",\"It is the cumulative maximum for which Customer and its Affiliates are collectively responsible.\",\"Neither party will bring a legal action related to this Agreement more than two years after the cause of action accrued.\"]}",
+  "usage": {
+    "completion_tokens": 192,
+    "prompt_tokens": 3406,
+    "total_tokens": 3598,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3403,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

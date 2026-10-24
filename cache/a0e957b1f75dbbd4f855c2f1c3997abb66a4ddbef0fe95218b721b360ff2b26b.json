@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"FCE agrees to hold Program Information in confidence, and not to disclose or make it available to any third party without the express prior written consent of ExxonMobil, for a period commencing on the Effective Date and ending twenty (20) years thereafter.\", \"Each Party agrees to hold the Background Information it receives from the other Party in confidence, and to not disclose or make available the other Party's Background Information to any third party without the express prior written consent of the other Party, for a period commencing on the Effective Date and ending twenty (20) years thereafter.\", \"At the Disclosing Party's written request, the Receiving Party agrees to return to Disclosing Party or, at Disclosing Party's option, dispose of or destroy, Disclosing Party's Confidential Background Information and any of Disclosing Party's unused Background Samples.\"]}",
+  "usage": {
+    "completion_tokens": 320,
+    "prompt_tokens": 3994,
+    "total_tokens": 4314,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 132,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3991,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

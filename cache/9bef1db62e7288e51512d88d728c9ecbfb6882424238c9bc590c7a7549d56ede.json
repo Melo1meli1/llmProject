@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"After the termination of the Strategic Alliance: (i) prior to the IPO, Moelis General Partner shall not unreasonably withhold its consent to an SMBC Unit-Holder's transferring all or a portion of the SMBC Units to any other person who is not a Moelis Competitor; and (ii) following the IPO, the SMBC Unit-Holders may freely transfer the SMBC Units, subject to applicable securities laws.\",\"Following the IPO and the termination of the Strategic Alliance, SMBC shall have the right to demand that Moelis Holdings register the sale of all, but not less than all, of the Registrable Securities held by SMBC and its affiliates (together the \\\"SMBC Unit-Holders\\\") under the Securities Act (the \\\"Demand Notice\\\")\"]}",
+  "usage": {
+    "completion_tokens": 298,
+    "prompt_tokens": 4477,
+    "total_tokens": 4775,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4474,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The Franchisee agrees, during the term of this Agreement and thereafter, not to directly or indirectly engage in the operation of any restaurant, except as licensed by BKC, which utilizes or duplicates the Burger King System or any part thereof.\"]}",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 5207,
+    "total_tokens": 5272,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5204,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

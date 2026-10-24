@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"APOLLO may inspect any or all shipments of Product to insure all specifications are met including proper labeling, packaging and count within thirty (30) business days of APOLLO's receipt of each shipment; however, any such inspection shall not relieve ESTABLISHMENT of any obligations or warranties under this Agreement. APOLLO has the right to reject, via written notification to ESTABLISHMENT within this thirty (30) day period, any or all of a shipment of Product that fails to satisfy any warranty in this Agreement\"]}",
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 4227,
+    "total_tokens": 4350,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4224,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

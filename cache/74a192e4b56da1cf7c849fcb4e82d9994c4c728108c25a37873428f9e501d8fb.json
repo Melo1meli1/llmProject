@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Company or its licensors own and will continue to own all right, title, and interest in and to the Products, including all copyright rights (including rights in audiovisual works), moral rights, patent rights (including patent applications and disclosures), rights of priority and trade secret rights recognized in any country or jurisdiction of the world, regardless of whether the Products are separate or combined with any other products, programs, or data.\", \"The Company Marks are the exclusive property of Company.\", \"Company shall retain ownership of its respective Background IP that each owned prior to this partnership and nay other IP developed during this marketing relationship.\"]}",
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 4897,
+    "total_tokens": 5035,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4894,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

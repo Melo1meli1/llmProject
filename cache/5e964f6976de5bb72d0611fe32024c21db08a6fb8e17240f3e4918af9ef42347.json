@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Unless otherwise disallowed by a Bank Card association, Bank agrees to maintain such sponsorships throughout the term of this Agreement and until the first of either to occur: (i) [***] days after the expiration or earlier termination of this Agreement, or (ii) the effective date of the assignment of all of the Merchant Processing Agreements or all of the BINs/ICAs and other items specified and contemplated in Section 10.4.\", \"Bank acknowledges and agrees that ISO shall own and maintain the Merchant relationship during the term of this Agreement and thereafter.\", \"Each of ISO's and Bank's rights shall survive the termination of this Agreement by either party and for whatever cause.\"]}",
+  "usage": {
+    "completion_tokens": 263,
+    "prompt_tokens": 4904,
+    "total_tokens": 5167,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4901,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

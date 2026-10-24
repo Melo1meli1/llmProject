@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Supplier shall retain all its rights and title to and ownership of all intellectual property rights in the Products including, inter alia, all documentation, enhancements, improvements or other modifications made thereof (including those modifications made in connection with Section 3.1 above), and except as expressly provided in this Agreement, Reseller shall have no right, title, or interest in any intellectual property rights in the Products. Nothing in this Section shall limit the rights of the Reseller in or to any modifications made to the Software in accordance with Section 2.3.\"]}",
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 4305,
+    "total_tokens": 4432,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4302,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Supply of drugs/medications and spare parts during and after the warranty period.\", \"Mandatory Medical Equipment Service Program for Five-year Warranty\", \"This program has a set of planned routine maintenance schedule for each device of medical equipment\", \"The local onsite Biomedical technicians will be the first response team to attend to any and all breakdown calls from the Mobile Clinic.\", \"Kallos' Certified Clinical Engineers / Biomedical Engineers and Clinical Application support specialists will be available via Video/Teleconference/Telehealth systems in the Mobile clinic for all clinical application support\"]}",
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 4129,
+    "total_tokens": 4253,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4126,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

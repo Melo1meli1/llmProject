@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"COOL TECH's Mobile Generation (\\\"MG\\\"), and other proprietary information and associated products, copyrights, trademarks, trade names and logos developed by COOL TECH shall remain the property of COOL TECH\", \"VET TECH's GAIT Software and other AI services (collectively the \\\"VET TECH Services\\\"), and other proprietary information and associated products, copyrights, trademarks, trade names and logos developed by VET TECH shall remain the property of VET TECH\", \"Work performed on engagements pursuant to this Agreement by either VET TECH and/or COOL TECH and information, materials, products and deliverables developed in connection with engagements pursuant to this Agreement shall be the property of the respective parties performing the work or creating the information.\"]}",
+  "usage": {
+    "completion_tokens": 162,
+    "prompt_tokens": 2839,
+    "total_tokens": 3001,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2836,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

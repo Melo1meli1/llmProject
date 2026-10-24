@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"This distributorship will be independent of the endorsement terms of the agreement and will remain on going as long as the CELEBRITY maintains the annual membership fee.\", \"These stock options will remain in place until certificates are issued once volumes are met as long as the CELEBRITY maintains the distributorship by paying the annual dues of $15.00.\"]}",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 2374,
+    "total_tokens": 2463,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2371,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

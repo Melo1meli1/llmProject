@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The term of this Agreement will begin on the Launch Date and will not end until Excite displays of a total of XXXXXXXXXXXXX impressions of Client's advertising banners and promotional placements on the Excite Site and Excite has made reasonable commercial efforts to deliver, at minimum, a goal of XXXXXXXX clickthroughs to the Client Site. Regardless of Excite's actual delivery of impressions and clickthroughs, the term of this Agreement will not be shorter than two (2) years after the display of the first of Client's advertising banners and promotional placements, subject to the termination rights set forth below.\"]}",
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 3981,
+    "total_tokens": 4117,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3978,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

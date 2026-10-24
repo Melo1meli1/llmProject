@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Unless terminated pursuant to another provisions of this Agreement, this Agreement will terminate upon the first to occur of any of the following:\", \"(i) this Agreement is declared invalid or illegal in whole or substantial part by an order or decree of an administrative agency or court of competent jurisdiction and such order or decree has not been stayed or has become final and no longer subject to further administrative or judicial review;\", \"(ii) there has been a material change in FCC rules or policies that would cause this Agreement to be in violation thereof, and such change is in effect and not the su\"]}",
+  "usage": {
+    "completion_tokens": 313,
+    "prompt_tokens": 4124,
+    "total_tokens": 4437,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 176,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4121,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

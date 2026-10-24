@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"upon termination of this Agreement for any reason whatsoever, Kallo, unless otherwise agreed, shall set aside the Agent's Book of Business to be held by Kallo.\",\"The revenue stream defined by the Book of Business at the time Kallo becomes the controlling party will remain constant except in as far as any elected reduction in use by its customers.\",\"Kallo shall pay over all funds collected from the Book of Business and due to Agent, less a reasonable administration fee to be assessed and determined by Kallo, to Agent or its designees or assigns immediately upon receipt\",\"Kallo shall make an accounting of funds collected to Agent or their assigns monthly. Kallo shall permit Agent or its designated Agent(s) to inspect Kallo's books upon Agent's request at Agent's expense during normal business hours of Kallo.\",\"Upon termination of this Agreement for any reason and unless otherwise agreed, all rights granted to Agent shall immediately cease and Agent shall immediately return to Kallo all Kallo Products and confidential information provided by Kallo except as otherwise provided in this Agreement.\",\"In the event of an agreed termination of this Agreement by both parties, neither party shall be liable to the other for damages, losses, or expenses of any kind or character on account of the termination of this agreement in accordance with its terms\",\"Termination or expiration shall not affect any claim, demand, or liability of any party created or arising hereunder prior to such time.\"]}",
+  "usage": {
+    "completion_tokens": 442,
+    "prompt_tokens": 4348,
+    "total_tokens": 4790,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 136,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4345,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

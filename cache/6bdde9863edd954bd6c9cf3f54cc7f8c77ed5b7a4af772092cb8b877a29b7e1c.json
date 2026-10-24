@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Prior to the transfer of the Services to Customer or its designee upon the Effective Date of Termination, Customer shall take all actions required by the applicable Network to effect the transfer.\", \"For at least 120 days following the Effective Date of Termination, Customer shall maintain a settlement account which Metavante may charge to settle any trailing activity which accrues prior to the Effective Date of Termination (including any chargeback of a transaction which is authorized prior to the Effective Date of Termination).\", \"Customer shall pay to Metavante fees to settle such trailing activity in accordance with this Agreement.\", \"Prior to the transfer of the Services to Customer or its designee upon the expiration of the Term of this Agreement, Customer shall inform Visa and/or MasterCard and/or any other applicable Network in writing (with a copy to Metavante) (1) of the transfer of its Bank Identification Number (BIN) or Interbank Card Association Number, or other identifying number (as applicable) to the new processor, and (2) of the new ACH account number for billing purposes.\"]}",
+  "usage": {
+    "completion_tokens": 293,
+    "prompt_tokens": 4980,
+    "total_tokens": 5273,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 52,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4977,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

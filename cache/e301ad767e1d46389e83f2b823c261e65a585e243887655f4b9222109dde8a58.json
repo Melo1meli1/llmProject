@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Client hereby grants to EFS a limited and perpetual right and license to use such photographs and materials for research and forecasting purposes, including, but not limited to, combining the same with reports and analytics concerning the performance of the Websites, providing information to strategic partners to better define consumer purchasing habits, and for trend forecasting and planning purposes.\"]}",
+  "usage": {
+    "completion_tokens": 252,
+    "prompt_tokens": 5121,
+    "total_tokens": 5373,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 162,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5118,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

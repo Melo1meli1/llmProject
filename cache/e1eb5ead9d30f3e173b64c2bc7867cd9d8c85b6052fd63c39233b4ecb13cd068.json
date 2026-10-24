@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Any HOFV Works created pursuant to this Agreement shall exclusively be owned by the Village Media Company; provided, however, that, (i) PFHOF shall own all right, title, interest, and copyright in and to the underlying PFHOF Work(s) as further set forth in Section 2.5 and (ii) the Village Media Company's ownership is subject in all events to any Rights Restrictions and the terms of the license (including the term of such license) granted by PFHOF in connection with such HOFV Work pursuant to Section 2.3.\", \"PFHOF shall own and control all right, title, interest, and copyright in and to the PFHOF Works, including, without, limitation, any and all PFHOF Work(s) utilized by, or incorporated in, any HOFV Work and all of its constituent elements, which shall include, without limitation, all feeds recorded by or on behalf of PFHOF in connection with the production of such PFHOF Work, all event footage contained therein and all information and data concerning such PFHOF Work, and all derivatives of the foregoing (except for derivatives that constitute HOFV Works, which ownership shall be retained by the Village Media Company).\", \"The Village Media Company agrees, on behalf of itself and its Affiliates and their permitted sublicensees, that all uses by the Village Media Company or any of its Affiliates or their respective permitted sublicensees of the PFHOF Work shall inure to the benefit of PFHOF, and any right that may accrue to the Village Media Company, any of its Affiliates or any of their respective permitted sublicensees related thereto and any goodwill associated therewith are hereby granted and assigned to PFHOF or its designee.\"]}",
+  "usage": {
+    "completion_tokens": 376,
+    "prompt_tokens": 5380,
+    "total_tokens": 5756,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5377,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

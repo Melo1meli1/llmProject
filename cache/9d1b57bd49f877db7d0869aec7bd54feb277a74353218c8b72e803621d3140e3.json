@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Except to the extent provided to the contrary herein, as of the Effective Date and during the Term Nexstar shall undertake to pay, discharge and perform on WYZZ's behalf all obligations and liabilities of WYZZ under the WYZZ Contracts to the extent that the obligations and liabilities relate to the time after the Effective Date with respect to WYZZ-TV, as well as WYZZ's obligation to any Transferred Employees for vacation time.\"]}",
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 4306,
+    "total_tokens": 4409,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4303,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

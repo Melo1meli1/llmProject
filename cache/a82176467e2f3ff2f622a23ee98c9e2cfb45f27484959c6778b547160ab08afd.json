@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The terms, provisions, representations, and warranties contained in Sections 3.7, 3.9, 9, 10, 11, 12, and 13 of this Agreement by their terms are intended to survive the performance thereof by either party or both Parties hereunder shall so survive the completion of performance, expiration, termination or cancellation of this Agreement.\", \"Upon the termination or expiration of this Agreement, all obligations and rights of both MBRK and DD hereunder shall terminate, except all obligations and rights (i) to make or receive payments becoming due prior to the date of termination or expiration, (ii) to pay or receive payments for any damages from any breach of the Agreement and (iii) otherwise provided in Section 14 of this Agreement. In addition to the foregoing, upon termination or expiration of this Agreement for any reason, each party shall continue to maintain accurate records necessary to demonstrate compliance with applicable laws, regulations and guidelines, including, without limitation, records relating to MOXATAG promotion to DD Target Segment Prescribers.\", \"If MBRK terminates this Agreement in the first year of the Agreement for any reason, then MBRK will pay DD a) an Early Termination Fee plus b) the End of Agreement Fee. If MBRK terminates the Agreement in years 2 or 3 prior to the period 60 days before the anniversary date, then MBRK will pay DD only the Early Termination Fee. If the Agreement is terminated in years 2 or 3 by MBRK providing notice to DD within 60 days of the then current anniversary date of its intent not to renew, then MBRK will pay DD the End of Agreement Fee but no Early Termination Fee.\"]}",
+  "usage": {
+    "completion_tokens": 372,
+    "prompt_tokens": 5248,
+    "total_tokens": 5620,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5245,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

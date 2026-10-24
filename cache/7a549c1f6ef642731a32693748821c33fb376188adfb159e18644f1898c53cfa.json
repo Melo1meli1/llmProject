@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"No additional payment obligations arising under Article VII hereof shall accrue after the date of expiration or termination of this Agreement except as set forth in Section 7.4; provided, however, that expiration or termination of this Agreement shall not relieve either party of any obligations accruing prior to such expiration or termination. Certain provisions of this Agreement by their terms continue after the expiration or termination of this Agreement. In addition, any other provisions required to interpret and enforce the parties' rights and obligations under this Agreement shall also survive, but only to the extent required for the full observation and performance of this Agreement.\", \"either party's right to obtain performance of any obligations provided for in this Agreement which survive termination by their terms or by a fair interpretation of this Agreement.\", \"Upon the expiration or termination of this Agreement pursuant to this Article VIII, each party shall promptly transfer and return to the other party all Proprietary Information of the other party (provided that each party may keep one copy of such Proprietary Information of for archival purposes only). Upon the expiration or termination of this Agreement, King shall provide to Depomed, at King's out-of-pocket cost therefor, all Promotional Materials in King's possession (including electronic files of all Promotional Materials); provided, however, that King may destroy any printed copies of Promotional Materials bearing the King Trademarks and may remove the King Trademarks from electronic files of Promotional Materials.\"]}",
+  "usage": {
+    "completion_tokens": 297,
+    "prompt_tokens": 4093,
+    "total_tokens": 4390,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4090,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

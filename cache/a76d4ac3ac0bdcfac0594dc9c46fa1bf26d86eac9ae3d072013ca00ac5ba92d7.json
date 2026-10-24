@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"both during the Term and at any and all times thereafter, PAPA JOHN'S has no right to, and PAPA JOHN'S shall not, affix or attach any of the Personality Rights, in any manner, to any of PAPA JOHN'S products or services\", \"If PAPA JOHN'S engages any performance or service of CELEBRITY hereunder in any way that is subject to the jurisdiction of any applicable union, guild or other organization of which CELEBRITY is a member (including, without limitation, SAG-AFTRA), either during or after the Term, then PAPA JOHN'S shall pay, as required by such union, guild or other organization, all minimum (and other, as applicable) payments or fees (or for SAG-AFTRA, minimum pension and welfare contributions) required to be made with respect to PAPA JOHN'S use of the Services hereunder (\\\"Union Fee(s)\\\").\"]}",
+  "usage": {
+    "completion_tokens": 204,
+    "prompt_tokens": 5536,
+    "total_tokens": 5740,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5533,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

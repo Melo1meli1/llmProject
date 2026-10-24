@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"the holders of Registrable Securities shall receive an extension of the registration period under Section 13.1(a)(ii) and 13.1(c) equal to the number of days of the suspension.\"]}",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 4194,
+    "total_tokens": 4253,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4191,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

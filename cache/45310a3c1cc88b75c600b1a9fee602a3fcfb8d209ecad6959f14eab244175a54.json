@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Notwithstanding the provisions of this Section 8(d), the Agent shall not be required to contribute any amount in excess of the amount by which the total price at which the Series A Preferred Stock sold pursuant to this Agreement exceeds the amount of any damages which the Agent has otherwise been required to pay by reason of such untrue or alleged untrue statement or omission or alleged omission.\"]}",
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 4039,
+    "total_tokens": 4166,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4036,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

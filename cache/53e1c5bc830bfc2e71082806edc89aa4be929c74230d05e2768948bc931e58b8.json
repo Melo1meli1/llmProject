@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"EXCEPT FOR BREACHES OR VIOLATIONS OF ARTICLE 9, OR INDEMNITY LIABILITIES ARISING UNDER THIS ARTICLE 8, OR CASES OF GROSS NEGLIGENCE OR WILLFUL MISCONDUCT, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY CONSEQUENTIAL, INDIRECT, SPECIAL, INCIDENTAL OR PUNITIVE DAMAGES INCLUDING LOSS OF USE, REVENUES OR PROFITS, INTERRUPTION OF BUSINESS OR CLAIMS AGAINST EITHER PARTY OR ITS CUSTOMERS BY ANY THIRD PARTY, WHETHER SUCH CLAIM IS BASED IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, EVEN IF THE PARTY IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.\"]}",
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 4096,
+    "total_tokens": 4247,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4093,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

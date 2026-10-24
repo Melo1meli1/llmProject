@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"As between the Parties, Bioeq shall own all Inventions (including Improvements) developed, conceived or reduced to practice during the term of this Agreement solely by or on behalf of Bioeq (such Inventions, Bioeq Inventions, and such Improvements, Bioeq Improvements), and all Intellectual Property Rights and Know-How therein.\",\"As between the Parties, Licensee shall own all Inventions (including Improvements) developed, conceived or reduced to practice during the term of this Agreement solely by or on behalf of Licensee (such Inventions, Licensee Inventions, and such Improvements, Licensee Improvements), and all Intellectual Property Rights and Know-How therein.\",\"As between the Parties, the Parties shall jointly own all Inventions (including Improvements) developed, conceived or reduced to practice jointly by or on behalf of both Bioeq and Licensee (such Inventions, Joint Inventions, and such Improvements, Joint Improvements), and all Intellectual Property Rights and Know-How therein. Each Party hereby assigns to the other Party a joint equal and undivided interest in and to all Joint Inventions (including Joint Improvements) to effect such joint ownership of such Joint Inventions (including Joint Improvements).\"]}",
+  "usage": {
+    "completion_tokens": 325,
+    "prompt_tokens": 4340,
+    "total_tokens": 4665,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4337,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

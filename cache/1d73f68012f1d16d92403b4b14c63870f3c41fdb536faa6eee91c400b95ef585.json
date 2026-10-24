@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"If a Customer notifies Accuray in writing during the Warranty Period of a defect in a Product that causes the Product to fail to conform to the foregoing warranty, Accuray shall at its option either repair or replace the non- conforming Product or, if in Accuray's opinion such repair or replacement is not commercially reasonable, Accuray shall refund a pro-rated portion of the price paid by the Customer for such Product calculated based on a straight-line depreciation over a 5-year period beginning on the date of delivery. This will be Accuray's sole and exclusive obligation and such Customer's sole and exclusive remedy in relation to defective Products and parts.\"]}",
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 4108,
+    "total_tokens": 4260,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4105,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

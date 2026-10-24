@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Each Party will own all of its inventions and other Intellectual Property Rights made under this Agreement, including any patents, patent applications and other Intellectual Property Rights related to such inventions, if any, made solely by its employees or independent contractors or employees or independent contractors of its Affiliates, unless otherwise expressly set forth herein.\", \"The Parties will jointly own all inventions and other Intellectual Property Rights jointly made under this Agreement that are directly resulting from work conducted under this Agreement in accordance with the Development Plan and related specifically to the Product or the Compound Formulation, including any patents, patent applications and other Intellectual Property Rights related to such inventions, if any, unless otherwise expressly set forth herein.\"]}",
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 5126,
+    "total_tokens": 5278,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5123,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

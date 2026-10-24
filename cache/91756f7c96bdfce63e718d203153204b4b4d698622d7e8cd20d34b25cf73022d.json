@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"7.5 Termination of this Agreement is without prejudice to any accrued rights of either party as at the date of termination, including, without limitation, CPDC's right to invoice FUSION pursuant to Section 3.5 for any amounts chargeable pursuant to this Agreement as of the date of termination, or as a result of termination.\", \"7.6 Upon termination of this Agreement for any reason whatsoever: (a) CPDC must immediately return, [***], all of FUSION'S property in CPDC's possession; and (b) all then active Production Orders shall be deemed to have been cancelled by FUSION as of the date of termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 4594,
+    "total_tokens": 4750,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4591,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

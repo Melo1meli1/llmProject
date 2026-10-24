@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Within fifteen (15) days after the end of the Term of the Agreement, FCE will issue an invoice (\\\"9th Inning Invoice\\\") for the actual charges incurred during the last month of the Term of the Agreement, subject to Paragraph 10.01(a). FCE will apply any balance of the Initial Payment remaining after the 8th Inning Invoice as a credit towards the amount due on the 9th Inning Invoice. If after applying such credit, a balance of the Initial Payment still remains, FCE will refund the balance to ExxonMobil within thirty (30) days, unless otherwise mutually agreed (such as the Parties mutually agreeing to enter into a new Project and apply the balance as a credit towards amounts payable by ExxonMobil thereunder).\", \"In addition, if this Agreement is terminated by ExxonMobil, ExxonMobil will pay FCE reasonable non- refundable expenses incurred by FCE in satisfying authorized commitments entered into by FCE with third parties prior to receipt of the termination notice.\"]}",
+  "usage": {
+    "completion_tokens": 396,
+    "prompt_tokens": 5174,
+    "total_tokens": 5570,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 169,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5171,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

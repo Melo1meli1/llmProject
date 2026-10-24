@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"NEITHER KING NOR DEPOMED (WHICH FOR THE PURPOSES OF THIS SECTION 11.2 SHALL INCLUDE THEIR RESPECTIVE AFFILIATES, DIRECTORS, OFFICERS, EMPLOYEES AND AGENTS) SHALL HAVE ANY LIABILITY TO THE OTHER FOR ANY PUNITIVE DAMAGES, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR INDIRECT DAMAGES, RELATING TO OR ARISING FROM THIS AGREEMENT, EVEN IF SUCH DAMAGES MAY HAVE BEEN FORESEEABLE; PROVIDED THAT SUCH LIMITATION SHALL NOT APPLY IN THE CASE OF FRAUD OR WILLFUL MISCONDUCT.\"]}",
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 4081,
+    "total_tokens": 4210,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4078,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

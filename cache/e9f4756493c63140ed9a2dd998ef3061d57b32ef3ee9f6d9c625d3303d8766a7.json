@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Inktomi, at its sole cost and expense, will provide training to Microsoft personnel to the extent requested by Microsoft, to enable such personnel to use and maintain the Microsoft Search Engine, and to create enhancements thereto, with reasonable competence\", \"Inktomi will grant to Microsoft an irrevocable, non-exclusive, royalty-free license to use the Product (and all required underlying Inktomi Technology) solely in connection with Microsoft's operation of the Microsoft Search Engine ... for such period as Microsoft may require to transition its search engine services to non-Inktomi technology (the \\\"Transition Period\\\")\", \"Inktomi will direct the Escrow Agent to release to Microsoft all Confidential Materials held by the Escrow Agent\", \"Inktomi will agree to reimburse Microsoft for all reasonable costs incurred by Microsoft in transitioning its search engine to non-Inktomi technology\", \"Upon expiration of the Transition Period, all rights granted to Microsoft to use the Product ... and/or any Inktomi Technology under the transitional license referred to in clause (iv) or otherwise shall cease, and Microsoft shall immediately return to Inktomi all Confidential Materials (and all copies thereof), provided however that ... the undertaking by Inktomi to indemnify Microsoft and hold it harmless against Taxes as provided in clause (ii) above shall survive any such terminations.\"]}",
+  "usage": {
+    "completion_tokens": 281,
+    "prompt_tokens": 2732,
+    "total_tokens": 3013,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2729,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

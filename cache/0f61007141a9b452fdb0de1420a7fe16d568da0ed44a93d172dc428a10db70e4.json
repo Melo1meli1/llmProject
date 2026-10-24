@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Fox's Intellectual Property Rights shall be indefeasible and irrevocable and shall not be subject to reversion under any circumstance, including cancellation, termination, expiration, or breach of this Agreement.\",\"All copyrights, trademarks and service marks relating to the Properties, PSM Materials, and Fox Intellectual Property, are, will be and shall remain the sole property of Fox and any rights therein granted to Licensee shall terminate immediately upon termination of this Agreement.\",\"Licensee further agrees that it shall not during the Term of this Agreement or at any time thereafter dispute or contest directly or indirectly, or do or cause to be done any act which in any way contests, impairs or tends to impair Fox's exclusive rights and title to the PSM and the Properties, or the validity thereof or the validity of this Agreement, and shall not assist others in so doing.\"]}",
+  "usage": {
+    "completion_tokens": 353,
+    "prompt_tokens": 4224,
+    "total_tokens": 4577,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 162,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4221,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

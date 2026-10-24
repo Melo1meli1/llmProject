@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"In the event of termination or expiration of this Agreement for any reason, Sections 1, 2.3, 4.3, 4.4, 5, 6.1, 7, 8, 9 and 12 shall survive termination. Except as otherwise expressly provided in this Agreement, Inktomi shall turn over to Microsoft all work in progress, software, and any other materials provided by Microsoft to Inktomi under this Agreement promptly following termination or expiration.\"]}",
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 4549,
+    "total_tokens": 4665,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4546,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

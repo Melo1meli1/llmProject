@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In the event of termination of this Agreement, Licensee shall: (i) immediately stop in all respects the sale and distribution of the Wireless Products and provide Fox with a complete inventory report and accounting with payment of all Royalties, and (ii) at Fox's election shall either (A) deliver to Fox all materials related to the Wireless Products or (B) give Fox satisfactory evidence of their destruction.\", \"Fox shall not distribute the Wireless Products after the termination or expiration of this Agreement without obtaining from Licensee a separate license to the Licensee Materials.\", \"Notwithstanding Paragraph 15(b), in the event of termination of this Agreement, Licensee shall have a period of ***** from the date of such termination (unless such termination occurs less than ***** prior to the expiration of this Agreement in which case the time period shall be shortened accordingly so as not to exceed the date of expiration) in which to sell-off existing inventory of Wireless Products already in the Distribution Channels (\\\"Sell Off Period\\\"). Licensee agrees that no additional Wireless Products may be developed or distributed during the Sell Off Period and Licensee agrees to require that any Licensed CSP to comply with this provision. Upon the expiration of the Sell Off Period, Licensee agrees to destroy all such remaining inventory and confirm same in writing to Fox (and require that any Licensed CSP do the same). Any revenues, credits or other consideration received by Licensee for the Wireless Products during the Sell Off Period will be subject to Licensee's obligation to pay Fox Royalties pursuant to Paragraph 7 above.\", \"In the event of termination or expiration of this Agreement or Licensee's loss of exclusive rights under this Agreement, Fox shall be free to create and exploit, or have a third party create or exploit, wireless products which may be similar to those developed and distributed by Licensee pursuant to this Agreement for the Properties.\", \"In the event of termination of this Agreement and without limitation of Fox's rights and remedies all of which are expressly reserved, the following payment penalties shall apply: (i) if termination occurs in the first year of the Term, Licensee shall forfeit any Guarantee paid, and shall immediately pay any remaining Guarantee, up to the amount of ***** dollars (US$*****), and any Guarantee payments made in excess of ***** dollars ($*****) shall be refunded by Fox to Licensee; and (ii) if termination occurs in the second year of the Term, Licensee shall forfeit any Guarantee paid, and shall immediately pay any remaining portion of the Guarantee then unpaid, up to the amount of ***** dollars (US$*****). Any forfeited Guarantees will apply as a set off against any additional damages claimed by Fox.\"]}",
+  "usage": {
+    "completion_tokens": 555,
+    "prompt_tokens": 4417,
+    "total_tokens": 4972,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4414,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

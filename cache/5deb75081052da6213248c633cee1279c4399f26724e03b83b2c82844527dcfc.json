@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"To the extent that EFS is deemed to obtain any interest or ownership rights in the Client Property, EFS hereby assigns, transfers and conveys to Client, to the maximum extent permitted by applicable Law, all of EFS' right, title and interest therein used or created by EFS under or in connection with this Agreement so that Client will be the sole owner of all rights therein and further agrees to cooperate with Client during and after the Term to effect and perfect all assignments.\", \"To the extent that Client is deemed to obtain any interest or ownership rights in the EFS Property, Client hereby assigns, transfers and conveys to EFS, to the maximum extent permitted by applicable Law, all of Client's right, title and interest therein used by Client under or in connection with this Agreement so that EFS will be the sole owner of all rights therein and further agrees to cooperate with EFS during and after the Term to effect and perfect all assignments.\"]}",
+  "usage": {
+    "completion_tokens": 418,
+    "prompt_tokens": 5076,
+    "total_tokens": 5494,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 205,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5073,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

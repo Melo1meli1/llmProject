@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The obligations under this Section 3.2 shall survive termination of this Agreement for the life of any applicable City Rights Agreement or similar license. In any sale of a fiber ring, any transferee must agree to assume these obligations from Buyer.\"]}",
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 3885,
+    "total_tokens": 4001,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 46,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3882,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"CONTRACTOR'S LIABILITY IS FURTHER LIMITED IN ANY EVENT, UNDER ANY LAW, RULE OR REGULATION, TO ANY AMOUNT IT ACTUALLY RECEIVED IN CONSIDERATION OF THE MANUFACTURING SUBJECT MATTER OF THE RESPECTIVE CLAIM OR DEMAND BY CUSTOMER OR ANY THIRD PARTY.\"]}",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 4224,
+    "total_tokens": 4303,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4221,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

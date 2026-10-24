@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Subject to earlier termination as provided below, this Service Agreement is for the total duration of the Company's Offering (the \\\"Initial Term\\\") unless either party requests termination at least 30 days prior to the end of the then-current term.\"]}",
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 2375,
+    "total_tokens": 2439,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2372,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

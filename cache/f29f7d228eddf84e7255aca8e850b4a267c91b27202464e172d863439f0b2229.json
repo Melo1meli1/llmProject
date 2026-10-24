@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"In the event of termination of this Agreement for any reason, Distributor will not do anything to unreasonably harm the goodwill of Accuray.\",\"The expiration or termination of this Agreement for any reason will not release either party from any liabilities or obligations set forth herein which (i) the parties have expressly agreed will survive any such expiration or termination; or (ii) remain to be performed or by their nature would be intended to be applicable following any such termination or expiration.\",\"In addition to the foregoing, the following provisions shall survive any termination or expiration of this Agreement: Section 3.8 (Warranty); Section 3.11 (Compliance with Laws); Section 4.6 (Warranty); Section 6.2 (Effect of Termination); Section 6.3 (No Termination Compensation); Section 6.4 (Accruals); Section 7 (Dispute Resolution); Section 8 (Confidentiality); Section 9 (Intellectual Property Rights); Section 10 (Indemnities), Section 11 (Liability) and Section 12 (Miscellaneous Provisions).\"]}",
+  "usage": {
+    "completion_tokens": 402,
+    "prompt_tokens": 4270,
+    "total_tokens": 4672,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 158,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4267,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Inktomi shall keep true and accurate books and records, in accordance with Generally Accepted Accounting Principles (\\\"GAAP\\\"), relating to all costs and expenses for which Inktomi is entitled to charge Microsoft pursuant to Section 4.1 above, throughout the Term and for eighteen (18) additional months thereafter.\",\"If Microsoft terminates this Agreement without cause pursuant to this Section 10.2, then Microsoft will pay for all services provided by Inktomi up until the date of termination under this Section 10.2.\",\"Notwithstanding anything contained herein to the contrary, should Microsoft exercise its termination right pursuant to this Section 10.2, then Inktomi will have the right to elect, in writing within fifteen (15) days after receipt of Microsoft's notice of termination hereunder, either one of the following two options for a early termination penalty:\",\"Inktomi may require Microsoft to pay to Inktomi, in [*] immediately following the effective termination date, an amount equal to [*] ([*]) of all outstanding principal, interest and other amounts owed or owing to Microsoft by Inktomi on the date of termination under the Loan Agreement (and outstanding Promissory Notes issued thereunder);\",\"Inktomi may deliver that portion of the Collateral (as defined in the Loan Agreement) which was purchased with Advances evidenced by the then-outstanding Promissory Notes (as defined in the Loan Agreement) (the \\\"Returned Collateral\\\") to Microsoft, and assign all right, title and interest in and to said Returned Collateral to Microsoft, and promptly upon such delivery and assignment Inktomi may require Microsoft to pay to Inktomi, in [*] immediately following the effective date of termination, an amount equal to [*] ([*]) of all outstanding principal, interest and other amounts owed or owing to Microsoft by Inktomi on the date of termination under the Loan Agreement (and outstanding Promissory Notes issued thereunder);\",\"In the event Inktomi elects this alternative (b), the Security Agreement executed in connection with the Loan Agreement shall terminate on the business day immediately following the date of delivery and assignment of all the Returned Collateral to Microsoft.\"]}",
+  "usage": {
+    "completion_tokens": 459,
+    "prompt_tokens": 4667,
+    "total_tokens": 5126,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4664,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

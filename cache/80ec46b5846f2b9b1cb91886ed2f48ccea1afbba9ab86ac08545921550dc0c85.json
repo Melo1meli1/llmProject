@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The initial term of this Agreement shall be for 3 years (the \\\"Initial Term\\\") commencing on the date first set forth above (the \\\"Commencement Date\\\") and ending on the 3rd anniversary of the Commencement Date. This Agreement will automatically renew for successive one year terms (each a \\\"Renewal Term\\\", and together with the Initial Term, the \\\"Term\\\"), unless either Charterer or Owner elects not to renew this Agreement by providing the other party with written notice of such election 30 days prior to the expiration of the Initial Term or Renewal Term, as applicable, at which point this Agreement will automatically terminate.\"]}",
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 3009,
+    "total_tokens": 3155,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3006,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

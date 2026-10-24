@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Each of ISO's and Bank's rights shall survive the termination of this Agreement by either party and for whatever cause.\",\"The provisions of this Section 6 shall survive the termination or expiration of this Agreement.\",\"upon termination of ISO's performance under the Program, to immediately cease any and all use of V/MC Systems and promptly thereafter deliver to SERVICERS all V/MC Confidential Information then in the possession or control of ISO\"]}",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 4116,
+    "total_tokens": 4216,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4113,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

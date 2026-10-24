@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"any and all rights, title and interest in any Intellectual Property Rights resulting from any development made by Dexcel which is related to the Product and embodied in the Deliverables or conceived in connection with the services provided hereunder by Dexcel to Kitov, which is only applicable for the manufacture, research, development, making of, use, sale, production, commercialisation and distribution of the Product, shall be jointly and equally (50%/50%) owned by Dexcel and Kitov\"]}",
+  "usage": {
+    "completion_tokens": 190,
+    "prompt_tokens": 1713,
+    "total_tokens": 1903,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 1710,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

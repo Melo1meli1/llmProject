@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In each jurisdiction in which the Securities have been so qualified, the Company, the MHCs and the Bank will file such statements and reports as may be required by the laws of such jurisdiction to continue such qualification in effect for a period of not less than one year from the effective date of the Registration Statement.\", \"During the period ending on the third anniversary of the expiration of the fiscal year during which the closing of the transactions contemplated hereby occurs, the Company will furnish to its stockholders as soon as practicable after the end of each such fiscal year an annual report\", \"During the period ending on the fifth anniversary of the expiration of the fiscal year during which the closing of the transactions contemplated hereby occurs, the Company will furnish to the Agent\", \"The Company will maintain the effectiveness of the Exchange Act Registration Statement for not less than three years and will comply in all material respects with its filing obligations under the Exchange Act.\", \"During the period beginning on the date hereof and ending on the later of the fifth anniversary of the Closing Time or the date on which the Agent receives full payment in satisfaction of any claim for indemnification or contribution to which it may be entitled pursuant to Sections 6 or 7, respectively, none of the Company, the MHCs or the Bank shall, without the prior written consent of the Agent, take or permit to be taken any action that could result in the Bank Common Stock becoming subject to any security interest, mortgage, pledge, lien or encumbrance.\", \"During the period ending on the first anniversary of the Closing Time, the Bank will comply with all applicable laws and regulations necessary for the Bank to continue to be a \\\"qualified thrift lender\\\" within the meaning of 12 U.S.C. Section 1467a(m).\"]}",
+  "usage": {
+    "completion_tokens": 373,
+    "prompt_tokens": 4109,
+    "total_tokens": 4482,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4106,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"In the event of expiration or termination of this Agreement, Distributor shall immediately discontinue all use of Accuray's trademarks except for the sale of Distributor's inventory of Products.\",\"then Accuray or Distributor may terminate this Agreement with respect to such Product and Accuray shall credit to Distributor a pro-rated portion of the amount paid for such Product based on a straight-line depreciation calculated over a 5-year period beginning on the date of delivery of the Product, provided that all units of such Product are returned to Accuray in an undamaged condition.\",\"In the event of termination of this Agreement for any reason, Distributor will not do anything to unreasonably harm the goodwill of Accuray.\"]}",
+  "usage": {
+    "completion_tokens": 520,
+    "prompt_tokens": 4451,
+    "total_tokens": 4971,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 359,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4448,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

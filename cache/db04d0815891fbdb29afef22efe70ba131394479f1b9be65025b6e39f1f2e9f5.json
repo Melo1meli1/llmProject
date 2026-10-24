@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"All Usage Data shall be owned jointly by Microsoft and Inktomi, and Inktomi hereby irrevocably assigns to Microsoft an [*] interest therein.\"]}",
+  "usage": {
+    "completion_tokens": 176,
+    "prompt_tokens": 4156,
+    "total_tokens": 4332,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 122,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4153,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

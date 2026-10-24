@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"If performance of the obligations by any Party under this Contract have been delayed for a period of 3 months, the other Party shall be entitled to terminate this Contract thereafter by giving notice to that effect to the Party claiming relief under Section 10, with obligatory accounts settling.\"]}",
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 1496,
+    "total_tokens": 1628,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 56,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 1493,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

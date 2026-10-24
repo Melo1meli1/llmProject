@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The Company shall indemnify, defend with counsel reasonably acceptable to JHU, and hold JHU, The Johns Hopkins Health Systems, their representatives including but not limited to present and former, trustees, officers, Inventors, agents, faculty, employees and students harmless as against any judgments, fees, expenses, or other costs arising from or incidental to any product liability or other lawsuit, claim, demand or other action brought as a consequence of the practice of said inventions by any of the foregoing entities, whether or not JHU or said Inventors, either jointly or severally, is/are named as a party defendant in any such lawsuit. The obligation of the Company to defend and indemnify as set out in this Paragraph 9.7 shall survive the termination of this Agreement and shall not be limited by any other limitation of liability elsewhere in the Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 276,
+    "prompt_tokens": 4359,
+    "total_tokens": 4635,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4356,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

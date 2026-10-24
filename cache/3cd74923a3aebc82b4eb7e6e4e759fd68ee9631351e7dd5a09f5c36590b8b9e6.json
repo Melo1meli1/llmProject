@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Neither party shall be liable to the other for temporary failure to perform hereunder, if such failure is caused by reason of an Act of God, tempest, satellite circuit failure, labour dispute, strike, temporary or permanent breakdown of facilities, fire, flood, Applicable Law, civil disturbance, or any other cause beyond the parties' respective control.\"]}",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 2520,
+    "total_tokens": 2606,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2517,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

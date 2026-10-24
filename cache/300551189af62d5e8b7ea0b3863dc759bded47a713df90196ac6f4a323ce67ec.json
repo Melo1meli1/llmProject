@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The liability of either party for damages or alleged damages hereunder, whether in contract, tort or any other legal theory, is limited to, and will not exceed, the amounts to be paid by Client to Excite hereunder.\"]}",
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 3914,
+    "total_tokens": 3976,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3911,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

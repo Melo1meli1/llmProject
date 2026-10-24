@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"This Agreement shall terminate (a) at the option of any party, upon 90 days' advance written notice to the other parties hereto; or (b) in the event of a material breach that has not been cured within ten days following a written notice of breach to the breaching party.\"]}",
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 3984,
+    "total_tokens": 4060,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3981,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

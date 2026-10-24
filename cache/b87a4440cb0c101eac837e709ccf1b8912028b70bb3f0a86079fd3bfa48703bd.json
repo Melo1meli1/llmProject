@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"If this Agreement is terminated any unvested shares will be returned to MKOS.\", \"Neither termination nor completion of the assignment shall affect the provisions of this Agreement, and the Indemnification Provisions that are incorporated herein, which shall remain operative and in full force and effect.\", \"The benefits of the Agreement shall inure to the respective successors and assignees of the parties and assigns and representatives, and the obligations and liabilities assumed in this Agreement by the parties hereto shall be binding upon their respective successors and assigns;\"]}",
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 4106,
+    "total_tokens": 4229,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4103,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

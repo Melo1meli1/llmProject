@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Except for the obligation of indemnity as set forth in Section 6.1 (c) with respect to claims by third parties for personal injury, illness or death (but not including property damage) resulting from the manufacture of the Product by BPC, aggregate damages for which ADMA shall be liable to Sanofi Pasteur hereunder, including without limitation costs of Source Plasma yield loss and/or rejected Batches, shall not exceed [***].\",\"All claims by Sanofi Pasteur for breach or default under this Agreement shall be brought within [***] year after the cause of action comes into existence or otherwise shall be waived.\"]}",
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 3508,
+    "total_tokens": 3650,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3505,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

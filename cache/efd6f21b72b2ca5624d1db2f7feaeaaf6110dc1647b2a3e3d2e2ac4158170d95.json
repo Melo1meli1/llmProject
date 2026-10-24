@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Upon termination of the Agreement, each party shall immediately cease using any materials using the other's Marks or Intellectual Property, and shall immediately destroy all such materials.\",\"The provisions of this Section 9 shall survive the termination or expiration of this Agreement.\",\"Upon the expiration or termination of this Agreement for any reason, at the direction of ISO and pursuant to the plan of Deconversion, SERVICERS will transfer and assign all their interest in the Merchant Portfolio (including Merchant Processing Agreements and Merchant Accounts) and the dedicated BINs/ICAs to a Visa and MasterCard Member designated by ISO, provided first that: (a) all amounts due (or estimated to become due) in connection with each Merchant Processing Agreement and under this Agreement have been paid to SERVICERS; (b) the Termination Reserve Account has been adequately funded; (c) ISO provides full written indemnities to SERVICERS regarding actual and potential losses or other obligations arising out of operation of the Program or arising out of, or related to, this Agreement or any Merchant Processing Agreement; and (d) the Program Transfer complies with all applicable Rules, laws and regulations (the \\\"Program Transfer\\\").\",\"Until the completion of the Deconversion of the Merchant Portfolio, the parties shall continue to operate under the terms and conditions of this Agreement; provided, however, that upon the effective date of expiration or termination of this Agreement, ISO will promptly discontinue its promotion and recommendation of the Program and will cease to board new accounts on Bank's BINs and ICAs or for sponsorship by Bank.\",\"ISO will reimburse SERVICERS for any Deconversion pursuant to the plan for Deconversion, regardless of whether such Deconversion occurs before or after the expiration or termination of this Agreement.\",\"ISO shall continue to hold all risks associated with transactions processed by SERVICERS prior to the effective date of Deconversion of each respective Merchant in the Merchant Portfolio, including all risk relating to chargebacks and fraudulent transactions. ISO shall pay SERVICERS any amounts associated with such risks immediately upon demand.\",\"The Termination Reserve Account will be held by SERVICERS until the completion of the Program Transfer or for such longer period of time as is consistent with SERVICERS' liability for Bank Card transactions in accordance with the Rules.\"]}",
+  "usage": {
+    "completion_tokens": 611,
+    "prompt_tokens": 5068,
+    "total_tokens": 5679,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 140,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5065,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

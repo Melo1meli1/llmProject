@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"\\\"Termination Reserve Account\\\" shall mean a reserve account to be established upon notice of termination of this Agreement to insure the payment of chargebacks and credit/fraud losses related to transactions with an acquirer's processing date on or before the effective date of termination of this Agreement, fees and other amounts which may become due to SERVICERS following termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 4083,
+    "total_tokens": 4173,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4080,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The appointment of the Agent hereunder shall terminate upon the earlier to occur of (a) forty-five (45) days after the last day of the Subscription and Community Offering, unless the Company and the Agent agree in writing to extend such period and the OTS agrees to extend the period of time in which the Securities may be sold, or (b) the receipt and acceptance of subscriptions and purchase orders for all of the Securities, or (c) the completion of the Syndicated Community Offering.\"]}",
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 4133,
+    "total_tokens": 4248,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4130,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

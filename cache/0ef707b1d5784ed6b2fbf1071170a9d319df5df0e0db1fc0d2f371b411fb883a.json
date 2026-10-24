@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Any Product Customizations made by IAC or an IAC Subcontractor shall be on a \\\"work for hire\\\" (using the meaning given to such term under United States copyright law) basis to the maximum extent permissible under applicable law, and all Intellectual Property Rights therein shall be owned solely by Sonos.\",\"Sonos Property shall mean (i) all items provided by Sonos or its Affiliates, (ii) any and all Technology developed by Sonos and/or its Affiliates prior to the Effective Date, independent of performance of this Agreement or in the course of performance of this Agreement, (iii) the Products and Product Customizations (including software as further described in the Statement of Work), and (iv) all Intellectual Property Rights related to any of the foregoing.\",\"Except for preexisting IAC Property and any third party's Intellectual Property, IAC shall and does hereby irrevocably assign, and shall and does cause IAC Affiliates and IAC Subcontractors to irrevocably assign, to\"]}",
+  "usage": {
+    "completion_tokens": 388,
+    "prompt_tokens": 4503,
+    "total_tokens": 4891,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 163,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4500,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

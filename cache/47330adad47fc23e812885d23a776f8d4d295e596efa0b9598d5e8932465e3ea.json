@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Customer's liability with respect to any and all demand signals provided by Customer, including but not limited to \\\"purchase orders,\\\" \\\"forecasts,\\\" \\\"schedules,\\\" \\\"pick lists,\\\" with respect to any Products manufactured, produced, procured, stored or delivered by Contractor, including, but not limited to, any direct or indirect costs related thereto or related to components, work in progress and/or raw materials shall be limited to the amounts set forth in this Section 8 with respect to finished Products and in Section 6 concerning components, work in progress and/or raw materials.\"]}",
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 4079,
+    "total_tokens": 4211,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4076,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Inktomi will grant to Microsoft an irrevocable, non-exclusive, royalty-free license to use the Product (and all required underlying Inktomi Technology) solely in connection with Microsoft's operation of the Microsoft Search Engine (which license shall include the right to create enhancements and other derivative works based thereon for use in conjunction therewith) for such period as Microsoft may require to transition its search engine services to non-Inktomi technology (the \\\"Transition Period\\\"), and Inktomi will waive all royalties otherwise payable pursuant to the Software Development Agreement and/or the Information Services Agreement between the parties of even date herewith; for the purposes of this clause (iv), the Transition Period will commence at such time as Microsoft assumes control over said separate cluster and begins itself operating the Microsoft Search Engine, and will continue thereafter for eighteen months (18) or until the termination of the Software Development Agreement and Information Services Agreement (whichever is longer);\", \"Upon expiration of the Transition Period, all rights granted to Microsoft to use the Product (other than Microsoft Technology, Joint Derivative Technology and the Microsoft Derivative Technology) and/or any Inktomi Technology under the transitional license referred to in clause (iv) or otherwise shall cease, and Microsoft shall immediately return to Inktomi all Confidential Materials (and all copies thereof), provided however that, notwithstanding any provision of the Ancillary Agreements to the contrary, the undertaking by Inktomi to indemnify Microsoft and hold it harmless against Taxes as provided in clause (ii) above shall survive any such terminations.\"]}",
+  "usage": {
+    "completion_tokens": 327,
+    "prompt_tokens": 3675,
+    "total_tokens": 4002,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3672,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

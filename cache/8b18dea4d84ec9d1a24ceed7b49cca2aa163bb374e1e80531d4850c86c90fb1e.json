@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Licensee acknowledges and agrees that, as between the parties, Licensor is the sole owner of all right, title and interest in and to the Brand.\", \"The parties intend that any and all goodwill in the Brand arising from Licensee's or any applicable sublicensees' Permitted Activity shall inure solely to the benefit of Licensor.\", \"Notwithstanding the foregoing, in the event that Licensee or any sublicensee is deemed to own any rights in the Brand, Licensee hereby irrevocably assigns (or shall cause such sublicensees to assign), without further consideration, such rights to Licensor together with all goodwill associated therewith.\"]}",
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 3700,
+    "total_tokens": 3846,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3697,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

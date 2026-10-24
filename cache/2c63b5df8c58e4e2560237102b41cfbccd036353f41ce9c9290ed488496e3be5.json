@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The foregoing obligations of Wildform shall be limited to a maximum of forty (40) hours, or up to a maximum of two hundred twenty (220) emails, whichever accumulates first.\", \"The foregoing obligations of Wildform, following the initial thirty (30) day period, shall be limited to a maximum of thirty (30) hours, or up to a maximum of two hundred (200) emails, whichever accumulates first.\", \"The foregoing obligations of Wildform, following the initial 30 day period, shall be limited to a maximum of twenty (20) hours, or up to a maximum of one hundred twenty five (125) emails, whichever accumulates first.\", \"The foregoing obligations of Wildform shall be limited to a maximum of forty five (45) hours, or up to a maximum of three hundred (300) emails, whichever accumulates first.\", \"The foregoing obligations of Wildform, shall be limited to a maximum of forty (40) hours, or up to a maximum of two hundred twenty (220) emails, whichever accumulates first.\"]}",
+  "usage": {
+    "completion_tokens": 233,
+    "prompt_tokens": 4527,
+    "total_tokens": 4760,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4524,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

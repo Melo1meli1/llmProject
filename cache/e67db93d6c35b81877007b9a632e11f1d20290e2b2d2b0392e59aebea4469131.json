@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Fox shall not distribute the Wireless Products which have been developed by Licensee prior to such termination, without first obtaining a license from Licensee on terms to be mutually agreed in each party's reasonable discretion, for the exploitation of the Licensee Materials.\", \"Licensee hereby grants all licenses to Fox to enable Fox to provide Wireless Products to VGSL and T-Mobile for distribution to VGSL and T-Mobile subscribers outside of the United States in accordance with the terms of this Agreement\", \"Licensee hereby grants Fox a license to the Licensee Materials in order for Fox to distribute the Wireless Products that Licensee has developed for distribution in Japan prior to such termination, either directly or through a third-party.\"]}",
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 4312,
+    "total_tokens": 4468,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4309,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

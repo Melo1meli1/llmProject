@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"16. Effect of Termination\\n16.1 in the case of termination, unless otherwise stipulated and subject to Customer fulfillments of all its payments obligations under this Agreement, Contractor will deliver all Products, materials to Customer and Customer will pay all amounts due under this Agreement, for all Products, materials mentioned on a Purchase Order or Change Order accepted by Contractor before expiration or termination date.\",\"16.2 Except where the termination is a result of Contractor's material default Customer agrees to compensate Contractor for Products and materials as stipulated in Sections 6 and 8 of this Agreement.\",\"16.3 Each party will promptly return to the other party, all. technical documentation (e.g. drawings, work instructions, data and design sheets) and/or Confidential Documents related to the present Agreement\",\"16.4 Subject to Customer fulfillments of all its obligations under this Agreement, Contractor will return to customer all consigned materials, equipment and tooling stipulated in section 7.5 of this Agreement.\",\"If such Claim is brought, or Customer in good faith determines a Claim is likely to be made, Customer shall notify Contractor and either: (1) procure for Contractor the right to continue to perform this Agreement; (2) modify the Specification so that there will no longer be an infringement or misappropriation or (3) terminate this Agreement and pay Contractor the consideration due under this Agreement for all services performed until the date of termination, including all payments set forth in Sections 6 and 8.\",\"20.2 During the Term, of this Agreement and for an additional period of two (2) years from the date of termination of this Agreement, the Contractor undertakes not to develop on its own account any Product.\"]}",
+  "usage": {
+    "completion_tokens": 551,
+    "prompt_tokens": 4387,
+    "total_tokens": 4938,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 191,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4384,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

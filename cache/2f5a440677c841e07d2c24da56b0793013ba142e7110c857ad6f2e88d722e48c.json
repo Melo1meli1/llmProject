@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The recipient party agrees to take all reasonable precaution to prevent disclosure of such information to third parties. The recipient party shall hold in confidence any technical or business information the recipient party may learn, observe or otherwise obtain concerning the other party hereto, or of its Affiliates, incident to the recipient party's performance under the terms of this Agreement. The rights and obligations of the parties hereto pursuant to Sections 12, 13, 15, 16, 18, and 19 shall survive the Term.\",\"Should FCC fail (due to causes within FCC's control) to meet Flotek's Terpene Product orders made in accordance with this Agreement, FCC shall be required (without limiting any other remedy of Flotek) to take all reasonable steps, including but not limited to working extra hours, shifts, or days to without otherwise limiting the remedies of Flotek, to fulfill FCC's obligations hereunder. The rights and obligations of the parties hereto pursuant to Sections 12, 13, 15, 16, 18, and 19 shall survive the Term.\",\"FCC will defend, indemnify and hold harmless Flotek, its Affiliates, and their respective officers and employees from all claims, actions, losses, damages and expenses resulting from any injury to persons, damage to property or action by any regulatory agency, arising out of or in any way associated with the operation of the Facility or any other facility of FCC, including, without limitation, injuries to FCC's employees involved in these operations REGARDLESS OF THE NEGLIGENCE OF ANY OF THE INDEMNIFIED PARTIES. The rights and obligations of the parties hereto pursuant to Sections 12, 13, 15, 16, 18, and 19 shall survive the Term.\",\"Each party hereto agrees to indemnify the other party hereto, its Affiliates, subsidiaries, successors, assigns and their respective directors, officers, shareholders and employees and defend and save and hold each of them harmless from all liabilities, losses, claims, demands, assessments, fines, costs or expenses (including, without limitation, reasonable attorneys' and consultants' fees and expenses) of every kind, nature or description arising under common law or any applicable environmental law resulting from, arising out of or relating to any conditions or activities at or involving the premises of the indemnifying party REGARDLESS OF THE NEGLIGENCE OF ANY OF THE INDEMNIFIED PARTIES. The rights and obligations of the parties hereto pursuant to Sections 12, 13, 15, 16, 18, and 19 shall survive the Term.\",\"FCC warrants to Flotek that: all of the Terpene Product supplied by FCC to Flotek shall conform to the specifications set forth in Section 1; comply with all relevant laws and regulations; be in good condition at the time of delivery in all respects; and be free from any defect in design, workmanship, materials and packaging; and it shall convey to Flotek good title to the Terpene Product free of any encumbrance, lien or security interest. The rights and obligations of the parties hereto pursuant to Sections 12, 13, 15, 16, 18, and 19 shall survive the Term.\"]}",
+  "usage": {
+    "completion_tokens": 919,
+    "prompt_tokens": 4236,
+    "total_tokens": 5155,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 245,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4233,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Fox shall own all Intellectual Property Rights in and to any derivative works made from the Properties, whether or not used in the Wireless Products, including without limitation design documents, graphics, animation, music, packaging, advertising, promotional and other artwork used in connection with the development and distribution of the Wireless Products but at all times excluding the Licensee Materials as defined in Paragraph 11(c) below (collectively, the \\\"Fox Intellectual Property\\\").\",\"Licensee further agrees to execute one or more copyright assignments at Fox's request, or any other subsequent document as further evidence of this assignment, and to cooperate with Fox in perfecting the assignment of any rights to the Fox Intellectual Property\",\"Licensee owns and shall retain all right, title, and interest in and to (i) all software source code, tools, and technical documentation used by or for Licensee to create the Wireless Products, including without limitation any and all software code included in the Wireless Products, (ii) all aspects and elements of the Wireless Products other than the Fox Intellectual Property therein, including without limitation any and all gaming engines, game concepts, rules, scripts, and other Intellectual Property Rights therein; and (iii) any and all Intellectual Property Rights in any of the foregoing (the \\\"Licensee Materials\\\").\",\"Licensee hereby does irrevocably transfer and assign to Fox any and all Moral Rights that Licensee may have in Fox's Intellectual Property Rights in and to the PSM and the Fox Intellectual Property and any derivative works thereof\"]}",
+  "usage": {
+    "completion_tokens": 449,
+    "prompt_tokens": 4887,
+    "total_tokens": 5336,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 126,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4884,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

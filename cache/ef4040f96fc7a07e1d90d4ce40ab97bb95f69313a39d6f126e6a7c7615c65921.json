@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"This Agreement may be terminated by Nexstar by written notice to WYZZ (i) any time upon six (6) months prior notice, ...; provided, no notice may be given pursuant to clause (i) of this section prior to the eighteen (18) month anniversary of the Effective Date.\", \"This Agreement may be terminated by WYZZ by written notice to Nexstar (i) at any time upon six (6) months prior written notice, ...; provided, no notice may be given pursuant to clause (i) of this section prior to the eighteen (18) month anniversary of the Effective Date.\"]}",
+  "usage": {
+    "completion_tokens": 292,
+    "prompt_tokens": 4210,
+    "total_tokens": 4502,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 145,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4207,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

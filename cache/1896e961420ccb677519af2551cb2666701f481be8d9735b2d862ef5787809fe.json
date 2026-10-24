@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The obligations of this Section 13 shall survive termination of this Agreement.\",\"If within one (1) year from the date of completion of Work acceptance, or within one (1) year from the completion of all other work or services and acceptance by EDGE (or within any longer materials warranty period as set forth above), any defects exists or arise, then in each case upon receipt of notice of such defect, Subcontractor shall (unless EDGE chooses another remedy) promptly cause such defect(s) to be repaired or remedied at Subcontractor's sole cost and expense\"]}",
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 4212,
+    "total_tokens": 4341,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4209,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

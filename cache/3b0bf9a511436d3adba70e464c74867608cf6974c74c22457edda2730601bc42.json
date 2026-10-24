@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Notwithstanding any termination of this Agreement, the Administrator may require the Trust to continue to make available additional shares of the Fund for so long after the termination of this Agreement as the Administrator desires pursuant to the terms and conditions of this Agreement as provided in paragraph (b) below, for all Contracts in effect on the effective date of termination of this Agreement (hereinafter referred to as \\\"Existing Contracts\\\"), unless such further sale of Fund shares is proscribed by law, regulation or an applicable regulatory body. Specifically, without limitation, the owners of the Existing Contracts shall be permitted to direct reallocation of investments in the Fund, redeem investments in the Fund and/or invest in the Fund upon the making of additional purchase payments under the Existing Contracts unless such further sale of Fund shares is proscribed by law, regulation or an applicable regulatory body.\",\"The Trust shall remain obligated to pay Administrator the fee in effect as of the date of termination for so long as shares are held by the Accounts and Administrator continues to provide services to the Accounts. Such fee shall apply to shares purchased both prior to and subsequent to the date of termination.\"]}",
+  "usage": {
+    "completion_tokens": 379,
+    "prompt_tokens": 2648,
+    "total_tokens": 3027,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 134,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2645,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

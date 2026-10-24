@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"DD agrees that any Intellectual Property Rights associated with Promotional Materials developed under this Agreement shall be the exclusive property of MBRK.\",\"All trademarks, service marks or logos developed under this Agreement shall be the exclusive property of MBRK.\",\"DD hereby sells, assigns and transfers to MBRK and MBRK shall be the exclusive owner, assignee, and transferee of the entire right, title and interest, including all renewals for the entire world, in and to all work performed and work product developed or produced under this Agreement\"]}",
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 4265,
+    "total_tokens": 4387,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4262,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In the event of termination of this Agreement, Licensee shall: (i) immediately stop in all respects the sale and distribution of the Wireless Products and provide Fox with a complete inventory report and accounting with payment of all Royalties, and (ii) at Fox's election shall either (A) deliver to Fox all materials related to the Wireless Products or (B) give Fox satisfactory evidence of their destruction.\", \"in the event of termination of this Agreement, Licensee shall have a period of ***** from the date of such termination (unless such termination occurs less than ***** prior to the expiration of this Agreement in which case the time period shall be shortened accordingly so as not to exceed the date of expiration) in which to sell-off existing inventory of Wireless Products already in the Distribution Channels\", \"Upon the expiration of the Sell Off Period, Licensee agrees to destroy all such remaining inventory and confirm same in writing to Fox (and require that any Licensed CSP do the same).\", \"Any revenues, credits or other consideration received by Licensee for the Wireless Products during the Sell Off Period will be subject to Licensee's obligation to pay Fox Royalties pursuant to Paragraph 7 above.\", \"Each party agrees to use reasonable efforts, and at least the same care that it uses to protect its own confidential information of like importance, to prevent unauthorized dissemination and disclosure of the other party's confidential information during and for a period of three (3) years after the Term.\"]}",
+  "usage": {
+    "completion_tokens": 399,
+    "prompt_tokens": 4236,
+    "total_tokens": 4635,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4233,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

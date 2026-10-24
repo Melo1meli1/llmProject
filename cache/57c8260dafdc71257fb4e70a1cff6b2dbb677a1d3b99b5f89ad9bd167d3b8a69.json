@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"During your employment with the Company and thereafter, without limit in time, you shall at the request and expense of the Company, promptly assist the Company:\", \"Whenever requested to do so by the Company and in any event on the termination or expiry of this Agreement, you shall promptly deliver to the Company all correspondence, documents, papers and records on all media (and all copies or abstracts of them), recording or relating to any part of the Works and the process of their creation which are in your possession, custody or power.\", \"During your employment with the Company and thereafter without limit in time you shall at the request and expense of the Company promptly execute and do all acts, matters, documents and things necessary or desirable to give the Company the full benefit of the provision of this paragraph 15.\", \"During the term of your employment and at all times thereafter subject always to your obligations to third parties, you shall furnish such information and proper assistance to the Company or any Group Companies as it or they may reasonably require in connection with the Company's intellectual property (including without limitation applying for, defending, maintaining and protecting such intellectual property) and in connection with litigation in which it is or they are or may become a party.\", \"The Company shall reimburse you for all reasonable out of pocket expenses incurred by you in furnishing such information and assistance and in the event you are no longer employed by the Company a reasonable daily rate (as agreed between you and the Company for such assistance).\", \"For the avoidance of doubt the obligations under this paragraph 16 shall continue notwithstanding the termination of your employment with the Company.\"]}",
+  "usage": {
+    "completion_tokens": 336,
+    "prompt_tokens": 4047,
+    "total_tokens": 4383,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4044,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

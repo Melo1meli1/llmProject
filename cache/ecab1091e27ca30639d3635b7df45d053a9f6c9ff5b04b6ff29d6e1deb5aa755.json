@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Either Party shall only be liable for direct losses incurred by the other Party as a direct consequence of a negligent or intentional breach of this Agreement by such liable Party, and shall not be liable for any punitive or indirect damages, losses caused by business interruptions, loss of revenues, loss of profit, damages and loss of goodwill, or any reputational damages, and both Parties waive any claims to such losses.\",\"In addition, neither Party shall be liable for any claim under this Agreement which is capable of remedy, unless and until the other Party has given such Party written notice containing full details of the breach and such Party has failed to remedy the breach within sixty (60) days of receipt of the notice.\"]}",
+  "usage": {
+    "completion_tokens": 155,
+    "prompt_tokens": 4060,
+    "total_tokens": 4215,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4057,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

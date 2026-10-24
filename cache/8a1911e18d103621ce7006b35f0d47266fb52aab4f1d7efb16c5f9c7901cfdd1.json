@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"JHU DISCLAIMS ALL OBLIGATIONS AND LIABILITIES ON THE PART OF JHU AND INVENTORS, FOR DAMAGES, INCLUDING, BUT NOT LIMITED TO, DIRECT, INDIRECT, SPECIAL, AND CONSEQUENTIAL DAMAGES, ATTORNEYS' AND EXPERTS' FEES, AND COURT COSTS (EVEN IF JHU HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, FEES OR COSTS), ARISING OUT OF OR IN CONNECTION WITH THE MANUFACTURE, USE, OR SALE OF THE LICENSED PRODUCTS AND LICENSED SERVICES UNDER THIS AGREEMENT.\"]}",
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 4641,
+    "total_tokens": 4772,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4638,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

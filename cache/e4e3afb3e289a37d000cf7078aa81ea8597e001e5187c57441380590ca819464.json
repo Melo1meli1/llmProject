@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"(c) the licenses granted to Ginkgo from BLI in Section 9.1.1 (Scope of Grants) and 9.1.2 (License Grant to Exploit [***]) shall survive and become perpetual, irrevocable and, subject to clause (f) of this Section 13.3.2, royalty-free;\",\"(d) the licenses granted to BLI from Ginkgo pursuant to Section 9.2 (Grants to BLI) shall survive;\",\"(e) any Licensed Products arising from Collaboration Workflows or Ginkgo Workflows developed or used by Ginkgo to good effect prior to the effective date of termination shall be royalty-free and no royalties shall be payable by Ginkgo on any sale or transfer of such Licensed Product;\",\"(h) Ginkgo shall pay BLI for any amounts due for work performed by BLI under and in accordance with this Agreement prior to the effective date of termination to the extent that BLI cannot reasonably cancel or reallocate such work.\",\"Section 2.8 (Records) (solely for [***] ([***]) years following the end of the Term or for such longer period as required by Applicable Law)\",\"Section 7.5 (Manner of Payments) through Section 7.10 (Late Payments) (solely with respect to any unpaid amounts that accrued prior to the end of the Term or that accrue at any time under Section 7.4.2 (Milestone Payments))\"]}",
+  "usage": {
+    "completion_tokens": 501,
+    "prompt_tokens": 4714,
+    "total_tokens": 5215,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 179,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4711,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

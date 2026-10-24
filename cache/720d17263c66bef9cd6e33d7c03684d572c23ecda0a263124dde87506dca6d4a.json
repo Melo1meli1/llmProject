@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"EXCEPT IN THE EVENT OF A BREACH OF SECTION 8 (CONFIDENTIALITY) OR LIABILITY ARISING UNDER A PARTY'S INDEMNIFICATION OBLIGATIONS UNDER SECTION 12, IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN ANY WAY CONNECTED WITH THIS AGREEMENT OR ANY MATTER RELATED HERETO, INCLUDING WITHOUT LIMITATION, LOST BUSINESS OR LOST PROFITS, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.\"]}",
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 4501,
+    "total_tokens": 4627,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4498,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

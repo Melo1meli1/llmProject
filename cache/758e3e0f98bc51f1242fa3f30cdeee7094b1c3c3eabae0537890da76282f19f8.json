@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon termination or expiration of this Agreement, this Agreement and all rights granted hereunder to You shall immediately terminate, and:\", \"C. You shall take such action as may be necessary to cancel any assumed name or equivalent registrations or listings in telephone or other directories which contain the names or Licensed Marks of AIRSOPURE, and You shall furnish AIRSOPURE with evidence satisfactory to AIRSOPURE of compliance with this obligation within 30 days after termination or expiration of this Agreement.\", \"D. You shall promptly pay all sums owing to AIRSOPURE and its subsidiaries and affiliates, including all damages, costs and expenses, including reasonable attorneys' fees, incurred by AIRSOPURE as a result of the default.\", \"E. You shall pay to AIRSOPURE all damages, costs and expenses, including reasonable attorneys' fees, incurred by AIRSOPURE subsequent to the termination or expiration of the Franchise herein granted in obtaining injunctive or other relief for the enforcement of any provisions of this Agreement.\", \"F. You shall immediately turn over to AIRSOPURE the Operations Manual, records, files, instructions, software, correspondence, and all other materials provided by AIRSOPURE related to the operation of the Franchise, and all copies thereof (all of which are acknowledged to be AIRSOPURE's property), and shall retain no copy or record of any of the foregoing, except only Your copy of this Agreement and any correspondence between the Parties, and any other documents which You reasonably need for compliance with any applicable provision of law.\", \"G. AIRSOPURE shall have the right, but not the duty, to be exercised by notice of intent to do so within 30 days after termination or expiration, to purchase any or all signs, advertising materials, supplies and inventory and any other items bearing AIRSOPURE's Licensed Marks, at Your cost or at fair market value, whichever is less.\"]}",
+  "usage": {
+    "completion_tokens": 405,
+    "prompt_tokens": 5194,
+    "total_tokens": 5599,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5191,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

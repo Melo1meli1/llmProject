@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In order for Ginkgo to more fully understand the royalty that may be owed to BLI in the event this Agreement is terminated, on an annual basis, starting at the end of the [***] Contract Year, BLI will provide Ginkgo, in writing, its then-current commercial terms with respect to royalties for the Licensed Products.\"]}",
+  "usage": {
+    "completion_tokens": 255,
+    "prompt_tokens": 4533,
+    "total_tokens": 4788,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 164,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4530,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

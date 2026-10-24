@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"22.1 The online Ride-hailing Service agreements such as the Vehicle Leasing Service Cooperation Agreement, the Management Consulting Service Agreement, the Consultation Service Cooperation Agreement, and the Corporate Franchising Management Consulting Service Agreement, the vehicle leasing and consulting service agreements (only limited to the Agreements relevant to Party A's fast ride business, except for those on general franchise business) shall continue to be valid within the scope of cooperation before the signing of this Agreement by and between the Parties hereof, and the deposits received by Party A in accordance with such agreements will temporarily not be refunded. Such agreements shall not be terminated until the end of the cooperation between the Parties under the agreements, at which time the Parties will conduct friendly negotiations on the termination of these agreements.\"]}",
+  "usage": {
+    "completion_tokens": 167,
+    "prompt_tokens": 4263,
+    "total_tokens": 4430,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4260,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Within fifteen (15) days after the end of the Term of the Agreement, FCE will issue an invoice (\\\"9th Inning Invoice\\\") for the actual charges incurred during the last month of the Term of the Agreement, subject to Paragraph 10.01(a).\", \"If after applying such credit, a balance of the Initial Payment still remains, FCE will refund the balance to ExxonMobil within thirty (30) days, unless otherwise mutually agreed\", \"In the event of termination under this Paragraph 12.03 where FCE is the defaulting Party, FCE's royalty-free licenses described in Paragraph 7.01(b)(1), 8.02(b)(1)(i), 8.02(b)(1)(ii), 8.02(b)(1)(iii), and 8.02(b)(2)(i) will immediately convert to royalty-bearing licenses, with the royalty rate to be negotiated by the Parties in good faith.\"]}",
+  "usage": {
+    "completion_tokens": 213,
+    "prompt_tokens": 4231,
+    "total_tokens": 4444,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4228,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

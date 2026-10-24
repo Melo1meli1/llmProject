@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"5.3 Receiving Party shall protect the Confidential Information from unauthorized use or disclosure by exercising the same degree of care that Receiving Party uses with respect to information of its own of a similar nature, but in no event less than reasonable care, until five (5) years from the later of the Effective Date or the date of receipt of such Confidential Information.\"]}",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4186,
+    "total_tokens": 4274,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4183,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

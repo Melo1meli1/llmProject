@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Termination or expiration of this Agreement shall not affect JHU's right to recover unpaid royalties accrued prior to termination or expiration.\", \"All applicable provisions, including but not limited to Paragraphs 4.1 (License Fee), 9.3 (Severability), 9.4 (Use of Name), 9.6 (Disclaimer of Warranties), 9.7 (Indemnification), 9.8 (Product Liability), 9.13 (Binding Effect) and 9.14 (Governing Law) shall survive termination or expiration of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 4635,
+    "total_tokens": 4771,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4632,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

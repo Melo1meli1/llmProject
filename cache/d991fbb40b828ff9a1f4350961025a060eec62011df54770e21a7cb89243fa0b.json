@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"All trademarks, service marks or logos developed under this Agreement shall be the exclusive property of MBRK.\", \"DD hereby sells, assigns and transfers to MBRK and MBRK shall be the exclusive owner, assignee, and transferee of the entire right, title and interest, including all renewals for the entire world, in and to all work performed and work product developed or produced under this Agreement, including, but not limited to, materials (including Promotional Materials), writings, documents or other information conceived or reduced to practice or\\n\\nauthored by DD or any of DD Representative's, either solely or jointly with others, in connection with and/or pursuant to this Agreement or the relationship established between DD and MBRK or with information, materials (including Promotional Materials) or facilities of MBRK received or used by DD or DD's Representatives during the period in which DD is retained by MBRK.\", \"DD shall, prior to commencement of any work by such third party, obtain the third party's written acknowledgement that all work done by such third party shall be deemed \\\"work made for hire\\\" and that the copyright in such material shall rest and remain with MBRK, or secure from such third party written assignment of all right, title and interest in and to the copyright in any material created by such third party.\"]}",
+  "usage": {
+    "completion_tokens": 288,
+    "prompt_tokens": 5149,
+    "total_tokens": 5437,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5146,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

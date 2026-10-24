@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"If Licensee fails to make the Wireless Products commercially available to the CSPs by the Wireless Products Latest Commencement Date, and such failure is not due solely to any delay by Fox in delivery of the PSM Materials, Fox shall have the right to terminate this Agreement immediately upon notice to Licensee and all rights to utilize the PSM shall automatically revert to Fox\"]}",
+  "usage": {
+    "completion_tokens": 185,
+    "prompt_tokens": 4318,
+    "total_tokens": 4503,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4315,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

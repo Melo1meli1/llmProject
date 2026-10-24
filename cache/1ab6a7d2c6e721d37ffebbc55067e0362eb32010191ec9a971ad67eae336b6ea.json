@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In the event that Owner desires Operator to service the Bloom Systems and the BOF beyond the Warranty Period, the rate for such time-based services will be quoted by Operator to Owner quarterly for the following quarter, and materials will be invoiced at the retail prices for such materials.\"]}",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 4328,
+    "total_tokens": 4401,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4325,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

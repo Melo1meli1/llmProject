@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Fox grants to Licensee a limited, exclusive (except as otherwise may be provided in this Agreement), non-transferable (except as permitted in Paragraph 17(d)) right and license to use, make, have made (as set forth in Paragraph 1(a)(i) below), reproduce, modify, and create derivative works of the PSM in each Property\", \"Licensee reserves all rights and licenses in and to the Licensee Materials not expressly granted to Fox in this Section 1(f).\"]}",
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 4135,
+    "total_tokens": 4253,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4132,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

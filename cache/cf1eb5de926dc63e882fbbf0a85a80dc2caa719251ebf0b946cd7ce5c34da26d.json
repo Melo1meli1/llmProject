@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In no event shall Ginkgo, and Ginkgo shall cause its Affiliates to not, file any patent applications covering (or support existing patent applications covering) the [***] and, in the event Ginkgo (or its Affiliates) do file one or more of such patent applications, Ginkgo will and hereby does assign, and shall cause its employees, agents and contractors to assign, to BLI all rights, title and interests in, to and under such patent applications.\", \"Other than as permitted under Section 8.5.2 (Use of Collaboration Data), in no event shall BLI, and BLI shall cause its Affiliates to not, file any patent applications covering (or support existing patent applications covering) [***] and, in the event that BLI (or its Affiliates) do file one or more of such patent applications, BLI will and hereby does assign, and shall cause its employees, agents and contractors to assign, to Ginkgo all rights, title and interests in, to and under such patent applications.\"]}",
+  "usage": {
+    "completion_tokens": 229,
+    "prompt_tokens": 4767,
+    "total_tokens": 4996,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4764,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

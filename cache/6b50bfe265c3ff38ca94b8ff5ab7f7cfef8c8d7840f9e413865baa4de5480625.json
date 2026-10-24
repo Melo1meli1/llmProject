@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The provisions of Sections 3.3, 4.2, 5.1, 8.1 and 10.6 of this Agreement shall survive any termination. 8.1 CONFIDENTIALITY. In performing this Agreement, each party will have access to confidential information of the other. Each party agrees to hold in confidence and to instruct its employees and agents to hold in confidence all information and materials, in whatever form, reasonably designated as confidential by the party requesting confidentiality. NPC agrees to comply with all laws and regulations relating to confidentiality of customer lists and other information which are applicable to NCB and its agents or to NPC. NCB agrees to comply with all contractual obligations of NPC actually known to NCB and all laws and regulations applicable to NCB or NPC relating to confidentiality of customer lists and other information.\",\"The provisions of Sections 3.3, 4.2, 5.1, 8.1 and 10.6 of this Agreement shall survive any termination. 10.6 MONITORING BY NCB. NPC shall admit properly identified and authorized NCB employees and agents onto its premises for purposes of monitoring NPC's compliance with this Agreement. It is understood that such monitoring will occur during normal business hours, will be preceded by reasonable notification to NPC, and must not interfere with NPC's normal operations.\"]}",
+  "usage": {
+    "completion_tokens": 521,
+    "prompt_tokens": 2314,
+    "total_tokens": 2835,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 227,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2311,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

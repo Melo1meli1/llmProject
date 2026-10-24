@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In the event the Agent incurs any such fees and expenses on behalf of the Company, the MHCs or the Bank, the Bank will reimburse the Agent for such fees and expenses whether or not the Offerings are consummated;\", \"The Company, the MHCs and the Bank jointly and severally agree to pay certain expenses incident to the performance of the Agent's obligations under this Agreement, regardless of whether the Offerings are consummated,\", \"All fees and expenses to which the Agent is entitled to reimbursement under this paragraph of this Section 4 shall be due and payable upon receipt by the Company, the MHCs or the Bank of a written accounting therefor setting forth in reasonable detail the expenses incurred by the Agent.\"]}",
+  "usage": {
+    "completion_tokens": 349,
+    "prompt_tokens": 5052,
+    "total_tokens": 5401,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 179,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5049,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

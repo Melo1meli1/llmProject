@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"In the event of termination of this Agreement under the provisions of this Article VII GALEN shall not be relieved of the duty and obligations to pay in full, any payments due and unpaid at the effective date of such termination.\",\"In such event GALEN shall:\",\"(a) return any and all Technical Information and any other information relating to the Combination Product provided to GALEN and shall make no further use thereof;\",\"(b) cease to make use of the Trademark, the other LEO Product Branding and all other information related to the Combination Product, and all rights in the Trademark, the other LEO Product Branding and all other information relating to the Combination Product will promptly revert to LEO and be transferred to LEO;\",\"(c) if GALEN is then the owner of any patents specifically related to the Combination Product, GALEN shall transfer such ownership to LEO, except for LEO being in breach in which case GALEN will sell said patents and LEO will purchase said patents at a price equal to the expenses GALEN has borne in relation to developing, establishing and maintaining said patent rights;\",\"(d) if GALEN is then the owner of any patents, which in part relates to the Combination Product then LEO, its Affiliates and partners shall have a royalty free license to such patents for the term of the patents;\",\"(e) if GALEN is then the owner of any data related to the Combination Product, including, but not limited to, any data related to any study performed under this Agreement such data shall be transferred to LEO. At such time, LEO shall have the right, but not the obligation, to have assigned to LEO any third party clinical agreement then pending;\",\"(f) GALEN shall transfer the NDA, the IND and any other relevant registrations related to the Combination Product held by GALEN, if any, to LEO or its designee.\",\"In the event that LEO terminates this Agreement pursuant to Article 7.3 or Article 7.2(a) or (b), the transfers required under Article 7.4 (a), (b), (c), (e) and (f) shall be made free of charge to LEO. Otherwise, the costs of transfers shall be split evenly between the parties.\",\"The obligation of the Parties in this Article IV shall survive the expiration or earlier termination of this Agreement to the extent permitted by applicable Law.\",\"This Article V shall survive the termination of this Agreement for a period of ten (10) years, provided, however, that following the termination of this Agreement LEO shall be free to use all data, information or other confidential information relating to the Combination Product and following termination of this Agreement, GALEN shall be free to use all GALEN Information.\"]}",
+  "usage": {
+    "completion_tokens": 725,
+    "prompt_tokens": 5323,
+    "total_tokens": 6048,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 143,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5320,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

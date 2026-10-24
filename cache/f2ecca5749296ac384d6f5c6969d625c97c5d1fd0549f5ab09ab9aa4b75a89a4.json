@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Upon any expiration or termination of this Agreement, Emdeon shall have a reasonable period of time to remove the Content from the Software.\",\"During the term of this Agreement and for so long as such information remains a trade secret under applicable law, neither party will, except as otherwise expressly directed by the other party, use, copy, or disclose, or permit any unauthorized person access to, any of the other party's Trade Secrets, except as expressly permitted herein and necessary for accomplishment of activities required hereby. During the term of this Agreement and for a period of two (2) years after termination hereof, neither party will use, copy, or disclose, or permit any unauthorized person access to, any of the other party's Confidential Information, except as expressly directed by such party or as permitted herein.\",\"The receiving party will, at the request of the disclosing party, during the term of this Agreement or thereafter (i) promptly return all Confidential Information and Trade Secrets held or used by the receiving party in whatever form, or (ii) at the discretion of the disclosing party, promptly destroy all such Confidential Information and Trade Secrets, including all copies thereof, and those portions of all documents that incorporate such Confidential Information and/or Trade Secrets.\"]}",
+  "usage": {
+    "completion_tokens": 380,
+    "prompt_tokens": 3438,
+    "total_tokens": 3818,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3435,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Either Party shall only be liable for direct losses incurred by the other Party as a direct consequence of a negligent or intentional breach of this Agreement by such liable Party, and shall not be liable for any punitive or indirect damages, losses caused by business interruptions, loss of revenues, loss of profit, damages and loss of goodwill, or any reputational damages, and both Parties waive any claims to such losses.\"]}",
+  "usage": {
+    "completion_tokens": 305,
+    "prompt_tokens": 4072,
+    "total_tokens": 4377,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 201,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4069,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

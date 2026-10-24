@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Upon termination of this Agreement and/or such SOW, Surgical shall be entitled to payment for Services completed prior to such termination. Thereafter, Imprimis shall owe Surgical no further amounts or obligations in law or equity.\",\"Surgical agrees that promptly upon termination of this Agreement, Surgical shall deliver to Imprimis all Work Product, either completed or uncompleted, and any documents, reports and other materials which are in Surgical's possession in connection with the performance of Services under this Agreement.\",\"Each Party shall maintain such insurance for so long as it continues its activities under this Agreement, and thereafter for so long as it customarily maintains insurance for itself covering similar activities.\",\"The provisions of Sections 2, 5, 6, 9-20 and any other obligation under this Agreement which is to survive or be performed after termination of this Agreement, regardless of the cause therefor, shall survive any termination or expiration of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 356,
+    "prompt_tokens": 4182,
+    "total_tokens": 4538,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 148,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4179,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

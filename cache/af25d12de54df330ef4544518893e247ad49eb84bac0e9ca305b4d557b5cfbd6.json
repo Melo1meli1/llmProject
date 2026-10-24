@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The cumulative Research Costs for the Program will not exceed forty-five million United States dollars ($45,000,000 USD) over the Term of the Agreement (\\\"Total Research Cost\\\").\", \"The total amount paid FCE under this Agreement or for a Project, including all amounts paid following termination, will not exceed the maximum authorized charge specified in this Agreement or for a Project.\", \"In no event will either Party be liable to the other Party under this Agreement for any consequential, indirect, special, incidental, punitive or exemplary loss or damage, including, without limitation, business interruption, cost of capital, loss of anticipated revenues and profits, loss of goodwill or increased operating costs, whether arising from contract, warranty, tort, strict liability or otherwise regardless of whether the possibility of such losses or damages have been made known to the first Party, and each Party hereby expressly waives all such rights and remedies, except for breach of any confidentiality or restricted use provisions of this Agreement and except as provided in Paragraph 11.04 (Exceptions to Limitations of Liability).\", \"Notwithstanding anything to the contrary in this Agreement, each Party will bear full responsibility, without limit, for the following:\"]}",
+  "usage": {
+    "completion_tokens": 256,
+    "prompt_tokens": 4237,
+    "total_tokens": 4493,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4234,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

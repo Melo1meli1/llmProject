@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"If, at the time of notice of any termination of this Agreement, DIALOG or any of its Affiliates has a written supply contract with a customer that extends beyond the end of the Wind Down Period (a \\\"Continuing Obligation\\\"), DIALOG and/or its Affiliates may continue to Sell Licensed Products to such customer through the term of the Wind Down Period and for the remainder of the term of such Continuing Obligation, provided that in no event may DIALOG or its Affiliates Sell Licensed Products to such customer pursuant to this Section 15.4(b) for a period longer than [***] after the effective date of termination of this Agreement.\", \"ENERGOUS will at its expense, at DIALOG's written request during the Term and any Wind Down Period, enter into a three- party escrow deposit arrangement, in accordance with this Section 16, with a recognized escrow agent (the \\\"Escrow Agent\\\") of mutual agreement.\", \"Such license may be exercised by DIALOG only during the Term and any Wind Down Period or Continuing Obligation period and is subject to DIALOG's continued compliance with all of the other applicable terms and conditions of this Agreement during any such applicable period.\"]}",
+  "usage": {
+    "completion_tokens": 258,
+    "prompt_tokens": 4373,
+    "total_tokens": 4631,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4370,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

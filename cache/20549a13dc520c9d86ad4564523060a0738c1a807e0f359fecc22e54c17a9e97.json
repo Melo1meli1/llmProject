@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon payment to IAC, Sonos shall take full title and ownership of the applicable Sonos Tool, including any specifications and final assembly drawings associated with the Sonos Tool.\"]}",
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 5122,
+    "total_tokens": 5275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5119,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"the rights and obligations of the Farids Group and the Company (including, without limitation, the right of the Farids Group to appoint the Director Designee and the obligation of the Company to cause the Director Designee to be nominated for election to the Board of Directors) set forth in this Article IV (if applicable, the \\\"Nomination Right\\\") shall terminate immediately after the date the Farids Group owns less than 5.0% of the issued and outstanding Common Stock of the Company\", \"even if the Farids Group owns 5.0% or more of the issued and outstanding Common Stock, such rights and obligations shall terminate on the earliest to occur of: (A) for purposes of determining the Nomination Right for the third Contract Year (as defined in the Exclusive Supplier Operating Agreement), the EA Revenue (as defined in the Warrant) for the second Contract Year is less than $[**], (B) for purposes of determining the Nomination Right for the fourth Contract Year, the EA Revenue for the third Contract Year is less than $[**]; (C) for purposes of determining the Nomination Right for the fifth Contract Year, the EA Revenue for the fourth Contract Year is less than $[**]; or (D) for purposes of determining the Nomination Right for the 12-month period following the fifth Contract Year, the EA Revenue for the fifth Contract Year is less than $[**].\"]}",
+  "usage": {
+    "completion_tokens": 305,
+    "prompt_tokens": 4191,
+    "total_tokens": 4496,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4188,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

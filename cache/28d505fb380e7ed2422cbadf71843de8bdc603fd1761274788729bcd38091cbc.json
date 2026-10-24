@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"This Warrant is exercisable in whole or in part at any time and from time to time on or before the earlier of 5:00 pm GMT on the tenth (10th) anniversary of the Issue Date.\"]}",
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 3352,
+    "total_tokens": 3414,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3349,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

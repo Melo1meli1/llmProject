@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"the aggregate fees payable to Sandler O'Neill and Selected Dealers shall not exceed 6.0% of the aggregate dollar amount of the Securities sold in the Syndicated Community Offering by such Selected Dealers.\", \"Any fees payable to Sandler O'Neill for Securities sold by Sandler O'Neill under any such agreement shall be limited to an aggregate of six percent (6.0 %) of the purchase price of the Securities sold by Sandler O'Neill and other NASD member firms.\"]}",
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 4054,
+    "total_tokens": 4171,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4051,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

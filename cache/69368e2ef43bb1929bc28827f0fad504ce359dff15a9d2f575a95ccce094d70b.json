@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"During the term of this Agreement and for a period of seven (7) years after its termination or expiration each Party (the \\\"Receiving Party\\\") shall maintain in confidence and, except as authorized by this Agreement, not use any know-how, data, processes, techniques, formulas, test data and other information disclosed by the other Party (the \\\"Disclosing Party\\\")\",\"The Publication shall occur within […***…] of the date the Project is closed or terminated, or University and/or Principal Investigator shall be free to publish Program Data and results at that time.\",\"In the event of any termination of the Project by University, (a) University agrees to complete Phase I and II of the Project, and (b) ArTara will continue to provide annual funding until the completion of Phase II.\",\"Termination of the Project for any reason shall not relieve any Party of any obligation that accrued under this Agreement prior to termination. The provisions of Article Three, Article Four, Article Five, Sections 6.3 and 6.4, and Articles Seven through Nine shall survive termination of the Project by University. The provisions of Article Five, Sections 6.3 and 6.4, Article Seven, Section 8.3 and Article Nine shall survive termination of the Project and this Agreement by ArTara.\"]}",
+  "usage": {
+    "completion_tokens": 429,
+    "prompt_tokens": 4217,
+    "total_tokens": 4646,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 145,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4214,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

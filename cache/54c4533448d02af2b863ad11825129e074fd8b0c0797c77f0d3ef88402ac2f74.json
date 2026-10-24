@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"New software and hardware designs and intellectual property developed in the course of the Water Meter development are jointly owned; specifically, the algorithms used to collect data directly from a Water Meter using a point-to-point link (drive-by data collection), the specific hardware designs related to water register interface, battery power management, and other intellectual property specifically described and mutually agreed in writing as amendments to this Agreement. Joint ownership conveys to each party individually the right to use, sell, modify, and create derived works from said intellectual property, as well as the right to sub-license these rights to others.\",\"This collection of products forms an energy metering (electric) AMR Product Suite that is owned by Axiometric.\",\"Axiometric and LKPL may develop other AMR Product Suites (e.g. for gas metering) and ownership of those AMR Product Suites will be held individually by the developer of the suite or jointly if mutually agreed to in writing.\"]}",
+  "usage": {
+    "completion_tokens": 204,
+    "prompt_tokens": 4091,
+    "total_tokens": 4295,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4088,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

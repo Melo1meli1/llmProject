@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Inktomi shall keep true and accurate books and records, in accordance with Generally Accepted Accounting Principles (\\\"GAAP\\\"), relating to all costs and expenses for which Inktomi is entitled to charge Microsoft pursuant to Section 4.1 above, throughout the Term and for eighteen (18) additional months thereafter. Inktomi will permit Microsoft to have access to, and to make copies of, all such books and records for purposes of auditing and verifying such costs and expenses\"]}",
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 4486,
+    "total_tokens": 4599,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4483,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

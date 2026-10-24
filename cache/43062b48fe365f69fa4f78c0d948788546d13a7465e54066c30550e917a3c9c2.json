@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Except as set forth in paragraph 3 of this Schedule, if Customer elects to terminate this Agreement or any Service for any reason, Customer shall pay Metavante the termination fee computed in accordance with Section 8.4 of this Agreement.\", \"If Metavante terminates this Agreement in accordance with Sections 8.2 or 8.3 of the Agreement, then Customer shall pay Metavante the termination fee computed in accordance with Section 8.4 of this Agreement.\", \"Subject to Metavante' rights under Section 6 below, Customer shall receive a rebate of a portion of any Termination Fee paid by Customer hereunder in the event that Customer shall enter into a new exclusive agreement with Metavante to receive the Initial Services within six (6) months following the Effective Date of Termination.\", \"The applicable rebate of the Termination Fee shall become payable to Customer upon execution of a new exclusive agreement for Initial Services by and between Customer and Metavante within six (6) months following the Effective Date of Termination (the \\\"New Agreement\\\").\"]}",
+  "usage": {
+    "completion_tokens": 367,
+    "prompt_tokens": 3868,
+    "total_tokens": 4235,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 126,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3865,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Upon termination of this Agreement, each Receiving Party shall return to the Disclosing Party (or at the Disclosing Party's direction, destroy) all Confidential Information of the Disclosing Party that is in the possession, custody, or control of the Receiving Party. The Village Media Company shall be permitted to retain copies of PFHOF's Confidential Information as necessary to allow the Village Media Company to exercise its post-termination rights with respect to such information.\"]}",
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 4400,
+    "total_tokens": 4554,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 43,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4397,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

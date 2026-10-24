@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"D. These warranties extend to the future performance of the materials and shall continue for the longer of (a) the warranty period applicable to EDGE' sales to Customer of the material or of products which incorporate the material, (b) one year after the material is accepted by EDGE or (c) such greater period as may be specified elsewhere in this Agreement. Repaired and replacement material shall be warranted as set forth above in this clause.\", \"Subcontractor, during the term of this Agreement and for a period of one year thereafter, shall not, directly or indirectly, for itself or on behalf of or in conjunction with any other person, partnership, corporation, business or organization, solicit, hire, contract with or engage the employment of an employee of EDGE with whom Subcontractor or its personnel have contact as a result of Subcontractor's performance of this Agreement, unless Subcontractor (i) obtains the written consent of EDGE, as applicable, and (ii) pays EDGE as applicable a fee to be mutually agreed upon. In the event Subcontractor directly employs or contracts with an employee of EDGE without the consent of EDGE, Subcontractor shall pay as liquidated damages two times the then monthly salary of the employee for a three-month period of time.\"]}",
+  "usage": {
+    "completion_tokens": 272,
+    "prompt_tokens": 4164,
+    "total_tokens": 4436,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4161,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

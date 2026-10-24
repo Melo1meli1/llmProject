@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"During the one hundred eighty (180) day period following the Effective Date (the \\\"Collection Period\\\"), Nexstar shall use commercially reasonable efforts to collect the Accounts Receivable in the usual and ordinary course of business\", \"Within twenty (20) days following the end of each full calendar month during the Collection Period, Nexstar shall furnish WYZZ with a report of all amounts collected, together with its check for payment thereof\"]}",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 4080,
+    "total_tokens": 4182,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4077,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

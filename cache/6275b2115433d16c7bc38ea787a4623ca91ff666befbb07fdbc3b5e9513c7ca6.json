@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"FASC shall not be responsible for any error of judgment or mistake of law or for any loss suffered by the Advisor or any Account in connection with the matters to which this Agreement relates, except a loss resulting from willful malfeasance, bad faith or gross negligence on its part in the performance of its duties or from reckless disregard by it of its obligations and duties under this Agreement.\", \"Each party agrees that the obligations of the other party pursuant to this Agreement shall be limited solely to such party and its assets, and neither party shall seek satisfaction of any such obligation from the shareholders, trustees, officers, employees or agents of the other party, or any of them.\"]}",
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 2360,
+    "total_tokens": 2513,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2357,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

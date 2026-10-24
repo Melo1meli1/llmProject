@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The Consultant's right to receive compensation whether in cash or securities shall survive any termination of this Agreement Without Cause.\",\"the accrued salary may be paid, and options and warrants may be exercised by the by the Consultant or the Consultant's legal representatives, executors or assigns, as the case may be, for a period of one (1) year from the date of death or disability.\",\"Further, Consultant shall be entitled to all vested common shares and, if applicable, options and warrants with vesting continuing for 12 months following termination as applicable.\"]}",
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 4095,
+    "total_tokens": 4219,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4092,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Within thirty (30) days following the termination of this Agreement, and upon receiving payment for any outstanding invoices for previously fulfilled Purchase Orders, ESTABLISHMENT shall deliver to APOLLO all data and materials provided by APOLLO to ESTABLISHMENT for the manufacturing and supply activities under the impacted Purchase Order(s).\", \"In the event this Agreement is terminated for any reason, ESTABLISHMENT shall promptly cease performing any work not necessary for the orderly close out of the affected Purchase Order(s) or for the fulfillment of regulatory requirements.\"]}",
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 4209,
+    "total_tokens": 4336,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4206,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

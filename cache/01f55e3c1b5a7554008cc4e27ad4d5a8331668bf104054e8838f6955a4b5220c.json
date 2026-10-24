@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Subject to Corio's payment of the annual support and maintenance fee, Commerce One's support and maintenance obligation of the Software and MarketSite.net Service shall continue after termination or expiration of this Agreement with respect to all Software Users granted access to the Software and MarketSite.net Service prior to termination or expiration of this Agreement.\",\"The following Sections shall survive the termination or expiration of this Agreement for any reason: 4.2, 5.3, 7, 8, 9, 10, 12 and 14.\",\"Corio's right to allow its then-existing Customers and their Software Users to use and access the Software in accordance with Section 2 of this Agreement and all payment obligations related thereto shall survive any termination or expiration of this Agreement.\",\"Commerce One's obligation to provide Software support and maintenance to Corio and its Customers shall survive any termination or expiration of this Agreement, provided Corio continues to make its annual support and maintenance payments as specified in this Agreement.\",\"Upon termination or expiration of this Agreement, each party shall otherwise return or destroy any Confidential Information of the other party provided, however, Corio may retain any Confidential Information necessary for Corio to continue supporting it's then-existing Customers.\"]}",
+  "usage": {
+    "completion_tokens": 257,
+    "prompt_tokens": 4052,
+    "total_tokens": 4309,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4049,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

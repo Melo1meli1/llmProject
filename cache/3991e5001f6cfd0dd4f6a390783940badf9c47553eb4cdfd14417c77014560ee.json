@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"During the Term and for a period of [***] ([***]) months following the Term of this Agreement, other than pursuant to Sections 13.3.2 (Effects of Termination Based Upon Ginkgo's Buy-Down Election) or 13.3.3 (Effects of Termination Based Upon an Uncured Ginkgo Breach, Insolvency or Force Majeure Event), BLI shall not, and shall cause its Affiliates not to, directly or indirectly, itself or with or through a Third Party, develop, configure, customize, license, sell, provide or otherwise give access to the Beacon Platform or any [***] to, [***] or its Affiliates for any use;\"]}",
+  "usage": {
+    "completion_tokens": 326,
+    "prompt_tokens": 5816,
+    "total_tokens": 6142,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 159,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5813,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

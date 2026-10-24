@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Kallo's cumulative liability under this agreement, including any cause of action in contract, tort or strict liability, shall be limited to the license fees paid by agent during the 12 months prior to such event. Kallo's limitation of liability is cumulative with all Kallo's expenditures to address liability being aggregated to determine satisfaction of the limit. Agent releases Kallo from all obligations, liabilities, claims or demands in excess of the limitation.\"]}",
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 4166,
+    "total_tokens": 4269,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4163,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

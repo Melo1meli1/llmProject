@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The obligations of the Company and the Farids Group under this Section 6.8 shall survive completion of any offering of Registrable Securities in an Eligible Registration Statement and the termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 5295,
+    "total_tokens": 5407,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 49,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5292,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

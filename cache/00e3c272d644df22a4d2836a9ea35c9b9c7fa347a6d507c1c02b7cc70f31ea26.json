@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"If the Launch Date has not occurred by August 31, 1999, Sponsor shall, in its sole discretion, be entitled to terminate this Agreement without any liability and receive a full refund of all amounts paid by Sponsor to drkoop.com pursuant to this Agreement prior to the date of such termination.\"]}",
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 3970,
+    "total_tokens": 4048,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3967,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

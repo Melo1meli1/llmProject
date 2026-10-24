@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The Franchisee Parties and BKC further agree to be bound by the provisions of any applicable limitation on the period of time in which claims must be brought under applicable law or this Agreement, whichever is less. The parties further agree that in connection with any such arbitration proceeding, they shall submit or file any claim which would constitute a compulsory counterclaim (as defined by Rule 13 of the United States Federal Rules of Civil Procedure) within the same proceeding as the claim to which it relates. Any such claim which is not submitted or filed as described above shall be barred. This provision shall continue in full force and effect subsequent to and notwithstanding expiration or termination of this Agreement.\", \"BKC shall be entitled to seek the entry of temporary or preliminary injunctions, restraining orders and orders of specific performance enforcing the provisions of this Agreement or any development agreement relating to the use of BKC's Marks or proprietary in \\\"formation by the Franchisee or any Principal upon the termination or expiration of this Agreement or any development agreement.\", \"for a period of one ye ar after termination or expiration of this Agreement, have any interest in another Fast Food Hamburger Restaurant business at or within such distance of the Location as is stated SCHEDULE 1.\"]}",
+  "usage": {
+    "completion_tokens": 262,
+    "prompt_tokens": 3012,
+    "total_tokens": 3274,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3009,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

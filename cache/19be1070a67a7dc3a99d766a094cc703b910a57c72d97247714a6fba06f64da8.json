@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"all rights to the Intellectual Property contained or otherwise embodied in the inventions, discoveries, improvements, materials, chemical entities, Beacon Platform or Consumables described in clauses (a) through (f) of this Section 8.2.2 (BLI Inventions)\", \"as between the Parties, BLI shall solely own all right, title and interest to all Collaboration Intellectual Property [***].\", \"Ginkgo will and hereby does assign, and shall cause its employees, agents and contractors to assign, to BLI all rights, title and interests in, to and under such patent applications.\", \"BLI will and hereby does assign, and shall cause its employees, agents and contractors to assign, to Ginkgo all rights, title and interests in, to and under such patent applications.\"]}",
+  "usage": {
+    "completion_tokens": 175,
+    "prompt_tokens": 4751,
+    "total_tokens": 4926,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4748,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

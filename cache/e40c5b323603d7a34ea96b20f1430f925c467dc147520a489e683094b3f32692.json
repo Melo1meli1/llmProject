@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"the Parties' respective rights and obligations under this Agreement shall commence on the Effective Date and shall remain in full force for ten (10) years after the First Commercial Sale of the first Licensed Product, and shall thereafter automatically renew for an unlimited period of time unless otherwise terminated in accordance with Section 15.2.\"]}",
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4329,
+    "total_tokens": 4409,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4326,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

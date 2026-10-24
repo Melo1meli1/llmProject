@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Eligible Pin Codes may be entered on the www.charitytunes.com website and corresponding music downloaded from October 1, 2009 to March 31, 2010. Pin Codes entered for redemption after 11:59:59 pm PT on March 31, 2010 may be rejected as ineligible.\", \"Upon execution of this Agreement by both parties, Charity Tunes will invoice Sponsor for 435,960 unique codes consisting of a maximum of 277,760 Pin Codes containing three (3) music downloads per Pin Code ; (ii) 130,300 Pin Codes containing five (5) music downloads per Pin Code; and (iii) 27,900 Pin Codes containing seven (7) music downloads per Pin Code, for a total cost of $117,605.60 CDN (plus applicable taxes) (collectively the \\\"Fee\\\"), which Fee is calculated at the rate of $0.07 CND (plus applicable taxes) per potential download. The Fee shall be payable to Charity Tunes in two equal installments of $58,802.80 (plus applicable taxes) due to Charity Tunes on October 1, 2009 and November 1, 2009, respectively payable upon receipt of invoice.\"]}",
+  "usage": {
+    "completion_tokens": 268,
+    "prompt_tokens": 3228,
+    "total_tokens": 3496,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3225,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

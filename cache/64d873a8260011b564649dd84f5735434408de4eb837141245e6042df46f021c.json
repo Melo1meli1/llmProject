@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"For a period of six (6) months after the Effective Time, upon written request by an Assignee Party or a Licensee Party, and solely to the extent the Assignor Party or another member of the Assignor Group or the Licensor Party or another member of the Licensor Group, respectively, has the right to do so, the Assignor Party or the Licensor Party, respectively, shall use commercially reasonable efforts to provide (and to cause other members of the Assignor Group or the Licensor Group, respectively, to provide) to the requesting Assignee Party or the Licensee Party, respectively, copies of tangible embodiments of the Assigned Intellectual Property Rights and the Licensed Intellectual Property Rights, respectively, in the possession of a member of the Assignor Group or the Licensor Group, respectively, and not in the possession of a member of the Assignee Group or the Licensee Group, respectively, upon the Effective Time, to the extent that both (a) such Assigned Intellectual Property Rights or such Licensed Intellectual Property Rights, respectively, are necessary for the ongoing conduct of the current business of the requesting Assignee Party or another member of the Assignee Group or the requesting Licensee Party or another member of the Licensee Group, respectively, or was in use in such business as of the Effective Time, and (b) such tangible embodiments are reasonably necessary for the use of such Assigned Intellectual Property Rights or such Licensed Intellectual Property Rights, respectively, identified in Section 7.1.1(a).\"]}",
+  "usage": {
+    "completion_tokens": 320,
+    "prompt_tokens": 5029,
+    "total_tokens": 5349,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5026,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

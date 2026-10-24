@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon expiration of this Agreement, with all conditions being equal, Party B has the preferential right to continue Cooperation with Party A in respect of the real estate channel. If both Party A and Party B continue their Cooperation, they will negotiate to reach an agreement to that effect no less than one month prior to the expiration of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 4227,
+    "total_tokens": 4311,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4224,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The Executive agrees and undertakes with the Company acting on behalf of itself and as agent for each Group Company that he will not in any Relevant Capacity at any time during the Restricted Period: (a) within or in relation to the Restricted Territory take any steps preparatory to or be directly or indirectly engaged, employed, interested or concerned in: (i) any Competing Business; and/or (ii) any Target Business Entity, (b) within or in relation to the Restricted Territory acquire a substantial or controlling interest directly or by or through any nominee or nominees in any Competing Business, Target Business Entity or in any Person owning or controlling a Competing Business or Target Business Entity; or (c) solicit or attempt to solicit, canvass, interfere with or entice away from the Company or any Relevant Group Company the custom or any prospective custom of any Client or any Prospect with a view to providing to that Client or Prospect any products or services which are the same as or materially similar to any Restricted Business in competition with the Company or any Relevant Group Company; or (d) provide or agree to provide any products or services which are the same as or materially similar to any Restricted Business to any Client or any Prospect in competition with the Company or any Relevant Group Company; or (e) solicit, entice or encourage or attempt to solicit, entice or encourage any Key Individual to leave the employment of the Company or any Relevant Group Company (whether or not such person would commit any breach of his contract of employment by doing so); or (f) employ, engage, appoint, enter into partnership or association with or in any way cause to be employed, engaged or appointed any Key Individual in relation to any Person which is or is proposing to be a Competing Business or is or is proposed to be directly or indirectly owned by or controlling any Competing Business; or (g) provide or agree to provide any products or services which are the same as or materially similar to any Restricted Business in respect of any Competitor Account; or (h) be employed or engaged by any Client or Prospect if as a result the Client or Prospect will cease to use or materially reduce its usage of the products or services of the Company or any Relevant Group Company or, in the case of a Prospect, will not use the products or services of the Company or any Relevant Group Company or use them to a materially lesser extent; or (i) solicit or try to solicit or place orders for the supply of products or services from any Supplier if as a result the Supplier will cease supplying, materially reduce its supply or vary detrimentally the terms on which it supplies products or services to the Company or any Relevant Group Company; or (j) encourage, assist or procure any Person to do anything which if done by the Executive would be a breach of sub clauses 1 (a) to (i).\",\"Restricted Period means the 12-month period commencing on the Termination Date in relation to sub-clause 1(a) and the 18- month period commencing on the Termination Date in relation to all remaining sub-clauses in clause 1 above.\"]}",
+  "usage": {
+    "completion_tokens": 829,
+    "prompt_tokens": 3308,
+    "total_tokens": 4137,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 179,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3305,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

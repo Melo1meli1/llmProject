@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Any Intellectual Property Rights created by the Executive or arising in the course of his employment or his performing his obligations under this Agreement shall belong to and vest in the Company.\",\"To the extent that ownership of Intellectual Property Rights does not vest in the Company by operation of law, the Executive hereby assigns to the Company his entire right, title and interest in all Intellectual Property Rights which arise in the course of performing his obligations under this Agreement (including all present and future copyright, and copyright revivals and extensions).\"]}",
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 4935,
+    "total_tokens": 5050,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4932,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

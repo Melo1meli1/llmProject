@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"terminate this Contract, with obligatory accounts settling.\",\"terminate this Contract thereafter by giving notice to that effect to the Party claiming relief under Section 10, with obligatory accounts settling.\"]}",
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 4285,
+    "total_tokens": 4405,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 64,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4282,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"However, a Service Level Credit shall be an exclusive remedy with respect to a Service Level Failure and shall be in lieu of other contractual remedies except as provided for in Section 8 of this Agreement.\", \"B. Service Level Credits applied during any month shall not exceed twenty percent (20%) of the applicable monthly invoice prior to the application of any credits (the \\\"Service Level Monthly Cap\\\").\", \"C. Service Level Credits payable by Metavante to Customer during any calendar year shall not exceed one hundred percent (100%) of the average monthly fees payable by Customer to Metavante during the previous calendar year prior to the application of any credits.\"]}",
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 4152,
+    "total_tokens": 4300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4149,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

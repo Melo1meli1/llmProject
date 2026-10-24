@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"During the Term and continuing thereafter, Rubicon does hereby agree to take all such further reasonable actions on its own behalf and with respect to its employees, contractors, consultants and agents, including without limitation, the execution and delivery of copyright applications, patent applications, declarations, oaths, formal assignments, assignments of priority rights, and powers of attorney, which ISA may deem necessary or desirable in order to protect its rights and interests in and to the Works.\"]}",
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 4204,
+    "total_tokens": 4312,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4201,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

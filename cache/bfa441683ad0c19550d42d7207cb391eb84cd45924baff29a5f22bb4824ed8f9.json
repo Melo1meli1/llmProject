@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Solely with respect to the Program and this Agreement, upon request by SERVICERS, or, absent such requests, upon termination of ISO's performance under the Program, to immediately cease any and all use of V/MC Systems and promptly thereafter deliver to SERVICERS all V/MC Confidential Information then in the possession or control of ISO or, upon request by Visa and/or MasterCard, to immediately cease any and all use of the V/MC Systems and promptly thereafter deliver all V/MC Confidential Information that was provided by SERVICERS then in its possession or control to Visa and/or MasterCard\"]}",
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 4274,
+    "total_tokens": 4414,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4271,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

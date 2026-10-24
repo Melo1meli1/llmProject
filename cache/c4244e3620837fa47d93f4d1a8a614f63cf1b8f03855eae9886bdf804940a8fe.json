@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In no event shall PPG SHANGHAI be liable for consequential damages.\", \"on the termination of this Agreement for any cause whatsoever, DISTRIBUTOR shall not be entitled to claim or receive from PPG SHANGHAI any compensation, reimbursement, or damages on account of any expenditure or commitment of any kind in connection with its business or on account of goodwill or on account of loss of prospective profits or otherwise.\"]}",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 2950,
+    "total_tokens": 3052,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2947,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

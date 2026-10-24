@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The term of the agreement is 20 years, during which if any main equipment of any Party stops operation due to technical problem or at the end of its life cycle, the agreement shall be automatically terminated. In case of that happens, the Party B will have the full rights to dispose the system of Party A.\",\"During the contact period, Party A has the ownership of the CDQ and CDQ waste heat power generation systems. After the termination of the contact, Party B has the disposition right to the project.\",\"When the agreement is terminated, Party A has rights to dispose all assets of the recycling project.\"]}",
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 3545,
+    "total_tokens": 3683,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3542,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

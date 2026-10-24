@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Such insurance requirements shall be maintained during the Term and shall continue for a minimum of three years following termination of this Agreement.\",\"Subject to Section 4.03, upon termination or expiration of this Agreement, other than with respect to any amounts then the subject of a good faith dispute, the Company shall pay to Contractor and Contractor shall pay to the Company all monies due in respect of the Services provided.\",\"The Company may terminate this Agreement in accordance with the immediately preceding sentence but with less than six (6) months' prior written notice to Contractor; provided, that in such event, the Company shall pay Contractor an amount equal to the Termination Fee.\"]}",
+  "usage": {
+    "completion_tokens": 246,
+    "prompt_tokens": 3211,
+    "total_tokens": 3457,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3208,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

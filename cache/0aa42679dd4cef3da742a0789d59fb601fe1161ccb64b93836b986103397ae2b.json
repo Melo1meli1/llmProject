@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"JOINT VENTURE COMPANY'S TOTAL CUMULATIVE LIABILITY TO THE LOOP PARTIES WITH RESPECT TO A TRANSFERRED CONTRACT, IN ALL CIRCUMSTANCES AND REGARDLESS OF THE THEORY OF RECOVERY, SHALL BE LIMITED TO THE AMOUNT OF ACTUAL, DIRECT, AND DOCUMENTED DAMAGES THE APPLICABLE AUTHORIZED CUSTOMER ACTUALLY RECOVERS FROM THE LOOP PARTIES UNDER THE TRANSFERRED CONTRACT BASED SOLELY ON JOINT VENTURE COMPANY'S BREACH OF SUCH TRANSFERRED CONTRACT.\"]}",
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 4129,
+    "total_tokens": 4254,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4126,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

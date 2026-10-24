@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"PROVIDED, that in the event Diplomat terminates this Agreement in accordance with Section 3 hereof, the fee for the provision of each terminated Service shall cease to accrue on and after the effective date of such termination. In the event that Diplomat terminates this Agreement other than in accordance with Section 3, Diplomat shall be obligated to pay for the Services in accordance with the fee schedule contained on EXHIBIT A throughout the balance of the Period as though Tadeo continued to provide the terminated Services through the balance of the Period.\"]}",
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 4455,
+    "total_tokens": 4584,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4452,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

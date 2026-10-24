@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In case of termination of the Agreement, NLS and Eurofarma shall immediately work on a transition out plan, with activities and timelines agreed by the Parties to ensure a proper handover of the Licensed Product so that its market position and the obligations to prescribers, patients and regulatory authorities are fulfilled in accordance with Eurofarma best practices.\", \"Licensee or Affiliates or Distributors may sell off all previously purchased Licensed Products still in their warehouses within a period of six (6) months of the effective date of such termination (the \\\"Sell-Off Period\\\") provided that the sale of such Licensed Products by Licensee or Affiliates or Distributors of the Licensee shall be subject to the terms of this Agreement, including but not limited to the rendering of reports and payment of royalties required under this Agreement.\", \"Promptly upon the request of Licensor, the Licensee shall, at the Licensor's sole discretion and election for each country of the Territory and each Licensed Product either withdraw or transfer all Marketing Authorizations in the Territory to the Licensor (or to a third party as the Licensor directs).\", \"The Licensee shall hand over to the Licensor any and all documents related to the regulatory status or containing Intellectual Property or Confidential Information of Licensor.\", \"Termination shall not relieve either Party of its accrued obligations under this Agreement.\", \"upon termination, or early termination by the Licensee according to Article 19.6, Licensee shall pay Licensor any unpaid sums (fees, milestone payments, royalties, etc.) related to the Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 331,
+    "prompt_tokens": 3109,
+    "total_tokens": 3440,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3106,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

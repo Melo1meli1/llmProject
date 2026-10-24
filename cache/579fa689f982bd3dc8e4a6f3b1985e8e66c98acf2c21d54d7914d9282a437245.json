@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The payment of the Advertising Cost Compensation shall occur monthly insofar as the sum due exceeds a value of 100 EUR / 100 USD. If this is not the case, the sum due can be retained until a total value of at least 100 EUR / 100 USD is reached, at the latest, upon termination of the Affiliate's participation in the Program.\", \"Affiliate is only eligible to earn the Advertising Cost Compensation on sales occurring during the term of this Agreement and fees earned up to the date termination will remain payable only if the related orders are not cancelled or returned.\"]}",
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 4059,
+    "total_tokens": 4192,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4056,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The Company reserves the right to require the Executive to take any outstanding holiday during any period of notice of termination of employment or to make a payment in lieu of holiday outstanding at the Termination Date. If, at the Termination Date, the Executive has taken more holiday than he has accrued, the Executive hereby expressly consents to the Company deducting an appropriate amount from any payments otherwise due him.\", \"The Executive hereby irrevocably consents to the Company, at any time during the Appointment or on its termination (however arising), deducting from salary or any other payments due to the Executive in respect of the Appointment any monies due from him to the Company or any Group Company.\"]}",
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 4454,
+    "total_tokens": 4608,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4451,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

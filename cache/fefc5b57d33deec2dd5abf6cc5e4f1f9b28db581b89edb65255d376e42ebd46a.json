@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"PAPA JOHN'S shall be deemed to have waived its right to utilize those particular Services (e.g., Service Days that are allocated for a particular Contract Year may not be carried into future Contract Years, or beyond the expiration or early termination of the Term) without ABG's Approval.\",\"PAPA JOHN'S shall not be entitled to any return of the amount of any partial payments in the event of any expiration or termination of this Agreement.\",\"If PAPA JOHN'S engages any performance or service of CELEBRITY hereunder in any way that is subject to the jurisdiction of any applicable union, guild or other organization of which CELEBRITY is a member (including, without limitation, SAG-AFTRA), either during or after the Term, then PAPA JOHN'S shall pay, as required by such union, guild or other organization, all minimum (and other, as applicable) payments or fees (or for SAG-AFTRA, minimum pension and welfare contributions) required to be made with respect to PAPA JOHN'S use of the Services hereunder (\\\"Union Fee(s)\\\").\",\"PAPA JOHN'S hereby grants to ABG and CELEBRITY, a royalty-free, perpetual, irrevocable, fully- paid, assignable, transferable, sublicensable right and license to utilize the Materials, in their entirety or any portions thereof, in all media now known or hereafter developed, throughout the universe (individually and collectively, \\\"PJ Rights\\\")\"]}",
+  "usage": {
+    "completion_tokens": 431,
+    "prompt_tokens": 4616,
+    "total_tokens": 5047,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4613,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

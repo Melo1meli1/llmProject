@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In the event that Flash 8 is released later than 11 months following closing and the release of the On2 version of Flix is delayed as a result of this, Wildform will do the dedicated mailings and newsletter promotions after the 12 month period for no additional fee, provided that Wildform will have no obligation to do any mailings or promotions later than 18 months following closing.\", \"During the first twelve (12) months of the Term, Wildform will provide On2, via phone and email during Wildform's normal business hours, reasonable support for the website front end deliverables.\", \"In the event that Flash 8 is released later than 11 months following closing and the release of the On2 version of Flix is delayed as a result of this On2 can elect to have Wildform perform whatever PR and marketing services cannot be performed until immediately prior to the launch of the On2 version of Flix (other than the above referenced marketing emails and reduced website presence that Wildform will provide at no additional cost) for a one-time cash payment of $100,000, provided, however that Wildform shall have no obligation to perform any services beyond the 18 month anniversary of the closing.\"]}",
+  "usage": {
+    "completion_tokens": 264,
+    "prompt_tokens": 4521,
+    "total_tokens": 4785,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4518,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

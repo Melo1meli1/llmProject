@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"upon termination of this Agreement for any reason whatsoever, Kallo, unless otherwise agreed, shall set aside the Agent's Book of Business to be held by Kallo.\", \"Kallo shall pay over all funds collected from the Book of Business and due to Agent, less a reasonable administration fee to be assessed and determined by Kallo, to Agent or its designees or assigns immediately upon receipt and act as a conduit for Agent funds, except in as far as Kallo or its assignees are required to support customers in the Book of Business\", \"Kallo shall make an accounting of funds collected to Agent or their assigns monthly.\", \"During the term hereof and for a period of two years thereafter, each of Agent and Kallo agrees that it will refrain from making any representation, statement, comment or any other form of communication\"]}",
+  "usage": {
+    "completion_tokens": 185,
+    "prompt_tokens": 4167,
+    "total_tokens": 4352,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4164,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

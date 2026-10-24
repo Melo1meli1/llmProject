@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon the Effective Time, (a) the Amended and Restated Nondisclosure Agreement, by and between United Technologies Companies, dated July 26, 2012 (the \\\"UTC NDA\\\"), will terminate as among UTC and the other members of the UTC Group, Otis and the other members of the Otis Group, and Carrier and the other members of the Carrier Group, (b) the information disclosed under the UTC NDA (i) will be deemed Received Information and Materials and Confidential Information under this Agreement, and (ii) will be licensed hereunder for use by UTC and the other members of the UTC Group, Otis and the other members of the Otis Group, Carrier and the other members of the Carrier Group, solely to the extent it is Licensed Intellectual Property Rights granted to UTC and the other members of the UTC Group, Otis and the other members of the Otis Group or Carrier and the other members of the Carrier Group, respectively, and (c) notwithstanding paragraph 3 of the UTC NDA, such information disclosed thereunder will continue to be protected for as long as it remains Confidential Information.\"]}",
+  "usage": {
+    "completion_tokens": 246,
+    "prompt_tokens": 4267,
+    "total_tokens": 4513,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4264,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

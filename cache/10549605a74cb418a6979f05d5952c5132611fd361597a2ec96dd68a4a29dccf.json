@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Agent shall maintain during the term of this Agreement and while it is still responsible for its Book of Business\", \"Agent shall, during this Agreement and while it is still responsible for its Book of Business, and for a period of one year after the termination of this Agreement maintain records sufficient for Kallo to verify amounts due under this Agreement\"]}",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 4160,
+    "total_tokens": 4244,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4157,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

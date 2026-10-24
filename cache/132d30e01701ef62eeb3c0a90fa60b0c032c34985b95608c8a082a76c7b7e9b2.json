@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Whether or not the Offering is completed or the sale of the Shares by the Company is consummated, the Company, the MHC and the Bank jointly and severally agree to pay or reimburse the Agent for the Company, the MHC and the Bank have agreed to reimburse the Agent for its out-of-pocket expenses, and its legal fees (as specified in Section 2) and to indemnify the Agent against certain claims or liabilities, including certain liabilities under the Securities Act, and will contribute to payments the Agent may be required to make in connection with any such claims or liabilities; and the fees set forth under Section 2. In the event the Company is unable to sell a minimum of 708,050 Shares, the Company, the MHC and the Bank shall promptly reimburse the Agent in accordance with Section 2 hereof.\"]}",
+  "usage": {
+    "completion_tokens": 185,
+    "prompt_tokens": 5091,
+    "total_tokens": 5276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5088,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

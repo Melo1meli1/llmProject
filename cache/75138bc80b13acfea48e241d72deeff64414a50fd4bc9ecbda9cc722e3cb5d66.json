@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Notwithstanding the foregoing, in the event that Licensee or any sublicensee is deemed to own any rights in the Brand, Licensee hereby irrevocably assigns (or shall cause such sublicensees to assign), without further consideration, such rights to Licensor together with all goodwill associated therewith.\"]}",
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 3716,
+    "total_tokens": 3791,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3713,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

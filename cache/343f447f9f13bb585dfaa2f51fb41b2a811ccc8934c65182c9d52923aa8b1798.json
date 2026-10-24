@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Such confidentiality and use restrictions, as set forth in the Prior JDA, will survive termination but will be superseded and replaced by the confidentiality and use restrictions set forth in Article 4 (Disclosure, Confidentiality, and Restricted Use) of this Agreement.\", \"but the confidentiality obligations set forth in the Memorandum of Understanding shall survive termination.\"]}",
+  "usage": {
+    "completion_tokens": 204,
+    "prompt_tokens": 4078,
+    "total_tokens": 4282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 112,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4075,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

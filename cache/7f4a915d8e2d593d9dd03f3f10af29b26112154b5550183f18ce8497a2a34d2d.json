@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The termination of this Agreement shall terminate the obligations of either party to the other party pursuant to any Purchase Order and those obligations pursuant to this Agreement, except as to obligations that are identified herein or in a terminated Purchase Order as surviving termination.\", \"Should the Agreement expire during the period of performance, all remaining Work of each Purchase Order will be completed under the terms of the Agreement then in effect on the date of award for each respective Purchase Order, unless modified in writing by mutual consent of the parties.\", \"The cost of completion by EDGE in the event of a termination based on the occurrence of any of the conditions specified in Section 11(A) above shall be deducted from the unpaid balance, if any, then due Subcontractor under the Agreement.\", \"The obligations of this Section 13 shall survive termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 182,
+    "prompt_tokens": 4370,
+    "total_tokens": 4552,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4367,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

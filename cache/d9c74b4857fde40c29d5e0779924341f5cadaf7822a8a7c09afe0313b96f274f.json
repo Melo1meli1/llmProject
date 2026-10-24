@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Party B shall pay the liquidated damages within 5 working days upon Party A's discovery of any breach, and if the payment is not made in time, Party A is entitled to directly deduct the same from the Agreement price.\", \"the deposits received by Party A in accordance with such agreements will temporarily not be refunded. Such agreements shall not be terminated until the end of the cooperation between the Parties under the agreements, at which time the Parties will conduct friendly negotiations on the termination of these agreements.\"]}",
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 4105,
+    "total_tokens": 4222,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4102,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

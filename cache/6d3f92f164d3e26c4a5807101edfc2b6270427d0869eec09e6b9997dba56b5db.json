@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In any event, as soon as practicable after the Effective Time, and in any event within three (3) years thereafter, Otis and\\n\\n11\\n\\nCarrier shall, and shall cause each of its respective Affiliates (including, after the Effective Time, the members of, respectively, the Otis Group and the Carrier Group), and any of its licensees or its respective Affiliates' licensees, to (a) cease and discontinue use of all United Technologies Trademarks, and (b) complete the removal of the United Technologies Trademarks from all of their respective products, signage, vehicles, properties, technical information, stationery and promotional or other marketing materials and other assets of Otis, Carrier and the other members of the Otis Group and the Carrier Group.\"]}",
+  "usage": {
+    "completion_tokens": 177,
+    "prompt_tokens": 5197,
+    "total_tokens": 5374,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5194,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

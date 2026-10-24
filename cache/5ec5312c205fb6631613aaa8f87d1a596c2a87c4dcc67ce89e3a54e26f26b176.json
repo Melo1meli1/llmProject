@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"In the event of termination of Licensee's exclusivity for Licensee's failure to achieve the Market Penetration Targets, Fox shall not distribute the Wireless Products which have been developed by Licensee prior to such termination, without first obtaining a license from Licensee on terms to be mutually agreed in each party's reasonable discretion, for the exploitation of the Licensee Materials.\",\"In the event Fox provides such termination notice to Licensee, Licensee hereby grants Fox a license to the Licensee Materials in order for Fox to distribute the Wireless Products that Licensee has developed for distribution in Japan prior to such termination, either directly or through a third-party. In consideration of such license, Fox shall pay Licensee a royalty as set forth in Paragraph 7(b)(i) below.\"]}",
+  "usage": {
+    "completion_tokens": 270,
+    "prompt_tokens": 4495,
+    "total_tokens": 4765,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4492,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

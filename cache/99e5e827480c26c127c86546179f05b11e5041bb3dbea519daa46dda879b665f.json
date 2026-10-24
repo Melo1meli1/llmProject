@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"In such a case, the remaining Source Plasma shall be immediately returned to Sanofi Pasteur, under ADMA's liability and expenses. Shipment of the Source Plasma to Sanofi Pasteur shall be made in compliance with the transportation conditions as provided in the Quality Agreement (as defined below), to be further amended by the Parties as contemplated in Section 9 below.\"]}",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 3683,
+    "total_tokens": 3771,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3680,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

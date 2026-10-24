@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"If it is determined that a Bloom System will be removed pursuant to this Section 2.5. Operator shall at its sole cost and expense remove the Bloom System and any other ancillary equipment (including the concrete pad and any other improvements to the Site to extent required under the Site Lease) from the Site, restoring the Site to its condition before the installation, including closing all utility connections in the manner required by all applicable Legal Requirement and Site Lease.\", \"Owner agrees that upon termination of this Agreement for any reason, Owner shall return all Training Materials, including any copies, to Operator.\"]}",
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 4166,
+    "total_tokens": 4300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4163,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

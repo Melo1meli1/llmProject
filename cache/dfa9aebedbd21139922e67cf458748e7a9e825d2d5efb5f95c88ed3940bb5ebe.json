@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"After the Initial Term, this Agreement shall continue on a month to month basis until terminated by either party upon thirty (30) days prior written notice to the other setting forth the effective date of such termination.\"]}",
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 4186,
+    "total_tokens": 4243,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4183,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

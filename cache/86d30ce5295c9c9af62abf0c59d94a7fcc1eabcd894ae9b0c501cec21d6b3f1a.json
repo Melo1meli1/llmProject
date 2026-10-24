@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Upon termination under the provisions of Clauses 11.2, 11.4, 11.5 or 11.6 NCC will deliver the Material to the Owner. If NCC is unable to trace the Owner NCC will destroy the Material.\",\"Upon termination under the provisions of Clause 11.1 the Material will be available for collection by the Owner from NCC for 30 days from the date of termination. After such 30 day period NCC will destroy the Material.\"]}",
+  "usage": {
+    "completion_tokens": 280,
+    "prompt_tokens": 2333,
+    "total_tokens": 2613,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 163,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2330,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

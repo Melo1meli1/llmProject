@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"except for payment by the Company, the MHC and/or the Bank as set forth in Sections 2(a), 6, 8 and 9 hereof.\", \"any such cancellation shall be without liability of any party to any other party except as otherwise provided in Sections 2(a), 6, 8 and 9 hereof.\", \"The respective indemnities of the Company, the MHC, the Bank and the Agent and the representations and warranties and other statements of the Company, the MHC, the Bank and the Agent set forth in or made pursuant to this Agreement shall remain in full force and effect, regardless of any termination or cancellation of this Agreement\"]}",
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 5092,
+    "total_tokens": 5245,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5089,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

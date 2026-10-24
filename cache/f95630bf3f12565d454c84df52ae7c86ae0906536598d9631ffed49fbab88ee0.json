@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Fox's Intellectual Property Rights shall be indefeasible and irrevocable and shall not be subject to reversion under any circumstance, including cancellation, termination, expiration, or breach of this Agreement.\", \"Licensee further agrees to execute one or more copyright assignments at Fox's request, or any other subsequent document as further evidence of this assignment, and to cooperate with Fox in perfecting the assignment of any rights to the Fox Intellectual Property\", \"Licensee ... at any time thereafter dispute or contest directly or indirectly, or do or cause to be done any act which in any way contests, impairs or tends to impair Fox's exclusive rights and title to the PSM and the Properties\"]}",
+  "usage": {
+    "completion_tokens": 368,
+    "prompt_tokens": 4986,
+    "total_tokens": 5354,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 209,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4983,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

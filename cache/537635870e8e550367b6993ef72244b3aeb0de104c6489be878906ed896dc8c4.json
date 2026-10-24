@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The respective indemnities, agreements, representations, warranties and other statements of the Transaction Entities, the Manager or their respective officers and of the Agent set forth in or made pursuant to this Agreement will remain in full force and effect, regardless of any investigation, or statement as to the results thereof, made by or on behalf of the Agent, the Transaction Entities, the Manager or any of their respective representatives, officers or directors or any controlling person, and will survive delivery of and payment for the Offered Shares.\", \"If the settlement of the Offered Shares by the Agent is not consummated for any reason other than solely because of the termination of this Agreement pursuant to Section 9 hereof, the Company will reimburse the Agent for all out-of-pocket expenses (including fees and disbursements of counsel) reasonably incurred by them in connection with the placement of the Offered Shares, and the respective obligations of the Transaction Entities and the Manager, on the one hand, and the Agent, on the other hand, pursuant to Section 8 hereof shall remain in effect.\", \"In addition, if the Offered Shares have been settled pursuant to the terms of the Agreement, the representations and warranties in Sections 2 through 3 and all obligations under Section 5 shall also remain in effect.\"]}",
+  "usage": {
+    "completion_tokens": 272,
+    "prompt_tokens": 4033,
+    "total_tokens": 4305,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4030,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

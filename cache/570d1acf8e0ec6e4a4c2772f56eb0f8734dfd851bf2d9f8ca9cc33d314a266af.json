@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"During the Term and for a period of two (2) years after any expiration or termination of this Agreement, each party shall maintain (i) a commercial general liability insurance policy or policies with minimum limits of $[***] per occurrence and $[***] in the aggregate on an annual basis and (ii) a product liability insurance policy or policies with minimum limits of $[***] per occurrence and $[***] in the aggregate on an annual basis; provided that the minimum product liability policy limits set forth above shall be increased to at least $[***] per occurrence and $[***] in the aggregate on an annual basis no later than December 31, 2006.\"]}",
+  "usage": {
+    "completion_tokens": 248,
+    "prompt_tokens": 4361,
+    "total_tokens": 4609,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4358,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

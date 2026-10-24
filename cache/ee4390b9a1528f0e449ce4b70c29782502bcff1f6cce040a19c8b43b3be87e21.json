@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"During the term of this Agreement and for a period of seven (7) years after its termination or expiration each Party (the \\\"Receiving Party\\\") shall maintain in confidence and, except as authorized by this Agreement, not use any know-how, data, processes, techniques, formulas, test data and other information disclosed by the other Party\",\"The Publication shall occur within […***…] of the date the Project is closed or terminated, or University and/or Principal Investigator shall be free to publish Program Data and results at that time.\",\"In the event of any termination of the Project by University, (a) University agrees to complete Phase I and II of the Project, and (b) ArTara will continue to provide annual funding until the completion of Phase II.\",\"Upon termination of the Project by ArTara this Agreement will terminate subject to Section 8.3 and ArTara will reassign to University the IND if assignment thereof previously occurred pursuant to Section 4.3.\"]}",
+  "usage": {
+    "completion_tokens": 394,
+    "prompt_tokens": 4398,
+    "total_tokens": 4792,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 176,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4395,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

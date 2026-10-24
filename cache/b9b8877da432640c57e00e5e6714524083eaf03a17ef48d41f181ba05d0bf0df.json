@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"These Records will be maintained for a period of at least three (3) years from the date of the related payment (\\\"Record Retention Period\\\"), notwithstanding any termination of expiration of this Agreement.\",\"During the Record Retention Period, ENERGOUS may appoint a mutually agreed independent, internationally recognized third-party certified auditor who will have the right to inspect and copy the Records upon reasonable prior notice, and DIALOG will (and will cause its Affiliates to) allow necessary access including, as applicable, to its premises where such Records are located.\",\"Each party will maintain, during the Term and for three (3) years thereafter, such comprehensive general liability insurance (including without limitation, products liability) as will adequately protect it against its potential liabilities under this Agreement, in amounts customary in the semiconductor industry for similar services and products.\"]}",
+  "usage": {
+    "completion_tokens": 182,
+    "prompt_tokens": 4162,
+    "total_tokens": 4344,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4159,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

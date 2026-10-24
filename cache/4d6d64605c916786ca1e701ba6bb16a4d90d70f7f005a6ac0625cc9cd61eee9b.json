@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Unless terminated earlier in accordance with the provisions hereof, this Agreement will commence on the Effective Date and will continue for a period of three (3) years therefrom (the \\\"Term\\\").\"]}",
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 4094,
+    "total_tokens": 4151,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4091,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

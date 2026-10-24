@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"This Agreement shall become effective on the Effective Date and shall remain in effect for an initial period of 1 year (\\\"Initial Term\\\"). Thereafter, this Agreement shall automatically be renewed for successive 1-year terms (each a \\\"Renewal Term\\\", and together with the Initial Term, the \\\"Term\\\").\"]}",
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 4306,
+    "total_tokens": 4387,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4303,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

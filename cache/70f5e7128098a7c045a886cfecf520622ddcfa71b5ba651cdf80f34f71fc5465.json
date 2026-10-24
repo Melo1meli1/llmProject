@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"6.4 No Consequential Damages. IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY UNDER THIS AGREEMENT IN A DIRECT ACTION BETWEEN THE PARTIES FOR SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS) SUFFERED BY THE OTHER PARTY.\"]}",
+  "usage": {
+    "completion_tokens": 205,
+    "prompt_tokens": 4235,
+    "total_tokens": 4440,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 121,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4232,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

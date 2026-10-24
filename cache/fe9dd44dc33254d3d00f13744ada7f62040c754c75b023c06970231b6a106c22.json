@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"7.5 Prior Obligations. Except as otherwise set forth in this Section 7, termination of this Supply Agreement for any reason shall not release either Party from any obligation theretofore accrued.\", \"7.6 Upon termination of this Agreement for any reason whatsoever: (a) CPDC must immediately return, [***], all of FUSION'S property in CPDC's possession; and (b) all then active Production Orders shall be deemed to have been cancelled by FUSION as of the date of termination of this Agreement.\", \"12. Non-Solicitation. During the term and for a period of [***] thereafter, neither party shall solicit, induce, encourage or attempt to induce or encourage any employee of the other party with whom such party has had direct contact to terminate his or her employment with such other party or to breach any other obligation to such other party.\"]}",
+  "usage": {
+    "completion_tokens": 197,
+    "prompt_tokens": 4436,
+    "total_tokens": 4633,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4433,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

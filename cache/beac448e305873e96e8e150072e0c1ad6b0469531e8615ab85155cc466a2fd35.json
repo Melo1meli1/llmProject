@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Client will not use User Data to directly or indirectly solicit any Excite users either individually or in the aggregate during the term of this Agreement and for a period of twelve (12) months following the expiration or termination of this Agreement.\", \"Upon the expiration or termination of this Agreement, each party will cease using the trademarks, service marks and/or trade names of the other except:\"]}",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 3896,
+    "total_tokens": 3989,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3893,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

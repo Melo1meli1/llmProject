@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"During the Term of this agreement, and for a period of twenty four (24)months after Termination (the \\\"Withholding Period\\\"), Contractor may retain monies (collections in Accounts Receivable) against any reasonable anticipated deductions for product recalls, unsalables, rebates, allowances or any audits or other adjustments it deems necessary. The retention of monies shall only be to the extent that the reasonable anticipated deductions exceed the anticipated accounts receivables. At the end of the Withholding Period, Contractor shall remit to the Company the retained monies less any deductions charged by Customers against Company's Products. After the Withholding Period, Company will remain liable to Contractor for any additional audits, deductions, rebates, credits, allowances or other adjustments taken by the Customers against the Company's Products.\",\"Upon the termination or expiration of this Agreement or upon the earlier request of the Disclosing Party, the Receiving Party shall (i) promptly return to the Disclosing Party all Confidential Information, or (ii) upon written request by the Disclosing Party, destroy all Confidential Information and provide the Disclosing Party with written certification of such destruction. Upon the termination or expiration of this Agreement, the Receiving Party shall cease all further use of any Confidential Information, whether in tangible or intangible form.\",\"During the Term of this Agreement and for a reasonable transitional period thereafter, Contractor shall maintain adequate levels of information technology system redundancy, security and emergency back-up as the Company may reasonably require to protect the Files and Work Papers of the Company.\",\"Such insurance requirements shall be maintained during the Term and shall continue for a minimum\"]}",
+  "usage": {
+    "completion_tokens": 597,
+    "prompt_tokens": 4074,
+    "total_tokens": 4671,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 263,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4071,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

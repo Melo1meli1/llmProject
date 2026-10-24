@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"COOL TECH and VET TECH agree not to engage in any attempt whatsoever, to hire, or to engage as independent contractors, the other's employees or independent contractors during the term of this Agreement and for a period of six (6) months following expiration or termination of this Agreement except as may be mutually agreed in writing.\"]}",
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 3784,
+    "total_tokens": 3914,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 42,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3781,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

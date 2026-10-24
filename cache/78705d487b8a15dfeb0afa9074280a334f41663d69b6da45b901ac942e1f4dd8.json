@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"PAPA JOHN'S shall have the right to continue to use, display and distribute copies of Materials which bear the Celebrity Endorsement and which were printed and published, or irrevocably booked for publication or display with a third party, prior to the effective date of expiration or termination\", \"PAPA JOHN'S shall have the right, without restriction, to the in-house, non-commercial use of any Materials.\", \"all use of the Celebrity Endorsement and/or Personality Rights must cease by no later than nine (9) months following the effective date of expiration or termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 4540,
+    "total_tokens": 4676,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4537,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

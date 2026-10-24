@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Any rights and obligations that were to survive termination of the Prior JDA (pursuant to Section 14.06 of the Prior JDA) are also terminated, except the confidentiality and use restrictions on Prior JDA Background Information and Prior JDA Project Results. Such confidentiality and use restrictions, as set forth in the Prior JDA, will survive termination but will be superseded and replaced by the confidentiality and use restrictions set forth in Article 4 (Disclosure, Confidentiality, and Restricted Use) of this Agreement.\",\"As of the Effective Date of this Agreement, the Memorandum of Understanding is terminated, but the confidentiality obligations set forth in the Memorandum of Understanding shall survive termination.\"]}",
+  "usage": {
+    "completion_tokens": 240,
+    "prompt_tokens": 4101,
+    "total_tokens": 4341,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4098,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

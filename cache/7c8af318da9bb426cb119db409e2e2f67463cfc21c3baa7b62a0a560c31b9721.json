@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"13. OBLIGATIONS AFTER TERMINATION: In the event that this Agreement is terminated for any reason, both Parties acknowledge that there are certain obligations that they are required to fulfill, therefore the Parties agree that, upon termination of this Agreement: 13.1 Distributor Obligations. Distributor shall: (i) pay all valid outstanding and final invoices issued by Company within thirty (30) days after termination is effective; (ii) immediately cease all distribution, duplication, and representation of the Products and marketing literature; (iii) immediately cease all use of any Company trademarks, and not there after use any mark which is confusingly similar to any trademark associated with any Product; (iv) immediately cease all representation of an existing relationship with Company; and (v) within thirty (30) days deliver to Company copies of all customer records (electronic, paper or otherwise) related to the Products.\",\"13.2 Company Obligations. (i) Immediately cease all representation of an existing relationship with Distributor; (ii) All medication inventory is owned by Smart RX Systems, Inc. only; and (iii) Distributor shall continue to receive Net Income per Customer location for so long as Customer continues to utilize the Products.\",\"13.3 No Use of Products. From and after termination Distributor shall not use internally or employ any of the Products or related materials as a part, portion, or basis of any product which Distributor shall use, sell, sublicense, assign, lease, loan, license or transfer to any third party.\",\"13.4 Survival. The terms of Sections 5, 6, and 13-23 shall survive any termination or expiration of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 349,
+    "prompt_tokens": 4126,
+    "total_tokens": 4475,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4123,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

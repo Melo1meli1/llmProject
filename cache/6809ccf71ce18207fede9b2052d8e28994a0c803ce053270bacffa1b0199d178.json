@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Termination shall not relieve either party of obligations incurred prior thereto.\",\"except that Distributor shall not be relieved of (i) its obligation to pay any monies due, or to become due, as of or after the date of termination, and (ii) any other obligation set forth in this Agreement which is to take effect after the date of termination.\"]}",
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 4457,
+    "total_tokens": 4605,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 58,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4454,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

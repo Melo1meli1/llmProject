@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"All materials, including but not limited to any computer software (in object code and source code form), data or information developed or provided by Tadeo, or its suppliers under this Agreement, and any know-how, methodologies, equipment, or processes used by Tadeo to provide the Services to Diplomat, including, without limitation, all copy-rights, trademarks, patents, trade secrets, and any other proprietary rights inherent therein and appurtenant thereto (collectively, \\\"Host Materials\\\") shall remain the sole and exclusive property of Tadeo or its suppliers. To the extent, if any, that ownership of the Hose Materials does not automatically vest in Tadeo by virtue of this Agreement or otherwise, Diplomat hereby transfers and assigns to Tadeo all rights, title and interest which Diplomat may have in and to the Host Materials.\"]}",
+  "usage": {
+    "completion_tokens": 189,
+    "prompt_tokens": 5118,
+    "total_tokens": 5307,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5115,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

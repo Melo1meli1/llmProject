@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The receiving Party's confidentiality obligations under this Article 9 shall survive the termination of this Agreement, and shall remain binding on the Parties hereto until the earlier of a) the Confidential Information falls within one of the exceptions stated in Section 9.1 and b) five (5) years from the expiration or termination of the Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4113,
+    "total_tokens": 4198,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4110,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

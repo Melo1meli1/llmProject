@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"In addition, in the event of a material breach by WYZZ of its obligations hereunder, Nexstar shall be entitled to terminate this Agreement and exercise its rights pursuant to Section 25(b) hereof (except that Nexstar may not assert consequential, special or punitive damages or any claim for lost profits).\",\"In addition, in the event of a material breach by Nexstar of its obligations hereunder, WYZZ shall be entitled to terminate this Agreement and exercise its rights pursuant to Section 25(a) hereof (except that WYZZ may not assert consequential, special or punitive damages or any claim for lost profits).\"]}",
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 4317,
+    "total_tokens": 4458,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4314,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

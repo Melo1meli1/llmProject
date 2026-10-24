@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"If PPG or PPG SHANGHAI does discontinue the production and/or sale of any of the Products, this Agreement shall automatically terminate with respect to such discontinued Product, and DISTRIBUTOR shall not be entitled to claim or receive from PPG or PPG SHANGHAI any compensation, reimbursement or damages of any nature as a result (direct or indirect) of PPG or PPG SHANGHAI's discontinuance of the production and/or sale of the affected Product.\",\"on the termination of this Agreement for any cause whatsoever, DISTRIBUTOR shall not be entitled to claim or receive from PPG SHANGHAI any compensation, reimbursement, or damages on account of any expenditure or commitment of any kind in connection with its business or on account of goodwill or on account of loss of prospective profits or otherwise.\",\"During this sixty(60) days period, both parties shall continue to perform their respective obligation under the same terms and conditions of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 364,
+    "prompt_tokens": 3113,
+    "total_tokens": 3477,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 149,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3110,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

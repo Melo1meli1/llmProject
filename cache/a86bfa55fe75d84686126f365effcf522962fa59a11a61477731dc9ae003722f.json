@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"EXCEPT FOR IN THE EVENT OF WILLFUL MISCONDUCT OR GROSS NEGLIGENCE, THE RESELLER AND ITS AFFILIATES SHALL NOT BE LIABLE TO THE COMPANY, AND SHALL HAVE NO OBLIGATION TO INDEMNIFY OR HOLD HARMLESS THE COMPANY, WITH RESPECT TO OR IN CONNECTION WITH ANY LOSS RESULTING FROM OR CAUSED BY THE COMPANY PRODUCTS.\"]}",
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 3520,
+    "total_tokens": 3612,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3517,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

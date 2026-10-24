@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Subject to Commerce One's pre-existing ownership of any materials or technology provided to Corio, the results of all such development efforts set forth in this Section 13, including all intellectual property rights in any software interface coding or programs created solely by Corio during the term of this Agreement to enable the Software to operated within the Corio Servers' hosted environment (\\\"DEVELOPMENTS\\\"), shall be owned by Corio, unless such Developments are supported on an ongoing basis by Commerce One in which case Commerce One will retain all ownership rights, including intellectual property rights in the Developments.\",\"To the extent that Commerce One would otherwise have a claim of ownership in such Developments, Commerce One hereby assigns all rights in and to such Developments to Corio.\"]}",
+  "usage": {
+    "completion_tokens": 167,
+    "prompt_tokens": 3758,
+    "total_tokens": 3925,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3755,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

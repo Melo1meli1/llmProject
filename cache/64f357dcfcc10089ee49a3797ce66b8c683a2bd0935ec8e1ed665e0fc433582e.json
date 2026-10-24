@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"DISTRIBUTOR's exclusive remedy and PPG SHANGHAI's sole responsibility is, at PPG SHANGHAI's option, limited to the replacement of such nonconforming Product at PPG SHANGHAI's expense or the refund of the purchase price attributable to a specific delivery as to which a claim is made.\", \"PPG SHANGHAI will not accept any claims for discrepancy in delivery beyond the 48 hours period.\", \"shall not constitute a default hereunder or subject the party affected by force majeure to any liability to the other\"]}",
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 4537,
+    "total_tokens": 4668,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4534,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

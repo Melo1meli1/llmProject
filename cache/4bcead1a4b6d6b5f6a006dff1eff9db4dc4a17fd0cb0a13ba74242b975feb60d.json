@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The term of this Agreement (the \\\"Term\\\") shall commence on the date first above written and shall terminate on 31 December 2006, unless sooner terminated in accordance with the provisions hereof.\",\"In the event that there is no written notice issued by either party to show the intention to renew this Agreement in the said thirty(30) days before the expiry of the current Term of the Agreement, the Agreement shall terminate at the end of the said thirty(30) days.\",\"In the event that such a notice of intention to renew is issued, but the parties are not able to enter into a new agreement within that sixty(60) days from the expiry of this Agreement, this Agreement shall terminate at the end of the said sixty(60) days.\"]}",
+  "usage": {
+    "completion_tokens": 168,
+    "prompt_tokens": 2931,
+    "total_tokens": 3099,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2928,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

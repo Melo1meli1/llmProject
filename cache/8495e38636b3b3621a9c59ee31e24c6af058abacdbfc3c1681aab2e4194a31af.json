@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon termination of this Agreement, or on the Board's request, the Executive will resign from any office held by him in any Group Company without any claim for compensation.\", \"during my employment or after it has terminated, to do anything and sign or execute any document and generally to use my name for the purpose of giving to the Company or to any Group Company or its or their nominee(s) the full benefit of clause 14 (Intellectual Property);\", \"during my employment or after it has terminated, to do anything and sign or execute any document as may be required under the constitution of the Company and each Group Company to make my resignation as a director from those companies effective;\"]}",
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 4546,
+    "total_tokens": 4700,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4543,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

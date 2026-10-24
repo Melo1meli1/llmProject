@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"fees earned up to the date termination will remain payable only if the related orders are not cancelled or returned.\", \"the sum due can be retained until a total value of at least 100 EUR / 100 USD is reached, at the latest, upon termination of the Affiliate's participation in the Program.\"]}",
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 4036,
+    "total_tokens": 4189,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4033,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

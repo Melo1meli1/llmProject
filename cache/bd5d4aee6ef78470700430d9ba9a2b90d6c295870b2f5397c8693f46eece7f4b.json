@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"After the Initial Term, this Agreement may only be renewed if authorized officers of ARGO and YEC agree in writing at least thirty (30) days before the expiration of the Initial Term or any renewal term to a renewal, including the period of the renewal term.\"]}",
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 3188,
+    "total_tokens": 3259,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3185,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

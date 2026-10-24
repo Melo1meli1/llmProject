@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Termination of this Agreement shall not affect any rights or obligations as between the Parties which may have accrued prior to such termination or which expressly or by implication are intended to survive termination whether resulting from the event giving rise to termination or otherwise.\", \"Throughout the Term, and thereafter to the extent relevant to calculations necessary for periods prior to the end of the Term and subject to any confidentiality obligation owed to any third party and/or any restrictions on the disclosure of information which may be subject to intellectual property rights restricting disclosure:\"]}",
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 4176,
+    "total_tokens": 4294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4173,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

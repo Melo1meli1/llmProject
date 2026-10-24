@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"led to continue to distribute and exhibit all Licensed Programs then being distributed and exhibited on the ROD Service, in each case, for a period of sixty (60) days from the effective date of termination or the expiry of the relevant License Period, whichever is earlier, and, in such event, Rogers shall continue to be bound by its payment obligations set forth herein in respect of such Licensed Programs.\",\"During the Term, and for a period of twelve (12) months thereafter, Rogers (and its representatives) shall have the right, upon reasonable prior written notice to Licensor, and during regular business hours, to inspect and/or audit Licensor's books and records to confirm compliance with Licensor's obligations under this Section.\",\"Each party agrees to use the other party's confidential information solely for the purpose of fulfilling its obligations under this Agreement, to hold the other party's confidential information in confidence and to protect the confidentiality of such confidential information using the same degree of care as it uses to protect its own confidential information of a like nature, which shall, in any event, be no less than a degree of care consistent with industry standards.\"]}",
+  "usage": {
+    "completion_tokens": 458,
+    "prompt_tokens": 2695,
+    "total_tokens": 3153,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 210,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2692,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

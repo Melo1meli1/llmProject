@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Within twenty (20) days following the end of each full calendar month during the Collection Period, Nexstar shall furnish WYZZ with a report of all amounts collected, together with its check for payment thereof, with respect to the Accounts Receivable during such month\", \"not later than the ninetieth (90th) day following the Effective Date, Nexstar shall pay to WYZZ the excess of the aggregate amount retained pursuant to the immediately preceding proviso over the aggregate reduction in payments otherwise due with respect to the first three months of the Term from WYZZ\", \"Each of the parties shall during and after the Term continue to be bound by the provisions of the Confidentiality Letter Agreement dated as of July 31, 2001.\"]}",
+  "usage": {
+    "completion_tokens": 167,
+    "prompt_tokens": 4148,
+    "total_tokens": 4315,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4145,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

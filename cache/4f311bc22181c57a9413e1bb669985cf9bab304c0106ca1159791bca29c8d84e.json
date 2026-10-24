@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"the term of this Agreement shall begin on the effective date first above written and shall continue until terminated by mutual agreement of the parties hereto or by either party on not less than 60 days' written notice to the other party hereto.\", \"may be terminated at any time without the payment of any penalty by the Board or by a vote of a majority of the outstanding voting securities (as defined in Section 2(a)(42) of the 1940 Act) of the Account on 60 days' written notice to the Adviser;\"]}",
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2349,
+    "total_tokens": 2475,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2346,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

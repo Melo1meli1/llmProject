@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"each Assignor Party, on behalf of itself and the other members of the Assignor Group, hereby irrevocably assigns to the applicable Assignee Party, and agrees to irrevocably assign to the applicable Assignee Party, all of its and the other members of the Assignor Group's rights, title and interest in and to any and all Intellectual Property Rights owned by the Assignor Party or another member of the Assignor Group that meets one or more of the following descriptions:\",\"all rights in and to the United Technologies Trademarks, including all goodwill appurtenant thereto, are owned and shall be owned solely and exclusively by UTC.\",\"Otis and Carrier, on behalf of themselves and the other members of, respectively, the Otis Group and the Carrier Group, hereby irrevocably assign to UTC, and agree and promise to assign to UTC, (a) any and all rights, title and interest in and to the United Technologies Trademarks, including all goodwill appurtenant thereto held by them and the other members of the Otis Group and the Carrier Group, and (b) any and all registrations and applications for registration of Trademarks consisting of or containing any of the United Technologies Trademarks, anywhere in the world, to which Otis, Carrier or another member of the Otis Group or the Carrier Group holds a legal or equitable interest as of the Effective Time.\"]}",
+  "usage": {
+    "completion_tokens": 297,
+    "prompt_tokens": 4252,
+    "total_tokens": 4549,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4249,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

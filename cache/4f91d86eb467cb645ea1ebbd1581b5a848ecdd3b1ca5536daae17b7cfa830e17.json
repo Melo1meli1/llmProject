@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon payment to IAC, Sonos shall take full title and ownership of the applicable Sonos Tool, including any specifications associated with the Sonos Tool. IAC will execute any documents necessary to document or perfect Sonos' ownership of the Sonos Tool. If the Sonos Tool is created by an IAC Subcontractor, IAC shall secure such ownership rights in accordance with its responsibilities specified in Section 13.1 of the Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 275,
+    "prompt_tokens": 4393,
+    "total_tokens": 4668,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 161,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4390,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

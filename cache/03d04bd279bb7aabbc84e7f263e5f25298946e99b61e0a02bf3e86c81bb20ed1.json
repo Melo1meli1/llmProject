@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon termination or expiration of this Agreement, if specifically requested by MBRK, DD shall provide originals or copies of such records to MBRK.\", \"In all cases the Deposit amount will be used to settle any outstanding amounts due to DD by MBRK at the end of the Agreement or at the time the Deposit requirement is waived.\"]}",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4411,
+    "total_tokens": 4497,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4408,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

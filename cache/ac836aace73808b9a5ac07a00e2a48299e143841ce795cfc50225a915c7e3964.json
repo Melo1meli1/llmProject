@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Each party acknowledges and agrees that (i) all copyrights and trademarks used in connection herewith that are owned by a party shall be and remain the sole and complete property of such party; (ii) the other party shall not at any time acquire or claim any right, title or interest of any nature whatsoever in any such copyright or trademark by virtue of this Agreement;\"]}",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 4538,
+    "total_tokens": 4629,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4535,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

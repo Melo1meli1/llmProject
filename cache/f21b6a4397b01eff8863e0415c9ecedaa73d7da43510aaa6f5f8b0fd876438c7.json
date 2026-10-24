@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Each of EA, Farids and the Company shall not, and shall cause their respective controlled Affiliates to not, either directly or indirectly solicit, hire, or contract with any of the employees of the other party or its Affiliates during the Term (as defined in the Exclusive Supplier Operating Agreement) and for one (1) year following the termination or expiration thereof; provided that this Section 8.9(a) shall not apply with respect to any such employee who employment with the other party and its Affiliates has been terminated for a period in excess of nine (9) months.\"]}",
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 3048,
+    "total_tokens": 3183,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3045,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

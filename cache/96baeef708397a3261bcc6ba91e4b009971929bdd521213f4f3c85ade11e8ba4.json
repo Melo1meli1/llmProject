@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Unless otherwise agreed in writing by Accuray and Distributor and subject to the termination rights contained in this Agreement, this Agreement shall begin on the Effective Date and shall continue until the termination of the Strategic Alliance Agreement; provided, however, that if a Termination Election relating to this Agreement is made pursuant to Section 10.3 of the Strategic Alliance Agreement prior to such termination, this Agreement shall terminate 36 months after such Termination Election (the \\\"Term\\\").\"]}",
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 4347,
+    "total_tokens": 4456,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4344,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

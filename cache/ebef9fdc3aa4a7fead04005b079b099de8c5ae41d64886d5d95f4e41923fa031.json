@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"To the extent any insurance coverage required under this Section is purchased on a \\\"claims-made\\\" basis, such insurance shall cover all prior acts of Metavante during the Term, and such insurance shall be continuously maintained until at least four (4) years beyond the expiration or termination of the Term, or Metavante shall purchase \\\"tail\\\" coverage, effective upon termination of any such policy or upon termination or expiration of the Term, to provide coverage for at least four (4) years from the occurrence of either such event.\"]}",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 5122,
+    "total_tokens": 5302,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 53,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5119,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

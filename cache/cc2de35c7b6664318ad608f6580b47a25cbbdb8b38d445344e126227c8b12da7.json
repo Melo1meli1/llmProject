@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"in the event of the early termination of this Agreement pursuant to Article 4 hereof, BE and Operator agree to use commercially reasonable efforts to cooperate with Owner to facilitate Owner entering into a new agreement with a third party operator governing operation and maintenance services to be provided to Owner on terms substantially similar to the terms of this Agreement, so that such replacement Operator shall be deemed a QFCP.\",\"Throughout the Term, and thereafter to the extent relevant to calculations necessary for periods prior to the end of the Term and subject to any confidentiality obligation owed to any third party and/or any restrictions on the disclosure of information which may be subject to intellectual property rights restricting disclosure:\\n\\n(a) Owner shall grant Operator access to all data relating to the electricity production of each Bloom System, it being understood that it is Operator's responsibility to determine the performance of the Bloom System, and any other calculations as required under this Agreement, and that it is Owner's responsibility to handle all accounting and invoicing activities; and\\n\\n(b) Owner shall allow Operator access to all data from all Facility Meters.\\n\\nOperator shall be entitled to use the foregoing data for its internal purposes and make such data available to third parties for analysis.\"]}",
+  "usage": {
+    "completion_tokens": 468,
+    "prompt_tokens": 4357,
+    "total_tokens": 4825,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 204,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4354,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"You will not (except with the prior written consent of the Board) except in the proper course of your duties during the continuance of this Agreement (which for the avoidance of doubt shall include the use of laptops and remote working), or at any time thereafter:\\n\\n(a) disclose or use for your own or for another's purpose or benefit any Confidential Information which you may learn while in the employment of the Company except as required by a court of law or any regulatory body or that which may be in or become part of the public domain other than through any act or default on your part;\", \"Upon termination of your employment for any reason by either party, you must immediately return to the Company all Company property including but not limited to documents, papers, records, keys, credit cards, mobile telephones, computer and related equipment, PDA or similar device, security passes, accounts, specifications, drawings, lists, correspondence, catalogues or the like relating to the Company's business which is in your possession or under your control and you must not take copies of the same without the Company's express written authority.\"]}",
+  "usage": {
+    "completion_tokens": 238,
+    "prompt_tokens": 4059,
+    "total_tokens": 4297,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4056,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

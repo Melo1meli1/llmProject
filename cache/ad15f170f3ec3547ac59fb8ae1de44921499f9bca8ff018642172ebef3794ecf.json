@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"During your employment with the Company and thereafter, without limit in time, you shall at the request and expense of the Company, promptly assist the Company:\",\"During the term of your employment and at all times thereafter subject always to your obligations to third parties, you shall furnish such information and proper assistance to the Company or any Group Companies as it or they may reasonably require in connection with the Company's intellectual property (including without limitation applying for, defending, maintaining and protecting such intellectual property) and in connection with litigation in which it is or they are or may become a party.\",\"For the avoidance of doubt the obligations under this paragraph 16 shall continue notwithstanding the termination of your employment with the Company.\"]}",
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 4024,
+    "total_tokens": 4178,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4021,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

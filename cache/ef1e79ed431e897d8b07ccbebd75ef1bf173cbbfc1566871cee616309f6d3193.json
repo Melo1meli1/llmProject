@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"revenues, expenses, and liabilities attributable to the Stations, including power and utilities charges, ad valorem property taxes, rents, income and sales taxes, and similar accruing, prepaid and deferred items, will be allocated in accordance with the principles that, as applicable pursuant to the terms of this Agreement, (A) Nexstar and WYZZ will be allocated revenues earned or accrued, and expenses, costs and liabilities incurred in or allocable, with respect to the business and operation of the such entity's Station through but not including the Effective Date and following the last day of the Term\", \"Each of the parties shall during and after the Term continue to be bound by the provisions of the Confidentiality Letter Agreement dated as of July 31, 2001.\"]}",
+  "usage": {
+    "completion_tokens": 328,
+    "prompt_tokens": 5068,
+    "total_tokens": 5396,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 151,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5065,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

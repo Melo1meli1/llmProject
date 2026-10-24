@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon expiration of this Agreement, with all conditions being equal, Party B has the preferential right to continue Cooperation with Party A in respect of the real estate channel. If both Party A and Party B continue their Cooperation, they will negotiate to reach an agreement to that effect no less than one month prior to the expiration of this Agreement.\", \"Party A will cooperate with Party B to handle any agreement relating to cooperation regarding real estate and home furnishing channel which has not been fully performed by the date of this Agreement.\", \"Party A hereby agrees to take all actions necessary for cooperation between the client of Cooperation Channel with Party B and the transfer mentioned above, including: (i) Within ten (10) business days upon execution of this Agreement, provide to Party B a schedule listing all agreements regarding Cooperation Channel which are valid as of the date hereof as well as a copy of all such agreements; (ii) Within ten (10) business days upon execution of this Agreement, provide to Party B a correct and detailed financial statement reflecting all accounts receivable and payable, including any payment made by Party A or the client under any outstanding agreement with the note whether such payment is for completed or uncompleted services. (iii) Within ten (10) business days upon execution of this Agreement, provide to Party B a client document (including the name, position and the residence of its person in charge) for follow-up and maintenance efforts by Party B; and (iv) Introduce Party B to its clients as the new communicator and the successor of Party A.\"]}",
+  "usage": {
+    "completion_tokens": 327,
+    "prompt_tokens": 4245,
+    "total_tokens": 4572,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4242,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

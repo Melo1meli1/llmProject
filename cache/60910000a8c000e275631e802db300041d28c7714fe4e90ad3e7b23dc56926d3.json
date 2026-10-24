@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"In case of termination of the Agreement, NLS and Eurofarma shall immediately work on a transition out plan, with activities and timelines agreed by the Parties to ensure a proper handover of the Licensed Product so that its market position and the obligations to prescribers, patients and regulatory authorities are fulfilled in accordance with Eurofarma best practices.\",\"Each Party (the \\\"Receiving Party\\\") undertakes: (i.) to maintain as secret and confidential all Confidential Information obtained directly or indirectly from the other Party (the \\\"Disclosing Party\\\") in the course of this Agreement and to respect the Disclosing Party's rights therein; (ii.) to use such Confidential Information only for the purposes of this Agreement; and (iii.) to disclose such Confidential Information only to those of its employees, contractors, and sub-licensees pursuant to this Agreement (if any) to whom and to the extent that such disclosure is reasonably necessary for the purposes of this Agreement. The confidentiality obligations provided in this Article shall survive any termination or expiry of this Agreement for period of ten (10) years.\"]}",
+  "usage": {
+    "completion_tokens": 376,
+    "prompt_tokens": 4235,
+    "total_tokens": 4611,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 140,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4232,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The license hereby granted shall commence on the date the Franchised Restaurant opens for business (the \\\"Commencement Date\\\"), and, unless sooner terminated in accordance with the terms and provisions of this Agreement, shall continue for the period of years set forth on SCHEDULE 1 hereto (the \\\"Term\\\").\"]}",
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 4729,
+    "total_tokens": 4810,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4726,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

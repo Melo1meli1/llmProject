@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Except when this Agreement is terminated due to the uncured breach of Distributor, Distributor shall have within one (1) month of termination of this Agreement the right to return the Products purchased by Distributor to Vendor provided that the Products are unopened upon receipt by Vendor. Distributor will receive a credit for the full price paid by Distributor for the Products.\",\"In the event of termination for whatever reason, Vendor and Distributor agree to complete the delivery of each order of the Product received by Distributor and each unfulfilled order for the Product prior to the termination date.\",\"The Monthly Compensation shall be paid for the remaining monthly periods remaining in the Term, as if the termination of this Agreement had not occurred, or twenty four (24) calendar months, which ever period is less, where payment shall be made no later than thirty (30) calendar days after the end of the relevant monthly period.\"]}",
+  "usage": {
+    "completion_tokens": 314,
+    "prompt_tokens": 4134,
+    "total_tokens": 4448,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4131,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

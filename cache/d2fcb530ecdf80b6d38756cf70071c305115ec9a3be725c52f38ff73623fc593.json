@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Neither party shall be liable to the other for lost profits or indirect, special consequential or punitive damages of any kind arising in connection with the manufacture, sale and distribution of the products, even if such party has been advised of the possibility of such damages.\"]}",
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 1900,
+    "total_tokens": 1968,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 1897,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

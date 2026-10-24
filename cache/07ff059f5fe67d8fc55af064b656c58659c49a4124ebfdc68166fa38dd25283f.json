@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The agreements contained in this Section 8 and in Section 9 hereof and the representations and warranties of the Company, the MHC and the Bank set forth in this Agreement shall remain operative and in full force and effect regardless of: (i) any investigation made by or on behalf of agent or their officers, directors or controlling persons, agent or employees or by or on behalf of the Company, the MHC or the Bank or any officers, directors or controlling persons, agent or employees of the Company, the MHC or the Bank; (ii) delivery of and payment hereunder for the Shares; or (iii) any termination of this Agreement.\", \"The respective indemnities of the Company, the MHC, the Bank and the Agent and the representations and warranties and other statements of the Company, the MHC, the Bank and the Agent set forth in or made pursuant to this Agreement shall remain in full force and effect, regardless of any termination or cancellation of this Agreement or any investigation made by or on behalf of the Agent, the Company, the MHC, the Bank or any controlling person referred to in Section 8 hereof, and shall survive the issuance of the Shares, and any successor or assign of the Agent, the Company, the MHC, the Bank, and any such controlling person shall be entitled to the benefit of the respective agreements, indemnities, warranties and representations.\"]}",
+  "usage": {
+    "completion_tokens": 300,
+    "prompt_tokens": 4149,
+    "total_tokens": 4449,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4146,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

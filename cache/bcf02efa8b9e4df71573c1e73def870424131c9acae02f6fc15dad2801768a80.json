@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Following the expiration or early termination of this Agreement, Metavante shall provide to Customer the Customer Data in the format in which it exists on Metavante's systems (the \\\"Data Tapes\\\"), in accordance with Metavante's then-current standard prices for the delivery media. In addition, Metavante agrees to provide to Customer, at Customer's expense, all necessary assistance to facilitate the orderly transition of Services to Customer or its designee (\\\"Termination Assistance\\\").\",\"Within 10 days of the Effective Date of Termination, Customer shall, at its own expense, return the Incidental Software to Metavante and/or destroy all copies thereof.\"]}",
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 4023,
+    "total_tokens": 4172,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4020,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

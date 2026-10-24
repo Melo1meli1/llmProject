@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"WYZZ shall continue to be the owner of and shall be entitled to all revenues resulting from the sale of advertising and other time on WYZZ-TV before, during and/or after the Term\",\"At all times during the Term and for six (6) months following the termination of this Agreement, WYZZ shall have the right, upon prior written request to Nexstar, to review all of the books and records of Nexstar relating to the BCF Report and the Distributions.\"]}",
+  "usage": {
+    "completion_tokens": 282,
+    "prompt_tokens": 4538,
+    "total_tokens": 4820,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 165,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4535,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

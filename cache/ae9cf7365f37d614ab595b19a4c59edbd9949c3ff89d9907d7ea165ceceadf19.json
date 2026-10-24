@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"5.4 Rights and Obligations Following Expiration or Termination It is specifically understood by Dexcel and Kitov that, upon any expiration or termination of this Agreement for any reason, the rights and obligations of the Parties shall include the following:\", \"5.4.1 Neither Party shall be relieved of its duty to discharge in full all obligations accrued or due prior to the date of termination, cancellation or expiration; all sums owed by either Party to the other shall become immediately due and payable thirty (30) days after such date.\", \"5.4.4 Any Confirmed Orders made by Dexcel on or before the expiration or termination of this Agreement but not yet delivered by Dexcel shall be delivered to Kitov and Kitov shall be liable to pay for the same in accordance with the provisions of the Agreement. Kitov shall be entitled to sell or otherwise dispose of its remaining stock of the Product until the end of the inventory's shelf life.\", \"5.4.5 The rights and obligations of the Parties to this Agreement set forth in 4, 5, 6, 7, 9 and 10 shall survive any expiration or termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 255,
+    "prompt_tokens": 4208,
+    "total_tokens": 4463,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4205,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

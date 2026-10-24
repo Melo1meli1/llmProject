@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"After the termination of this Agreement, Party B shall strictly perform the Financial Leasing Agreement signed with the Driver User until the lease expires.\", \"Upon the termination of this Agreement, Party B shall remove and delete any information or signs related to Didi contained in the materials in the building, equipment, furnishings inside and outside Party B's premises and materials published by Party B in any form.\"]}",
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 5306,
+    "total_tokens": 5400,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5303,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Each Party shall be fully insured and shall duly maintain such insurance during the term of this Agreement and thereafter for so long as it customarily maintains insurance for itself for similar products and activities.\"]}",
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 4307,
+    "total_tokens": 4362,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4304,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

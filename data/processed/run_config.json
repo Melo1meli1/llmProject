@@ -1,13 +1,22 @@
 {
-  "model": "gpt-4.1-mini",
-  "temperature": 0,
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
   "chunk_chars": 20000,
   "overlap_chars": 2000,
   "seed": 42,
   "dev_size": 100,
+  "n_llm_dev": 100,
   "min_score": 1,
   "top_k": 2,
   "system_prompt": "You are a careful contract-analysis assistant. You are given part of a commercial contract and a clause type. Decide whether this text contains a clause of that type. If so, return the relevant passages copied VERBATIM from the text (do not paraphrase; keep each passage as short as possible while covering the provision). If there is no such clause, say so. Respond ONLY with JSON: {\"found\": true/false, \"passages\": [\"...\"]}",
+  "descriptions": {
+    "Expiration Date": "The date or condition on which the agreement expires or the initial term ends.",
+    "Renewal Term": "How long the agreement is renewed or extended for after the initial term.",
+    "Notice Period To Terminate Renewal": "How far in advance notice must be given to prevent renewal or terminate at the end of a term.",
+    "Cap On Liability": "Any cap or limit on a party's liability (for example a maximum amount or a time limit for claims).",
+    "Ip Ownership Assignment": "Provisions assigning or allocating ownership of intellectual property created under the agreement.",
+    "Post-Termination Services": "Obligations or services that continue or must be provided after termination or expiration."
+  },
   "kategorier": [
     "Expiration Date",
     "Renewal Term",

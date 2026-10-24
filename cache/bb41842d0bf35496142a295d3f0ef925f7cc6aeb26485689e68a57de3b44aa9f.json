@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"THE AGGREGATE LIABILITY OF SUPPLIER UNDER, OR IN CONNECTION WITH, THIS AGREEMENT SHALL BE EQUAL TO THE LESSER OF: (i) ***; AND (ii) ***.\"]}",
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 4325,
+    "total_tokens": 4382,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4322,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

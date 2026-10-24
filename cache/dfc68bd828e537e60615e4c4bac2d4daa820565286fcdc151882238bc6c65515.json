@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon termination or expiration of this Agreement (i) Each Party shall return to the other Party or destroy (If so authorized in writing by the other Party) any Confidential information in the Party's possession or control, and cause an officer to certify in writing to the other Party that it has done so; (ii) Each Party's rights to be paid and each Party's obligations to pay all amounts due hereunder, as well as Sections 3 through 10 shall survive termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 193,
+    "prompt_tokens": 5141,
+    "total_tokens": 5334,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5138,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

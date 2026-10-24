@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"At all times during the Term and for a period of [***] ([***]) years following the end of the Term, or with respect to trade secrets (with such trade secrets either (i) having been specifically identified in writing to the Receiving Party by the Disclosing Party claiming ownership of the same or (ii) reasonably distinguishable by its nature or content as a trade secret of the Disclosing Party), until such time that such information is no longer a trade secret (including pursuant to Sections 10.1.1 - 10.1.5), Receiving Party will, and will cause its Affiliates and its and their respective officers, directors, employees, Permitted Subcontractors, permitted sublicensees and agents to, keep confidential and not publish or otherwise disclose to a Third Party and not use for any purpose, any Confidential Information furnished or otherwise made known to it by the Disclosing Party\",\"Upon the end of the Term, whether in its entirety or with respect to a specific Workflow Development Plan, Disclosing Party may request in writing to Receiving Party, and Receiving Party will, as requested by Disclosing Party except as and if necessary for such Receiving Party to exercise surviving rights under this Agreement following such expiration or termination, (a) at the Disclosing Party's request, destroy, as soon as reasonably practicable, specific Confidential Information identified by the Disclosing Party in writing to the Receiving Party that are in Receiving Party's possession and confirm such destruction in writing to Disclosing Party or (b) deliver to Disclosing Party, as soon as reasonably practicable, at Disclosing Party's expense, all copies of such Confidential Information in the possession of Receiving Party; provided that the Receiving Party will be permitted to retain one copy of such Confidential Information for the sole purpose of performing any continuing obligations hereunder, as required by Applicable Law or for archival purposes.\"]}",
+  "usage": {
+    "completion_tokens": 449,
+    "prompt_tokens": 4335,
+    "total_tokens": 4784,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 53,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4332,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

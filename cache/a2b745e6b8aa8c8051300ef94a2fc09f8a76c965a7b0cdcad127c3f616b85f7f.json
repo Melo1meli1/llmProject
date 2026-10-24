@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Notwithstanding the foregoing, the foregoing limitation on liability shall not be applicable in respect of any liability of Licensor to Licensee resulting from any misrepresentation in, or breach of, the terms of Section 6.2 hereof or in respect of Licensor's obligation to repay Royalty Advances pursuant to Section 3.2 hereof.\"]}",
+  "usage": {
+    "completion_tokens": 190,
+    "prompt_tokens": 3993,
+    "total_tokens": 4183,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3990,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

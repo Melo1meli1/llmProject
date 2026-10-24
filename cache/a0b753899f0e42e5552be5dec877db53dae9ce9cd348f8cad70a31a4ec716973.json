@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"any intellectual property, know-how, trade secrets, data, processes whether patentable or not which may arise from the Further Development Work and the Supplemental Data shall be solely owned by NLS and shall fall under NLS Intellectual Property Rights and any other rights as the case maybe, except any information that is or becomes public (non-confidential) other than as a direct or indirect result of a disclosure by Licensee or any of its representatives. Licensee Knowhow shall belong to Licensee;\"]}",
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 4930,
+    "total_tokens": 5046,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4927,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

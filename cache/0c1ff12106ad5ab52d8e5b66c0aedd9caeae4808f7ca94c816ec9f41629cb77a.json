@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In any event, neither party shall be liable for any special, consequential or incidental damages.\", \"all persons dealing with any class of Shares of the Trust must look solely to the Trust Property belonging to such class for the enforcement of any claims against the Trust.\", \"In seeking to enforce a claim against any Fund, Administrator shall look to the assets only of that Fund and not to the assets of any other Fund.\"]}",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2473,
+    "total_tokens": 2573,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2470,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

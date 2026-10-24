@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"all of its and its Affiliates' employees who conduct any work under this Agreement will be, during the conduct of all such work, bound to a written agreement with such Party or its Affiliate to automatically assign all right, title and interest in and to their inventions and discoveries, whether or not patentable, to such Party as the sole owner thereof;\"]}",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4310,
+    "total_tokens": 4398,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4307,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

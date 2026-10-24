@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon termination of this Agreement all further rights and obligations of the parties shall cease, except that Distributor shall not be relieved of (i) its obligation to pay any monies due, or to become due, as of or after the date of termination, and (ii) any other obligation set forth in this Agreement which is to take effect after the date of termination.\", \"The Distributor agrees to hold the Company free and harmless from any and all claims, damages, and expenses of every kind or nature whatsoever (a) arising from acts of the Distributor; (b) as a direct or indirect consequence of termination of this Agreement in accordance with its terms; or (c) arising from acts of third parties in relation to Products sold to the Distributor under this Agreement, including, but not limited to execution of liens and security interests by third parties with respect to any such Products.\"]}",
+  "usage": {
+    "completion_tokens": 191,
+    "prompt_tokens": 3695,
+    "total_tokens": 3886,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3692,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

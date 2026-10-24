@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Upon a termination of this Agreement, Accuray shall continue to make available to Customers support services on commercially reasonable terms, including, without limitation, spare parts for the Systems for a minimum period of 10 years after the last shipment of a System pursuant to this Agreement.\",\"Each of the parties agree to cooperate fully with the other for any reasonable transition assistance required in the case of termination or expiration of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 4262,
+    "total_tokens": 4360,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4259,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

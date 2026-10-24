@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"NCC's total liability in respect of all claims arising under or by virtue of this Agreement shall not (except in the case of claims for personal injury or death) exceed the sum of (pounds)500,000.\",\"NCC shall in no circumstances be liable to the Owner or the Licensee for indirect or consequential loss of any nature whatsoever whether for loss of profit, loss of business or otherwise.\"]}",
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 2351,
+    "total_tokens": 2448,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2348,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

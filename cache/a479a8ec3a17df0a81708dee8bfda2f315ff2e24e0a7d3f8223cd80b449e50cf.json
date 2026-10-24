@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The Franchisee agrees that all materials made available to the Franchise and all disclosures made to the Franchisee, and not to the general public, by or at the direction of BKC at any time before or during the term of this Agreement, including the MOD Manual in its entirety and any translations thereof, are to be considered trade secrets of BKC for purpose of this Agreement and shall be kept confidential and used by the Franchisee only in the operation of the Franchised Restaurant and other licensed Burger King Restaurants.\", \"The Franchisee will not directly or indirectly, at any time during the term of this Agreement or thereafter, do or cause to be done any act or thing disputing, attacking or in any way impairing the validity of and BKC's right, title or interest in the Burger King Marks and the Burger King System.\", \"The Franchisee hereby assigns to BKC such rights (if any) as the Franchisee may hereafter acquire in any of the Burger King Marks or the Burger King System and shall execute such documents and do such acts at the cost of BKC as may be necessary to perfect such assignment.\", \"The Franchisee agrees, during the term of this Agreement and thereafter, not to directly or indirectly engage in the operation of any restaurant, except as licensed by BKC, which utilizes or duplicates the Burger King System or any part thereof.\"]}",
+  "usage": {
+    "completion_tokens": 292,
+    "prompt_tokens": 4287,
+    "total_tokens": 4579,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4284,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

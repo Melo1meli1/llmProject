@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Owner agrees that upon termination of this Agreement for any reason, Owner shall return all Training Materials, including any copies, to Operator.\", \"Operator shall store any such documentation on behalf of Owner until its final delivery to Owner.\"]}",
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 5086,
+    "total_tokens": 5148,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5083,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

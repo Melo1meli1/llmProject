@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Within fifteen (15) days after the end of the Term of the Agreement, FCE will issue an invoice (\\\"9th Inning Invoice\\\") for the actual charges incurred during the last month of the Term of the Agreement, subject to Paragraph 10.01(a). FCE will apply any balance of the Initial Payment remaining after the 8th Inning Invoice as a credit towards the amount due on the 9th Inning Invoice. If after applying such credit, a balance of the Initial Payment still remains, FCE will refund the balance to ExxonMobil within thirty (30) days, unless otherwise mutually agreed (such as the Parties mutually agreeing to enter into a new Project and apply the balance as a credit towards amounts payable by ExxonMobil thereunder).\",\"The obligation to pay any such installment ends upon termination of this Agreement by either Party for any reason prior to FCE achieving the respective milestone.\",\"In addition, if this Agreement is terminated by ExxonMobil, ExxonMobil will pay FCE reasonable non- refundable expenses incurred by FCE in satisfying authorized commitments entered into by FCE with third parties prior to receipt of the termination notice. FCE will uses its best efforts to minimize termination expenses and will give appropriate credit to ExxonMobil where applicable. The total amount paid FCE under this Agreement or for a Project, including all amounts paid following termination, will not exceed the maximum authorized charge specified in this Agreement or for a Project.\",\"In the event of termination under this Paragraph 12.03 where FCE is the defaulting Party, FCE's royalty-free licenses described in Paragraph 7.01(b)(1), 8.02(b)(1)(i), 8.02 (b)(1)(ii), 8.02(b)(1)(iii), and 8.02(b)(2)(i) will immediately convert to royalty-bearing licenses, with the royalty rate to be negotiated by the Parties in good faith.\",\"Notwithstanding anything else in this Agreement, in the event of termination under this Paragraph 12.04 ExxonMobil may terminate any licenses granted to FCE under this Agreement that would otherwise survive termination, taking into account the circumstances surrounding the Change in Control.\"]}",
+  "usage": {
+    "completion_tokens": 653,
+    "prompt_tokens": 4412,
+    "total_tokens": 5065,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 190,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4409,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

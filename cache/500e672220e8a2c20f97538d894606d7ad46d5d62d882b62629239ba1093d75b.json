@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Client shall own all content produced pursuant to Section 1.1(f) (whether or not actually used), and EFS hereby assigns to Client all right, title and interest, including all rights in copyright, in and to the photographs and materials, and agrees to cooperate with all reasonable requests by Client, and take all reasonable actions, to effect or perfect such assignment.\"]}",
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 5022,
+    "total_tokens": 5173,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 55,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5019,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

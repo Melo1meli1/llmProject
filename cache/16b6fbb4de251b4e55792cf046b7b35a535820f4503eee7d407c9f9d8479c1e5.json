@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The Executive shall promptly transfer to the Company all IP Materials in his possession or under his control as at the Termination Date, or at any time when the Company requests.\", \"This clause 14, and the rights and obligations of the parties contained herein, shall survive expiry of this Agreement, or its termination, for any reason.\", \"On the Termination Date or, at the request of the Board on either party giving notice to terminate this Agreement, the Executive will immediately: (a) deliver to the Company all other property in his possession, custody or under his control belonging to any Group Company\", \"During any period of Garden Leave the Company will continue to pay the Executive's salary, benefits allowance and maintain the benefits to which he is contractually entitled prior to the commencement of his Garden Leave\"]}",
+  "usage": {
+    "completion_tokens": 177,
+    "prompt_tokens": 4114,
+    "total_tokens": 4291,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4111,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon the termination of DIALOG's right to manufacture the Licensed Products following any expiration or termination of the Agreement or any Wind Down Period or Continuing Obligation period, as applicable, then all right, title and interest in the Tooling will automatically transfer to ENERGOUS subject to any Third Party IP, and DIALOG will, at ENERGOUS' option, either sell any Tooling in its possession to ENERGOUS at cost or destroy the Tooling and certify in writing as to same.\", \"These Records will be maintained for a period of at least three (3) years from the date of the related payment (\\\"Record Retention Period\\\"), notwithstanding any termination of expiration of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 161,
+    "prompt_tokens": 4483,
+    "total_tokens": 4644,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4480,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"NO ACTION, REGARDLESS OF FORM, ARISING OUT OF OR RELATED TO THIS AGREEMENT MAY BE BROUGHT BY EITHER PARTY MORE THAN [***] AFTER SUCH PARTY HAS KNOWLEDGE OF THE OCCURRENCE THAT GAVE RISE TO THE CAUSE OF SUCH ACTION.\",\"CPDC'S MAXIMUM LIABILITY TO FUSION UNDER THIS SUPPLY AGREEMENT FOR ANY REASON WHATSOEVER, INCLUDING, WILL NOT EXCEED [***].\"]}",
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 4419,
+    "total_tokens": 4526,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4416,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

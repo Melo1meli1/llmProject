@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Unless otherwise provided in this Amendment, any Confidential Information released by either of the Parties (the \\\"Disclosing Party\\\") to the other Party (the \\\"Receiving Party\\\") shall not be released in whole or in part to any third party.\", \"4.6 This Clause 4 shall survive termination or expiry of this Amendment for a period of five (5) years following such End Date.\"]}",
+  "usage": {
+    "completion_tokens": 257,
+    "prompt_tokens": 3883,
+    "total_tokens": 4140,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 156,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3880,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

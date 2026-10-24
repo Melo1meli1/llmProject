@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The \\\"Term\\\" shall begin on the date hereof and shall expire December 31, 2023, subject to early termination pursuant to the terms of Section 19. Flotek, may, by written notice given to FCC on or before September 30, 2023, elect for the Term to be extended to December 31, 2024.\"]}",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4140,
+    "total_tokens": 4229,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4137,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

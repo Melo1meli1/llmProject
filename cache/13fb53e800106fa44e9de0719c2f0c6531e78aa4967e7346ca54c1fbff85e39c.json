@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Service Level Credits applied during any month shall not exceed twenty percent (20%) of the applicable monthly invoice prior to the application of any credits (the \\\"Service Level Monthly Cap\\\").\", \"Service Level Credits payable by Metavante to Customer during any calendar year shall not exceed one hundred percent (100%) of the average monthly fees payable by Customer to Metavante during the previous calendar year prior to the application of any credits.\"]}",
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 4140,
+    "total_tokens": 4244,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4137,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

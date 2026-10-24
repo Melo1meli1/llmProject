@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"All trademarks, service marks or logos developed under this Agreement shall be the exclusive property of MBRK.\", \"DD hereby sells, assigns and transfers to MBRK and MBRK shall be the exclusive owner, assignee, and transferee of the entire right, title and interest, including all renewals for the entire world, in and to all work performed and work product developed or produced under this Agreement\", \"DD shall, prior to commencement of any work by such third party, obtain the third party's written acknowledgement that all work done by such third party shall be deemed \\\"work made for hire\\\" and that the copyright in such material shall rest and remain with MBRK, or secure from such third party written assignment of all right, title and interest in and to the copyright in any material created by such third party.\"]}",
+  "usage": {
+    "completion_tokens": 185,
+    "prompt_tokens": 4319,
+    "total_tokens": 4504,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4316,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

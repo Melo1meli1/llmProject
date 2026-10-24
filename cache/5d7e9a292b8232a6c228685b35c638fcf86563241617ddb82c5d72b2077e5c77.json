@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The Owner warrants that:\\n\\n2.2.1 it owns the Intellectual Property Rights in the Material and has authority to enter into this Agreement;\", \"The release of the Material to the Licensee will not act as an assignment of any Intellectual Property Rights that the Owner possesses in the Material.\"]}",
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 4153,
+    "total_tokens": 4230,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4150,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

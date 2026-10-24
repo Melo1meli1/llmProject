@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"If at any time Agent acquires any rights in, or any registration or application for, any of the Trademarks by operation of law or otherwise, it will immediately, upon request by Kallo and at no expense to Kallo, assign such rights, registrations, or applications to Kallo, along with any and all associated goodwill.\"]}",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4174,
+    "total_tokens": 4260,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4171,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

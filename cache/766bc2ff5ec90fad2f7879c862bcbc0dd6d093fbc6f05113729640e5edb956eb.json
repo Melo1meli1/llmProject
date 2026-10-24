@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"the cumulative aggregate amount of Operator's liability for all claims under this Section 2.5(c) shall not exceed [***] of the aggregate Purchase Price of all Bloom Systems in the Portfolio during the applicable period\", \"Operator's cumulative aggregate liability under this Section 2.8 plus any payments required to be made by Operator under Section 2.5(c) shall not exceed an amount equal to (i) one hundred percent (100%) of the aggregate Purchase Price of all Bloom Systems in the Portfolio during the applicable period\"]}",
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 4161,
+    "total_tokens": 4284,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4158,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

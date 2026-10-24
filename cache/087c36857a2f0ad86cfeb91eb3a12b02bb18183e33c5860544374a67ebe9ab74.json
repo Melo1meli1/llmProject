@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"ExxonMobil will solely own Program Information, Program Patents, and copyrightable works resulting from the Program (collectively, \\\"Program Results\\\"), irrespective of whether the Program Results are conceived, created, developed or acquired by employees or other representatives of FCE, ExxonMobil, or both. FCE will assign, and hereby assigns, to ExxonMobil ownership of Program Results.\"]}",
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 4149,
+    "total_tokens": 4241,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4146,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

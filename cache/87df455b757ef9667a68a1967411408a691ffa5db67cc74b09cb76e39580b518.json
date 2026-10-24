@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Unless otherwise terminated as provided herein, the term of this Agreement shall commence on the Effective Date and shall terminate on December 31, 2034 (such period, including as may be extended in accordance with the subsequent sentence, the \\\"Term\\\"). Thereafter, the agreement shall automatically renew for successive five (5)-year terms, unless either Party gives written notice to the other Party of intent not to renew at least six (6) months prior to the expiration of the then-current Term.\"]}",
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 4304,
+    "total_tokens": 4419,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4301,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

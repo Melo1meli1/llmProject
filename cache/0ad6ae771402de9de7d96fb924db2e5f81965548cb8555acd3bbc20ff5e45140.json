@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"King agrees that all Regulatory Approvals, applications therefor and any other submissions to a Governmental Authority with respect to the Product shall be in the name of, and shall be owned by, Depomed or its designee.\"]}",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 3856,
+    "total_tokens": 3919,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3853,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

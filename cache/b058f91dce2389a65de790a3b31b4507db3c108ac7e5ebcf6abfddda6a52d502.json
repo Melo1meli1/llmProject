@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"No lawsuit or other action may be brought by either party hereto, or on any claim or controversy based upon or arising in any way out of this Agreement, after two(2) years from the date on which the party knew or reasonably should have known of an event for which a cause of action arose regardless of the nature of the claim or form of action, whether in contract, tort (including negligence), or otherwise; provided, however, the foregoing limitation shall not apply to the collection of any amounts due Metavante under this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 4197,
+    "total_tokens": 4324,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4194,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

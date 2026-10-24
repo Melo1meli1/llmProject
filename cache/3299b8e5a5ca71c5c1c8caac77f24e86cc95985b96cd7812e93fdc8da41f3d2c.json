@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Moelis Holdings agrees that it will use its reasonable best efforts to (i) make and keep public information available, as those terms are understood and defined in Rule 144 and (ii) file the reports required to be filed by it under the Securities Act and the Exchange Act.\"]}",
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 4197,
+    "total_tokens": 4271,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4194,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

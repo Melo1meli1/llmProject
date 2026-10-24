@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Party A maintains its ownership of all rights, entitlements and interests of its websites and trademarks. Party B maintains its ownership of all rights, entitlements and interests of its websites, trademarks, and the information and data on the Cooperation Channel.\"]}",
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 3776,
+    "total_tokens": 3842,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3773,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Each of the Parties expressly waives and agrees not to seek indirect, consequential, punitive or exemplary damages of any kind with respect to any dispute arising out of or relating to this Agreement or breach hereof.\"]}",
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 1748,
+    "total_tokens": 1896,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 1745,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

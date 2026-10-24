@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Distributor agrees that the Products, including the name Snotarator ™ Nasal Aspirator (the \\\"Brand\\\") are the sole property of the Company and Distributor has no interest whatsoever in such Brand and Products\"]}",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 3512,
+    "total_tokens": 3571,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3509,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

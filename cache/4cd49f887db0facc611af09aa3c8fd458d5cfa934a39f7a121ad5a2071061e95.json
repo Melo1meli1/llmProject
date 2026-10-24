@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"If this Agreement is terminated pursuant to this Section, such termination shall be without liability of any party to any other party except as provided in Sections 2 and 4 hereof relating to the reimbursement of expenses and except that the provisions of Sections 6 and 7 hereof shall survive any termination of this Agreement.\", \"All representations, warranties and agreements contained in this Agreement, or contained in certificates of officers of the Company, the MHCs or the Bank submitted pursuant hereto, shall remain operative and in full force and effect, regardless of any investigation made by or on behalf of the Agent or any controlling person, or by or on behalf of the Company, and shall survive delivery of the Securities.\"]}",
+  "usage": {
+    "completion_tokens": 159,
+    "prompt_tokens": 4139,
+    "total_tokens": 4298,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4136,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

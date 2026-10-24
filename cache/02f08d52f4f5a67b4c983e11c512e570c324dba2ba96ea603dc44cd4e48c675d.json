@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"In the event of termination for whatever reason, Vendor and Distributor agree to complete the delivery of each order of the Product received by Distributor and each unfulfilled order for the Product prior to the termination date.\",\"In the event that this Agreement is terminated pursuant to either Section 1.1.4 or 1.1.5 of this Agreement, this shall not of itself be deemed a breach hereof but Distributor shall have the right to receive monthly compensation from Vendor, or successor to the Vendor, representing the amount of profit to Distributor lost as a result of the termination (the \\\"Monthly Compensation\\\").\",\"The Monthly Compensation shall be paid for the remaining monthly periods remaining in the Term, as if the termination of this Agreement had not occurred, or twenty four (24) calendar months, which ever period is less, where payment shall be made no later than thirty (30) calendar days after the end of the relevant monthly period.\",\"Distributor agrees not to use in any manner whatsoever the marks, logos, images and copy of Vendor following the expiration or termination of this Agreement, except as may be needed to sell any Products remaining in Distributor's inventory.\"]}",
+  "usage": {
+    "completion_tokens": 245,
+    "prompt_tokens": 4157,
+    "total_tokens": 4402,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4154,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Establishment shall retain such records for five (5) years following the date of manufacture, or such longer period of time if consistent with Regulatory Standards, and shall make available to Apollo copies of such records; and upon the expiration of such period, Establishment shall contact Apollo and give Apollo the option to have such quality control documentation transferred to Apollo or destroyed.\",\"The receiving Party's confidentiality obligations under this Article 9 shall survive the termination of this Agreement, and shall remain binding on the Parties hereto until the earlier of a) the Confidential Information falls within one of the exceptions stated in Section 9.1 and b) five (5) years from the expiration or termination of the Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 275,
+    "prompt_tokens": 5033,
+    "total_tokens": 5308,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5030,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"4.1.10 the BLI Terms and Conditions that apply with respect to any Beacon Optofluidic Machines (including related Hardware and Software), Consumables or Services for which Ginkgo has placed a Purchase Order pursuant to this Agreement shall not terminate absent mutual written consent of the Parties, unless this Agreement has been terminated early (e.g. prior to its Expiration) in which case such BLI Terms and Conditions shall survive only for so long and to the extent as Ginkgo continues to have the right to use Beacon Optofluidic Machines or Consumables or receive Services pursuant to Section 13.3 (Effects of Termination).\", \"4.1.9 Ginkgo may elect, at any time in its sole discretion, to terminate the Software License Agreement that comprises part of the BLI Terms and Conditions and, upon such termination, Ginkgo's right to use such underlying Software shall terminate;\"]}",
+  "usage": {
+    "completion_tokens": 203,
+    "prompt_tokens": 4815,
+    "total_tokens": 5018,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4812,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

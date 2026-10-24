@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Party A neither shall be liable for such dispute, nor shall be liable for the losses incurred to Party B and the Driver User during the provision of the consultation service by Party B to the Driver User.\",\"Party B ... agrees that Party A shall not be liable to Party B for any defect in software, insufficiency of function or any necessary improvement.\",\"Party B's use of the Platform and the acquisition of any information by using the Platform are solely at Party B's independent judgment and is at Party B's own risk\"]}",
+  "usage": {
+    "completion_tokens": 271,
+    "prompt_tokens": 4088,
+    "total_tokens": 4359,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 147,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4085,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

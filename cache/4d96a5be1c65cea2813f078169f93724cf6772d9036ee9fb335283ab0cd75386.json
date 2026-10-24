@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"PAPA JOHN'S shall not, during the Term or at any time thereafter: (I) defame or disparage CELEBRITY or the Personality Rights (or any portion thereof), nor shall PAPA JOHN'S place the CELEBRITY or the Personality Rights (or any portion thereof) in a negative light, whether in connection with this Agreement or otherwise, or (ii) utilize the Personality Rights (or any portion thereof) in association with, nor shall PAPA JOHN'S associate CELEBRITY with any of the following:\", \"PAPA JOHN'S shall not, during the Term or at any time thereafter, attack or challenge, or lend assistance to any third party in connection with an attack or challenge, of any right, title or interest of ABG in and to any Personality Rights\", \"PAPA JOHN'S shall not represent in any filing, presentation, document or other statement, whether written or verbal, that PAPA JOHN'S or any third party is the owner of the Personality Rights, and PAPA JOHN'S shall not use or display any of the foregoing except as expressly permitted herein.\"]}",
+  "usage": {
+    "completion_tokens": 241,
+    "prompt_tokens": 4593,
+    "total_tokens": 4834,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4590,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

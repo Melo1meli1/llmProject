@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"9.2 If this Agreement terminates pursuant to this Article, in addition to the payment of the amount incurred and confirmed under this Agreement to the other Party, the Parties shall not be liable for the termination of this Agreement, including, but not limited to, payment of late fees, liquidated damages, compensation.\",\"9.4 Upon the termination of this Agreement, Party A is not obliged to retain any information on the Platform or provide such information to Party B; but Party A is entitled to retain Party B's registration data and Party B's data in connection with the driver services during the Period of Cooperation.\",\"9.5 After the termination of this Agreement, Party B shall strictly perform the Financial Leasing Agreement signed with the Driver User until the lease expires.\",\"9.6 Upon the termination of this Agreement, Party B shall remove and delete any information or signs related to Didi contained in the materials in the building, equipment, furnishings inside and outside Party B's premises and materials published by Party B in any form.\"]}",
+  "usage": {
+    "completion_tokens": 219,
+    "prompt_tokens": 4544,
+    "total_tokens": 4763,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4541,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

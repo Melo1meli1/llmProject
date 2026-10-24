@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The Franchisee Parties and BKC further agree to be bound by the provisions of any applicable limitation on the period of time in which claims must be brought under applicable law or this Agreement, whichever is less.\", \"The arbitrators shall have the right to award or include in their award any relief which they deem proper in the circumstances, including with out limitation, money damages (with interest on unpaid amounts from date due), specific performance, injunctive relief, legal fees and costs, provided that the arbitrators shall not award exemplary or punitive damages.\"]}",
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 4247,
+    "total_tokens": 4374,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4244,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

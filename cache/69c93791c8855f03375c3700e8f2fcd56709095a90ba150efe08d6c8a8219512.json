@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Except to the extent resulting from Nexstar's willful breach of the terms of this Section 10(d), Nexstar shall incur no liability to WYZZ for any uncollected account.\"]}",
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 4131,
+    "total_tokens": 4187,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4128,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

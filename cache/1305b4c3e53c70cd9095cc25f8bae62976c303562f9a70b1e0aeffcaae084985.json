@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"in no event shall the liability for indemnity of any SMBC Unit-Holder under this Section 13.9(b) exceed the dollar amount of the proceeds (net of any underwriting discount or commission or other selling expenses) received by such SMBC Unit-Holder from the sale of the Registrable Securities giving rise to such indemnification.\",\"in no event shall a SMBC Unit-Holder be required by this Section 13.9(d) to contribute an aggregate amount in excess of the dollar amount of proceeds (net of underwriting discounts and commissions and other selling expenses) received by such SMBC Unit-Holder from the sale of Registrable Securities giving rise to such contribution.\",\"a SMBC Unit-Holder shall not be required to contribute, in the aggregate, any amount in excess of the amount by which the net proceeds received by such SMBC Unit-Holder from the sale of the Registrable Securities exceeds the amount of any damages which such SMBC Unit-Holder has otherwise been required to pay by reason of such untrue or alleged untrue statement or omission or alleged omission.\"]}",
+  "usage": {
+    "completion_tokens": 232,
+    "prompt_tokens": 4203,
+    "total_tokens": 4435,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4200,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

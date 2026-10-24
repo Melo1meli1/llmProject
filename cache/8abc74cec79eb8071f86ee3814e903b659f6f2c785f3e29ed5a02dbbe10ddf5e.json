@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In case of termination of the Agreement, NLS and Eurofarma shall immediately work on a transition out plan, with activities and timelines agreed by the Parties to ensure a proper handover of the Licensed Product so that its market position and the obligations to prescribers, patients and regulatory authorities are fulfilled in accordance with Eurofarma best practices.\", \"The confidentiality obligations provided in this Article shall survive any termination or expiry of this Agreement for period of ten (10) years.\"]}",
+  "usage": {
+    "completion_tokens": 228,
+    "prompt_tokens": 4997,
+    "total_tokens": 5225,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4994,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

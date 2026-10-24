@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon expiration or termination of this Agreement:\", \"c. Notwithstanding the foregoing, for each end user that previously downloaded a Zynga game that includes WPT's Licensed Property, and stored such Zynga game within such end user's device, WPT grants a license and right to continue to use, activate, operate, perform, store, use and display that game on the end user's device in perpetuity at no additional charge; provided, however, that Zynga shall use best efforts to offer end users updates to its games which no longer include WPT's Licensed Property after the Term.\", \"d. Notwithstanding any termination of this Agreement, nothing herein will obligate Zynga, any users of a Zynga game that includes WPT's Licensed Property or any third party platform or distribution partners to remove from the publicly available content regarding Zynga services or any user accounts with Zynga, any of the references to user interactions, experience points, achievements, item purchases or other engagements or metrics in the Zynga game(s) that were generated prior to the expiration or termination of this Agreement.\", \"e. Notwithstanding any termination of this Agreement, any Approved Content that includes Zynga's Licensed Property may remain in perpetuity in any media in which such Licensed Property was integrated into during the Term (e.g., televised WPT Tournaments or WPT Invitational Tournaments, social media posts, repurposed integrations for \\\"best of\\\" television programs) or for historical purposes (e.g., reference on WPT's website that Zynga-sponsored tour events took place as part of the tour).\"]}",
+  "usage": {
+    "completion_tokens": 335,
+    "prompt_tokens": 4720,
+    "total_tokens": 5055,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4717,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

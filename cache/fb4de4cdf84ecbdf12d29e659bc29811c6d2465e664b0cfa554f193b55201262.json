@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"As between ISA and Rubicon, all right, title and interest in and to Intellectual Property which is created by or provided by ISA, including, without limitation, as they may be part of or incorporated into any Contract Service or otherwise used by Rubicon, all goodwill associated therewith and the copyright and all other Intellectual Property rights inherent in or appurtenant to the foregoing are and shall be and shall remain the sole property of ISA.\",\"As regards Intellectual Property created by Rubicon, Rubicon acknowledges and agrees that those Works, as defined below, shall belong exclusively to ISA subject to payment in accordance with clause 4.2.\",\"With respect to Works that do not constitute \\\"works for hire,\\\" Rubicon, its employees, contractors, consultants and agents do hereby assign to ISA or its designee all of their respective right, title and interest in and to such Works and all related patents, patent applications, copyrights and copyright applications\",\"As between ISA and Rubicon, all right, title and interest in and to the Rubicon Offerings and, subject to the provisions of Section 5.2, any other Intellectual Property of Rubicon, including, without limitation, as used by Rubicon or ISA hereunder, all goodwill associated therewith and the copyright and all other Intellectual Property rights inherent in or appurtenant to the foregoing are and shall be the sole property of Rubicon.\"]}",
+  "usage": {
+    "completion_tokens": 293,
+    "prompt_tokens": 4202,
+    "total_tokens": 4495,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4199,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"In such case, Sonos' sole liability shall be limited to payment of the amount due under this Agreement, all the Component(s) procured by IAC, and any finished and work-in-process Products provided such Components and Products liabilities were incurred in compliance with this Agreement.\",\"If a termination notice is delivered pursuant to 15.2, 15.3, 15.4 or if Sonos decides to transfer the manufacturing of a Product from IAC during the Term of the Agreement, IAC shall cooperate fully with Sonos to effect the transfer of the manufacturing of the Products (without any obligation that IAC transfers IAC Property from IAC to Sonos, or a third party designated by Sonos, in order to help minimize any potential disruption in the continuity of supply. In the event that such transfer is the result of a termination notice pursuant to 15.2, 15.3 or 15.4 and such transfer is not completed by the termination date pursuant to 15.2, 15.3 or 15.4, the parties shall, acting reasonably and in good faith, agree to continue to cooperate fully to effect the transfer and extend the Term of this Agreement on such appropriate terms as the parties may agree for one or more ninety (90) day periods (the succession of which must be notified to IAC in writing within thirty (30) days of the expiration of the first ninety (90) day period and within the same timeframe for each period thereafter), until such time as the transfer is completed.\",\"After this Agreement expires or terminates, [*] will either have an active policy or purchase an extended reporting period that has coverage for claims first made and reported to the insurer within 2 years after this Agreement expires or terminates.\"]}",
+  "usage": {
+    "completion_tokens": 374,
+    "prompt_tokens": 4592,
+    "total_tokens": 4966,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4589,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

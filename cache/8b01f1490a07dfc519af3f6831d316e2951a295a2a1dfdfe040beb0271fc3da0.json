@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"For at least 120 days following the Effective Date of Termination, Customer shall maintain a settlement account which Metavante may charge to settle any trailing activity which accrues prior to the Effective Date of Termination (including any chargeback of a transaction which is authorized prior to the Effective Date of Termination). Customer shall pay to Metavante fees to settle such trailing activity in accordance with this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 4037,
+    "total_tokens": 4136,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4034,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

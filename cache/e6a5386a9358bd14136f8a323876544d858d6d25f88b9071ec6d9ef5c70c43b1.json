@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"(c) The Consultant agrees that, upon termination of his services for the Company, he will immediately surrender to the Company all Company Confidential Information then in his possession or under his control.\", \"In such case, 100% of the Consultant's unvested stock and, if applicable, option or warrant compensation of any nature will vest without any further action required on the part of the Consultant or the Company and the Company will deliver to the order of the Consultant promptly upon receipt of a written demand of the Consultant such shares of common stock or options at its sole expense as become due to Consultant hereunder. The Consultant's right to receive compensation whether in cash or securities shall survive any termination of this Agreement Without Cause.\", \"Upon the termination (whether for cause, disability, death, without cause, or by way of change of control), the Company shall pay to Consultant on the date required under applicable law: (i) any accrued but unpaid Base Consulting Fee for services rendered as of the date of termination, (ii) (if applicable) any accrued but unpaid vacation pay, and (iii) the business expenses reasonably incurred by the Consultant up to the date of termination or resignation and properly reimbursable, in each case less any applicable deductions or withholdings required by law.\", \"In the event of the Consultants service terminates by reason of the Consultants disability or death, the accrued salary may be paid, and options and warrants may be exercised by the by the Consultant or the Consultant's legal representatives, executors or assigns, as the case may be, for a period of one (1) year from the date of death or disability.\", \"In the event this Agreement and the Consultant's engagement with the Company is terminated by the Company without Cause (other than for death or Disability or in connection with a change of control), then in addition to the amounts specified in Section 4.1 and subject to the Consultant's execution and non-revocation of a separation agreement containing a general release and waiver of liability against the Company and anyone connected with it in form acceptable to the Company, the Consultant shall be entitled to receive, and the Company shall pay the Consultant, two (2) years Base Consulting Fee (less statutory deductions and withholdings) in a single lump sum, paid in full within 30 days of termination. Further, Consultant shall be entitled to all vested common shares and, if applicable, options and warrants with vesting continuing for 12 months following termination as applicable.\"]}",
+  "usage": {
+    "completion_tokens": 517,
+    "prompt_tokens": 4276,
+    "total_tokens": 4793,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4273,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

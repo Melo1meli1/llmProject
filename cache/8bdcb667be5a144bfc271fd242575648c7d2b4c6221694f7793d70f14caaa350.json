@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"10.3 Neither the Company nor the Consultant shall be liable for any consequential loss, including but not limited to, claims for loss of profit, revenue or capital, loss of use of utilities, equipment or facilities, down-time cost, service interruption, cost of money, injury or damage of any character whatsoever.\"]}",
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4003,
+    "total_tokens": 4083,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4000,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

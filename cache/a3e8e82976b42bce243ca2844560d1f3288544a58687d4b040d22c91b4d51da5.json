@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Where allowed by statute, title to all Venture property, including intellectual property, will remain in the name of the Venture. Where joint ventures are not recognized by statute as separate legal entities, Venture property, including intellectual property, will be held in the name of one or more Members.\"]}",
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 4077,
+    "total_tokens": 4151,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4074,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

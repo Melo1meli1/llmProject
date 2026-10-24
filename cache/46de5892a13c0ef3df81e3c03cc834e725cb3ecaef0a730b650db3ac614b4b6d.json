@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Maintenance and Support shall automatically continue during the term of this Agreement and thereafter, provided that Corio continues to pay the annual Maintenance and Support fees contained in Exhibit B, attached hereto.\", \"Such books and records shall be kept for at least three (3) years following the end of the calendar month to which they pertain, and shall be open for inspection by an independent certified public accountant reasonably acceptable to Corio for the purpose of verifying the amounts payable to Commerce One under this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 308,
+    "prompt_tokens": 5074,
+    "total_tokens": 5382,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 186,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5071,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

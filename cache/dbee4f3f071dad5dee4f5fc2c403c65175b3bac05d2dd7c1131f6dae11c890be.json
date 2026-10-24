@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"TO THE GREATEST EXTENT PERMITTED UNDER APPLICABLE LAW, IN NO EVENT WILL A PARTY'S AGGREGATE LIABILITY (ABOVE AMOUNTS ACTUALLY PAID OR REIMBURSED BY SUCH PARTY'S INSURER (TO THE EXTENT NOT SELF-INSURED)) FOR A CLAIM ARISING OUT OF OR RELATED TO THIS AGREEMENT UNDER ANY LEGAL OR EQUITABLE THEORY, INCLUDING BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, AND OTHERWISE EXCEED [***], EXCEPT THAT (A) SUCH LIMITATION SHALL NOT APPLY TO (I) A PARTY'S BREACH OF ARTICLE 10 (CONFIDENTIALITY), [***], (V) A PARTY'S FRAUD, GROSS NEGLIGENCE OR WILLFUL MISCONDUCT OR (VI) A PARTY'S INDEMNIFICATION OBLIGATIONS UNDER ARTICLE 12 (INDEMNIFICATION; INSURANCE) AND (B) SUCH LIMITATION ON LIABILITY SHALL NOT INCLUDE ANY AMOUNTS ACCRUED AND ACTUALLY OWED PURSUANT TO THE TERMS OF THIS AGREEMENT.\"]}",
+  "usage": {
+    "completion_tokens": 237,
+    "prompt_tokens": 4318,
+    "total_tokens": 4555,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4315,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

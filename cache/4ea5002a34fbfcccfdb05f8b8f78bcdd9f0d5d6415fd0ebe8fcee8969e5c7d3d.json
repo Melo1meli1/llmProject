@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The provisions of this Section 11.1 shall survive the termination of this Agreement for three years (except as to claims as to which a party has notified the other in writing prior to the third anniversary of the termination date of this Agreement, in which event, the indemnifying party's obligations under this Section 11.1 shall survive with respect to any such claim until its resolution).\", \"The provisions of this Article 12 shall survive termination of the agreement and shall remain in effect until a date three years after the Term of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 205,
+    "prompt_tokens": 5006,
+    "total_tokens": 5211,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5003,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

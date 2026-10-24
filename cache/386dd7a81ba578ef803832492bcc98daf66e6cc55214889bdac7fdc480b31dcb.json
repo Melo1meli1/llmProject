@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Unless Customer notifies Metavante of its intent not to renew this Agreement in writing within a period of three (3) months following the Renewal Notice, this Agreement shall automatically renew at the end of the Initial Term\"]}",
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 4007,
+    "total_tokens": 4068,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4004,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"15.3.1 Sale of Inventory. Licensee shall be permitted, at Bioeq's choice (if this Agreement is terminated by Bioeq pursuant to Sections 15.2.1, 15.2.2, 15.2.3, 15.2.4, 15.2.8 or 15.2.9, or by Licensee pursuant to Section 15.2.5) or at Licensee's choice (if this Agreement is terminated by Licensee pursuant to Sections 15.2.1, 15.2.6, 15.2.7 or 15.2.8), to cither (a) continue selling its and its Affiliates' inventory of Licensed Products existing on the termination effective date in accordance with this Agreement for a maximum period of [***] ([***]) days (in which case all terms and conditions of this Agreement, including Licensee's obligation to report and pay royalties, shall continue to apply to such continued sale) or (b) sell such inventory to Bioeq at the supply price paid by Licensee to Bioeq for such inventory in accordance with the Manufacturing and Supply Agreement.\",\"15.3.2 Transfer of Biologics License Application Approvals. Licensee shall, within [***] ([***]) days of the effective date of termination of the Agreement at the latest (and at no cost to Bioeq if this Agreement is terminated by Bioeq pursuant to Sections 15.2.1, 15.2.2, 15.2.3, 15.2.4, 15.2.8 or 15.2.9, or by\"]}",
+  "usage": {
+    "completion_tokens": 570,
+    "prompt_tokens": 4425,
+    "total_tokens": 4995,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 206,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4422,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

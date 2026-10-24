@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Following the termination of this Agreement at the conclusion of the initial five year term or any additional term, for each of the eight full calendar quarters following such termination, Depomed shall pay to King an amount equal to, in each of the first four such calendar quarters, [***]% of the Net Sales for each such quarter and, in each of the fifth through eighth such calendar quarters, [***]% of such Net Sales for each such quarter.\"]}",
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 4050,
+    "total_tokens": 4155,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4047,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

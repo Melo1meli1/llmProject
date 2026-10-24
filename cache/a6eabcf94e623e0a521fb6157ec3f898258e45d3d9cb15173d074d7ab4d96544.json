@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"in no event shall a Party be liable to the other Party for an aggregate amount in excess of the Maximum Liability; provided that such limitation of liability shall not apply to any liability that is the result of (i) gross negligence, fraud or willful misconduct of a Party, (ii) a Third Party Claim, (iii) the failure to pay the Service Fees (which amount shall not be included in calculating Owner's Maximum Liability), (iv) a claim of Owner against BE or Operator in the event of any breach, default or misrepresentation of any representation and warranty or covenant set forth in Section 8.2(e) or (v) a claim of Owner against BE or Operator under Section 2.8.\",\"Subject always to the Maximum Liability limitations set forth in the preceding sentence, except for damages specifically provided for in this Agreement or in connection with the indemnification for damages awarded to a third party under a Third Party Claim, damages hereunder are limited to direct damages, and in no event shall a Party be liable to the other Party, and the Parties hereby waive claims, for (a) indirect, punitive, special or consequential damages or loss of profits\"]}",
+  "usage": {
+    "completion_tokens": 250,
+    "prompt_tokens": 4182,
+    "total_tokens": 4432,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4179,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

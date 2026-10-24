@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Except in connection with a Party's willful and intentional breach of this Agreement or fraud, in no event shall any Party or its Affiliates, under any circumstances, be liable or obligated in any manner to another Party or its Affiliates for any consequential, special, incidental, exemplary, indirect, punitive or similar damages, or for any loss of future revenue, profits or income, or for any diminution in value damages measured as a multiple of earnings, revenue or any other performance metric arising out of or relating to this Agreement or the transactions contemplated in this Agreement\"]}",
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 4104,
+    "total_tokens": 4233,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4101,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

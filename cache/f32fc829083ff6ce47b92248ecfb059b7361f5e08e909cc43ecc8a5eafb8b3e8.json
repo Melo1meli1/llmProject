@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"13.1 Distributor shall: (i) pay all valid outstanding and final invoices issued by Company within thirty (30) days after termination is effective;\",\"13.2 Company Obligations. (i) Immediately cease all representation of an existing relationship with Distributor; (ii) All medication inventory is owned by Smart RX Systems, Inc. only; and (iii) Distributor shall continue to receive Net Income per Customer location for so long as Customer continues to utilize the Products.\",\"13.4 Survival. The terms of Sections 5, 6, and 13-23 shall survive any termination or expiration of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 4103,
+    "total_tokens": 4243,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4100,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

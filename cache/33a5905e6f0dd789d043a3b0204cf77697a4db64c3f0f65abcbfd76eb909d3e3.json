@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Upon the termination of this Agreement by either Party on account of an uncured material breach by the other Party, without prejudice to any other rights that either Party may have, the following will occur:\\n\\n(a) Wildform will immediately cease all use and distribution of the Incorporated Technology.\\n\\n(b) Wildform will immediately return to On2, or destroy, all copies of the Incorporated Technology, and all documentation created under this agreement in its possession or control. Upon written request from On2, Wildform will promptly provide On2 with a written certification of Wildform's compliance with the foregoing.\"]}",
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 4337,
+    "total_tokens": 4473,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4334,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

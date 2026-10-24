@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Subject to Corio's payment of the annual support and maintenance fee, Commerce One's support and maintenance obligation of the Software and MarketSite.net Service shall continue after termination or expiration of this Agreement with respect to all Software Users granted access to the Software and MarketSite.net Service prior to termination or expiration of this Agreement.\",\"Upon termination of this Agreement, each party shall cease all display, advertising and use of all Trademarks of the other party and shall not thereafter use, advertise or display any trademark, trade name or logo which is, or any part of which is, confusingly similar to any such designation association with Corio or the Corio Services or Commerce One or any Commerce One product.\",\"Corio's right to allow its then-existing Customers and their Software Users to use and access the Software in accordance with Section 2 of this Agreement and all payment obligations related thereto shall survive any termination or expiration of this Agreement.\",\"Commerce One's obligation to provide Software support and maintenance to Corio and its Customers shall survive any termination or expiration of this Agreement, provided Corio continues to make its annual support and maintenance payments as specified in this Agreement.\",\"Upon termination or expiration of this Agreement, each party shall otherwise return or destroy any Confidential Information of the other party provided, however, Corio may retain any Confidential Information necessary for Corio to continue supporting it's then-existing Customers.\"]}",
+  "usage": {
+    "completion_tokens": 289,
+    "prompt_tokens": 4210,
+    "total_tokens": 4499,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4207,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

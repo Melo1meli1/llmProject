@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"If the Offered Shares are not sold by May 26, 2016, this Agreement will terminate without liability on the part of the Company and the Agent, except as provided in Section 10 hereof.\"]}",
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 4032,
+    "total_tokens": 4092,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4029,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

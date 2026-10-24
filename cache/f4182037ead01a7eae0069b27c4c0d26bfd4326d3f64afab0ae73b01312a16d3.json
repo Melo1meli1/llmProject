@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"shall continue from year to year thereafter, subject to the provisions for termination and all other terms and conditions hereof, only if such continuation shall be specifically approved at least annually\", \"may be terminated at any time without the payment of any penalty by the Board or by a vote of a majority of the outstanding voting securities (as defined in Section 2(a)(42) of the 1940 Act) of the Account on 60 days' written notice to the Adviser\"]}",
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 2339,
+    "total_tokens": 2451,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2336,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

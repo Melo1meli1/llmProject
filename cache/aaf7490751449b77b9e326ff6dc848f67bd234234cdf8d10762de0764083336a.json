@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"6.1 Except as provided in Sections 6.2, 6.3, 6.4, and 6.5, this Agreement shall terminate one (1) year from the Rig Release Date, if such has not been terminated sooner pursuant to the provisions hereof.\",\"6.2 Notwithstanding Section 6.1, if the Initial Well is drilled to the Objective Zone and successfully Completed as a well capable of producing oil and/or gas in paying quantities, this Agreement shall continue for so long as the Operating Agreement remains in full force and effect.\",\"6.3 Notwithstanding Section 6.1, this Agreement shall remain in full force and effect for so long as Company participates in the drilling of a Substitute Well in accordance with Section 3.2.\"]}",
+  "usage": {
+    "completion_tokens": 172,
+    "prompt_tokens": 4217,
+    "total_tokens": 4389,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4214,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}
