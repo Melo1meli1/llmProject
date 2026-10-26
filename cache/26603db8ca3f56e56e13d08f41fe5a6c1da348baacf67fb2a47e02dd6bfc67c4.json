@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"During the Term and for a period of four years after the termination of this Agreement, VerticalNet shall not, directly or indirectly, by itself, through its Affiliates or through any type of joint venture or similar affiliation with a third party, without prior written approval from PaperExchange, buy, sell or trade (a) paper pulp products through exchanges, auctions, or reverse auctions or any other e-commerce medium, (b) paper (other than finished paper-based products, including, but not limited to, books, stamps and labels) and copy paper (i) through exchanges, auctions or reverse auctions or (ii) in quantities greater than one ton through any e-commerce medium, (c) raw materials used to make paper packaging, including, but not limited to, linerboard, medium, other containerboard grades and corrugated sheet through exchanges, auctions, reverse auctions or any other e-commerce medium, or (d) paper rolls and reels weighing more than 50 pounds used by printers through exchanges, auctions, reverse auctions or any other e-commerce medium; provided, however, that this Section 5.8.1 [Non-Competition] shall not apply to advertisements, Storefronts or similar features on VerticalNet's Sites.\"]}",
+  "usage": {
+    "completion_tokens": 335,
+    "prompt_tokens": 5155,
+    "total_tokens": 5490,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5152,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

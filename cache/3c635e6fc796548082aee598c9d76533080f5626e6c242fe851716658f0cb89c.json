@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"27.10 Minn. Stat. § 80C.17 prohibits any action from being commenced under the Minnesota Franchises Law more than three years after the cause of action accrues.\"]}",
+  "usage": {
+    "completion_tokens": 169,
+    "prompt_tokens": 4470,
+    "total_tokens": 4639,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4467,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

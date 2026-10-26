@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The Transporter shall retain a sample for each delivery and withdrawal, which shall be used as a counter-sample. The Transporter shall preserve said sample for a period no longer than 15 calendar days in case there are any claims regarding a specific delivery or withdrawal. After this lapse of time it will not be possible to make any claims in this sense.\"]}",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4229,
+    "total_tokens": 4318,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4226,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

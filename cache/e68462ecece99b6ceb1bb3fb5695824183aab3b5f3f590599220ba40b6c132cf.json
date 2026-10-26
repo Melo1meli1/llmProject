@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon any termination of this Agreement, each party shall return to the other party all confidential information of the other party, and all copies thereof, in the possession, custody or control of the party unless otherwise expressly provided in this Agreement.\", \"Except in the event of termination for Customer's breach, eGain shall provide Customer with an electronic copy of the final Reports (covering the month just prior to termination of this Agreement).\", \"eGain shall be entitled to retain a copy (whether electronic or otherwise) of the Online Messages and the Reports for its records and internal purposes and shall not disclose such Online Messages or Reports to any third party except as permitted under Section 4.\", \"Within fifteen (15) days of any termination of this Agreement, Customer shall pay to eGain all unpaid fees accrued prior to termination.\", \"Sections 4, 5 (as to amounts accrued but unpaid), 7, 8, 10.2 and 12 and Exhibit A (as to amounts accrued but unpaid) shall survive any expiration or termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 340,
+    "prompt_tokens": 4834,
+    "total_tokens": 5174,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4831,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

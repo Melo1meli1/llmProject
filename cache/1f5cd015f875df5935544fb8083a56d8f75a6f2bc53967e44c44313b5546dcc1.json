@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"MusclePharm shall be entitled to sell-off the remaining Licensed Products for six (6) months after such expiration of this Agreement pursuant to paragraph 4(d) herein and shall continue to pay Endorser the Royalty set forth in paragraph 7 herein.\", \"In the event of a termination by MusclePharm pursuant to paragraph 9(a)(i)-(ii), Musclepharm shall not be required to pay Endorser any further compensation except for Royalties earned up until such termination date, and provided, however, that if Musclepharm terminates this Agreement because of death, disability, physical injury, or other incapacity of Endorser, if Endorser has performed all services required by this Agreement for a particular Contract Year, then MusclePharm shall continue to be obligated to compensate Lender with the full compensation amount of this Agreement for such Contract Year.\", \"Notwithstanding anything contained herein, irrespective of the expiratation or termination of this Agreement, the AS Parties shall always be entitled to retain and shall never be obligated to return any monies paid and/or stock issued to Lender and/or Endorser pursuant to this Agreement.\", \"All formulas used in the Licensed Products shall remain the property of MusclePharm, but all rights in any packaging, promotional materials, and websites of the Licensed Products (including, without limitation, pictures, the name, logos and trade dress) and all intellectual property of the AS Parties shall revert back or otherwise be vested in the AS Parties; provided, however, that the MusclePharm trade name, any MusclePharm trademarks, and MusclePharm logo used on the Licensed Products shall remain the property of MusclePharm.\", \"The AS Parties shall also have the right to purchase from MusclePharm the Arnold.com domain name for a purchase price equal to MusclePharm's actual cost in acquiring such domain name (in the amount of Twenty Seven Thousand Five Hundred ($27,500) plus interest accruing at an annual rate of five percent (5%) from April 27, 2013 the date of acquisition of such domain name through the date of the sale of such domain name.\", \"MusclePharm shall keep complete and accurate books of account for the preceding three years from the date of termination and expiration.\", \"MusclePharm agrees to preserve and keep accessible and available to the AS Parties all relevant books and records for a period of at least three (3) years following the expiration or termination of the Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 610,
+    "prompt_tokens": 5125,
+    "total_tokens": 5735,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5122,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

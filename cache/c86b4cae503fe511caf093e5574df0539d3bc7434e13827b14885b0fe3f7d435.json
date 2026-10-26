@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon the expiration or termination of this Agreement, Monsanto shall have no right to use the Additional Roundup Products Trademarks. Upon such expiration or termination, the Agent will purchase any remaining inventory of the Additional Roundup Products, including any components thereof, at cost.\", \"All \\\"confidential information\\\" in any form (electronic or otherwise) shall be and remain the sole property of the party possessing such information and shall be returned to such party upon the termination of this Agreement upon such party's reasonable request.\", \"Upon expiration or in the event of any termination of this Agreement, the Agent shall promptly discontinue every use of the Industrial Property and any language stating or suggesting the Agent is a distributor for Roundup Products. All advertising and promotional materials which use Industrial Property shall be destroyed.\"]}",
+  "usage": {
+    "completion_tokens": 174,
+    "prompt_tokens": 4964,
+    "total_tokens": 5138,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4961,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

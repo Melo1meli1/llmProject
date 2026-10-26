@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"no Party has any right of recovery under this Agreement or in any document or instrument delivered in connection herewith, or for any claim based on, in respect of, or by reason of, such obligations or their creation, against, and no personal liability shall attach to, the former, current and future equity holders, controlling persons, directors, officers, employees, agents, affiliates, members, managers, general or limited partners or assignees of the Sponsors or any former, current or future stockholder, controlling person, director, officer, employee, general or limited partner, member, manager, affiliate, agent or assignee of any of the foregoing (collectively, \\\"Non-Recourse Parties\\\")\"]}",
+  "usage": {
+    "completion_tokens": 159,
+    "prompt_tokens": 1667,
+    "total_tokens": 1826,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 1664,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

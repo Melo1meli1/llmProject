@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"(d) Notwithstanding anything to the contrary, in the event EKR exercises it right of termination pursuant to Section 16.3(b) of this Agreement or PPI terminates this Agreement pursuant to Section 16.1(a): (i) EKR will sell the Transferred Equipment back to PPI, subject to payment by PPI to EKR (within five (5) days of the date of termination) of $[**] in cash and cancellation of any remaining obligation of EKR under the Promissory Note, (ii) the Advanced Royalty Payment shall be deemed to have been repaid in full, and EKR shall not have the right to the Royalty Offset between the date of notice of such termination and the termination date of the Agreement and (iii) EKR shall promptly transfer the Marketing Authorizations to PPI or its nominee in accordance with Section 17.1(e) below.\", \"EKR Improvements shall be owned by EKR and upon termination of this Agreement by PPI pursuant to Section, shall be deemed be licensed to PPI on a worldwide, non-exclusive, irrevocable basis, at a royalty or for such other consideration as may be mutually agreed upon by the parties in writing.\"]}",
+  "usage": {
+    "completion_tokens": 267,
+    "prompt_tokens": 5413,
+    "total_tokens": 5680,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5410,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

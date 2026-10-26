@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon expiration of this Agreement, TDA shall cease all uses of the Rights and/or Smith's Likeness with respect to advertising, endorsing and/or promoting TDA, but TDA shall be free to continue to distribute and sell its Golf Instruction Related Products which incorporate Smith's Likeness for up to 180 days after the expiration of the Term (although TDA may not use the Rights or Smith's Likeness to promote or advertise TDA or any of TDA's non-Golf Instruction Related Products when selling the Golf Instruction Related Products, nor can TDA highlight Smith's Likeness in its packaging or sales efforts); provided, however, that TDA shall have no such right of post-Term sales unless TDA is not in default of any of its obligations hereunder as of the date of expiration or termination.\", \"Smith shall, until after the Term, have no right, title or interest in or to any such trademark, trade name or related goodwill.\", \"All books of account and records of Licensee covering all transactions relating to the Licensee shall be retained by the Licensee until at least two (2) years after the expiration or termination of the Term for possible inspection by Smith.\"]}",
+  "usage": {
+    "completion_tokens": 262,
+    "prompt_tokens": 5164,
+    "total_tokens": 5426,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5161,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

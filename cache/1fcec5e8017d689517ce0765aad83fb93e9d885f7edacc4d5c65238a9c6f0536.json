@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Any additions, improvements and enhancements to Vapotherm Baseline IP which are made during the course of this Agreement shall solely be the property of Vapotherm (\\\"Vapotherm Inventions\\\").\", \"Any additions, improvements and enhancements to Medica Baseline IP which are made during the course of this Agreement shall solely be the property of Medica (\\\"Medica Inventions\\\").\"]}",
+  "usage": {
+    "completion_tokens": 343,
+    "prompt_tokens": 4901,
+    "total_tokens": 5244,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 239,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4898,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

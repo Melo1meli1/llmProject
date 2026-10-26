@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"During the Term, the right to use Endorser's Name and Appearance Rights granted to MusclePharm in this Section shall extend for six (6) months beyond the expiration of this Agreement (the \\\"Use-up Period\\\"). MusclePharm shall create no new advertising during the Use-up Period using Endorser's Name and Appearance, but shall have the right to use during the Use-up Period Endorser's Name and Appearance in advertisements and promotional materials created before the expiration date of this Agreement.\", \"For the purpose of computing such pension, health and welfare benefit contributions and any other payments under any SAG or AFTRA contracts applicable to Endorser's appearance in such Training Video, 25% of the compensation payable to Endorser under this Agreement shall be allocated as fair and reasonable consideration for Endorser's work and appearance in the Training Video during the Term or thereafter during the Use-Up Period defined below.\"]}",
+  "usage": {
+    "completion_tokens": 359,
+    "prompt_tokens": 5300,
+    "total_tokens": 5659,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 150,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5297,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

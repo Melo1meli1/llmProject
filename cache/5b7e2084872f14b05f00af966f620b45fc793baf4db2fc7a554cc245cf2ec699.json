@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Any claim for shortage in Product delivery must be made within ten (10) business days after the Customer's receipt of shipment.\",\"The Customer's exclusive remedy for a breach of any of the foregoing warranties will be the replacement, at the delivery point thereof, freight prepaid, of any Product furnished hereunder that fails to meet the foregoing standards. In no event will the Company be liable for incidental or consequential damages.\"]}",
+  "usage": {
+    "completion_tokens": 206,
+    "prompt_tokens": 4108,
+    "total_tokens": 4314,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4105,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

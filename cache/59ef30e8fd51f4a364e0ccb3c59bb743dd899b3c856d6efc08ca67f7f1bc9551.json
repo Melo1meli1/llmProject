@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"You hereby grant to us (and agree to obtain from your affiliates, owners, employees, and/or contractors), a perpetual, non-exclusive, and worldwide right to use any such ideas, concepts, methods, techniques and products in any businesses that we and/or our affiliates, franchisees and designees operate.\"]}",
+  "usage": {
+    "completion_tokens": 221,
+    "prompt_tokens": 5204,
+    "total_tokens": 5425,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 135,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5201,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

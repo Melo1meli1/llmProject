@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Without limiting the generality of the obligations set forth in the Mutual Confidentiality Agreement between Constellation and HOFV dated as of April 28, 2018 (which shall survive in accordance with its terms)\", \"The payment or acceptance of fees or charges for any period after a default shall not be deemed a waiver of any right or acceptance of defective performance.\"]}",
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 5204,
+    "total_tokens": 5296,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5201,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

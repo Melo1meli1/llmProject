@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"IN NO EVENT SHALL EITHER PARTY BE LIABLE TO EACH OTHER OR ANY OTHER ENTITY FOR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL OR INDIRECT DAMAGES, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.\", \"RESELLER SHALL NOT BE LIABLE TO MEDIANET GROUP TECHNOLOGIES OR ANY OTHER PARTY FOR ANY DAMAGES ARISING FROM THIRD PARTY UNAUTHORIZED ACCESS OR USE OF THE MEDIANET GROUP TECHNOLOGIES SERVICE OR ANY IMAGES OBTAINED BY USING THE MEDIANET GROUP TECHNOLOGIES SERVICE.\", \"MEDIANET GROUP TECHNOLOGIES SHALL NOT BE LIABLE TO RESELLER OR ANY OTHER PARTY FOR ANY DAMAGES ARISING FROM THIRD PARTY UNAUTHORIZED ACCESS OR USE OF THE MEDIANET GROUP TECHNOLOGIES SERVICE OR ANY IMAGES OBTAINED BY USING THE MEDIANET GROUP TECHNOLOGIES SERVICES.\"]}",
+  "usage": {
+    "completion_tokens": 194,
+    "prompt_tokens": 4138,
+    "total_tokens": 4332,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4135,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

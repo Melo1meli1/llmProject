@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"This Agreement shall commence on the Effective Date and, subject to earlier termination in accordance with the provisions of Section 16, shall continue in force for a period being the longer of fifteen (15) years from first Commercial Launch of the Product in the Territory or until the expiration of the last valid claim in the PPI Patents covering the Product in any country of the Territory (the \\\"Initial Term\\\"). Thereafter the term of this Agreement shall automatically renew for consecutive periods of two (2) years each.\"]}",
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 4443,
+    "total_tokens": 4561,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4440,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Any portions of this Agreement necessary to resolve or cash out imbalances under this Agreement as required by the General Terms and Conditions of Transporter's Tariff shall survive the other parts of this Agreement until such time as such balancing has been accomplished; provided, however, that Transporter notifies Shipper of such imbalance not later than twelve months after the termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 4665,
+    "total_tokens": 4802,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 40,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4662,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

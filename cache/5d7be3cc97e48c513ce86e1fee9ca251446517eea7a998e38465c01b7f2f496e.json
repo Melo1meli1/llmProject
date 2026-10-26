@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"This Agreement shall have an Initial Term of three (3) years. The Term shall commence on July 23, 2013 and shall expire on July 22, 2016, unless otherwise terminated earlier pursuant to Section 9 of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 4442,
+    "total_tokens": 4509,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4439,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

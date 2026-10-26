@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Such insurance shall be with a reputable insurance company and where reasonably possible (taking into account the availability of such insurance) shall be maintained for not less than [**] ([**]) years following the expiry or termination of this Agreement.\", \"The confidentiality and non-use obligations contained in this Agreement shall continue for the duration of this Agreement and for a period of [**] ([**]) years after termination for any reason of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 189,
+    "prompt_tokens": 5128,
+    "total_tokens": 5317,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5125,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"You acknowledge and agree that, in consideration for the right to use the System and our expertise in the field, if you, any of your employees or any Unit Franchisees in the Master Territory develop any new concept, process or improvement in the operation or promotion of the Franchised Business, you will promptly notify us and provide us with all necessary information concerning same, without any compensation to you, your employee or Unit Franchisee. You acknowledge and agree that any such concept, process or improvement shall become our property and we may utilize or disclose such information to other master franchisees and unit franchisees as we determine to be appropriate.\", \"We alone will be, and at all times will remain, the sole owner of the copyrights to all material which appears on any System Website we establish and maintain, including any and all material you may furnish to us as provided above.\", \"You shall, at our option and request, and without any additional consideration, assign to us all rights to all e-mail addresses, URLs, domain names, Internet listings, and Internet accounts related to the Franchised Business following demand by us upon your misuse of the same and/or the termination or expiration of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 461,
+    "prompt_tokens": 4923,
+    "total_tokens": 5384,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 199,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4920,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

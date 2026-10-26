@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Sections 2(a), 2(b), 2(c), 2(d), 3, and 11 shall survive the expiration or termination of this Agreement: (i) in perpetuity with respect to Titles for which the licenses granted in Section 2(a) are perpetual; and (ii) for the duration of the applicable license term specified in Schedule A with respect to Titles for which the license term specified in Schedule A extends beyond the expiration or termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 199,
+    "prompt_tokens": 5322,
+    "total_tokens": 5521,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5319,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

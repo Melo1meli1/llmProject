@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon any termination (including expiration) of this Agreement, each party shall return to the other party all documents and other tangible items to it or its employees or agents have received or created pursuant to this Agreement pertaining, referring, or relating to Confidential Information of the other party.\", \"Termination of this Agreement will not affect rights and obligations of either party that may have accrued prior to the date of termination or any other obligation contained in Section 5.5, 6.3, 6.4, 8.1, 8.3, Article 9, 10.1, 10.2, 10.3, 10.4, 10.5(b), 10.6, Article 12, Article 13, and Sections 14.3, 14.4, and 14.5. All rights and obligation decay after 2 (two) years from termination or expiration.\", \"Upon any termination (including expiration) of this Agreement, Vapotherm shall pay to Medica, and Medica shall pay to Vapotherm, all amounts payable up to the date of termination but not yet paid.\", \"The termination or expiration of this Agreement shall not relieve either party of its responsibility to comply in all material respects with any statutory or regulatory requirements associated with the System and/or the Cartridges.\"]}",
+  "usage": {
+    "completion_tokens": 400,
+    "prompt_tokens": 5274,
+    "total_tokens": 5674,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5271,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

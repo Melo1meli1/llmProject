@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Philips shall maintain, and provide Customer reasonable access to, all records, both during and after the termination or expiration of this Agreement, in accordance with the Quality Agreement. The cost of any off-site storage of such records after the Term of this Agreement shall be borne by Customer and invoiced on a calendar quarter basis. After the Term, Customer may elect to have such records delivered to it upon reimbursing Philips for its reasonable costs of such transfer.\"]}",
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 3481,
+    "total_tokens": 3589,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3478,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Notwithstanding the foregoing, Sections 9 through Section 19 hereof shall survive termination of this Agreement, and no termination of this Agreement shall relieve any party of liability for any breach of this Agreement arising prior to such termination.\"]}",
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 5134,
+    "total_tokens": 5286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5131,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

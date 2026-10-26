@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"This Agreement shall terminate (i) the Business Day immediately following the Remarketing Settlement Date, (ii) at 5:00 p.m., New York City time, on the last date of the Remarketing if the Remarketing is not successful or (iii) on the effective date of the resignation or removal of the Remarketing Agent and the appointment of a new Remarketing Agent.\"]}",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4226,
+    "total_tokens": 4319,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4223,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

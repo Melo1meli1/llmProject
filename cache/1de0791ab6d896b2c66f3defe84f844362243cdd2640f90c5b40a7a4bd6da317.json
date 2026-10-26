@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"This Agreement between HEMISPHERX and SCIEN shall be in effect beginning the last date of execution set forth on the signature page to the Agreement (the \\\"Effective Date\\\") to which this Quality Agreement is Exhibit 2 and remain in effect until HEMISPHERX and SCIEN terminate the Agreement or it is superseded by a revised Quality Agreement executed by both parties.\"]}",
+  "usage": {
+    "completion_tokens": 195,
+    "prompt_tokens": 4246,
+    "total_tokens": 4441,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4243,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

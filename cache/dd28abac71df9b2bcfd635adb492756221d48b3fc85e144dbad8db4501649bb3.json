@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"All current and former employees of SONY and each Affiliate of SONY who have made any material contributions to the development of any SRAM Product have signed an invention assignment agreement that assigns ownership to SONY\", \"All consultants and independent contractors currently or previously engaged by SONY or its Affiliates who have made any material contributions to the development of any SRAM Product (including, without limitation, all consultants and independent contractors who have designed, written, or modified any firmware or software code contained in any SRAM Product) have entered into a work-made-for-hire agreement or have otherwise assigned to SONY or a Affiliate of SONY (or a third party that previously conducted any business that forms any part of the Business currently conducted by SONY and that has subsequently assigned its rights in such SRAM Product to SONY) all of their right, title and interest (other than moral rights, if any) in and to the portions of such SRAM Product developed by them in the course of their work for SONY or any Affiliate.\"]}",
+  "usage": {
+    "completion_tokens": 350,
+    "prompt_tokens": 4839,
+    "total_tokens": 5189,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 124,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4836,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

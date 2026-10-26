@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"During the Consultation Period (as defined below) and for a period of one year thereafter, except in connection with his performance of the Services, the Consultant shall not engage in any activity in the field described on Schedule A to this Agreement, and he shall not assist any other person or organization that engages in any such activity.\",\"The Consultant agrees that the Shares shall be subject to the terms of the Restricted Stock Agreement.\",\"The Consultant shall be entitled to payment hereunder and for expenses paid or incurred prior to the effective date of termination.\",\"The Consultant will not disclose any Proprietary Information to any person or entity other than employees of the Company or use the same for any purposes (other than in the performance of the services) without written approval by an officer of the Company, either during or after the Consultation Period, unless and until such Proprietary Information has become public knowledge without fault by the Consultant.\",\"All such materials or copies thereof and all tangible property of the Company in the custody or possession of the Consultant shall be delivered to the Company, upon the earlier of (i) a request by the Company or (ii) the termination of this Agreement. After such delivery, the Consultant shall not retain any such materials or copies thereof or any such tangible property.\",\"All inventions, ideas, creations, discoveries, computer programs, works of authorship, data, developments, technology, designs, innovations and improvements (whether or not patentable and whether or not copyrightable) which are made, conceived, reduced to practice, created, written, designed or developed by the Consultant, solely or jointly with others or under Consultant's direction and whether during normal business hours or otherwise, (i) during the Consultation Period if related to the business of the Company or (ii) during or after the Consultation Period if resulting or directly derived from Proprietary Information (as defined above) (collectively under clauses (i) and (ii), \\\"Inventions\\\"), shall be the sole property of the Company.\",\"During the Consultation Period and for a period of one year thereafter, the Consultant shall not, either alone or in association with others, (i) solicit, or permit any organization directly or indirectly controlled by the Consultant to solicit, any employee of the Company to leave the employ of the Company; or (ii) solicit for employment, hire or engage as an independent contractor, or permit any organization directly or indirectly controlled by the Consultant to solicit for employment, hire or engage as an independent contractor, any person who is employed or engaged by the Company; provided, that this clause (ii) shall not apply to any individual whose employment with the Company has been terminated for a period of six months or longer.\"]}",
+  "usage": {
+    "completion_tokens": 676,
+    "prompt_tokens": 4817,
+    "total_tokens": 5493,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4814,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

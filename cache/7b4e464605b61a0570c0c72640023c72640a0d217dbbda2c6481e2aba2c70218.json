@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"MusclePharm's obligations for the payment of a Royalty and the Guaranteed Minimum Royalty (as defined below) shall survive expiration or termination of this Agreement and will continue for so long as MusclePharm continues to manufacture, sell or otherwise market the Licensed Products.\"]}",
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 5084,
+    "total_tokens": 5156,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5081,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

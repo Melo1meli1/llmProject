@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Any changes made by a licensee Party to the licensor Party's Marks will be owned by the applicable Party owning the underlying Marks (which ownership will be confirmed or otherwise documented by the licensee Party in writing, at the request of the Party owning the Marks)\"]}",
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 5218,
+    "total_tokens": 5289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5215,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"(vii) with respect to any documentation, technical or confidential business information and/or software relating to the Equipment (collectively, \\\"Software\\\"), the Purchase Order will grant Lessor a license to use the Software and will allow Lessor to grant a sublicense to the Company to use such Software pursuant to the Lease and will allow Lessor to grant a sublicense to a third party after a termination or the expiration of the Lease in the event the Company does not elect to exercise any purchase option that may be provided for in the Lease;\", \"provided however that such termination shall not act as a termination of any Equipment leased hereunder.\"]}",
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 3371,
+    "total_tokens": 3515,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3368,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

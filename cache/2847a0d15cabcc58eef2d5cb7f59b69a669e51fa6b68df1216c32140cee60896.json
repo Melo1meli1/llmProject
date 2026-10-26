@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Each of the Parties and the Joint Venture Company receiving all such information as aforesaid (hereinafter referred to \\\"Confidential Information\\\") shall, during the Contract Term, or during the term of the Joint Venture Company and for two (2) years after the early termination or dissolution of the Joint Venture Company prior to the expiration of the Contract Term:\\n\\n(1) maintain the confidentiality of such Confidential Information; and\\n\\n(2) not disclose it to any person or entity, except to their respective employees who need to know such Confidential Information to perform their work responsibilities.\", \"This Chapter 17 and the obligations and benefits hereunder shall survive the expiration or early termination of this Contract and shall remain in effect for the periods stated herein, notwithstanding the dissolution or liquidation of the Joint Venture Company.\"]}",
+  "usage": {
+    "completion_tokens": 179,
+    "prompt_tokens": 4782,
+    "total_tokens": 4961,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4779,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

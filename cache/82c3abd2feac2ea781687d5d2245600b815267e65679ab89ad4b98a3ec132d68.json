@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon the request of Discloser and/or termination of this Agreement, the Recipient will promptly return all confidential information furnished hereunder and all copies thereof.\", \"The obligations of the parties set forth in this paragraph 9 of this Agreement shall survive the termination of this Agreement.\", \"Upon termination or expiration of this Agreement, all rights granted to the USA MCO and IMedicor shall forthwith revert to the granting party.\"]}",
+  "usage": {
+    "completion_tokens": 166,
+    "prompt_tokens": 2478,
+    "total_tokens": 2644,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 58,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2475,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

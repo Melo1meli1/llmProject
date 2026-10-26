@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Sponsor will retain all right, title and interest in and to the Content worldwide (including, but not limited to, ownership of all copyrights and other intellectual property rights therein).\", \"Excite will retain all right, title, and interest in and to the Excite Site and the Excite Network and the Broadcast Pages worldwide (including, but not limited to\"]}",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 5094,
+    "total_tokens": 5183,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5091,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

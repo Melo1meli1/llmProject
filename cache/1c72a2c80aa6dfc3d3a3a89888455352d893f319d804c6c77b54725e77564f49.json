@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The Company shall cease use of the name, likeness, image or personal identification of the Professional upon expiration or termination of this Agreement. However, the Company will have the right to dispose of its inventory of Products existing at the time of termination or expiration of this Agreement and the right to use the name, likeness, image and personal identification of the Professional in connection with the disposition of such inventory. The right granted in this section shall expire six (6) months after the termination or expiration of this Agreement.\", \"The Company's obligation to compensate the Professional pursuant to Section 4 of this Agreement shall cease on the effective date of termination except as to amounts earned by the Professional and due from the Company accruing prior to such date.\", \"If the Company decides not to renew this Agreement in accordance with the provisions of Section 8 below, the Company shall pay the Professional an amount equal to two percent (2%) of the net book value of its unsold inventory of Products on December 31, 2004.\", \"The Professional acknowledges that she will have a right, pursuant to and under the conditions described in Section 4.2 above, to receive a specified royalty for inventory on hand at the expiration of the initial term, and accordingly hereby grants to the Company the right to fill any orders for, assemble components of, market, advertise, promote and sell any inventory of Products in its inventory existing at the expiration or termination of this Agreement, for a period not to exceed two (2) years after such expiration or termination of the original term.\"]}",
+  "usage": {
+    "completion_tokens": 478,
+    "prompt_tokens": 5052,
+    "total_tokens": 5530,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 146,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5049,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

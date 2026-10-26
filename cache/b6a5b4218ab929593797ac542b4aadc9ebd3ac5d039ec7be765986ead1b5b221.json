@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"DSS shall own all right, title, and interest in and to the Technology, the Improvements, its Intellectual Property, and all future derivative works derived therefrom or developed hereunder.\", \"Developer hereby assigns and shall assign in the future to DSS all rights it may acquire by operation of law or otherwise in the Technology or Improvements, along with the goodwill associated therewith.\"]}",
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 4890,
+    "total_tokens": 4982,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4887,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

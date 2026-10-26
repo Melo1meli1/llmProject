@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Sections 5.8.1 [Non-Competition] (subject to Section 8.3(k) [Upon Termination]), 6.1-6.2, 6.5, 6.6, 6.9, 7.5-7.8, 8, 9, 10, 11, 12 and 13, any payment obligations of the parties hereunder accruing prior to the date of termination; and any other provision herein expressly surviving termination or necessary to interpret the rights and obligations of the parties in connection with the termination of the term of this Agreement will survive the termination or expiration of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 5392,
+    "total_tokens": 5545,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5389,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

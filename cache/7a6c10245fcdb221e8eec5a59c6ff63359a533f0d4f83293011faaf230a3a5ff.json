@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Notwithstanding anything in this Agreement to the contrary, the Agent at all times shall own and retain all rights, title and interest in and to the Additional Roundup Products Formulation Data.\"]}",
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 4824,
+    "total_tokens": 4879,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4821,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

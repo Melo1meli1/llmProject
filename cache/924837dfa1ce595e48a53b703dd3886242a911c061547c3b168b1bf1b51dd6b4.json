@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"During the term hereof and for a period of two years following termination, none of the PHL Parties, any of their Affiliates, or any of their respective officers, directors, employees, agents, or representatives, shall, without the prior written approval of ICC, knowingly and intentionally market any products or services to an ICC Client or Certificate Owner other than the GIE, if such ICC Client or Certificate Owner is identified from information any of the PHL Parties, any of their Affiliates, or any of their respective officers, directors, employees, agents, or representatives, obtain pursuant to any of the Transaction Documents or any transaction contemplated thereunder.\"]}",
+  "usage": {
+    "completion_tokens": 210,
+    "prompt_tokens": 5044,
+    "total_tokens": 5254,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 56,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5041,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

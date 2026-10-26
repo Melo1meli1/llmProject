@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"You agree to maintain for at least seven (7) years during (as well as after) the term of this Agreement (and also after any termination and/or transfer), full, complete, and accurate books, records, and accounts prepared in accordance with generally accepted accounting principles and in the form and manner we have prescribed periodically in the Manual or otherwise in writing\", \"You agree that you will not, during the term of this Agreement or at any time thereafter, communicate, divulge, or use (for yourself and/or for the benefit of any other person, persons, partnership, entity, association, or corporation) any Confidential Information that may be communicated to you or of which you may be apprised by virtue of your operation under the terms of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 170,
+    "prompt_tokens": 5165,
+    "total_tokens": 5335,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5162,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"upon the expiration or earlier termination of the Lease Term, EKR shall remove the Transferred Equipment from PPI's premises (unless EKR at its option elects to retain the Transferred Equipment at PPI's premises in connection with EKR's exercise of step-in rights under Section 17.5). PPI agrees to cooperate with EKR in the removal of the Transferred Equipment, including providing the necessary access to the Transferred Equipment and the facilities where it is located at times mutually agreed by the Parties, such agreement not to be unreasonably withheld or delayed by either Party.\",\"Upon termination of the Lease Term, unless PPI has repurchased the Transferred Equipment, EKR will, at PPI's request, use commercially reasonable efforts to (i) supply the Product and (ii) supply placebo for [**], to PPI's other licensees and collaborators outside the Territory, excluding PPI and any of its Affiliates (the \\\"Other PPI Customers\\\"), in each case in accordance with the commercially reasonable requirements of any existing agreements between PPI and such Other PPI Customers, subject to EKR's receipt of payment required under such agreements for supplying such Products and/or other products. PPI will use commercially reasonable efforts to cooperate with EKR so as to enable EKR to supply Product and, if applicable, other products, to such Other PPI Customers.\"]}",
+  "usage": {
+    "completion_tokens": 370,
+    "prompt_tokens": 5086,
+    "total_tokens": 5456,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5083,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

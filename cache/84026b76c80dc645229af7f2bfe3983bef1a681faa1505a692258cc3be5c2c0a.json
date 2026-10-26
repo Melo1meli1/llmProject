@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"No later than [* * *] days prior to the end of the Initial Term and each Renewal Term, Medica shall provide Vapotherm with reasonable documentation of its actual and direct costs in manufacturing the Cartridges (the \\\"Costs\\\"). The parties will then negotiate in good faith the Cartridge prices for the subsequent\"]}",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 4762,
+    "total_tokens": 4844,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4759,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

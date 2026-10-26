@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The term of this Agreement (the \\\"Term\\\"), unless mutually extended by written agreement of the Parties or unless sooner terminated as provided herein, shall commence effective as of the date hereof and shall expire on December 31, 2028.\"]}",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4459,
+    "total_tokens": 4524,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4456,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"If Philips causes the Agreement to be terminated, directly or indirectly, then Philips undertakes to sell all Products which have been ordered by Customer but not yet delivered at the date of termination upon the terms and conditions of this Agreement.\", \"On termination or expiry of this Agreement, each Party shall promptly: (a) return to the other Party all equipment, materials and property belonging to the other Party that the other Party had supplied to the other Party (or its Affiliates) in connection with the supply and purchase of the Products under this Agreement; (b) cooperate with the other Party to arrange for the sale and purchase of the materials, parts and components as referred to in clause 3.4; (c) return to the other Party all documents and materials (and any copies) containing the other party's Confidential Information; (d) erase all the other party's Confidential Information from its computer systems (to the extent possible); and (e) on request, certify in writing to the other Party that it has complied with the requirements of this clause.\", \"On termination or expiry of this Agreement Philips shall facilitate an orderly transition of suppliers from Philips to Customer in accordance with the requirements outlined in Section 5.4 (Material Supplier Contracts) of the Purchase Agreement, including using commercially reasonable best efforts to assist Customer to enter into supply agreements directly with the counterparties to the Material Supplier Contracts (as defined in the Purchase Agreement) on terms that are satisfactory to the Customer, acting reasonably.\", \"12.6 Termination of this Agreement in accordance with this clause 12, is without prejudice to any right to claim for amounts or interest accrued prior to the date of such termination under this Agreement.\", \"Each party's obligation to protect the Confidential Information of the other Party shall continue for a period of [Redacted - Commercial Sensitive - Time Period] following the date of termination of this Agreement.\", \"12.8 Within [Redacted - Commercially Sensitive - Time Period] of the Effective Date, the parties shall negotiate, acting reasonably and in good faith, a transition plan (the \\\"Transition Plan\\\") to provide for a smooth transfer and transition of the manufacturing activities under this Agreement to Customer, an Affiliate of Customer or a third party manufacturer designated by Customer.\", \"12.9 The Parties shall perform such activities as set forth in the Transition Plan and shall otherwise perform all such obligations in good faith to ensure a smooth transfer of the manufacturing activities under this Agreement to Customer. In connection with the Transition Plan, Customer will pay all reasonable freight cost and any Philips' employee (or third parties engaged by Philips) at [Redacted - Commercial Sensitive - Billing Rate], as needed, in connection with the implementation of the Transition Plan.\"]}",
+  "usage": {
+    "completion_tokens": 703,
+    "prompt_tokens": 4869,
+    "total_tokens": 5572,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 136,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4866,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

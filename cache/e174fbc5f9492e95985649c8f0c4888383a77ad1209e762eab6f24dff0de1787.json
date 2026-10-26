@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"This provision shall survive the expiration or earlier termination of this Agreement and the Trademark, Trade Name, Domain and Related Rights License Agreement.\",\"Termination of this Agreement shall not result in the termination of any provisions herein which by their nature are meant to survive termination (including any covenants herein related to discontinuation of use of licensed intellectual property and the indemnification provisions hereof), nor shall it relieve any Party of liability for breaches of the terms hereof prior to termination.\",\"This provision shall survive the expiration or earlier termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 301,
+    "prompt_tokens": 3664,
+    "total_tokens": 3965,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 174,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3661,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

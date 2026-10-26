@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"You agree to pay us all damages, costs, and expenses (including without limitation reasonable attorneys' fees, court costs, discovery costs, and all other related expenses) that we incur as a result of your default under this Agreement and/or subsequent to the termination or expiration of this Agreement in seeking injunctive or other relief for the enforcement of any provisions of this Section 18, which will be in addition to amounts due to us under Section 18.11 below.\",\"You agree to pay us all damages, costs and expenses (including without limitation reasonable attorneys' fees, court costs, discovery costs, and all other related expenses) that we incur after the termination or expiration of the franchise granted under this Agreement in: (a) seeking injunctive or other relief for the enforcement of any provisions of this Agreement (including without limitation Sections 9 and 17 above); and/or (b) successfully defending a claim from you that we misrepresented the terms of this Agreement, fraudulently induced you to sign this Agreement, that the provisions of this Agreement are not fair, were not properly entered into, and/or that the terms of this Agreement (as it may be amended by its terms) do not exclusively govern the parties' relationship.\"]}",
+  "usage": {
+    "completion_tokens": 358,
+    "prompt_tokens": 5395,
+    "total_tokens": 5753,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5392,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

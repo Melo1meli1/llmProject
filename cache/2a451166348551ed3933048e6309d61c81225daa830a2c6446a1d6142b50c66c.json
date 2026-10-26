@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Within thirty (30) days after expiration or non-renewal under this Agreement and/or default under your lease/sublease for the premises, we shall buy from you (and/or your affiliates) all assets of the Franchised Business.\",\"We will pay the purchase price to you in twenty four (24) equal, monthly installments following the purchase, provided that you are in full compliance with the covenants contained in this Agreement.\",\"At closing, we and you agree to sign and deliver all documents necessary to vest title in the assets purchased by us free and clear of all liens and encumbrances, except any assumed by us.\",\"In the event of termination for any of your defaults, those sums will include all damages, costs, and expenses (including without limitation reasonable attorneys' fees, court costs, discovery costs, and all other related expenses), that we incur as a result of the default.\",\"You agree to pay us all damages, costs, and expenses (including without limitation reasonable attorneys' fees, court costs, discovery costs, and all other related expenses) that we incur as a result of your default under this Agreement and/or subsequent to the termination or expiration of this Agreement in obtaining injunctive or other relief for the enforcement of any provisions of this Section 18, which will be in addition to amounts due to us under Section 18.11 below.\",\"You agree to immediately return to us the Manual, the Program Materials, and all other manuals, records, and instructions containing confidential information (including, without limitation, any copies thereof, even if such copies were made in violation of this Agreement), all of which are acknowledged to be our property.\",\"In order to preserve the goodwill of the System following termination, we (or our designee) will have the right to enter the Franchised Business (without liability to you, your Principals, or otherwise) for the purpose continuing the Franchised Business's operation and maintaining the goodwill of the business.\",\"If we terminate this Agreement based on your default, or if you abandon or otherwise cease to operate the Franchised Business, in addition to all other amounts due to us under this Agreement, you agree to pay to us, as liquidated damages, an amount calculated as follows:\"]}",
+  "usage": {
+    "completion_tokens": 714,
+    "prompt_tokens": 5234,
+    "total_tokens": 5948,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 243,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5231,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

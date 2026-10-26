@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"at the termination or expiration of this Agreement Diplomat will be deemed to have assigned, transferred and conveyed to KI, Inc. any trade rights, equities, good will, titles or other rights in and to KI's name which may have been obtained by Diplomat or which may have vested in Diplomat in pursuance of any endeavors covered by this Agreement, and that Diplomat will execute any instruments requested by KI, Inc. to accomplish or confirm the foregoing.\",\"In the event books of account and records shall be kept available for at least two (2) years after the termination of this license.\",\"Upon the termination of this license, notwithstanding anything to the contrary herein, all royalties on sales theretofore made shall become immediately due and payable and no minimum royalties shall be repayable.\",\"in the event of its termination, ten (10) days after receipt of notice of termination or the happening of the event which terminates this Agreement where no notice is required, a statement showing the number and description of products covered by this Agreement on hand or in process shall be furnished by Diplomat to KI, Inc.\",\"Upon and after the termination of the license, and except as otherwise provided in this Agreement, Diplomat may dispose of products covered by this Agreement which are on hand, or in process at the time notice of termination is received, for a period of one hundred and twenty (120) days after notice of termination, provided advances and royalties with respect to that period are paid and statements are furnished for that period in accordance with paragraph 3.\",\"Upon and after the expiration or termination of this license, all rights granted to Diplomat hereunder shall forthwith revert to KI, Inc.\",\"Diplomat will refrain from further use of KI's name or any further reference to it, direct or indirect, or anything deemed by KI, Inc. to be similar to the KI's name, in connection with the manufacture, sale or distribution of Diplomat's products, except as provided in paragraph 17.\"]}",
+  "usage": {
+    "completion_tokens": 541,
+    "prompt_tokens": 4634,
+    "total_tokens": 5175,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4631,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

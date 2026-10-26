@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The liability of each Party to the Joint Venture Company shall be limited to contributing the full amount of its share of the Joint Venture Company's registered capital. Unless otherwise provided pursuant to a written agreement signed by a Party and a creditor of the Joint Venture Company, creditors of the Joint Venture Company and other claimants against the Joint Venture Company shall have recourse only to the assets of the Joint Venture Company and shall not have rights to seek compensation, damages or other remedies from any of the Parties.\"]}",
+  "usage": {
+    "completion_tokens": 278,
+    "prompt_tokens": 4003,
+    "total_tokens": 4281,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 157,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4000,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

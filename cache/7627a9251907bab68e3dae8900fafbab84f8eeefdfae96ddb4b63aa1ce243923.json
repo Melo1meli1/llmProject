@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In the event this Agreement is terminated by either Party for any reason whatsoever, HEMISPHERX agrees to reasonable efforts to make Product available to SCIEN for a period of three (3) months after the termination date at the same Transfer Price and under the same terms of payment.\", \"In the event of termination of this Agreement, SCIEN will have the right to complete all contracts for the sale or disposition of Product) under which SCIEN is obligated on the date of termination, provided SCIEN pays the associated Transfer Price and provided all such sales or dispositions are completed within three (3) months after the date of termination. Thereafter, HEMISPHERX shall purchase from the SCIEN all remaining stock of Product that is of merchantable quality at the same price as was paid by SCIEN.\"]}",
+  "usage": {
+    "completion_tokens": 260,
+    "prompt_tokens": 5445,
+    "total_tokens": 5705,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5442,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

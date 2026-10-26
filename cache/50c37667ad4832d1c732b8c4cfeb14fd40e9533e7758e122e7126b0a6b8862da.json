@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"In the event of termination by Client for reasons other than default by CRO, Client shall pay all sums owing to CRO, but unpaid, for work performed to date of receipt of termination notice, and all reasonable and necessary costs associated with the termination itself or to which CRO is committed to pay.\",\"In the event of early termination under 4.1. above where CRO is in material breach, any credit held in favour of CRO shall be returned to Client within thirty (30) days following such termination, provided that the Client will then be liable for all outstanding third party costs lawfully incurred hereunder by CRO prior to the termination.\",\"CRO agrees that during the term of this Agreement and for a period of three years thereafter: (a) to disclose and assign to Client as its exclusive property all inventions and technical or business innovations specifically derived from the work assigned by Client to CRO which CRO develops or conceives, solely or in conjunction with others (1) that are based on or involve information of Client, (2) that relate to, constitute, result from, or include the work in which CRO will be engaged for Client, or (3) that are otherwise made through the use of any time, facilities or materials of Client;\",\"(d) to deliver to Client, upon termination or expiration of this Agreement, all materials which were provided to CRO under the terms of this Agreement and which relate to the business of, or belong to, Client or which were provided by Client for the use of its employees, contractors or consultants;\"]}",
+  "usage": {
+    "completion_tokens": 465,
+    "prompt_tokens": 4501,
+    "total_tokens": 4966,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 136,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4498,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

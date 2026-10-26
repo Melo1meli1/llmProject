@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In those cases in which there may be claims by clients due to differences in price and/or terms duly justified, under the judgment of the Business Units in charge of handling the client it must be the determined the viability of the claim and adopt the pertinent decision in a reasonable period of time in accordance with the complexity of the discrepancy. To resolve any discrepancies, each of the parties shall deliver to the other, a copy of the documents supporting the invoice and the claim. The review process of any claims shall be in accordance with the provisions in each contract for the provision of services entered into between the parties. Any disagreement regarding any invoice does not exempt the buyer from its obligations to pay the non-disputed portion of said invoice or any other invoice.\", \"If the buyer has made payments in excess, ECOPETROL shall credit the same to the next due date or make the corresponding reimbursement after clarification of the amount under discrepancy.\", \"The payment of Receivables by clients after the due date generates a late interest as a sanction. Late interests are a applicable without exception to all kinds are Receivables handled by ECOPETROL.\", \"Late interests shall be calculated on any overdue balances and in proportion to the time lapsed from the date in which the payment should have been made until that date in which it is actually made.\"]}",
+  "usage": {
+    "completion_tokens": 282,
+    "prompt_tokens": 5082,
+    "total_tokens": 5364,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5079,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

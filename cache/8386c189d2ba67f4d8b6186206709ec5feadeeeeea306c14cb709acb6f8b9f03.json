@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"during the term of this Agreement or thereafter, communicate, divulge, or use for the benefit of anyone else, any confidential information, knowledge, or know-how concerning the methods of operation of the Franchised Business\", \"during the term of this Agreement, and for a continuous uninterrupted period commencing upon expiration or termination of this Agreement, regardless of the cause for termination, and continuing for a period of three (3) years thereafter, neither you nor your principals shall, directly or indirectly, for themselves, or through, on behalf of, or in conjunction with any person, persons, partnership, limited liability company or corporation:\"]}",
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 5227,
+    "total_tokens": 5370,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5224,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

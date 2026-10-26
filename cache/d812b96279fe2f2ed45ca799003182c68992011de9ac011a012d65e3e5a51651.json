@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The term of the license hereby granted shall commence August 1, 1995 and continue until January 30, 2000, unless sooner terminated in the manner provided in the immediately succeeding sentence or as otherwise provided in this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4548,
+    "total_tokens": 4613,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4545,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

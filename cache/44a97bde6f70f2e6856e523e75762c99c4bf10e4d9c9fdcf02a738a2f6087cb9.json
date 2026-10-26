@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The agreements contained in this Section 9 and in Section 10 hereof and the representations and warranties of the Company and the Association set forth in this Agreement shall remain operative and in full force and effect regardless of: (i) any investigation made by or on behalf of Capital Resources or its officers, directors or controlling persons, agents or employees or by or on behalf of the Company or the Association or any officers, directors or controlling persons, agents or employees of the Company or the Association or any controlling person, director or officer of the Company or the Association; (ii) delivery of and payment hereunder for the Shares; or (iii) any termination of this Agreement.\", \"The respective indemnities of the Company, the Association and Capital Resources and the representations and warranties and other statements of the Company and the Association set forth in or made pursuant to this Agreement shall remain in full force and effect, regardless of any termination or cancellation of this Agreement or any investigation made by or on behalf of Capital Resources, the Company, the Association or any indemnified person referred to in Section 9 hereof, and shall survive the issuance of the Shares, and any legal representative, successor or assign of Capital Resources, the Association, and any such indemnified person shall be entitled to the benefit of the respective agreements, indemnities, warranties and representations.\", \"this Agreement shall terminate upon refund by the Association to each person who has subscribed for or ordered any of the Shares the full amount which it may have received from such person, together with interest as provided in the Offering Prospectus, and no party to this Agreement shall have any obligation to the other hereunder, except for payment by the Association and/or the Company as set forth in Sections 2, 7, 9 and 10 hereof.\"]}",
+  "usage": {
+    "completion_tokens": 503,
+    "prompt_tokens": 4833,
+    "total_tokens": 5336,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4830,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

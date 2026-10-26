@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"This Agreement shall take effect on the date of signature of the Agreement by both parties and shall terminate when all obligations required of both parties hereunder are performed unless either terminated earlier or extended by the parties pursuant to the terms of this Agreement subject to clause 4.0.\"]}",
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 3643,
+    "total_tokens": 3715,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3640,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

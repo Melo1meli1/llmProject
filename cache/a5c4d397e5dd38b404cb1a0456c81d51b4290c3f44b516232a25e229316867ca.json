@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"This Agreement shall commence on the Effective Date of this Agreement and shall remain in effect for a period of 5 years (\\\"Initial Term\\\"). Thereafter, this Agreement shall be renewed automatically on a five (5) year basis, unless one party notifies the other of its desire to terminate this Agreement at least sixty 90 days prior to the expiration of the Initial Term or then current renewal term, as applicable, or unless a new Agreement is signed between the USA MCO and IMedicor which will then invalidate this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 4143,
+    "total_tokens": 4268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4140,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

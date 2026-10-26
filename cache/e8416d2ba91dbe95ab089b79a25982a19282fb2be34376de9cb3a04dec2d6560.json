@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"You shall have the option to renew the term of this Agreement, on the terms and conditions set forth in this Agreement, for four (4) additional ten (10) year terms, upon written notice given by you to us not less than six (6) months nor more than twelve (12) months prior to the scheduled expiration date of the term then in effect\"]}",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4871,
+    "total_tokens": 4960,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4868,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

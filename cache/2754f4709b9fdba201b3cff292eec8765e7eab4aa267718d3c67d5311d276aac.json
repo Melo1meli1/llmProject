@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Developer shall be fully liable, without limitation, for money damages resulting from its improper or unauthorized use, modification, alteration, licensing or transfer of the Technology or Improvements, or resulting from its failure to provide functional and merchantable Improvements hereunder\"]}",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4064,
+    "total_tokens": 4129,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4061,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

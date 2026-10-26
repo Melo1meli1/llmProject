@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Minnesota law provides franchisees with certain non-renewal rights. In sum, Minn. Stat. § 80C.14 (subd. 4) currently requires, except in certain specified cases, that a franchisee be given 180 days' notice of non-renewal of the Franchise Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 5227,
+    "total_tokens": 5309,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5224,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

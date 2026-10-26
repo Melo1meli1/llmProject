@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"As between the Parties, Dova shall own all right, title and interest in and to any Product Materials (and all content contained therein) and any Product Labeling (and all content contained therein), including applicable copyrights and trademarks (other than any name, trademark, trade name or logo of Valeant or its Affiliates that may appear on such Product materials or Product Labeling), and to the extent Valeant (or any of its Affiliates) obtains or otherwise has a claim to any of the foregoing, Valeant hereby assigns (and shall cause any applicable Affiliate to assign) all of its right, title and interest in and to such Product Materials (and content) and Product Labeling (and content) (other than any name, trademark, trade name or logo of Valeant or its Affiliates that may appear on such Product materials or Product Labeling) to Dova\"]}",
+  "usage": {
+    "completion_tokens": 194,
+    "prompt_tokens": 4866,
+    "total_tokens": 5060,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4863,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In any case, upon expiration of the term of execution of the Contract, the SENDER shall return all original Information and destroy or make to be destroyed all copies and reproductions (in any manner, including but without being limited to electronic means) in its possession and in possession of persons to whom it was disclosed pursuant with the Contract hereof.\", \"This confidentiality clause shall keep its validity, inclusively after the date of termination of the Contract hereto, until the date in which all obligations set out in this clause are fulfilled.\", \"The termination of this Contract shall not relieve the Parties from any obligation towards the other Party pursuant to this Contract, or any other loss, cost, damage, expense or responsibility which may occur under this Contract before or as a result of said termination.\"]}",
+  "usage": {
+    "completion_tokens": 174,
+    "prompt_tokens": 5444,
+    "total_tokens": 5618,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5441,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Expiration or termination of this Agreement shall not relieve the Parties of any obligation accruing prior to such expiration or termination.\", \"After early termination of this Agreement (other than a termination based on a breach of Sections 5 or 8 by Integra) and continuing for a period of eighteen (18) months thereafter, Integra and its Affiliates may Sell any Treated Integra Product and Partially Treated Integra Product in its inventory in the Field, and may, with respect to all components which, prior to the effective date of termination, were ordered or manufactured with the anticipation of being included as Treated Integra Product or Partially Treated Integra Product, complete their manufacture and sell them as though they had been inventory on the effective date of termination, subject to payment of all amounts payable to PcoMed for such Sales under this Agreement.\", \"each party agrees that, for the term of this Agreement and for 20 years thereafter, it shall keep confidential and shall not publish or otherwise disclose and shall not use for any purpose other than as provided for in this Agreement any Confidential Information furnished to it by the other party pursuant to this Agreement\", \"Any materials or documents which have been furnished by a disclosing party to a receiving party will be promptly returned, accompanied by all copies thereof, or certified as destroyed upon request by the disclosing party following termination of this Agreement, except that a party may retain one copy solely for reference to comply with regulatory or other legal requirements, subject to the obligations of confidentiality herein.\"]}",
+  "usage": {
+    "completion_tokens": 473,
+    "prompt_tokens": 5121,
+    "total_tokens": 5594,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 143,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5118,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

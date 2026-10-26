@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"\\\"Contract Period\\\" shall mean that period of time commencing January 1, 1996, and concluding December 31, 1998, unless sooner terminated in accordance with the terms and conditions hereof.\",\"The term of this Agreement shall commence January 1, 1996, and shall continue for a period of three (3) years, concluding December 31, 1998.\"]}",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 4565,
+    "total_tokens": 4660,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4562,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

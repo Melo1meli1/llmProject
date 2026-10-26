@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Each Party agrees that, during the Term and for a period of [***] thereafter, it shall keep confidential and shall not publish or otherwise disclose and shall not use for any purpose other than as provided for in this Agreement (which includes the exercise of its rights or performance of any obligations hereunder) any Confidential Information furnished to it by or on behalf of the other Party pursuant to this Agreement, except to the extent expressly authorized by this Agreement or otherwise agreed in writing by the Parties.\"]}",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 5090,
+    "total_tokens": 5270,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5087,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

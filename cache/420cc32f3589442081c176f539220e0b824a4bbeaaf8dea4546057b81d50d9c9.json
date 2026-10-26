@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"16.2 Without prejudice to Sections 16.3 and 16.4, the liability of the Airspan Parties, taken as a whole, for each event or series of connected events arising out of or in connection with this Agreement, any purchase order placed pursuant to this Agreement, or any other collateral contract, or from or in connection with the Equipment or Software or the use thereof, or the inability to use them either separately or in combination with other equipment or software, or from any other cause, whether caused by negligence, breach of contract, strict liability, breach of warranty, on grounds of failure of essential purpose, or otherwise, shall in no circumstance exceed the total amount payable by Distributor to Airspan under this Agreement for the provision of the Equipment or Software which gave rise to the loss or damage or in connection with which the loss or damage was incurred.\", \"16.3 Airspan Parties, taken as a whole, shall be liable for physical damage to Distributor's property resulting from Airspan's negligence under or in connection with this Agreement up to a maximum aggregate amount of one million US Dollars (US$1,000,000). And Distributor, taken as a whole, shall be liable for physical damage to Airspan's property resulting from Distributor's negligence under or in connection with this Agreement up to a maximum aggregate amount of one million US Dollars (US$1,000,000).\"]}",
+  "usage": {
+    "completion_tokens": 298,
+    "prompt_tokens": 4018,
+    "total_tokens": 4316,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4015,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

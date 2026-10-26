@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Upon the termination of this Agreement, Party B shall return to Party A or destroy any document, material or software containing such business secrets and delete the same from any memory devices.\",\"Subsection 8.1 shall survive the termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 164,
+    "prompt_tokens": 5202,
+    "total_tokens": 5366,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5199,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

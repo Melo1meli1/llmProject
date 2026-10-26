@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Licensor and Licensee are now two separate publicly traded companies; and (b) Licensor was assigned all right, title, and interest to the trademark \\\"ARMX\\\" (the \\\"Licensed Mark\\\")\", \"Licensee expressly recognizes and acknowledges that its use of the Licensed Mark shall inure solely to the benefit of Licensor, and shall not confer on Licensee any ownership rights to the Licensed Mark.\"]}",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 4785,
+    "total_tokens": 4885,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4782,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

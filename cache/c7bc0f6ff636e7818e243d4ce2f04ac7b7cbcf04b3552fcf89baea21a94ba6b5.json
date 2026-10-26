@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"This agreement shall be for a term of five years from the date of this document. This agreement shall renew automatically each year thereafter, unless either party serves written notice of its intention not to renew, on the other at least 90 days prior to the expiration of the then current term of this agreement.\"]}",
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 2307,
+    "total_tokens": 2383,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2304,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

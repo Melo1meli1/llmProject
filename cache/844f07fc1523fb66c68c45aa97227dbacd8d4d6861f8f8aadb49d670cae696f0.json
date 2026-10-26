@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"11.3 In the event of a breach of this license by Distributor, then Airspan may, in its discretion, terminate the license with immediate effect, whereupon Distributor shall return to Airspan all Software and copies thereof within ten (10) days.\", \"13.4 In the event of termination by either party for any reason, Distributor shall provide Airspan with lists of existing customers as well as other information necessary for an orderly changeover of representation in the Territory.\", \"13.5 Upon termination, Distributor shall immediately return to Airspan all Confidential Information, and Distributor agrees that neither it nor any company or organization controlled or directed by it shall divulge the contents of such material to any person at any time, notwithstanding the termination of this Agreement.\", \"Airspan will recognize payments due to Distributor for orders received up to ninety (90) days after the termination or expiration of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 329,
+    "prompt_tokens": 4943,
+    "total_tokens": 5272,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 127,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4940,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

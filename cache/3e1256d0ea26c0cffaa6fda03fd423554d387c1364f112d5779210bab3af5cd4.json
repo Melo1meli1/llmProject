@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"During the Term and for a period of five (5) years following the expiration or termination of this Agreement, the receiving Party shall disclose the other Party's Confidential Information only to its own (or its Affiliates') officers, employees, consultants, Third Party service providers, attorneys, accountants, agents, bankers, lenders, prospective lenders and prospective equity investors, and in each case only if and to the extent necessary to carry out their respective responsibilities under this Agreement or in accordance with the exercise of their rights under this Agreement or in accordance with customary permitted practice (such as to seek or maintain financing or credit), and such disclosure shall be limited to the maximum extent possible consistent with such responsibilities and rights.\", \"Upon expiration or termination of this Agreement, each Party, upon the other's request, promptly shall return or destroy all the Confidential Information disclosed to the other Party pursuant to this Agreement, including all copies, reflections, analyses and extracts of documents, except for one archival copy (and such electronic copies that exist as part of the Party's computer systems, network storage systems and electronic backup systems) of such materials solely to be able to monitor its obligations that survive under this Agreement.\", \"After the Term, by Qualigen only to the extent required to continue to offer and provide goods and services to former Sekisui customers of Products.\", \"Upon the expiration or termination of the Term, (i) Sekisui shall cooperate in permitting Qualigen to offer to rehire any Sekisui sales representatives who are primarily responsible for selling the Products as set forth in Section 4.6, (ii) Sekisui shall transfer to Qualigen the ownership of any Sekisui Instruments (subject to reimbursement from Qualigen for the book value (original cost less depreciation) of such Sekisui Instruments), (iii) Qualigen shall reimburse Sekisui for a prorated portion of all prepaid distribution fees paid by Sekisui during the final year of this Agreement to subdistributors, (iv) Sekisui shall assign to Qualigen each subdistributor agreement which Qualigen requests be assigned to Qualigen, and (v) each Party shall remain liable for its obligations accrued before the effective date of such expiration or termination (and for avoidance of doubt: upon expiration or termination Sekisui shall remain liable to pay Qualigen all Financing Payments then due under the Development Plan based upon the milestones that Qualigen has completed by the date of such expiration or termination).\", \"In the event there are unfulfilled orders for Products outstanding as of termination of this Agreement, Sekisui may, at its option, cancel such orders upon notice to Qualigen (in which case Qualigen agrees to fill such orders to Sekisui's end customers directly unless such customer chooses to cancel such order) or cause Qualigen to fulfill such orders and invoice Sekisui for amounts owed with respect thereto.\"]}",
+  "usage": {
+    "completion_tokens": 705,
+    "prompt_tokens": 5022,
+    "total_tokens": 5727,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5019,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

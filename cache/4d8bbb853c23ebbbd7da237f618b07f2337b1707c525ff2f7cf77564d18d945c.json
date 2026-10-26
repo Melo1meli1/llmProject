@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"eGain's entire liability under this Agreement for any damages from any cause whatsoever, regardless of form or action, whether in contract, negligence or otherwise, shall in no event exceed an amount equal to the price paid for the Services out of which the claim arose.\"]}",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 3909,
+    "total_tokens": 3979,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3906,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

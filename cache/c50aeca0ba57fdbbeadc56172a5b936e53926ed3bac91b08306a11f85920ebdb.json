@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"This Agreement shall automatically terminate at and as of (the first to occur of): (a) 12:00 midnight, New York City time, on the 30th day after the Effective Date (if Purchaser has not commenced the Offer, with the unanimous consent of the Sponsors, by then); (b) the expiration of the Offer (if the Offer is not consummated pursuant to the terms of the Offer), subject to any extension or subsequent offering period; and (c) the expiration of the Interim Period (if the Offer is consummated pursuant to the terms of the Offer), in any case, unless sooner terminated by unanimous written consent of the Participating Sponsors;\"]}",
+  "usage": {
+    "completion_tokens": 215,
+    "prompt_tokens": 4157,
+    "total_tokens": 4372,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 57,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4154,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

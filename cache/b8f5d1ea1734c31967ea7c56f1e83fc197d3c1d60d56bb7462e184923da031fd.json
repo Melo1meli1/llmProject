@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"SpinCo expressly acknowledges that, as between RemainCo and SpinCo (and any other member of the SpinCo Group), as of the Distribution Time and after effectuating all Prior Transfers and all assignments contemplated in the Intellectual Property Agreements, RemainCo is and shall be the sole and exclusive owner of the Intellectual Property set forth on Schedule 2.4(a), and SpinCo agrees that it shall do nothing inconsistent with such ownership.\", \"RemainCo expressly acknowledges that, as between SpinCo and RemainCo (and any other member of the RemainCo Group), as of the Distribution Time and after effectuating all Prior Transfers and all assignments contemplated in the Intellectual Property Agreements, SpinCo is the sole and exclusive owner of the Intellectual Property set forth on Schedule 2.4(b), and RemainCo agrees that it shall do nothing inconsistent with such ownership.\", \"As between RemainCo and SpinCo, unless otherwise agreed in writing by RemainCo or any member of the RemainCo Group and SpinCo or any member of the SpinCo Group, any and all Intellectual Property created, conceived, or actually reduced to practice by or on behalf of RemainCo or any member of the RemainCo Group after the Distribution Date, including, without limitation, any improvements or modifications to any Licensed SpinCo Intellectual Property or Shared Library Materials or any other Intellectual Property licensed by any member of the RemainCo Group or the SpinCo Group pursuant to any other Intellectual Property Agreement, shall belong solely and exclusively to RemainCo and neither SpinCo nor any member of the SpinCo Group shall have any right, title or interest in or to such Intellectual Property.\"]}",
+  "usage": {
+    "completion_tokens": 533,
+    "prompt_tokens": 5376,
+    "total_tokens": 5909,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 176,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5373,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"TPC further agrees that upon the termination of this Endorsement Agreement for any cause whatsoever, it will cease using the Ogle Endorsement, the name \\\"Brett Ogle,\\\" or any facsimile thereof, for any promotional or advertising purposes; provided, however, that TPC shall have the right to use the Ogle Endorsement in advertisements for ad space purchased by TPC prior to the termination of this Agreement for a period of up to six (6) months following such termination.\",\"In this connection, TPC shall provide Consolidated Artists with a list of such previously purchased ad space within seven (7) days of the effective date of termination and all such advertisements released after the effective date of termination shall be subject to Consolidated Artists' prior approval pursuant to the terms of Paragraph 7 below.\",\"Consolidated Artists and Advantage, at Consolidated Artists' expense, shall have the right during the Contract Period and until two (2) years after the termination of this Agreement to inspect and make copies of the books and records of TPC insofar as they relate to the computation of royalty payments due and owing to Consolidated Artists hereunder.\",\"In addition, TPC agrees that Consolidated Artists shall be entitled to the Retainer Fee prorated to the effective date of termination as well any Tournament Bonuses, Money List Bonuses and any Royalty Compensation earned by Consolidated Artists prior to the effective date of termination.\",\"TPC agrees that such termination shall not relieve it of its obligation to pay Consolidated Artists all compensation contemplated hereunder.\",\"Furthermore, TPC agrees that any Tournament Bonuses, Money List Bonuses and any Royalty Compensation earned by Ogle prior to the effective date of termination shall be paid in full within thirty (30) days of such effective date of termination.\",\"TPC and Consolidated Artists agree that they will take all necessary steps during the Contract Period and thereafter to protect the Ogle Endorsement, the name \\\"Brett Ogle\\\" or any facsimile thereof in connection with the advertisement, promotion, distribution and sale of the Endorsed Product.\"]}",
+  "usage": {
+    "completion_tokens": 583,
+    "prompt_tokens": 5423,
+    "total_tokens": 6006,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 145,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5420,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

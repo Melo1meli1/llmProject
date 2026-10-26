@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"During the term of this Agreement, and for a period of three (3) months following the expiration or termination of this Agreement, Distributor agrees that neither it nor any organization or entity controlled or directed by it will, without Airspan's prior, written consent, represent a manufacturer or supplier of products similar in design or performance to or which are of such a nature as to be competitive with any products contained in the Airspan Products, nor will Distributor market or otherwise promote the sale of such products.\",\"For at least two (2) years after termination of this Agreement, Distributor will maintain its records, contracts, and accounts relating to distribution of Airspan Products, and will permit examination thereof by authorized representatives of Airspan at all reasonable times.\"]}",
+  "usage": {
+    "completion_tokens": 222,
+    "prompt_tokens": 4724,
+    "total_tokens": 4946,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 53,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4721,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

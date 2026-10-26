@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The Indemnifying Party's liability for all claims made under this Agreement shall be subject to the following limitations: (i) the Indemnifying Party shall […***…] for such claims until the […***…] of the […***…] shall […***…] of the […***…] by the […***…] of all of the […***…] and […***…] of […***…], in which case the Indemnifying Party shall be liable only for the […***…] of the [… ***…] of the […***…] by the […***…] of all of the […***…] and […***…] of […***…], and (ii) the Indemnifying Party's […***…] for [… ***…] shall not […***…] of the […***…] by the […***…] of all of the […***…] and […***…] of […***…]. Notwithstanding the above provisions of this Section 5.04, the limitations provided in this Section 5.04 shall not apply to (i) any claim for fraud or intentional misrepresentation or (ii) any claim for breach of any agreement or covenant contained herein.\"]}",
+  "usage": {
+    "completion_tokens": 266,
+    "prompt_tokens": 4245,
+    "total_tokens": 4511,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4242,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

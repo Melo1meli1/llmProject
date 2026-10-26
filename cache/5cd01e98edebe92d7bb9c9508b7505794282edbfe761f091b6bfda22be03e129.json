@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The initial term of this Agreement and any renewal term thereof shall be automatically extended at the end of the initial term and any renewal term thereof for an additional one (1) year period unless either Party notifies the other Party not less than six (6) months before the end of the then in effect term of its intent to terminate this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4382,
+    "total_tokens": 4469,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4379,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

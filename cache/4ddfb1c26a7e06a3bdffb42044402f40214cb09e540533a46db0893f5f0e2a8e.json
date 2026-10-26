@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Notwithstanding any expiration or termination of this Agreement, Sections 1.4, 3, 4.4, 5.1, 5.2, and 6.1 through 6.11 shall survive and continue to be enforceable as set forth herein.\",\"Upon any expiration or termination of this Agreement, Licensee shall promptly return to Licensor, or at Licensor's direction, destroy all Licensor confidential information and all copies thereof in Licensee's possession.\"]}",
+  "usage": {
+    "completion_tokens": 165,
+    "prompt_tokens": 4884,
+    "total_tokens": 5049,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 45,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4881,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

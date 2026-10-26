@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In the event that Qualigen elects not to prosecute or maintain in a particular Applicable Market country any Patent Rights in the jointly developed Development IP (the \\\"Abandoned Joint IP\\\"), Sekisui may elect to prosecute such Abandoned Joint IP in such particular Applicable Market country, in which case the Patent Rights for such Abandoned Joint IP in such particular in Applicable Market country shall be owned solely by Sekisui.\"]}",
+  "usage": {
+    "completion_tokens": 207,
+    "prompt_tokens": 5094,
+    "total_tokens": 5301,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5091,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

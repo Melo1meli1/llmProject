@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"If this Agreement is terminated pursuant to any of the provisions hereof, except as otherwise provided herein, the Company shall not be under any liability to the Remarketing Agent and the Remarketing Agent shall not be under any liability to the Company, except that:\", \"(x) if this Agreement is terminated by the Remarketing Agent because of any failure or refusal on the part of the Company to comply with the terms or to fulfill any of the conditions of this Agreement, the Company will reimburse the Remarketing Agent for all of its out-of-pocket expenses (including the fees and disbursements of its counsel) reasonably incurred by it;\", \"(y) if the Remarketing Agent failed or refused to perform its obligations hereunder, without some reason sufficient hereunder to justify the cancellation or termination of its obligations hereunder, the Remarketing Agent shall not be relieved of liability to the Company for damages occasioned by its default and shall not be entitled to be reimbursed for any expense.\"]}",
+  "usage": {
+    "completion_tokens": 213,
+    "prompt_tokens": 5084,
+    "total_tokens": 5297,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5081,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

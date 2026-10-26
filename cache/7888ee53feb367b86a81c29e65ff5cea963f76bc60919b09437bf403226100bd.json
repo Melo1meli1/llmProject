@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"With respect to franchisees governed by Minnesota law, we will comply with Minn. Stat. § 80C.14, Subds. 3, 4, and 5 which require, except in certain specified cases, that a franchisee be given 90 days' notice of termination (with 60 days to cure) and 180 days' notice of non-renewal of the Franchise Agreement.\", \"Minnesota law provides franchisees with certain non-renewal rights. In sum, Minn. Stat. § 80C.14 (subd. 4) currently requires, except in certain specified cases, that a franchisee be given 180 days' notice of non-renewal of the Franchise Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 166,
+    "prompt_tokens": 5575,
+    "total_tokens": 5741,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5572,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

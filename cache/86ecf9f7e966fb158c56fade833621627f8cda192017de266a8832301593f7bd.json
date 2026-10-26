@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"During the term of this Agreement and for three (3) years thereafter, each party shall hold in strict confidence all such information.\", \"MusclePharm shall, throughout the Term of the Agreement and for a period of not less than four years thereafter, obtain and maintain at its own cost and expense from a qualified insurance company licensed to do business in California and New York, a commercial general liability insurance policy including coverage for contractual liability (applying to the terms and conditions of this agreement), product liability, personal injury liability, and advertiser's liability, in a form approved by the AS Parties, in the amount of at least Five Million Dollars (US$5,000,000) per occurrence naming the AS Parties (for the avoidance of doubt, specifically including each of Lender, Endorser, and Fitness) as additional named insureds.\"]}",
+  "usage": {
+    "completion_tokens": 247,
+    "prompt_tokens": 4383,
+    "total_tokens": 4630,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 53,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4380,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

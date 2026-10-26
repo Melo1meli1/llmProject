@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"THIS COVERAGE PROTECTS ECOPETROL AGAINST ANY EQUITY DAMAGE SUCH AS GENERAL DAMAGE AND LOSS OF PROFITS RESULTING FROM ANY BREACHING ATTRIBUTABLE TO THE CONTRACTOR ON ANY OF THE OBLIGATIONS ARISING FROM THE GUARANTEED CONTRACT. THIS COVERAGE COMPRISES ANY FINES AND THE AMOUNT OF THE PENALTY CLAUSE IF ENFORCED. THE TOTAL INDEMNITY SHALL NOT EXCEED IN ANY CASE THE AMOUNT INSURED SET FORTH FOR SAID PURPOSE.\", \"The insurance company's liability in connection with each coverage is limited to the value established as insured amount in the from page or the annexes issued based on the policy, and shall not exceed in any case said amount, pursuant to the provisions in article 1079 of the code of commerce.\"]}",
+  "usage": {
+    "completion_tokens": 182,
+    "prompt_tokens": 4910,
+    "total_tokens": 5092,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4907,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

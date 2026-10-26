@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"RemainCo shall have the right to use the SpinCo House Marks in connection with the operation of the RemainCo Business for a limited period of 270 days following the Distribution Date. After such 270-day period, RemainCo shall discontinue all use of the SpinCo House Marks, including any use on stationery or letterhead and any use on or in connection with other RemainCo Assets. However, the Parties agree that the RemainCo Group may continue, beyond such 270-day period, to distribute copies of any existing inventory of its marketing literature, including technical papers, brochures, and printed promotional material, in existence on the Distribution Date, provided, however, that reasonable efforts are made to remove or cover up any SpinCo House Marks appearing thereon prior to distribution.\"]}",
+  "usage": {
+    "completion_tokens": 175,
+    "prompt_tokens": 5229,
+    "total_tokens": 5404,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5226,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The Company shall only be obliged to pay the Fees agreed to but not yet paid as of the date of termination, with such payment to be made within 30 days of the date of termination.\", \"On the termination of the Contractor's engagement, the Contractor shall return to Emerald all property belonging to Emerald in the Contractor's possession or control.\", \"All Confidential Information will, during the Term of this Agreement and for a period of five years thereafter, be held by the Contractor in a fiduciary capacity for Emerald, in the strictest confidence, and will be used by the Contractor solely for the benefit of Emerald, and will not be used by the Contractor, directly or indirectly, for any purpose other than for the benefit of Emerald, nor will the Contractor divulge or communicate, directly or indirectly, such verbally, in writing or otherwise to any party.\", \"The Contractor will not, either during the Term of this Agreement or for a period of five years thereafter, directly or indirectly, cause or permit any Confidential Information to be copied or reproduced unless expressly authorized to do so by the Company.\", \"The Contractor will promptly return to Emerald all written and electronic information, disks, tapes, memory devices and all copies of any of Confidential Information forthwith upon Emerald request, at any time, to do so.\"]}",
+  "usage": {
+    "completion_tokens": 277,
+    "prompt_tokens": 4964,
+    "total_tokens": 5241,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4961,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"the Professional agrees not to endorse, license or otherwise authorize the use of her name, likeness or image in connection with another company's golf clubs or golf-related clothing or equipment during the Term and for a period of two (2) years thereafter.\", \"The rights and obligations of the parties set forth in Exhibit A shall survive the termination or expiration of this endorsement agreement, regardless of cause or circumstances of the termination or expiration.\", \"The confidentiality and non-use obligations of Recipient will remain in effect after all work for the Company has been completed.\"]}",
+  "usage": {
+    "completion_tokens": 274,
+    "prompt_tokens": 3224,
+    "total_tokens": 3498,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 144,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3221,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

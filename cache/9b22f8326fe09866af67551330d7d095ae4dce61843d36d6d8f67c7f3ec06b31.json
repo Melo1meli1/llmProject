@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Franchisee hereby assigns to Franchisor, with Landlord's irrevocable and unconditional consent, all of Franchisee's rights, title and interests to and under the Lease upon any termination or non-renewal of the Franchise Agreement, but no such assignment will be effective unless and until: (a) the Franchise Agreement is terminated or expires without renewal; (b) Franchisor has exercised its Option to Purchase under the Franchise Agreement; and (c) Franchisor notifies the Franchisee and Landlord in writing that Franchisor assumes Franchisee's obligations under the Lease.\", \"Landlord and Franchisee hereby further acknowledge that if the Franchise Agreement expires (without renewal) or is terminated, Franchisee is obligated to take certain steps under the Franchise Agreement to de-identify the Premises as a \\\"Goosehead Insurance\\\" business (unless Franchisor takes an assignment of the lease, as provided above). Landlord agrees to permit Franchisor, its employees or agent, to enter the Premises and remove signs (both interior and exterior), décor and materials displaying any marks, designs or logos owned by Franchisor, provided that Franchisor will bear the expense of repairing any damage to the Premises as a result thereof.\", \"Landlord agrees that during and after the term of the Lease, it will not disclose or use Franchisor's Confidential Information (as defined below) for any purpose other than for the purpose of fulfilling Landlord's obligations under the Lease.\"]}",
+  "usage": {
+    "completion_tokens": 431,
+    "prompt_tokens": 5215,
+    "total_tokens": 5646,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5212,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

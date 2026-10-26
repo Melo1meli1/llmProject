@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"This Agreement becomes effective on the Effective Date and, unless earlier terminated as provided in this ARTICLE 11, shall continue until the five (5) year anniversary of the Effective Date (the \\\"Initial Term\\\"). This Agreement shall be automatically renewed for successive three (3) year terms thereafter (each a \\\"Renewal Term\\\" and together with the Initial Term, the \\\"Term\\\") until and unless (i) either Party provides the other Party written notice of non-renewal no later than ninety (90) days prior the end of the Initial Term or any Renewal Term or (ii) earlier terminated as provided in this ARTICLE 11.\"]}",
+  "usage": {
+    "completion_tokens": 182,
+    "prompt_tokens": 4295,
+    "total_tokens": 4477,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 32,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4292,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

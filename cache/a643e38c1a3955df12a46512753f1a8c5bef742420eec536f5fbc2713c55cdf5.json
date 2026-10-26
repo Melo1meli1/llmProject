@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"HERC shall immediately discontinue use of the HSI (HERTZ) Foreign ERB Trademarks upon expiration of the Interim Period, or the earlier termination of this Agreement or the Trademark, Trade Name, Domain and Related Rights License Agreement.\", \"HERC shall immediately discontinue use of the HSI (HERTZ) US ERB Trademarks upon expiration of the Interim Period, or the earlier termination of this Agreement or the Trademark, Trade Name, Domain and Related Rights License Agreement.\", \"HERC shall immediately discontinue use of the HERC (HERTZ) US ERB Trademarks and abandon or voluntarily withdraw or cancel any applications or registrations therefor upon expiration of the Interim Period as more fully set forth in the Coexistence Agreement attached hereto as Exhibit C and/or the earlier termination of this Agreement or the Trademark, Trade Name, Domain and Related Rights License Agreement.\", \"HERC shall immediately discontinue use of the THC (HERTZ) ERB Domains upon the expiration of the Interim Period or the earlier termination of this Agreement or the Trademark, Trade Name, Domain and Related Rights License Agreement. HERC shall make certain that no THC (HERTZ) ERB Domains resolve to a website upon the expiration of the Interim Period or the earlier termination of this Agreement or the Trademark, Trade Name, Domain and Related Rights License Agreement.\", \"HERC shall immediately discontinue use of the mark/name as part of its company name upon expiration of the Interim Period or the earlier termination of this Agreement or the Trademark, Trade Name, Domain and Related Rights License Agreement. HERC shall take all steps to change the company name so as to not to include the mark/name HERTZ by the expiration of the Interim Period.\", \"HERC shall immediately discontinue use of the Other Intellectual Property upon expiration of the Interim Period, or the earlier termination of this Agreement or the Trademark, Trade Name, Domain and Related Rights License Agreement.\", \"such license and sublicense shall not expire before the later of the expiration of the Interim Period or the final determination or resolution of the action pending as T- 409-16 in the Federal Court of Canada (including any appeals thereof).\", \"This provision shall survive the expiration or earlier termination of this Agreement and the Trademark, Trade Name, Domain and Related Rights License Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 481,
+    "prompt_tokens": 5668,
+    "total_tokens": 6149,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5665,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

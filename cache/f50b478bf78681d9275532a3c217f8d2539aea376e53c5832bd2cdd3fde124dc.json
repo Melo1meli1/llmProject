@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Liability for or recourse under or upon any undertaking of FASC pursuant to the power or authority granted to FASC under this Limited Power of Attorney under any rule of law, statute or constitution or by the enforcement of any assessment or penalty or by legal or equitable proceedings or otherwise shall be limited only to the assets of the Fund on whose behalf FASC was acting pursuant to the authority granted hereunder.\"]}",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 2893,
+    "total_tokens": 2992,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2890,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

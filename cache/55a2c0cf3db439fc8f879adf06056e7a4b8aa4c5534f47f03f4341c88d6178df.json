@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Raw data, documentation, batch records, source documents, product disposition records and reports (collectively, \\\"Documentation\\\") shall be retained by SCIEN for a minimum period of two (2) years after termination or expiration of the Specialty Distributor Purchase and Service Agreement between HEMISPHERX and SCIEN. SCIEN shall, upon written receipt of a written request from HEMISPHERX, finish such Documentation in a format reasonably acceptable to HEMISPHERX with thirty (30) days of receipt of such request. In this case, the Documentation will be shipped to the Quality Assurance Manager named in this Agreement (see Key Contact List, Attachment 1).\"]}",
+  "usage": {
+    "completion_tokens": 246,
+    "prompt_tokens": 5013,
+    "total_tokens": 5259,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5010,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

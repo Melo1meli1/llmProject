@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Save the event of gross negligence or willful misconduct, pursuant to the provisions in this numeral 11.2, the responsibility of ECOPETROL under the Contract hereof under no circumstance shall exceed seventy five per cent (75%) of the value of the Crude lost or damaged by causes attributable to ECOPETROL.\"]}",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 4646,
+    "total_tokens": 4730,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4643,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

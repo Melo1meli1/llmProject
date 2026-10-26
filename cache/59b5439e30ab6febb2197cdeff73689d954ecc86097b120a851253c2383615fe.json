@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"It is expressly agreed that Capital Resources shall not be liable for any loss, liability, claim, damage or expense or be required to contribute any amount which in the aggregate exceeds the amount paid (excluding reimbursable expenses) to Capital Resources under this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 3908,
+    "total_tokens": 4009,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 28,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3905,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

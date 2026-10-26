@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"in no case shall the amount of expenses recoverable under this provision exceed $20MM.\", \"The payment of a Termination Fee to the Agent under Section 10.4(c) shall be deemed to constitute the exclusive remedy for any damages resulting out of the termination of this Agreement by Monsanto or the successor to the Roundup Business pursuant to Section 10.4(c)\"]}",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4312,
+    "total_tokens": 4405,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4309,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

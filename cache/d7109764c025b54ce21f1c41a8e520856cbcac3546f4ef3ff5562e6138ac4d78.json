@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"While this Agreement is in effect and thereafter, the Customer shall keep confidential and protect from disclosure to others any materials designated as containing information confidential or proprietary to MMMW and/or its licensor. On the ending or cancellation of this Agreement any proprietary information shall be destroyed or returned to MMMW.\"]}",
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 3955,
+    "total_tokens": 4031,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3952,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

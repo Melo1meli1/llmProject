@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"if Company incurs any expenses, damages or other liabilities (including but not limited to reasonable attorney's fees) in connection with the performance or nonperformance of any term or provision of this Agreement, NFLA's liability to Company shall not exceed the remuneration, excluding reimbursement of expenses, actually paid to NFLA by Company.\"]}",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 2417,
+    "total_tokens": 2496,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2414,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

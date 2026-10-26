@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Where this Agreement has expired or has been terminated for any reason other than by PPI in accordance with Section 16.1 or EKR in accordance with Section 16.3(b), EKR and its Affiliates and sub-distributors and sales agents shall be entitled to continue to sell existing stocks of the Product in the Territory for a period of not longer than 12 months following the date of termination, provided that, EKR continues to make any Royalty payments due to PPI in respect of such sales in accordance with the provisions of this Agreement.\", \"In the event that this Agreement is terminated by PPI in accordance with Section 16.1 or EKR in accordance with Section 16.3(b), EKR and its Affiliates, sub-distributors and sub-licensees shall be entitled to continue to sell existing stocks of the Product in the Territory for so long as PPI deems necessary to ensure that sale of the Product is not disrupted provided that EKR and its Affiliates shall cease such sale immediately upon notification from PPI and in any event EKR shall not so sell for a period of longer than three (3) months following the date of termination.\", \"In the event that EKR is entitled to exercise its right to terminate this Agreement pursuant to Section 16.1(a), in addition to the right to terminate as provided therein and any other remedies EKR may have hereunder, PPI shall assist EKR in the transfer of the manufacture of the Products, including the Specifications from PPI to EKR or EKR's designee.\", \"In addition, PPI shall during the remainder of the Term and for a period of up to [**] ([**]) years thereafter continue to manufacture and supply the Product to EKR at cost without mark-up until such time that EKR can secure an FDA approved manufacturing facility for the Product.\", \"PPI shall provide such advice as necessary for EKR to arrange for an alternative manufacturer and shall provide EKR with access to all relevant PPI Know-How, and any other information necessary for EKR to transfer such manufacturing to an alternate manufacturer.\", \"In addition, (i) PPI shall transfer to EKR any Marketing Authorizations held by PPI and (ii) the Trademark license granted under Section 2.3 shall continue in effect following such termination on a perpetual basis and EKR shall be responsible for all costs associated with the maintenance of such Trademark.\"]}",
+  "usage": {
+    "completion_tokens": 510,
+    "prompt_tokens": 5301,
+    "total_tokens": 5811,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5298,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

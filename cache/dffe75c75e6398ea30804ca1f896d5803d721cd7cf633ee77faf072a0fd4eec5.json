@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Any use of the Licensed Marks will bear the trademark and/or copyright notices required by NFLA to facilitate its trademark protection program and will be a \\\"work made for hire\\\" for NFLA.\"]}",
+  "usage": {
+    "completion_tokens": 211,
+    "prompt_tokens": 5178,
+    "total_tokens": 5389,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 149,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5175,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

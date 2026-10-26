@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Notwithstanding any other provision contained in this Agreement, each party's maximum aggregate liability to the other party for any and all causes whatsoever, and each party's remedy, regardless of the form of action, whether in contract or tort, including negligence, and whether or not pursuant to the indemnification provisions contained in Section 12 and whether or not such party is notified of the possibility of damage to the other party, shall be limited to $[* * *].\"]}",
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 4349,
+    "total_tokens": 4458,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4346,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

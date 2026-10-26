@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Termination or expiration of this Agreement shall be without prejudice to any rights that shall have accrued to the benefit of any Party prior to such termination or expiration. Notwithstanding any expiration or termination of this Agreement, such expiration or termination shall not relieve any Party from obligations which are expressly or by implication intended to survive expiration or termination, including Sections 2.3, , 4.4.2, 5.7, 5.9, 6.3.6, 6.3.5, 11.1, 11.2, 11.3, 11.4, 12.4, 12.5 and 12.6, Articles 7, 8, 9 and 13 (to the extent applicable to implementation of the survival of the preceding Sections and Articles) and, solely as it relates to the last Calendar Quarter, Sections 6.1, 6.2 and 6.3, which shall survive and be in full force and effect.\"]}",
+  "usage": {
+    "completion_tokens": 224,
+    "prompt_tokens": 5482,
+    "total_tokens": 5706,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5479,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

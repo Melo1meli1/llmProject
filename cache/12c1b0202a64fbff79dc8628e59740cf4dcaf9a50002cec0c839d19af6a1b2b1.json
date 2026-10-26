@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon any such termination, Contractor will be paid all fees and expenses that have been incurred or earned in connection with the performance of the Services through the effective date of such termination.\", \"Contractor shall provide to Company, and hereby assigns to Company, all right, title and interest to any Works in progress.\", \"In the event of termination under either section 6(a) or 6(b) of this agreement, Contractor shall be paid all fees and expenses that have been incurred or earned in connection with the performance of the Services through the effective date of such termination. Upon receipt of final payment Contractor shall provide to Company, and will assigns to Company, all right, title and interest to any Works in progress.\"]}",
+  "usage": {
+    "completion_tokens": 160,
+    "prompt_tokens": 4771,
+    "total_tokens": 4931,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4768,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

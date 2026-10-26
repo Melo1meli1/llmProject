@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"11.9 The undertakings and other provisions of this Clause shall continue in force without limit in time and shall survive termination of this Agreement, but shall cease to apply to information which may enter the public domain otherwise than through the unauthorised disclosure by or fault of the recipient of the Confidential Information or by a person with whom such recipient is connected in any way.\", \"15.3 On termination of this Agreement: 15.3.1 each Party shall ensure that all documentation and all information (including all copies of such information stored in any written or electronic form) which constitutes Confidential Information shall be returned to the other Party forthwith; and 15.3.2 each Party shall immediately cease to use the other Party's Intellectual Property Rights and shall destroy or on request return to the other all materials in its possession bearing the other Party's trade marks, logos, brand name and other intellectual property.\", \"15.4 The termination of this Agreement for any reason whatsoever, or its expiry: 15.4.1 shall not affect any provision of this Agreement which by its very nature should survive or operate in the event of the termination of this Agreement; and 15.4.2 shall not prejudice or affect the rights of either Party against the other in respect of any breach of this Agreement or in respect of any monies payable by one Party to another in respect of any period prior to termination.\"]}",
+  "usage": {
+    "completion_tokens": 299,
+    "prompt_tokens": 5249,
+    "total_tokens": 5548,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5246,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

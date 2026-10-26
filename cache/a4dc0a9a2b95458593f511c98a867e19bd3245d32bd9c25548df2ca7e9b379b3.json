@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The term of this Agreement shall commence on January 10th, 2019 and shall expire on the day that is twenty-four (24) months from that date (the \\\"Term of Engagement\\\") unless terminated earlier in accordance with this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 4106,
+    "total_tokens": 4173,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4103,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Services through the effective date of such termination. Upon receipt of final payment Contractor shall provide to Company, and will assigns to Company, all right, title and interest to any Works in progress.\"]}",
+  "usage": {
+    "completion_tokens": 232,
+    "prompt_tokens": 1881,
+    "total_tokens": 2113,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 170,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 1878,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

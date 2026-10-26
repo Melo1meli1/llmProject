@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The final amount of the Contract shall correspond to the total of the actual invoicing by ECOPETROL and shall be established upon termination and final liquidation of the same.\", \"ECOPETROL may suspend the provision of the Service or terminate the Contract in advance, when the Bond is not in force, without this waiving the SENDER from its payment obligations and all other obligations derived from the Contract hereof.\"]}",
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 5571,
+    "total_tokens": 5672,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5568,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

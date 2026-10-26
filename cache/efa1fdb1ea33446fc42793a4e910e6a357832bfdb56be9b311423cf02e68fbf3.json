@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"prior to, on and after the Effective Time, to take, or cause to be taken, all actions, and to do, or cause to be done, all things, reasonably necessary, proper or advisable under applicable Laws, regulations and agreements to consummate and make effective the transactions contemplated by this Agreement.\", \"prior to, on and after the Effective Time, each Party hereto shall cooperate with the other Party, and without any further consideration, but at the expense of the requesting Party, to execute and deliver, or use its reasonable best efforts to cause to be executed and delivered, all instruments, including instruments of conveyance, assignment and transfer, and to make all filings with, and to obtain all Approvals or Notifications of, any Governmental Authority or any other Person under any permit, license, agreement, indenture or other instrument (including any consents or Governmental Approvals), and to take all such other actions as such Party may reasonably be requested to take by the other Party from time to time, consistent with the terms of this Agreement, in order to effectuate the provisions and purposes of this Agreement and the transfers of the SpinCo IP Assets and the assignment and assumption of the SpinCo IP Liabilities and the other transactions contemplated hereby and thereby.\"]}",
+  "usage": {
+    "completion_tokens": 272,
+    "prompt_tokens": 2869,
+    "total_tokens": 3141,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2866,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"9.5. Two Year Limitation. Except for claims under Sections 12.4 [Indemnification by PaperExchange] and 12.5 [Indemnification by VerticalNet] hereof, neither party may bring a claim or action regardless of form, arising out of or related to this Agreement, including any claim of fraud or misrepresentation, more than two years after the cause of action accrues or becomes known, whichever is later.\"]}",
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 4177,
+    "total_tokens": 4284,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4174,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

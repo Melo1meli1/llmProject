@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL, OR INDIRECT DAMAGES ARISING FROM OR RELATING TO ANY BREACH OF THIS AGREEMENT, REGARDLESS OF ANY NOTICE OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING THE FOREGOING, NOTHING IN THIS SECTION IS INTENDED TO LIMIT OR RESTRICT THE DAMAGES AVAILABLE FOR BREACHES OF SECTION 3.1 (GRANT OF RIGHTS), SECTION 5 (CONFIDENTIALITY PROVISIONS), OR SECTIONS 8.1 AND 8.2 (OWNERSHIP AND LICENSE).\"]}",
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 3612,
+    "total_tokens": 3748,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3609,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"\\\"Contract Period\\\" shall mean that period of time of three (3) years commencing on November 1st, 2017 and concluding November 2nd, 2020, unless terminated sooner or extended as provided in this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 4419,
+    "total_tokens": 4483,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4416,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

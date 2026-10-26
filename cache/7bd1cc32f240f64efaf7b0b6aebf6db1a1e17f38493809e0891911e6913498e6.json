@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Integrity hereby grants to TL the right to use its \\\"Integrity Music\\\" name and logo (\\\"the Integrity Trademarks') in connection with the products produced during the Term of this Agreement for as long as the parties continue to sell and distribute such products at no additional cost to TL\", \"TL hereby grants to Integrity the right to use its \\\"TL Music\\\" name and logo (\\\"the TL Trademarks\\\") in connection with the products produced during the Term of this Agreement for as long as the parties continue to sell and distribute such products at no additional cost to Integrity\"]}",
+  "usage": {
+    "completion_tokens": 323,
+    "prompt_tokens": 5246,
+    "total_tokens": 5569,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 185,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5243,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

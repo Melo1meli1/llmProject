@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"of this Agreement for any reason, either Party may request in writing, and the other Party shall either, with respect to Confidential Information (in the event of termination of this Agreement with respect to [***] Terminated Territories but not in its entirety, solely to the extent relating specifically and exclusively to such Terminated Territories) to which such other Party does not retain rights under the surviving provisions of this Agreement: (a) as soon as reasonably practicable, destroy all copies of such Confidential Information in the possession of the other Party and confirm such destruction in writing to the requesting Party; or (b) as soon as reasonably practicable, deliver to the requesting Party, at such other Party's expense, all copies of such Confidential Information in the possession of such other Party; provided that such other Party shall be permitted to retain one (1) copy of such Confidential Information for the sole purpose of performing any continuing obligations or exercising any surviving rights hereunder, as required by Applicable Law, or for litigation or archival purposes.\"]}",
+  "usage": {
+    "completion_tokens": 221,
+    "prompt_tokens": 5338,
+    "total_tokens": 5559,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5335,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

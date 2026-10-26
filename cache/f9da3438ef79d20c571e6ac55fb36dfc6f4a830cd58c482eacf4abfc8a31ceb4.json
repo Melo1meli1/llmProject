@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The same reimbursement obligation shall apply at the end of the Term for materials, parts and components then available at Philips. Such materials, parts and/or components shall be delivered to Customer [Redacted - Commercially Sensitive]. Upon payment the title of the materials, parts and/or components shall transfer to Customer.\",\"If Philips causes the Agreement to be terminated, directly or indirectly, then Philips undertakes to sell all Products which have been ordered by Customer but not yet delivered at the date of termination upon the terms and conditions of this Agreement.\",\"On termination or expiry of this Agreement, each Party shall promptly: (a) return to the other Party all equipment, materials and property belonging to the other Party that the other Party had supplied to the other Party (or its Affiliates) in connection with the supply and purchase of the Products under this Agreement; (b) cooperate with the other Party to arrange for the sale and purchase of the materials, parts and components as referred to in clause 3.4; (c) return to the other Party all documents and materials (and any copies) containing the other party's Confidential Information; (d) erase all the other party's Confidential Information from its computer systems (to the extent possible); and (e) on request, certify in writing to the othe\"]}",
+  "usage": {
+    "completion_tokens": 395,
+    "prompt_tokens": 5027,
+    "total_tokens": 5422,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5024,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

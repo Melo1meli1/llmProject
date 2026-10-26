@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"during the term of the Agreement, and thereafter for a period of five (5) years after the termination of the Agreement (such termination being termination by IMPCO due to default by MINDA/MIL), MIL/MINDA shall not, directly or indirectly, either alone or collectively or through any of its associates, affiliates, including subsidiaries or any entity owned or controlled by it enter into another joint venture agreement or marketing/distribution agreement with any company or persons in respect of the marketing and sale of goods similar to the Products in the Territory. by using the Technical Know-How\"]}",
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 5394,
+    "total_tokens": 5528,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5391,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

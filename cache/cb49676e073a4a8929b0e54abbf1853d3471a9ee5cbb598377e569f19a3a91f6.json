@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"During and after the Term, neither Party shall register, use or claim ownership or other rights in any logo, trade name, brand name or trademark of the other Party in existence during the Term (nor any logo, trade name, brand name or trademark confusingly similar to any logo, trade name, brand name or trademark of the other Party in existence during the Term), nor assist anyone else to do so, nor make or assist in any challenge to any logo, trade name, brand name or trademark of the other Party in existence during the Term.\"]}",
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 5193,
+    "total_tokens": 5321,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5190,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

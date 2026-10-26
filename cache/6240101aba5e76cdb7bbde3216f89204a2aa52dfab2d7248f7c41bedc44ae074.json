@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The parties hereby agree that the copyright in the Product sound recording compilation will be jointly registered by Integrity in the names of Integrity and TL.\", \"TL will trademark the series name in joint names of TL and Integrity.\"]}",
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 5147,
+    "total_tokens": 5207,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5144,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

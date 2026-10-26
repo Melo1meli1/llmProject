@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The term of this Agreement (the \\\"Term\\\") shall commence on the Effective Date and terminate at the end of the Exclusivity Period (i.e., a three (3) year period commencing on the Effective Date).\"]}",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 4306,
+    "total_tokens": 4365,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4303,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

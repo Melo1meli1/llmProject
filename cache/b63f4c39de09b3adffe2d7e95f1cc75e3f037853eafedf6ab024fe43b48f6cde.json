@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The rights and obligations of the Parties under Section 6.4 (Record Retention), Section 6.5 (Limitation of Liability), Section 6.6 (Other Agreements Providing for Exchange of Information), Section 6.7 (Production of Witnesses; Records; Cooperation), Section 6.8 (Privileged Matters), Section 6.9 (Confidentiality), and Section 6.10 (Protective Arrangements) of the Separation Agreement are hereby incorporated into this Section 5 as if fully set forth herein.\"]}",
+  "usage": {
+    "completion_tokens": 222,
+    "prompt_tokens": 1944,
+    "total_tokens": 2166,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 1941,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

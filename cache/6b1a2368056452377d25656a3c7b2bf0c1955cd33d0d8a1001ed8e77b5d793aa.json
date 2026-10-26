@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Licensee shall not, during the term of this Agreement, or thereafter:\", \"Licensee shall provide Licensor with such reasonable assistance as Licensor may require in obtaining any protection of Licensor's rights to the Trademarks at no expense to Licensor.\", \"Upon request, Licensee shall transfer to Licensor any rights which accrue to Licensee arising from its use of the Trademarks or this Agreement.\", \"Materials not meeting the quality or other requirements set forth in this Agreement shall not be in any way promoted in connection with the Trademarks, and all references to the Trademarks on labels, product literature, promotional material, etc., shall be removed at Licensee's expense.\", \"Notwithstanding termination of the Agreement, Sections 1(a)-1(f) and 4-6 of this Exhibit shall survive termination of the Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 189,
+    "prompt_tokens": 2888,
+    "total_tokens": 3077,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2885,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

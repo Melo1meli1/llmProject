@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"If Party B obtains any Intellectual Property Right in respect of the Program Content during its use of the same, Party B shall notify Party A and, upon its request in writing, sign all documents and take all actions required to assign such Intellectual Property Right to Party A, and ensure the Intellectual Property Right so obtained by Party A is legitimate, complete, and free from any encumbrance.\"]}",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 5103,
+    "total_tokens": 5198,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5100,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

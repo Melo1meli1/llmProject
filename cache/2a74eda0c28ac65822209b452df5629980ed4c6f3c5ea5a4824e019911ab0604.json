@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The Parties shall make the liquidation of the Contract by mutual agreement within three (3) months following the expiration of the date of termination of the Contract.\",\"Upon liquidation of the Contract, the SENDER shall pay ECOPETROL any Fees or any amount of money owed or resulting from the final liquidation of the same, after making any deduction that may be applicable.\",\"The termination in advance of this Contract shall not release the SENDER from the obligations that survive the termination of the Contract, especially that related with the payment of the Fee pending of payment and the payment of the penal clause. In the event of termination in advance of the Contract, the SENDER shall have a sixty (60) day term following the issuance of the corresponding invoice by ECOPETROL to pay the amount of any overdue fees.\",\"In any case, upon expiration of the term of execution of the Contract, the SENDER shall return all original Information and destroy or make to be destroyed all copies and reproductions (in any manner, including but without being limited to electronic means) in its possession and in possession of persons to whom it was disclosed pursuant with the Contract hereof.\"]}",
+  "usage": {
+    "completion_tokens": 384,
+    "prompt_tokens": 5217,
+    "total_tokens": 5601,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 133,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5214,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

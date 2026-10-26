@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"9.5 Limitation of Liability. EXCEPT (I) IN THE EVENT OF THE FRAUD OF A PARTY OR OF A PARTY'S BREACH OF ITS OBLIGATIONS UNDER ARTICLE 7 (INTELLECTUAL PROPERTY) OR ARTICLE 10 (CONFIDENTIALITY), OR (II) TO THE EXTENT ANY SUCH DAMAGES ARE REQUIRED TO BE PAID TO A THIRD PARTY AS PART OF A CLAIM FOR WHICH A PARTY PROVIDES INDEMNIFICATION UNDER THIS ARTICLE 9, NEITHER PARTY NOR ANY OF ITS AFFILIATES OR SUBLICENSEES SHALL BE LIABLE TO THE OTHER IN CONTRACT, TORT, NEGLIGENCE, BREACH OF STATUTORY DUTY OR OTHERWISE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE, REMOTE, EXEMPLARY OR SPECULATIVE DAMAGES OR OTHER DAMAGES THAT ARE NOT PROBABLE AND REASONABLY FO\"]}",
+  "usage": {
+    "completion_tokens": 192,
+    "prompt_tokens": 4382,
+    "total_tokens": 4574,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4379,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

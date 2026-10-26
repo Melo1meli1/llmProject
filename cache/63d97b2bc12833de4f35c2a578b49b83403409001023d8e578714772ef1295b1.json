@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon termination of this Agreement for any reason, the Agent shall not continue to represent itself as Monsanto's authorized agent to deal in Roundup Products, and shall remove, so far as practical, any printed material relating to such products from its salesperson's manuals and shall discontinue the use of any display material on or about the Agent's premises containing any reference to Roundup Products.\", \"To the extent not otherwise provided herein, upon termination of this Agreement, the Agent shall immediately deliver to Monsanto all records, books, and other property of Monsanto.\"]}",
+  "usage": {
+    "completion_tokens": 210,
+    "prompt_tokens": 5149,
+    "total_tokens": 5359,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5146,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

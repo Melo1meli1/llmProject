@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"You agree that all other data that you create or collect in connection with the System, and in connection with your operation of the Franchised Business (including customer lists and transaction data), is and will be owned exclusively by us during the term of, and after termination or expiration of, this Agreement.\", \"You agree to transfer to us all data (in the digital machine-readable format that we specify, and/or printed copies, and/or originals) promptly upon our request when made, whether periodically during the term of this Agreement, upon termination and/or expiration of this Agreement, any transfer of an interest in you, and/or a transfer of the Franchised Business.\"]}",
+  "usage": {
+    "completion_tokens": 227,
+    "prompt_tokens": 5084,
+    "total_tokens": 5311,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5081,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

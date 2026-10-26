@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In addition, Developer covenants that, except as otherwise approved in writing by the Franchisor, Developer shall not, for a continuous, uninterrupted period commencing upon the expiration, termination or assignment of this Agreement, regardless of the cause for termination, and continuing for two (2) years thereafter, either directly or indirectly, for itself, or through or on behalf of, or in conjunction with any person, partnership, corporation or other entity, own, operate, control or have any financial interest in any Competitive Business which is located or has outlets or restaurant units within the Territory.\"]}",
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 5129,
+    "total_tokens": 5262,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5126,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

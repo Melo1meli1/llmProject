@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"All claims for any cause whatsoever, whether based in contract, negligence or other tort, strict liability, breach of warranty or otherwise, shall be deemed waived unconditionally and absolutely unless Seller receives written notice of such claim not later than one hundred fifty (150) days after Buyer's receipt of Product as to which such claim is made.\", \"NOTWITHSTANDING THE ABOVE AND REGARDLESS OF THE CIRCUMSTANCES, SELLER'S TOTAL LIABILITY TO BUYER FOR ANY AND ALL CLAIMS, LOSSES OR DAMAGES ARISING OUT OF ANY CAUSE WHATSOEVER, WHETHER BASED IN CONTRACT, NEGLIGENCE OR OTHER TORT, STRICT LIABILITY, BREACH OF WARRANTY OR OTHERWISE, SHALL IN NO EVENT EXCEED THE PURCHASE PRICE OF PRODUCT IN RESPECT TO WHICH SUCH CAUSE AROSE.\", \"Any cause of action that Buyer may have against Seller and which may arise in connection with the transaction(s) specified herein must be commenced within two (2) years after the cause of action has accrued.\"]}",
+  "usage": {
+    "completion_tokens": 218,
+    "prompt_tokens": 4237,
+    "total_tokens": 4455,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4234,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

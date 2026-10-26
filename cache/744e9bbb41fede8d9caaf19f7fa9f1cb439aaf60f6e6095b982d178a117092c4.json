@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"On termination or expiration of this Agreement, the HOF Entities shall cease all use of the Constellation Marks as soon as practicable, but in any event within thirty (30) days unless the particular media which has been approved requires a longer lead time, but in no event longer than one hundred eighty (180) days.\", \"In the event of a termination of this Agreement by either Party for any reason, or upon the expiration of the Term, the Parties agree that all representations and warranties made under this Agreement and the indemnification provisions set forth in Section 5.2 for any claims, demands, causes of action, suits or judgments by third parties or losses, liabilities, costs or expenses which may arise on or before the effective date of termination shall survive.\", \"In the event of any termination of this Agreement, this Agreement shall forthwith become wholly void and of no further force and effect and there shall be no liability on the part of the HOF Entities (or either of them) or Constellation, except that the provisions of Section 3.3(a), this Section 4.2(d), Section 5.2 (with respect to the period prior to termination) and Article 6 (other than Section 6.7 and Section 6.9) shall survive any such termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 286,
+    "prompt_tokens": 5317,
+    "total_tokens": 5603,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5314,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

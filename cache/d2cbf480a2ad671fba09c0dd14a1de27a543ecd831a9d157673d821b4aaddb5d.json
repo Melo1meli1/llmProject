@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"However, in no event shall termination of this Agreement by MediaNet Group Technologies relieve it of the obligation to remit payment to Reseller for sales or Portals, Hosting Services or other products and services to or through Buyers contracted by Reseller prior to such termination. The obligation to remit payment cease 30 days after termination of this Agreement.\",\"In the event of a Terminating Event, involving Reseller, other than for an event involving fraud or dishonesty by Reseller, MediaNet Group Technologies shall be entitled to offset payments due under this Agreement against its costs incurred as a result of the Terminating Event, but shall remain obligated to remit all payments due under this agreement as a direct result of the activities of Reseller prior to the effective date of termination.\",\"Upon the expiration or termination of this Agreement:\",\"Each party shall, within 30 days of such expiration or termination return to other party or destroy all Confidential Information and all other material received from such other party.\",\"All rights granted by Reseller hereunder to MediaNet Group Technologies shall terminate. All rights granted by MediaNet Group Technologies hereunder to Reseller shall terminate, subject to the continuing obligation of MediaNet Group Technologies to remit payment pursuant to the provisions of Section 8.\",\"In the event of expiration or termination of this Agreement, there shall be no use or disclosure by the Receiving Party of any Confidential Information of the Disclosing Party, and the Receiving Party shall not develop any software, devices, components or assemblies utilizing the Disclosing Party's Intellectual Property.\",\"At no time during or after the Term of this Agreement shall a party challenge or assist others to challenge the other party's Intellectual Property or the registration thereof or attempt to register any trademarks, marks or trade names confusingly similar to those or the other party.\",\"Each party agrees that, during the Term of this Agreement and for a period of five (5) years thereafter, neither will make written or oral comments regarding the other that are negative, disparaging, tend to bring the other into disrepute or call into question the business acumen, character, honesty or integrity of the other.\"]}",
+  "usage": {
+    "completion_tokens": 612,
+    "prompt_tokens": 5063,
+    "total_tokens": 5675,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 169,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5060,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon termination of this Agreement pursuant to this ARTICLE 11, for all Customer Contracts then in force in the Territory, MMT shall either (i) promptly exercise its rights to terminate such Customer Contracts pursuant to termination rights accruing from the occurrence of a termination of this Agreement or otherwise or (ii) upon timely written request of SIGA, use Commercially Reasonable Efforts to assign any Customer Contract identified in such notice then in force to SIGA.\", \"SIGA shall be solely responsible for all costs and expenses incurred under or in connection with the assignment of a Customer Contract to SIGA pursuant to clause (ii) of this Section 11.6.\", \"All costs, penalties or other expenses incurred under or in connection with any Customer Contract as a result of MMT's termination of a Customer Contract pursuant to clause (i) of this Section 11.6 shall be the responsibility of the Party terminating this Agreement, provided that in the event of a termination under Section 11.2, such costs shall be the responsibility of the non-terminating Party.\", \"Termination or expiration of this Agreement will not affect rights or obligations of the Parties under this Agreement that have accrued before the date of termination or expiration, including any accrued obligations relating to the delivery of the Product pursuant to ARTICLE 5.\", \"Notwithstanding anything to the contrary, the following provisions will survive any expiration or termination of this Agreement: Section 5.6 (Adverse Event Reporting), Section 7.1 (Ownership of SIGA Intellectual Property), ARTICLE 1 (Definitions), ARTICLE 6 (Payments) (solely with respect to accrued payment obligations as of the date of termination or expiration of this Agreement), ARTICLE 9 (Indemnification), ARTICLE 10 (Confidentiality), ARTICLE 11 (Term and Termination), ARTICLE 12 (Dispute Resolution) and ARTICLE 13 (Miscellaneous).\"]}",
+  "usage": {
+    "completion_tokens": 398,
+    "prompt_tokens": 5153,
+    "total_tokens": 5551,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5150,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

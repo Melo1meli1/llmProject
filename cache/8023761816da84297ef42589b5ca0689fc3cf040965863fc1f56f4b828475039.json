@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"M&I's total liability under this Agreement shall not exceed payments made to M&I by Customer under this Agreement during the three (3) months prior to the event.\", \"No lawsuit or other action may be brought by either party hereto, or on any claim or controversy based upon or arising in any way out of this Agreement be brought, after one (1) year from the date on which the cause of action arose; provided, however, the foregoing limitation shall not apply to the collection of any amounts due under this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 4024,
+    "total_tokens": 4148,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4021,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"All inventions, ideas, creations, discoveries, computer programs, works of authorship, data, developments, technology, designs, innovations and improvements (whether or not patentable and whether or not copyrightable) which are made, conceived, reduced to practice, created, written, designed or developed by the Consultant, solely or jointly with others or under Consultant's direction and whether during normal business hours or otherwise, (i) during the Consultation Period if related to the business of the Company or (ii) during or after the Consultation Period if resulting or directly derived from Proprietary Information (as defined above) (collectively under clauses (i) and (ii), \\\"Inventions\\\"), shall be the sole property of the Company. The Consultant hereby assigns to the Company all Inventions and any and all related patents, copyrights, trademarks, trade names, and other industrial and intellectual property rights and applications therefor, in the United States and elsewhere and appoints any officer of the Company as Consultant's duly authorized attorney to execute, file, prosecute and protect the same before any government agency, court or authority.\",\"The Consultant acknowledges that each original work of authorship which is made by the Consultant (solely or jointly with others) within the scope of this Agreement and which is protectable by copyright is a \\\"work made for hire,\\\" as that term is defined in the United States Copyright Act.\"]}",
+  "usage": {
+    "completion_tokens": 294,
+    "prompt_tokens": 4718,
+    "total_tokens": 5012,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4715,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

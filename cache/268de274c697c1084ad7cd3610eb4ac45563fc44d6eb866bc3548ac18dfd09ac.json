@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"On termination or expiration of this Agreement, Constellation shall cease all use of the HOF Entity Marks as soon as practicable, but in any event within thirty (30) days unless the particular media which has been approved requires a longer lead time, but in no event longer than ninety (90) days.\", \"Each licensee Party acknowledges, understands, and agrees that it shall not perform, do, or cause any act to be done, or fail to take any action, during or after the Term, or assist any third party in performing, doing, and/or causing any act to be done, which would in any way or manner be detrimental to, injure or impair, in any way or to any degree:\"]}",
+  "usage": {
+    "completion_tokens": 293,
+    "prompt_tokens": 5162,
+    "total_tokens": 5455,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 123,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5159,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"this AGREEMENT shall be for a term of thirty (30) years from the Effective Date, which shall automatically renew from year-to-year thereafter unless terminated by a Party upon sixty (60) days' written notice after the end of the term.\"]}",
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 5136,
+    "total_tokens": 5203,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5133,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

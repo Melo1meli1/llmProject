@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon termination or expiration, no further use may be made of the Association Marks, or other proprietary property or materials provided, developed or intended for use in connection with the Sponsorship, without prior written authorization, other than as set out in this section.\", \"All other originals and copies of the Association Marks (whether in printed, electronic, recorded, and/or other tangible form) shall be discarded or destroyed within five (5) business days.\", \"The obligations under sections 8, 9, 10, and 11 and 19 and this section 14 shall survive the termination or expiration of this Agreement.\", \"The provisions of this Agreement shall be maintained by the Parties as confidential during the Term and thereafter.\", \"Any and all warranties, provisions, rights and obligations of the Parties herein described and agreed to be performed subsequent to the termination of this Agreement, including but not limited to obligations respecting confidentiality and indemnification, shall survive the termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 210,
+    "prompt_tokens": 4946,
+    "total_tokens": 5156,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4943,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

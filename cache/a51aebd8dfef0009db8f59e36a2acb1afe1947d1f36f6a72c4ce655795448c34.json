@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"This Agreement shall take effect from the Effective Date and continue in full force and effect for twenty (20) years thereafter, unless otherwise terminated in accordance with Clause 8.\",\"This Agreement may be renewed for an additional term of ten (10) years by notice in writing given by XFN to CEIS at the expiry of the Term, for a consideration to be mutually agreed.\"]}",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 3677,
+    "total_tokens": 3768,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3674,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"5.4. Notwithstanding any other provision of this Agreement, each party's total liability in respect of damages under this Agreement, any regulation or common law shall be limited to the sum of all amounts received from Client in terms of this Agreement; provided, however, that this limitation shall not apply with respect to any claims arising out of or relating to clause 6 (Inventions and Proprietary Information), indemnification obligations or damages arising from a party's gross negligence or willful misconduct.\", \"12.5 Any action of any kind by either party arising out of this Agreement must be commenced within five (5) years from the date the right, claim, demand, or cause of action shall first arise.\"]}",
+  "usage": {
+    "completion_tokens": 160,
+    "prompt_tokens": 3576,
+    "total_tokens": 3736,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3573,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

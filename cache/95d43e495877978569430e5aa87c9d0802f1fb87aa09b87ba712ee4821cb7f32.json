@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"MMMW's entire liability and the Customer's sole and exclusive remedy for claims related to or arising out of this Agreement for any cause and regardless of the form of action, whether in contract or tort, including negligence and strict liability, shall be the remedies set forth in Section 8, provided that if MMMW fails after repeated attempts to perform those remedies, MMMW's entire liability shall be the Customer's actual, direct damages such as would be provided in a court of law, not to exceed the charge for service for the item that caused the damages.\",\"No action, regardless of form, related to, or arising out of this Agreement may be brought by either party more than two (2) years after the cause of action has arisen.\"]}",
+  "usage": {
+    "completion_tokens": 164,
+    "prompt_tokens": 3030,
+    "total_tokens": 3194,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3027,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

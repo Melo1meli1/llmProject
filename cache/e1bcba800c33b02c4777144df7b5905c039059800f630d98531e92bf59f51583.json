@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Notwithstanding any provision in the Agreement to the contrary, M&I's liability to Customer for claims arising out of the ACH Services performed by M&I pursuant to this Section 6.5 shall be limited to errors and omissions which are caused solely by M&I's gross negligence or willful misconduct and which cannot be remedied through the processing of appropriate corrected ACH Entry(ies).\", \"M&I shall have no liability to Customer as a result of any late delivery, unless such late delivery is (i) caused solely by the gross negligence or wilful misconduct of M&I and (ii) made more than 24 hours delayed from its scheduled deadline.\"]}",
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 4053,
+    "total_tokens": 4201,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4050,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Any and all claims and actions arising out of or relating to this Agreement, the relationship of you and us, or your operation of the Franchised Business, brought by any party hereto against the other, shall be commenced within two (2) years from the occurrence of the facts giving rise to such claim or action, or such claim or action shall be barred.\", \"We and you, and our respective directors, officers, shareholders and guarantors, as applicable, each hereby waive to the fullest extent permitted by law, any right to, or claim for, punitive or exemplary damages against the other and agree that, in the event of a dispute between them, each is limited to recovering only the actual damages proven to have been sustained by it.\"]}",
+  "usage": {
+    "completion_tokens": 168,
+    "prompt_tokens": 3501,
+    "total_tokens": 3669,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3498,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

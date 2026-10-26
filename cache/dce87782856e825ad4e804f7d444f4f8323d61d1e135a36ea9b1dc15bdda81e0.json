@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"(1) Party A and its Affiliates shall not at any time during or after the Contract Term use such technology and know-how except for the purpose of marketing and selling batteries produced by the Joint Venture Company;\"]}",
+  "usage": {
+    "completion_tokens": 203,
+    "prompt_tokens": 4806,
+    "total_tokens": 5009,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 137,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4803,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Parent shall, and shall cause the applicable members of its Group to, contribute, assign, transfer, convey and deliver to SpinCo, or to the applicable SpinCo Designees, and SpinCo shall, and shall cause such SpinCo Designees to, accept from Parent and the applicable members of the Parent Group, all of Parent's and such Parent Group member's respective direct or indirect right, title and interest in and to all of the SpinCo IP Assets\"]}",
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 5102,
+    "total_tokens": 5214,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5099,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

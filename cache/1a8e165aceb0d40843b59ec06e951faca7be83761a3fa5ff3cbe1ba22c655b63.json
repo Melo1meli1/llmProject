@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"10.8 PPI Liability Limitation. Any and all liability of PPI to EKR howsoever arising in respect of this Agreement, the Transition Services and Inventory Agreement or the Supply Agreement and their performance, in contract tort or otherwise, shall be limited (except for death or personal injury caused by the negligence of PPI or its employees while acting in the course of their employment) to [**] US Dollars ($[**]); provided however that such limitation shall not apply to the extent that EKR or any EKR Indemnified Party is required to pay in excess of such amount to a third party in respect of a final judgment or order obtained by the third party or as a result of PPI's breach of Section 7.2.12 of the Supply Agreement.\", \"10.9 EKR Liability Limitation. Any and all liability of EKR to PPI howsoever arising in respect of this Agreement, the Transition Services and Inventory Agreement or the Supply Agreement and their performance in contract tort or otherwise shall be limited (except for death or personal injury caused by the negligence of EKR or its employees while acting in the course of their employment, and except in relation to any specified payment, lump sum, milestone or royalty payment unpaid) to [**] US Dollars ($[**]); provided however that such limitation shall not apply to the extent that PPI or any PPI Indemnified Party is required to pay in excess of such amount to a third party in respect of a final judgment or order obtained by the third party.\", \"10.10 Limitation of Damages. Notwithstanding anything contained in this Agreement or the Transition Services and Inventory Agreement or the Supply Agreement in no circumstance shall either Party be liable to the other in contract, tort (including negligence or breach of statutory duty) or otherwise howsoever, and whatever the cause thereof, for any special, indirect or consequential loss or damage of any nature whatsoever except in the cases of fraud or intentional misconduct or in the case of PPI as a result of PPI's breach of Section 7.2.12 of the Supply Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 442,
+    "prompt_tokens": 4203,
+    "total_tokens": 4645,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4200,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

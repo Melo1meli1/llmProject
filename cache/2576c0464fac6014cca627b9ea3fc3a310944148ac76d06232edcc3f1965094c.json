@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"The obligations of the Adviser under this paragraph shall survive the termination of this Limited Power of Attorney with respect to actions taken by FASC on behalf of the Adviser during the term of this Limited Power of Attorney.\"]}",
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 3818,
+    "total_tokens": 3899,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 18,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3815,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

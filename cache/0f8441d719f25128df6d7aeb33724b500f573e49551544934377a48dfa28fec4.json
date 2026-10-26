@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"TERM OF EXECUTION From January 30, 2012 until July 29, 2012\", \"3.1 The Contract shall be in force during the period indicated in the Specific Conditions.\"]}",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 4713,
+    "total_tokens": 4771,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4710,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

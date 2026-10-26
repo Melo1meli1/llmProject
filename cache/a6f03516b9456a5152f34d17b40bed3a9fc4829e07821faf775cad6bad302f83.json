@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Except as to termination of new business pursuant to Section 16.02 of this Agreement, this Agreement shall remain in effect for so long as any Certificate remains in force with respect to which benefit payments thereunder have not commenced; provided, however, that the Parties shall be obligated to fulfill their obligations under the Transaction Documents to which they are a party with respect to any Certificate that remains in force.\"]}",
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 5319,
+    "total_tokens": 5416,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5316,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

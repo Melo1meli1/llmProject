@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"All formulas used in the Licensed Products shall remain the property of MusclePharm, but all rights in any packaging, promotional materials, and websites of the Licensed Products (including, without limitation, pictures, the name, logos and trade dress) and all intellectual property of the AS Parties shall revert back or otherwise be vested in the AS Parties; provided, however, that the MusclePharm trade name, any MusclePharm trademarks, and MusclePharm logo used on the Licensed Products shall remain the property of MusclePharm.\", \"Any trademarks and trade dress used as the brand of the AS Product Line shall be owned by the AS Parties (as among them, to be determined among them) and shall be included within the defined term Trademarks as used in this Agreement. Any trademark used as a brand for an individual product in the AS Product Line, as opposed to a brand for the line of products, whether or not is based upon or derived from the Name and Appearance Rights or is independently developed also shall be owned by the AS Parties (as among them, to be determined among them) and as shall be included within the defined term Trademarks as used in this Agreement. Notwithstanding the foregoing, the MusclePharm trade name, any MusclePharm trademarks, and MusclePharm logo used on the Licensed Products shall remain the property of MusclePharm.\"]}",
+  "usage": {
+    "completion_tokens": 481,
+    "prompt_tokens": 5026,
+    "total_tokens": 5507,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 183,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5023,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

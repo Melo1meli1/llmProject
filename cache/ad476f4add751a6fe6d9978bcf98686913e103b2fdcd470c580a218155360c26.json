@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"27.7 Must bring claims within one year. Each party to this agreement agrees that any and all claims and actions arising out of or relating to this agreement, the parties' relationship, and/or your operation of the franchised business, brought by any party hereto against the other, shall be commenced within one (1) year from the occurrence of the facts giving rise to such claim or action, or, it is expressly acknowledged and agreed by all parties, such claim or action shall be irrevocably barred; provided, however, that the time limit for filing claims contained in this Section 27.7 shall not apply to claims or actions arising under the Illinois Franchise Disclosure Act.\",\"Any claims arising under the Maryland Franchise Registration and Disclosure Law must be brought within three (3) years after the grant of the franchise.\",\"Minn. Stat. § 80C.17 prohibits any action from being commenced under the Minnesota Franchises Law more than three years after the cause of action accrues.\"]}",
+  "usage": {
+    "completion_tokens": 215,
+    "prompt_tokens": 4818,
+    "total_tokens": 5033,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4815,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

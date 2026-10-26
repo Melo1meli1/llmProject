@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Capital Resources is a registered selling agent in the jurisdictions listed in Exhibit A hereto and will remain registered in such jurisdictions in which the Company is relying on such registration for the sale of the Shares, until the Conversion is consummated or terminated.\", \"The Company shall maintain the effectiveness of such registration for not less than three years or such shorter period as permitted by the OTS.\", \"During the period during which the Company's common stock is registered under the 1934 Act or for three years from the date hereof, whichever period is greater, the Company will furnish to its stockholders as soon as practicable after the end of each fiscal year an annual report (including a balance sheet and statements of income, stockholders' equity and changes in financial position or cash flow statement of the Company as at the end of and for such year, certified by independent public accountants and prepared in accordance with Regulation S-X under the 1934 Act).\", \"During the period of three years from the date hereof, the Company will furnish to Capital Resources: (i) a copy of each report of the Company furnished to or filed with the Commission under the 1934 Act or any national securities exchange or system on which any class of securities of the Company is listed or quoted (including but not limited to, reports on Form 10-K, 10-Q and 8-K and all proxy statements and annual reports to stockholders), a copy of each report of the Company mailed to its stockholders or filed with the Commission or the OTS or any other supervisory or regulatory authority or any national securities exchange or system on which any class of securities of the Company is listed or quoted, each press release and material news items and additional public documents and information with respect to the Company or the Association as Capital Resources may reasonably request, and (ii) from time to time, such other publicly available information concerning the Company and the Association as Capital Resources may reasonably request.\"]}",
+  "usage": {
+    "completion_tokens": 408,
+    "prompt_tokens": 4785,
+    "total_tokens": 5193,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4782,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

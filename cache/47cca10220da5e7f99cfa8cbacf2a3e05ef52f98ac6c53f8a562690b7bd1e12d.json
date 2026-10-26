@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"This Agreement shall commence on the Effective Date and, unless earlier terminated in accordance herewith, shall continue in force and effect until (a) the date of expiration of the last Royalty Term for the last Licensed Product, or (b) the expiration of the License Option Period and the failure of AbbVie to exercise the License Option (such period, the \\\"Term\\\").\"]}",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4487,
+    "total_tokens": 4580,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4484,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

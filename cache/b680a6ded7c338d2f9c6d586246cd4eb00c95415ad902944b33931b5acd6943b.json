@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Any Confidential Information, including all copies of same (including that portion of the Confidential Information that consists of analyses, forecasts, studies or other documents prepared by a Party or its advisors, agents, contractors or lenders), shall be returned to the other Party, or at such Party's option destroyed, within five (5) days of (A) a request by a Party at anytime; or (B) the termination of this Agreement in accordance with the terms hereof. Upon the written request of a Party, the other Party shall certify the destruction of such material by written notice to the requesting Party.\", \"This covenant shall survive the termination or expiration of this Agreement and shall continue in full force and effect for a period of three (3) years thereafter.\", \"The expiration or earlier termination of this Agreement shall not terminate or otherwise affect Oxbow's ownership of the Shares or the validity of any other definitive agreements executed prior to such expiration or termination in connection with the Lima Project, the Texas City Project or any other business arrangement arising out of the strategic alliance contemplated by this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 376,
+    "prompt_tokens": 5038,
+    "total_tokens": 5414,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 137,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5035,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

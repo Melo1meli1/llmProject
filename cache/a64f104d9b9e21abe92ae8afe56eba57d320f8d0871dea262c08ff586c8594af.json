@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"At all times during the Term and for a period of [***] following termination or expiration hereof in its entirety, each Party shall, and shall cause its officers, directors, employees and agents to, keep confidential and not publish or otherwise disclose to a Third Party and not use, directly or indirectly, for any purpose, any Confidential Information furnished or otherwise made known to it, directly or indirectly, by the other Party, except to the extent such disclosure or use is expressly permitted by the terms of this Agreement or is necessary or reasonably useful for the performance of, or the exercise of such Party's rights under, this Agreement.\",\"Upon the effective date of the termination of this Agreement for any reason, either Party may request in writing, and the other Party shall either, with respect to Confidential Information (in the event of termination of this Agreement with respect to [***] Terminated Territories but not in its entirety, solely to the extent relating specifically and exclusively to such Terminated Territories) to which such other Party does not retain rights under the surviving provisions of this Agreement: (a) as soon as reasonably practicable, destroy all copies of such Confidential Information in the possession of the other Party and confirm such destruction in writing to the requesting Party; or (b) as soon as reasonably practicable, deliver to the requesting Party, at such other Party's expense, all copies of such Confidential Information in the possession of such other Party; provided that such other Party shall be permitted to retain one (1) copy of such Confidential Information for the sole purpose of performing any continuing obligations or exercising any surviving rights hereunder, as required by Applicable Law, or for litigation or archival purposes.\"]}",
+  "usage": {
+    "completion_tokens": 423,
+    "prompt_tokens": 4921,
+    "total_tokens": 5344,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4918,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

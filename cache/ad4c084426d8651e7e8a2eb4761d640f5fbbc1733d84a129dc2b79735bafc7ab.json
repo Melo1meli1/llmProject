@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Within 7 days after the arrival of the goods at destination, should the quality, specification, or quantity be found not in conformity with the stipulations of the Contract except those claims for which the insurance company or the owners of the vessel are liable, the Buyers, on the strength of the Inspection Certificate issued by the China Commodity Inspection Bureau, have the right to claim for replacement with new goods, or for compensation\"]}",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2617,
+    "total_tokens": 2717,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2614,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Customer shall remain the sole and exclusive owner of all Customer Data and other Confidential Information (as hereinafter defined), regardless of whether such data is maintained on magnetic tape, magnetic disk, or any other storage or processing device.\", \"Customer acknowledges that it has no rights in any software, systems, documentation, guidelines, procedures and similar related materials or any modifications thereof provided by M&I, except with respect to Customer's use of the same during the Term to process its data.\"]}",
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 4850,
+    "total_tokens": 4963,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4847,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"14.1 NEITHER PARTY SHALL HAVE ANY LIABILITY FOR ANY INDIRECT, SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES INCLUDING, WITHOUT THE LIMITATION, LOSS OF PROFIT OR BUSINESS OPPORTUNITIES, WHETHER OR NOT THE PARTY WAS ADVISED OF THE POSSIBILTY OF SUCH.\"]}",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 4228,
+    "total_tokens": 4301,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4225,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

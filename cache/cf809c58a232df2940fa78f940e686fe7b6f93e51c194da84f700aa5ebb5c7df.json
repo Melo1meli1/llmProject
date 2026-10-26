@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Notwithstanding anything to the contrary contained in this Agreement, no termination of this Agreement for any reason whatsoever shall relieve the Customer of the obligation to pay all amounts due to i-on and to make such payments on a timely basis.\", \"The provisions of this Agreement relating to indemnification shall survive termination of the Customer's Hosted Site.\"]}",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 3889,
+    "total_tokens": 3972,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3886,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

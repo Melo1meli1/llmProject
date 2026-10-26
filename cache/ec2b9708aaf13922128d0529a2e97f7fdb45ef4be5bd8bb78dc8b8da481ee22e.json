@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"to disclose and assign to Client as its exclusive property all inventions and technical or business innovations specifically derived from the work assigned by Client to CRO which CRO develops or conceives, solely or in conjunction with others (1) that are based on or involve information of Client, (2) that relate to, constitute, result from, or include the work in which CRO will be engaged for Client, or (3) that are otherwise made through the use of any time, facilities or materials of Client;\",\"that all deliverables and work products in the form of works of authorship developed by CRO in the performance of Services under this Agreement shall be deemed works made for hire, and shall belong fully and exclusively to Client; and that if by operation of law such deliverables or work products are not works made for hire, CRO agrees to, and does hereby, assign to Client all right, title, and interest in such deliverables or work product, including all copyrights therein;\"]}",
+  "usage": {
+    "completion_tokens": 210,
+    "prompt_tokens": 4402,
+    "total_tokens": 4612,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4399,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

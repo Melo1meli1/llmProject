@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The parties agree that all drawings, documents, designs, models, inventions, computer programs, computer systems, data, computer documentation and other tangible materials authored or prepared by Contractor for Company as the work product required by a Statement of Work (collectively, the \\\"Works\\\"), are the property of Company to the extent that such Works were created by Contractor for Company over a time period for which Company has been invoiced and said invoice has been paid.\", \"Contractor shall provide to Company, and hereby assigns to Company, all right, title and interest to any Works in progress.\", \"Upon receipt of final payment Contractor shall provide to Company, and will assigns to Company, all right, title and interest to any Works in progress.\"]}",
+  "usage": {
+    "completion_tokens": 164,
+    "prompt_tokens": 4672,
+    "total_tokens": 4836,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4669,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

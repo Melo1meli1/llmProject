@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"In the event that MusclePharm shall achieve Net Sales (as defined below) of $20 million (the \\\"First Renewal Threshold\\\") in the aggregate during the Third Contract Year, then this Agreement shall automatically be renewed for an additional term of three (3) years (the \\\"First Additional Term\\\")\",\"In the event that MusclePharm shall achieve Net Sales of $50 million (the \\\"Second Renewal Threshold\\\") in the aggregate during the sixth Contract Year, then this Agreement shall automatically be renewed for an additional term of three (3) years (the \\\"Second Additional Term\\\")\"]}",
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 4362,
+    "total_tokens": 4494,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4359,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

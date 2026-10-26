@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Consultant agrees that Consultant's obligations under this Section 2.2 shall continue after the termination of this Agreement.\",\"Consultant agrees to keep and maintain adequate, current, accurate, and authentic written records of all Inventions made by Consultant (solely or jointly with others) during the term of this Agreement, and for a period of three (3) years thereafter.\",\"Consultant further agrees that Consultant's obligations under this Section 3.5 shall continue after the termination of this Agreement.\",\"Upon the termination of this Agreement, or upon Company's earlier request, Consultant will immediately deliver to the Company, and will not keep in Consultant's possession, recreate, or deliver to anyone else, any and all Company property, including, but not limited to, Confidential Information, tangible embodiments of the Inventions, all devices and equipment belonging to the Company, all electronically-stored information and passwords to access such property, those records maintained pursuant to Section 3.4 and any reproductions of any of the foregoing items that Consultant may have in Consultant's possession or control.\",\"Upon any termination, all rights and duties of the Company and Consultant toward each other shall cease except: (a) The Company will pay, within thirty (30) days after the effective date of termination, all amounts owing to Consultant for Services completed and accepted by the Company prior to the termination date and related reimbursable expenses, if any, submitted in accordance with the Company's policies and in accordance with the provisions of Article 1 of this Agreement; and (b) Article 2 (Confidentiality), Article 3 (Ownership), Section 4.2 (Covenant Not to Compete), Section 4.3 (Non-Solicitation), Section 4.4 (Non-Circumvention), Article 5 (Return of Company Materials), Article 7 (Term and Termination), Article 8 (Independent Contractor Relationship), Article 9 (Indemnification), Article 10 (Limitation of Liability), Article 11 (Arbitration and Equitable Relief), and Article 12 (Miscellaneous) will survive termination or expiration of this Agreement in accordance with their terms.\"]}",
+  "usage": {
+    "completion_tokens": 645,
+    "prompt_tokens": 4817,
+    "total_tokens": 5462,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 190,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4814,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

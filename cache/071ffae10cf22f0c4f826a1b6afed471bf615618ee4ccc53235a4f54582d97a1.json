@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon expiration or termination of this Agreement for any reason, each party will promptly and at the direction of the other party, either destroy or return to the disclosing party, and will not take or use, all items of any nature which belong to the disclosing party and all records (in any form, format or medium) containing or relating to Confidential Information.\", \"The parties' obligations under this Section 12 shall survive the termination or non-renewal of this Agreement.\", \"Upon termination of this Agreement, any and all licenses granted by one party to the other hereunder shall immediately terminate, and the parties shall immediately cease the use of the other party's Marks, material or content provided in connection with this Agreement, and shall remove all Links to and from one another's Sites, and About shall remove all Links between the About Network and the Insurance Center. Each party shall return the Confidential Information of the other party.\", \"The rights and obligations of the parties hereto under Sections 5.3 [PAYMENTS AND REPORTS], 5.4 [PAYMENTS AND REPORTS], 9, 10, 11, 12, 14, and 15 shall survive the expiration or termination of this Agreement and continue in full force and effect notwithstanding such expiration or termination.\"]}",
+  "usage": {
+    "completion_tokens": 276,
+    "prompt_tokens": 5153,
+    "total_tokens": 5429,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5150,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

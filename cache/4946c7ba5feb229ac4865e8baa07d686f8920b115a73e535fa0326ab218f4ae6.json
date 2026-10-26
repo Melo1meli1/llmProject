@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"LIABILITY UNDER THIS AGREEMENT FROM ANY AND ALL CAUSES, INCLUDING, BUT NOT LIMITED TO, PROGRAM MALFUNCTION OR OPERATIONAL NEGLIGENCE, SHALL BE LIMITED TO GENERAL MONEY DAMAGES IN AN AMOUNT NOT TO EXCEED THE TOTAL CHARGES PAID BY ABW FOR THE SERVICES DURING THE MOST RECENT TWELVE (12) MONTHS OF THE AGREEMENT. SUCH LIMITATION SHALL BE THE EXTENT OF PCQ OR ABW'S LIABILITY REGARDLESS OF THE FORM IN WHICH ANY LEGAL OR EQUITABLE ACTION MAY BE BROUGHT AGAINST PCQ OR ABW, AND THE FOREGOING SHALL CONSTITUTE PCQ'S OR ABW'S SOLE REMEDY.\"]}",
+  "usage": {
+    "completion_tokens": 160,
+    "prompt_tokens": 4171,
+    "total_tokens": 4331,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4168,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

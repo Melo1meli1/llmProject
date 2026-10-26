@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In the event that the Renewal Threshold is achieved in the Third Contract Year, during the First Additional Term\", \"In the event that the Second Renewal Threshold is achieved in the Sixth Contract Year, during the Second Additional Term\"]}",
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 3445,
+    "total_tokens": 3506,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3442,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

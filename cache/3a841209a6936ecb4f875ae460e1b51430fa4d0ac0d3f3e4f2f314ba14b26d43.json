@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"PCQ and Townsend shall retain title and all copyrights or proprietary rights to the SOFTWARE and HYPERFEED provided to ABW and ABW's clients pursuant to the Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 4997,
+    "total_tokens": 5051,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4994,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

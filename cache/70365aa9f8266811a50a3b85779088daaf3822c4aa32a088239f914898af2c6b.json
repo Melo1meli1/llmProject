@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In no event (including, but not limited to, Smith's default hereunder) shall Smith be liable to TDA (or any entity claiming through TDA) for any amount in excess of the amounts actually received by Smith hereunder, excluding the reimbursement of expenses.\"]}",
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 2245,
+    "total_tokens": 2317,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2242,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

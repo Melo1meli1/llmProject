@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In no way should the Agent be liable for incidental or consequential damages.\", \"In no event will either party be liable for special or consequential damages arising out of the breach or the termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 3798,
+    "total_tokens": 3856,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3795,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

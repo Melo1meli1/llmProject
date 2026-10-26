@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Commencing six (6) months prior to the expiration of the Term of this Agreement, or upon any termination of this Agreement for any reason, M&I shall provide Customer, at Customer's expense, all necessary assistance to allow the Services to continue without interruption or adverse affect to Customer and to facilitate the orderly transition of Services to Customer or its designee (\\\"Termination Assistance\\\").\", \"At the written request of Customer, given at least 100 days prior to expiration of the Term of the Agreement, M&I shall continue to provide Customer all Services at the rates set forth in this Agreement, for a maximum period of six (6) months.\", \"As part of the Termination Assistance, M&I shall assist Customer to develop a plan for the transition of all data processing services from M&I to Customer or its designee on a reasonable schedule developed by Customer.\", \"Prior to providing any Termination Assistance, M&I shall deliver to Customer a good faith estimate of all such Expenses and charges including, without limitation, charges for custom programming services.\", \"Customer understands and agrees that all Expenses and charges for Termination Assistance shall be computed in accordance with M&I's then-current rates for such products, materials and services.\"]}",
+  "usage": {
+    "completion_tokens": 261,
+    "prompt_tokens": 5501,
+    "total_tokens": 5762,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5498,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

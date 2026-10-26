@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"MSCI agrees that neither MS nor its affiliates or subsidiaries (other than MSCI) (collectively, the \\\"MS Provider Group\\\") and the respective directors, officers, agents, and employees of the MS Provider Group shall have any liability, whether direct or indirect, in contract or tort or otherwise, to MSCI for or in connection with this Agreement or the transactions contemplated hereby or any actions or inactions by or on behalf of the MS Provider Group in connection with this Agreement and such transactions.\", \"MS agrees that neither MSCI nor its subsidiaries (collectively, the \\\"MSCI Provider Group\\\") and the respective directors, officers, agents, and employees of the MSCI Provider Group shall have any liability, whether direct or indirect, in contract or tort or otherwise, to MS for or in connection with this Agreement or the transactions contemplated hereby or any actions or inactions by or on behalf of the MSCI Provider Group in connection with this Agreement and such transactions.\", \"Notwithstanding the provisions of Section 5(a) and (b), none of the members of the MS Provider Group and the MSCI Provider Group shall be liable for any special, indirect, incidental, consequential or punitive damages of any kind whatsoever in any way due to, resulting from or arising in connection with the performance of or failure to perform MS's or MSCI's obligations under this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 291,
+    "prompt_tokens": 2617,
+    "total_tokens": 2908,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 2614,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

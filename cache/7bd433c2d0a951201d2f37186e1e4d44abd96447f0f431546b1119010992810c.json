@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"During the term hereof and for a period of two years following termination, ICC, any of their Affiliates, or any of their respective officers, directors, employees, agents, or representatives will:\", \"In the event of termination under Section 15.02.1 as to new business and during such time as the only Certificates remaining in force are those with respect to which benefit payments have commenced, the grant of the License to the PHL Parties and their Affiliates shall continue only as necessary to make benefit payments under such Certificates and only until payment of the last benefit due is made under the last Certificate in force.\", \"In the event of such termination, (1) the License granted to ICC and its Affiliates shall terminate on the date on which the only remaining Certificates in force are those under which benefit payments have commenced and thereafter ICC and its Affiliates shall cease using all PHL Licensed Marks, and (2) the License granted to the PHL Parties and their Affiliates, restricted as noted in this subsection, shall terminate on the date on which the last benefit payment is made under the last Certificate in force and thereafter the PHL Parties and their Affiliates shall cease using all Investors Capital Licensed Marks.\"]}",
+  "usage": {
+    "completion_tokens": 261,
+    "prompt_tokens": 5147,
+    "total_tokens": 5408,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5144,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

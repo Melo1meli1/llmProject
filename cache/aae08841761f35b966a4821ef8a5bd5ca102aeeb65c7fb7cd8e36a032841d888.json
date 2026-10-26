@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"This Agreement shall be automatically renewed for successive three (3) year terms thereafter (each a \\\"Renewal Term\\\" and together with the Initial Term, the \\\"Term\\\") until and unless (i) either Party provides the other Party written notice of non-renewal no later than ninety (90) days prior the end of the Initial Term or any Renewal Term\"]}",
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 4985,
+    "total_tokens": 5075,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4982,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

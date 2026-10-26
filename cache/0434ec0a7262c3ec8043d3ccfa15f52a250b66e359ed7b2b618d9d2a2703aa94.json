@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"all images produced from the photo sessions shall be the property of SW.\", \"all images produced from the video production sessions shall be the property of SW.\", \"Diplomat hereby agrees that at the termination or expiration of this Agreement Diplomat will be deemed to have assigned, transferred and conveyed to KI, Inc. any trade rights, equities, good will, titles or other rights in and to KI's name which may have been obtained by Diplomat or which may have vested in Diplomat in pursuance of any endeavors covered by this Agreement, and that Diplomat will execute any instruments requested by KI, Inc. to accomplish or confirm the foregoing.\", \"All artwork and designs involving KI's name, or any reproduction thereof, shall, notwithstanding their invention or use by Diplomat, be and remain the property of SW, and SW shall be entitled to use the same and to license the use of the same by others.\"]}",
+  "usage": {
+    "completion_tokens": 201,
+    "prompt_tokens": 5307,
+    "total_tokens": 5508,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5304,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Consultant agrees that all right, title, and interest in and to any material, notes, records, drawings, designs, inventions, improvements, developments, discoveries and trade secrets conceived, discovered, authored, invented, developed or reduced to practice by Consultant, solely or in collaboration with others, whether or not patentable or copyrightable, during the term of this Agreement and arising out of, or in connection with, performing the Services under this Agreement and any copyrights, patents, trade secrets, mask work rights or other intellectual property rights relating to the foregoing (collectively, \\\"Inventions\\\"), are the sole property of the Company. Consultant also agrees to promptly make full written disclosure to the Company of any Inventions and to deliver and assign (or cause to be assigned) and irrevocably assigns fully to the Company all right, title and interest in and to the Inventions.\"]}",
+  "usage": {
+    "completion_tokens": 236,
+    "prompt_tokens": 4718,
+    "total_tokens": 4954,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 35,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4715,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

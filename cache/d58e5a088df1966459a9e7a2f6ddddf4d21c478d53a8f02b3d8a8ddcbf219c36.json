@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Each party agrees that, during the Term and for two (2) years thereafter:\",\"(v) that (x) upon the expiration or termination of this Agreement, or (y) at any time the disclosing party may so request, it will deliver promptly to the disclosing party, or, at the disclosing party's option, it will destroy, all Confidential Information of the disclosing party that it may then possess or have under its control.\"]}",
+  "usage": {
+    "completion_tokens": 171,
+    "prompt_tokens": 4564,
+    "total_tokens": 4735,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 57,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4561,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

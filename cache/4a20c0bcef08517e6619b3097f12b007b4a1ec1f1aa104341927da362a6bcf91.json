@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon the expiration or termination of this Agreement, (i) the Technology Development Services License granted to Developer hereunder shall immediately cease, and (ii) Developer shall immediately cease use of all proprietary technology files heretofore delivered by DSS and shall deliver to DSS all such proprietary files along with any and all Improvements completed to date by Developer.\", \"During the Term of this Agreement and thereafter for a period of five (5) years, the parties shall be bound by all of the protective terms and conditions of the NDA.\", \"Developer covenants that it shall not attempt, directly or indirectly, during the term of this Agreement or at any time thereafter, (i) to reverse engineer, by any means whatsoever, the Technology or other Intellectual Property provided to Developer hereunder, for any unauthorized purpose, and further acknowledges that such Technology and Intellectual Property has been provided hereunder by DSS solely for the purpose of enabling Developer to fully perform its legal duties and obligations hereunder, (ii) to forensically, graphically or otherwise physically analyze the Technology or Intellectual Property provided to Developer hereunder for any unauthorized purpose, or (iii) to compile/assemble, decrypt, or create any derivative works based upon the Technology or Intellectual Property of DSS, for any unauthorized purpose.\"]}",
+  "usage": {
+    "completion_tokens": 271,
+    "prompt_tokens": 4989,
+    "total_tokens": 5260,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4986,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

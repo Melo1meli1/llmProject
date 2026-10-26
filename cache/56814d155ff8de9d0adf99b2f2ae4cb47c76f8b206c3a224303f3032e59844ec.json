@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon termination or expiration of this Agreement, all rights granted under this Agreement to you shall forthwith terminate and:\", \"You shall furnish us with evidence satisfactory to us of compliance with this obligation within thirty (30) days after termination or expiration of this Agreement.\", \"you agree to pay to us within fifteen (15) days after the effective date of this Agreement's termination, in addition to the amounts owed hereunder, liquidated damages equal to the average monthly Unit Franchise Performance Royalty Fee and Franchise Sales Royalty Fee you paid during the twelve (12) months of operation preceding the effective date of termination multiplied by (a) twenty-four (24) (being the number of months in two (2) full years), or (b) the number of months remaining in the Agreement had it not been terminated, whichever is lower.\", \"You shall pay to us all damages, costs, and expenses, including reasonable attorneys' fees, incurred by us prior or subsequent to the termination or expiration of the franchise herein granted in obtaining injunctive or other relief for the enforcement of any provisions of this Section 11.\", \"You shall immediately deliver to us the Manuals and all other records, correspondence, files, and any instructions containing confidential information relating to the operation of the Franchised Business which are in your possession, and all copies thereof, all of which are acknowledged to be our property.\", \"All of your covenants, obligations, and agreements which by their terms or by reasonable implication are to be performed, in whole or in part, after the termination or expiration of this Agreement, shall survive such termination or expiration.\", \"we shall have the right to assume any of your responsibilities, duties or functions under such Unit Franchise Agreements in the event that this Agreement expires or is terminated for any reason.\"]}",
+  "usage": {
+    "completion_tokens": 376,
+    "prompt_tokens": 5039,
+    "total_tokens": 5415,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5036,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

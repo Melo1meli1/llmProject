@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon the expiration or termination of this Agreement, MMT shall submit a final written report covering the time period between the date of the last Quarterly Report submitted by MMT and the date of expiration or termination of this Agreement (the \\\"Final Report\\\").\", \"If MMT owes any outstanding amounts to SIGA as calculated pursuant to such Final Report, then MMT shall pay to SIGA in Dollars such outstanding amounts by wire transfer of immediately available funds into an account designated by SIGA in writing in advance of such payment within [***] days after delivery of the Final Report.\", \"If SIGA owes any amounts relating to any portion of any outstanding Credit Amounts or otherwise, then SIGA shall pay such outstanding amounts to MMT within [***] days after delivery of the Final Report.\"]}",
+  "usage": {
+    "completion_tokens": 177,
+    "prompt_tokens": 5252,
+    "total_tokens": 5429,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5249,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

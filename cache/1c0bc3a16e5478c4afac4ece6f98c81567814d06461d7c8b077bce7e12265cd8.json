@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The obligations of Capital Resources pursuant to this Agreement shall terminate upon the completion or termination or abandonment of the Plan by the Company or the Association or upon termination of the Subscription and Public Offerings, or if the terms of the Conversion are substantially amended so as to materially and adversely change the role of Capital Resources, but in no event later than 45 days after the completion of the Subscription and Public Offerings (the \\\"End Date\\\").\"]}",
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 4024,
+    "total_tokens": 4129,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4021,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

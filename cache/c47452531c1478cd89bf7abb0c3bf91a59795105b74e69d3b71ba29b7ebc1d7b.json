@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Notwithstanding the provisions of this Section 7(d), the Remarketing Agent shall not be required to contribute any amount in excess of the total price at which Remarketing Securities distributed in the Remarketing exceed the amount of any damages which the Remarketing Agent has otherwise paid or become liable to pay by reason of any untrue or alleged untrue statement or omission or alleged omission.\", \"The Remarketing Agent, acting under this Agreement, shall incur no liability to the Company or to any holder of Remarketing Securities in its individual capacity or as Remarketing Agent for any action or failure to act, on its part in connection with a Remarketing or otherwise, except if such liability is judicially determined to have resulted from the gross negligence or willful misconduct on its part.\"]}",
+  "usage": {
+    "completion_tokens": 171,
+    "prompt_tokens": 4159,
+    "total_tokens": 4330,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4156,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Your indemnity obligations will survive the expiration or termination of this Agreement, and will not be affected by the presence of any applicable insurance policies and coverages that we may maintain.\", \"You agree to pay us all damages, costs and expenses (including without limitation reasonable attorneys' fees, court costs, discovery costs, and all other related expenses) that we incur after the termination or expiration of the franchise granted under this Agreement in: (a) obtaining injunctive or other relief for the enforcement of any provisions of this Agreement (including without limitation Sections 9 and 17 above); and/or (b) successfully defending a claim from you that we misrepresented the terms of this Agreement, fraudulently induced you to sign this Agreement, that the provisions of this Agreement are not fair, were not properly entered into, and/or that the terms of this Agreement (as it may be amended by its terms) do not exclusively govern the parties' relationship.\"]}",
+  "usage": {
+    "completion_tokens": 275,
+    "prompt_tokens": 5288,
+    "total_tokens": 5563,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 61,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5285,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

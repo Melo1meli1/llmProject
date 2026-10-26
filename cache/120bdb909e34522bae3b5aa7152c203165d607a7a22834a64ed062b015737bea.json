@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"After the Initial Term, the term of the Agreement may be extended by a further period of five (5) years by mutual written agreement by the parties in the form of an amendment to this Agreement. If Distributor wishes to extend the term of the Agreement beyond the Initial Term, it must notify Airspan in writing at least six (6) months prior to then end of the Initial Term. However, nothing contained herein shall be interpreted as requiring either party to renew or extend this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 4005,
+    "total_tokens": 4120,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4002,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

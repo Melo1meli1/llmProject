@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"All right, title and interest in any and all Intellectual Property Rights and Know How resulting or based on any services by Philips or its Affiliates hereunder or enhancements carried out or technology developed during manufacture of the Products and that relate specifically and solely to the manufacture of the Product (\\\"New Technology\\\"), in each case, that were developed for the Product, will be owned exclusively by Customer. Philips hereby assigns and shall cause its Affiliates to assign all right title and interest in New Technology to Customer, and shall cause all employees or service providers to assign all right title and interest and waive any moral rights in New Technology.\"]}",
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 4770,
+    "total_tokens": 4912,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4767,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

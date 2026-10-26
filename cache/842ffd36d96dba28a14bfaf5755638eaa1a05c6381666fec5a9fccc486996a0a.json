@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The obligations set forth in this Section X. shall survive the termination of this Agreement for the legal periods of limitation provided by US law.\", \"This provision shall survive termination or expiration of this Agreement.\", \"Such Confidential Information will be kept confidential until 5 years after the expiration of termination of this Agreement.\", \"In the event of termination of this license for any reason, SCIEN shall within 6months (as described in the Termination clause), cease all use of the \\\"Interferon alfa-n3 (human leukocyte derived)\\\". SCIEN shall not thereafter use any names, mark or trade name similar thereto belonging to HEMISPHERX.\"]}",
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 5340,
+    "total_tokens": 5491,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5337,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

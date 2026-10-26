@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The same reimbursement obligation shall apply at the end of the Term for materials, parts and components then available at Philips. Such materials, parts and/or components shall be delivered to Customer [Redacted - Commercially Sensitive]. Upon payment the title of the materials, parts and/or components shall transfer to Customer.\"]}",
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 5047,
+    "total_tokens": 5198,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5044,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

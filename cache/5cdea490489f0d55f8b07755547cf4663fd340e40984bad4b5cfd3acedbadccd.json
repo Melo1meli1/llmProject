@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"If we terminate this Agreement based on your default, or if you abandon or otherwise cease to operate the Franchised Business, in addition to all other amounts due to us under this Agreement, you agree to pay to us, as liquidated damages, an amount calculated as follows: (a) the average of your monthly Royalty Fees that are due under this Agreement for the twelve (12) months immediately before your abandonment or our delivery of the notice of default (or, if you have been operating for less than 12 months, the average of your monthly Royalty Fees for the number of months you have operated the Franchised Business); (b) multiplied by the lesser of 36 or the number of months remaining in the then-current term of this Agreement under Section 2.\", \"In addition to any other rights and remedies available to us under this Agreement, in the event of a violation of this Section, we will have the right to require you to pay to us (or such other Goosehead Business developer or franchisee, as the case may be) an amount equal to three times the annual salary of the person(s) involved in such violation, plus an amount equal to our costs and attorney's fees incurred in connection with such violation.\"]}",
+  "usage": {
+    "completion_tokens": 269,
+    "prompt_tokens": 4309,
+    "total_tokens": 4578,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4306,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

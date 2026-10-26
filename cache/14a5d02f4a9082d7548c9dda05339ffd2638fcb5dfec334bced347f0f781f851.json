@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"and on termination or expiration of this Agreement, or any Contract made pursuant to it, Airspan shall have the right, without prejudice to any other remedy, to enter without prior notice any premises and to repossess and take away or otherwise deal with the Equipment.\", \"Distributor agrees and undertakes that it will not at any time, whether during the term of this Agreement or after its expiration or termination, adopt, use, or register without Airspan's prior, written consent any work or symbol or combination thereof which is similar to any of the Trademarks.\", \"Upon discovery of any disclosure or misuse of Confidential Information, Distributor shall endeavor to prevent any further disclosure or misuse.\", \"All Confidential Information shall remain the property of Airspan, and such Confidential Information and all copies thereof shall promptly be returned to Airspan upon request or, at Airspan 's option, destroyed, in which case Airspan shall be notified in writing when it has been destroyed.\", \"The obligations of this Section 10 shall survive the expiration or termination of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 227,
+    "prompt_tokens": 4851,
+    "total_tokens": 5078,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4848,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

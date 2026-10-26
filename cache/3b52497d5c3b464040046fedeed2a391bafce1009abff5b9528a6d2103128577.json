@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Any Invention that is neither PcoMed Technology nor Integra Technology but that is Derived during the Term jointly by the parties relating to this Agreement shall be the property of (i) PcoMed if it relates primarily to the PcoMed Technology and (ii) Integra if it relates primarily to the Integra Products; provided that the parties may agree that an Invention that is Derived during the Term jointly may become the property of both parties, including Inventions or methods related to the surface preparation of Integra Products. Except with regard to the foregoing joint Inventions or methods, each party hereby assigns to the other, by way of present and future assignment, all of the right, title and interest (including all Intellectual Property Rights therein) that it has or may have in any such Invention that is jointly Derived and that is subject to ownership by the other party.\", \"All Inventions and Intellectual Property Rights that relate primarily to the PcoMed Technology Derived during the Term of this Agreement shall remain as the sole and exclusive property of PcoMed.\"]}",
+  "usage": {
+    "completion_tokens": 231,
+    "prompt_tokens": 4983,
+    "total_tokens": 5214,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4980,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

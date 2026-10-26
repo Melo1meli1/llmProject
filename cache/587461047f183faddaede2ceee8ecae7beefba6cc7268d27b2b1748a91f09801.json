@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Even if this Agreement is terminated or a party is excluded from this Agreement, the claims and the liabilities of each party, existent at the time of the termination or exclusion or which shall be subsequently incurred by the cause(s) existent at the time of termination or exclusion, shall survive and be effective until they are fully performed/discharged.\", \"The Parties agree that in the event of termination of this Agreement due to any of the reasons mentioned in Article 16 above (and consequent termination of the TAA) the JVC and/or MINDA/MIL will not be entitled to use the Technical Know-How for any reason whatsoever. Provided, however, that in the event the termination of this Agreement is followed by a sale of all of the shares held by IMPCO in the JVC to MINDA/MIL, the JVC will have a right to continue to use the Technical Know How already received and absorbed on the condition that royalty payments under the TAA have been paid by the JVC to IMPCO or will be paid, as the case may be, for a minimum period of five (5) years, as provided in the TAA.\", \"The Parties agree that in the event of termination of the JVA (and consequently the Technology License Agreement) neither Party is agreeable to the sale of its shareholding to the other party or conversely the purchase of the shareholding of the other party, the parties will proceed to dissolve the JVC by the mechanism of voluntary winding up. For this purpose, each party will provide full cooperation and execute necessary documents and make necessary filings with any Government authorities and/or judicial bodies to ensure that JVC can be voluntarily wound up in the most time and cost efficient manner. The Parties agree that during the pendency of the winding up, the JVC will be allowed to use the Technical Know How to the extent the same is necessary for the purpose of implementing any orders pending in favour of its customers.\", \"During the term of this Agreement and for a period of three (3) years thereafter, all the Parties to this Agreement shall take reasonable steps to prevent disclosure of any confidential or proprietary information to any third party, which it may have received from the JVC or other Parties to this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 468,
+    "prompt_tokens": 5170,
+    "total_tokens": 5638,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5167,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

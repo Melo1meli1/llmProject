@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"For claims regarding the quantity or quality of Hydrocarbons, these shall be presented in writing at the latest within fifteen (15) calendar days after the date of delivery or withdrawal of the Hydrocarbon or the date in which the report for the Volumetric Compensation for Quality is issued. The claim shall be justified within the following thirty calendar days after being presented.\", \"If the Sender does not present its claim, or if made extemporaneously, or if it is not duly and timely justified, it shall mean the acceptance by the Sender of the Hydrocarbon delivered or withdrawn or the Volumetric Compensation by Quality, as the case may be.\"]}",
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 4146,
+    "total_tokens": 4293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4143,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

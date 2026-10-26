@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"This Agreement shall commence on the Effective Date and shall continue until the four-year anniversary of the Effective Date (such period, as it may be extended, either by the mutual written agreement of the parties or automatically, or earlier terminated being referred to as the \\\"Consultation Period\\\"), unless sooner terminated in accordance with the provisions of Section 4, and shall automatically renew for successive one-year periods, unless the Company provides 90 days' notice of termination before any such successive period.\"]}",
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3959,
+    "total_tokens": 4071,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3956,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

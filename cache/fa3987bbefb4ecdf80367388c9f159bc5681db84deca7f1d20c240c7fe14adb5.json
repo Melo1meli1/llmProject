@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"MusclePharm agrees that any copyrights in works created based upon the Trademarks and/or Name and Appearance Rights shall become the rights of the AS Parties (as among them to be determined among them). MusclePharm irrevocably and unconditionally transfers and assigns to the AS Parties in perpetuity and throughout the universe any and all of MusclePharm's right, title, and interest, if any (including, without limitation, the rights generally known as 'moral rights') in and to all works, including any packaging, advertising and promotional materials, and other materials based upon the Trademarks and/or Name and Appearance Rights, all of which shall, upon their creation, become and remain the property of the AS Parties.\"]}",
+  "usage": {
+    "completion_tokens": 302,
+    "prompt_tokens": 5015,
+    "total_tokens": 5317,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 131,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5012,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

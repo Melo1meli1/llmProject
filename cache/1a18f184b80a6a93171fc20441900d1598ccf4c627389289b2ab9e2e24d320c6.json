@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Upon termination or expiration of this Agreement, all rights granted under this Agreement to you will forthwith terminate, and all of the following will take effect:\",\"You agree to: (a) immediately and permanently stop operating the Franchised Business; and (b) never directly or indirectly represent to the public that you are a present or former franchisee of ours.\",\"You agree to immediately and permanently cease to use, in any manner whatsoever, all aspects of the System, including any confidential methods, procedures and techniques associated with the System, the mark \\\"Goosehead Insurance\\\" and any and all other Proprietary Marks, distinctive forms, slogans, signs, symbols, and devices associated with the System, and any and all other intellectual property associated with the System.\",\"You agree to take such action as may be necessary to cancel any assumed name or equivalent registration which contains the mark \\\"Goosehead Insurance\\\" and any and all other Proprietary Marks, and/or any other service mark or trademark of ours, and you will give us evidence that we deem satisfactory to provide that you have complied with this obligation within five (5) days after termination or expiration of this Agreement.\",\"We will have the right (but not the obligation) to require you to assign to us any interest that you (and/or your affiliates) may have in the lease or sublease for the ground upon which the Franchised Business is operated and/or for the building in which the Franchised Business is operated.\",\"If we do not elect or if we are unable to exercise any option we may have to acquire the lease or sublease for the premises of the Franchised Business, or otherwise acquire the right to occupy the premises, you will make such modifications or alterations to the premises operated under this Agreement (including, without limitation, the changing of the telephone number) immediately upon termination or expiration of this Agreement as may be necessary to distinguish the appearance of said premises from that of other Goosehead Businesses, and must make such specific additional changes thereto as we may reasonably request for that purpose. In addition, you will cease use of all telephone numbers and any domain names, websites, e-mail addresses, and any other print and online identifiers, whether or not authorized by us, that you have while operating the Franchised Business, and must promptly execute such documents or take such steps necessary to remove reference to the Franchised Business from all trade or business directories, including online directories, or at our request transfer same to us.\",\"If you fail or refuse to comply with all of the requirements of this Section 18.4, then we (or our designee) will have the right to enter upon the premises of the Franchised Business, without being guilty of trespass or any other tort, for the purpose of making or causing to be made such changes as may be required, at your cost, which expense you agree to pay upon demand.\",\"Within thirty (30) days after expiration or non-renewal under this Agreement and/or default under your lease/sublease for the premises, we shall buy from you (and/or your affiliates) all assets of the Franchised Business. This includes all rights of yours in prospects and policyholders and all business records and information regarding those customers, prospects and policyholders, including the name and address of the applicant or policyholder and the date of expiration and policy limits of any insurance policy or renewal, rights to solicit the customers, prospects and policyholders for the sale of insurance products and renewal of policyholders' current policies, rights to new, renewal or other commissions and compensation from the insurance carriers or their agents, book of business, furniture, fixtures, and equipment.\"]}",
+  "usage": {
+    "completion_tokens": 930,
+    "prompt_tokens": 5306,
+    "total_tokens": 6236,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 170,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5303,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

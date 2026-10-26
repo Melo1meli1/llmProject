@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon termination of this Agreement, (a) each party's liability for any charges, payments or expenses due to the other party that accrued prior to the date of termination shall not be extinguished by termination, and such amounts (if not otherwise due on an earlier date) shall be immediately due and payable on the termination date;\", \"(b) VerticalNet shall be responsible for all charges, payments or expenses incurred by it in connection with the removal of the PaperExchange Links from Co-Branded Sites and the modification of the Co-Branded Sites, including, but not limited to, the removal of PaperExchange Content;\", \"(c) PaperExchange shall be responsible for all charges, payments or expenses incurred by it in connection with the removal of the VerticalNet Links, VerticalNet Content and VerticalNet Archived Content from the PaperExchange Site;\", \"(e) all rights of PaperExchange to use, reproduce, display and transmit the VerticalNet Content and VerticalNet Archived Content shall immediately cease and PaperExchange shall destroy all copies of such content,\", \"(g) all rights of VerticalNet to use, create derivative works of, reproduce, display, perform and transmit the PaperExchange Content shall immediately cease and VerticalNet shall, at PaperExchange's cost, return one copy of the PaperExchange Content displayed on the Co-Branded Sites to PaperExchange in electronic format and destroy all other copies of such content,\", \"(k) if the agreement is terminated during the Initial Term by VerticalNet pursuant to Section 8.2 [Termination for Cause], (x) VerticalNet shall be released from its obligations under Section 5.8.1 [Non-Competition] and (y) PaperExchange's obligations under Sections 7.2 [Advertising Revenue] and 7.4 [Revenue Sharing] shall be extended for one year after the date of such termination,\", \"(l) if the agreement is terminated during the Initial Term by PaperExchange pursuant to Section 8.2 [Termination for Cause], VerticalNet shall pay to PaperExchange, as liquidated damages, an amount equal to the product determined by multiplying (1) a fraction, the numerator of which shall be the number of days between the effective date of termination and the scheduled expiration date of the Initial Term, and the denominator of which shall be the number of days between the Effective Date and the scheduled expiration date of the Initial Term, by (2) *****\"]}",
+  "usage": {
+    "completion_tokens": 495,
+    "prompt_tokens": 5102,
+    "total_tokens": 5597,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5099,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

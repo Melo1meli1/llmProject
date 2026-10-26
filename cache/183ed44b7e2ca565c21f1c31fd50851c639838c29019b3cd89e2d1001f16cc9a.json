@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"STW shall pay for or repair all actual damages to roads, fences, or improvements caused by its activities on the Property within sixty (60) days of the occurrence, and will fill and level all pits, mounds, ruts, and shall restore the surface to as near its original condition as is reasonably practicable within ninety (90) days after termination of the provisions of this AGREEMENT related only to the Property.\", \"Upon termination of the provisions of this AGREEMENT related to the Property only, STW, or its successors or assigns, shall transfer title of all water conveyance pipelines from the Property to COFS.\", \"The requirements under this Section 16 shall remain in force and effect despite any termination of those provisions of this AGREEMENT that apply only to COFS Property.\", \"COFS shall manage well maintenance and production operations for all CRA water produced within Pecos County under the direction of STW. STW shall pay COFS for its reasonable costs incurred to manage such well maintenance and production operations.\"]}",
+  "usage": {
+    "completion_tokens": 222,
+    "prompt_tokens": 5304,
+    "total_tokens": 5526,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5301,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

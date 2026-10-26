@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"In the event this Agreement is terminated or expires prior to the end of the term of this Agreement, those portions of this Agreement which pertain to and apply to any Unit Franchise Agreement will continue in full force and effect, but only with regard to those Unit Franchise Agreements which have been entered into and were in effect prior to the date of termination or expiration of this Agreement.\",\"Any provision or covenant of this Agreement which expressly or by its nature imposes obligations beyond the expiration or termination of this Agreement shall survive such expiration or termination.\"]}",
+  "usage": {
+    "completion_tokens": 186,
+    "prompt_tokens": 5124,
+    "total_tokens": 5310,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5121,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

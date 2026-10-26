@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Upon confirmation by the licensor in writing prior to the expiration of the term hereof, this Agreement may be extended for as long as may be agreed to by both the licensor and licensee through negotiation, provided, however, that the licensee shall not have the right to decide the extension of the term hereof.\"]}",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 4264,
+    "total_tokens": 4347,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4261,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

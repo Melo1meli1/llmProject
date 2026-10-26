@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"EXCEPT (A) FOR FRAUD, WILLFUL MISCONDUCT OR GROSS NEGLIGENCE, (B) FOR A PARTY'S BREACH OF ITS OBLIGATIONS UNDER [ARTICLE 9 OR SECTION 5.8], (C) AS PROVIDED UNDER [***] AND (D) TO THE EXTENT ANY SUCH DAMAGES ARE REQUIRED TO BE PAID TO A THIRD PARTY AS PART OF A CLAIM FOR WHICH A PARTY PROVIDES INDEMNIFICATION UNDER THIS ARTICLE 11, NEITHER PARTY NOR ANY OF ITS AFFILIATES SHALL BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES, INCLUDING LOSS OF PROFITS OR BUSINESS INTERRUPTION, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, TORT, NEGLIGENCE, BREACH OF STATUTORY DUTY OR OTHERWISE IN CONNECTION WITH OR ARISING IN ANY WAY OUT OF THE TERMS OF THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THE USE OF THE LICENSED COMPOUNDS OR LICENSED PRODUCTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.\"]}",
+  "usage": {
+    "completion_tokens": 230,
+    "prompt_tokens": 4420,
+    "total_tokens": 4650,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4417,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

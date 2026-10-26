@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"27.7 MUST BRING CLAIMS WITHIN ONE YEAR. EACH PARTY TO THIS AGREEMENT AGREES THAT ANY AND ALL CLAIMS AND ACTIONS ARISING OUT OF OR RELATING TO THIS AGREEMENT, THE PARTIES' RELATIONSHIP, AND/OR YOUR OPERATION OF THE FRANCHISED BUSINESS, BROUGHT BY ANY PARTY HERETO AGAINST THE OTHER, SHALL BE COMMENCED WITHIN ONE (1) YEAR FROM THE OCCURRENCE OF THE FACTS GIVING RISE TO SUCH CLAIM OR ACTION, OR, IT IS EXPRESSLY ACKNOWLEDGED AND AGREED BY ALL PARTIES, SUCH CLAIM OR ACTION SHALL BE IRREVOCABLY BARRED.\", \"27.8 WAIVER OF PUNITIVE DAMAGES. EACH PARTY TO THIS AGREEMENT HEREBY WAIVES TO THE FULLEST EXTENT PERMITTED BY LAW ANY RIGHT TO OR CLAIM OF ANY PUNITIVE OR EXEMPLARY DAMAGES AGAINST THE OTHER, AND AGREE THAT IN THE EVENT OF A DISPUTE BETWEEN THEM EACH SHALL BE LIMITED TO THE RECOVERY OF ANY ACTUAL DAMAGES SUSTAINED BY IT.\"]}",
+  "usage": {
+    "completion_tokens": 243,
+    "prompt_tokens": 4363,
+    "total_tokens": 4606,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4360,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

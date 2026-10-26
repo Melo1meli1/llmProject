@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"mPhase shall have the right to annually renew this agreement for a period of one year upon each annual expiration with the written consent of Lucent, which written consent shall not be unreasonably withheld.\"]}",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 1802,
+    "total_tokens": 1860,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 1799,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

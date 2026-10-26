@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"Access to the then-current registrations shall continue in perpetuity, on a nonexclusive basis, following any future termination or expiration of this Agreement, enabling Monsanto or its successors to market and sell such formulations following such termination under trademarks that are different from the trademarks licensed to Monsanto pursuant to Section 6.10(c).\",\"Upon the termination of this Agreement, the license granted in Section 6.11(c) above shall convert to a perpetual, non-exclusive, royalty-free, non-transferable and non-assignable license (without the right to sublicense, except as specifically set forth in Section 6.11(h) below) to use the Additional Roundup Products Formulation Data to make, sell and offer for sale, in the Included Markets for each such Additional Roundup Product, products comparable to such Additional Roundup Products, and to the limited extent necessary, to register such products with federal, state or territorial government authorities (as may be required by law) in the United States and its territories.\",\"Upon the expiration or termination of this Agreement, Monsanto shall have no right to use the Additional Roundup Products Trademarks. Upon such expiration or termination, the Agent will purchase any remaining inventory of the Additional Roundup Products, including any components thereof, at cost.\"]}",
+  "usage": {
+    "completion_tokens": 379,
+    "prompt_tokens": 4923,
+    "total_tokens": 5302,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4920,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

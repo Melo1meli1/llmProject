@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"In the event that this Agreement is terminated or rejected by SpinCo, a member of the SpinCo Group or its receiver or trustee under applicable bankruptcy laws due to such Party's bankruptcy, then all rights and licenses granted under or pursuant to this Agreement by SpinCo to Parent are, and shall otherwise be deemed to be, for purposes of Section 365(n) of the U.S. Bankruptcy Code (the \\\"Code\\\") and any similar laws in any other country, licenses of rights to \\\"intellectual property\\\" as defined under the Code for purposes of Section 365(n).\", \"The Parties agree that all intellectual property rights licensed hereunder, including, without limitation, any patents or patent applications in any country of SpinCo or a member of SpinCo Group covered by the license grants under this Agreement, are part of the \\\"intellectual property\\\" as defined under the Code for purposes of Section 365(n) subject to the protections afforded the non-terminating Party under Section 365(n) of the Code, and any similar law or regulation in any other country.\"]}",
+  "usage": {
+    "completion_tokens": 423,
+    "prompt_tokens": 5194,
+    "total_tokens": 5617,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 184,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5191,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Developer expressly acknowledges El Pollo Loco's exclusive right, title, and interest in an to the trade name, service mark and trademark \\\"El Pollo Loco\\\", and such other trade names, service marks, and trademarks which are designated as part of the El Pollo Loco® System (the \\\"Marks\\\"), and Developer agrees not to represent in any manner that Developer has any ownership in El Pollo Loco® Marks.\", \"Developer further agrees that its use of the Marks shall not create in its favor any right, title, or interest in or to El Pollo Loco® Marks, but that all of such use shall inure to the benefit of El Pollo Loco\"]}",
+  "usage": {
+    "completion_tokens": 158,
+    "prompt_tokens": 4931,
+    "total_tokens": 5089,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4928,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

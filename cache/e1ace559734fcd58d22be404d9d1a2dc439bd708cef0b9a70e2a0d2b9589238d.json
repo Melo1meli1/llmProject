@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"at all times during the period commencing on the date hereof and ending on the date that is thirty (30) days prior to expiration of the advance notice period for the submission by stockholders of director nominations for consideration at the 2021 Annual Meeting as set forth in the Bylaws\",\"Unless earlier terminated as provided in this Agreement, upon the expiration of the Support Period in accordance with Section 4, this Agreement shall immediately and automatically terminate in its entirety\"]}",
+  "usage": {
+    "completion_tokens": 227,
+    "prompt_tokens": 3837,
+    "total_tokens": 4064,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 113,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3834,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

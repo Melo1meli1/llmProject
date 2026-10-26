@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"all new discoveries, inventions, improvements, processes, formulae, designs, drawings, training materials, original works of authorship, photos, video tapes, electronic images, documentation, trademarks and copyrights (the \\\"Intellectual Property\\\"), that may be developed, conceived, or made by Recipient, alone or jointly with others during her work for the Company, shall be the exclusive property of the Company and shall be deemed a work for hire. Recipient hereby assigns and agrees to assign all Recipient's rights in any Intellectual Property to the Company.\"]}",
+  "usage": {
+    "completion_tokens": 185,
+    "prompt_tokens": 3125,
+    "total_tokens": 3310,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 54,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3122,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

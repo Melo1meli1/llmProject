@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Member covenants and agrees that during the Post-Term Period (defined below), except as otherwise approved in writing by Franchisor, Member will not, either directly or indirectly, for itself, or through, on behalf of, or in conjunction with any person, persons, partnership, corporation, or entity, Member will not own, maintain, operate, engage in, be associated with or accept any compensation or remuneration from, or have any interest in or render services or give\", \"Member covenants and agrees that during the Post-Term Period, Member will not, either directly or indirectly, solicit, divert, or attempt to solicit or divert any actual or potential business or customer of the Franchised Business to any Competitive Business.\", \"As used in this Agreement, the term \\\"Post-Term Period\\\" means a continuous uninterrupted period of two (2) years from the date of: (i) a transfer as contemplated under Section 16 of the Franchise Agreement; (ii) expiration or termination of the Franchise Agreement (regardless of the cause for termination); (iii) termination of Member's employment with Franchisee; and/or (iv) a final order of a duly authorized arbitrator, panel of arbitrators, or a court of competent jurisdiction (after all appeals have been taken) with respect to any of the foregoing or with respect to the enforcement of this Agreement; either directly or indirectly (through, on behalf of, or in conjunction with any persons, partnership, corporation or entity). Any period of non-compliance with the requirements of this Section 1, whether such non-compliance takes place after termination, expiration, non-renewal, and/or a transfer, will not be credited toward satisfying the two-year obligation specified above.\"]}",
+  "usage": {
+    "completion_tokens": 365,
+    "prompt_tokens": 5147,
+    "total_tokens": 5512,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5144,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

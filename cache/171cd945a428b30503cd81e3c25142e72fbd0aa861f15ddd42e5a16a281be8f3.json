@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"The Manufacturer has appointed the Customer the copyright holder of both the English and the Chinese version of the book How to achieve Super Health beyond 2000 - Advanced Edition, authored by Frank D.P. Ellis and Dr. Michael Tait M.D. This appointment shall be deemed valid provided the Customer fulfils and maintains the criteria of this agreement.\"]}",
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 5138,
+    "total_tokens": 5288,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 58,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5135,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

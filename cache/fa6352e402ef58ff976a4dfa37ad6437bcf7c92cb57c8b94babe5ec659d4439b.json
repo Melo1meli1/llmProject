@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\":true,\"passages\":[\"EXCEPT IN CONNECTION WITH A BREACH BY EITHER PARTY OF ARTICLE 10, THE INDEMNIFICATION OBLIGATIONS OF PAPEREXCHANGE UNDER SECTION 12.4(c) [Indemnification by PaperExchange] AND THE INDEMNIFICATION OBLIGATIONS OF VERTICALNET UNDER SECTION 12.5(c) [Indemnification by VerticalNet], EACH PARTY'S LIABILITY FOR DAMAGES HEREUNDER SHALL NOT EXCEED $1,000,000.\"]}",
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 4467,
+    "total_tokens": 4579,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4464,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

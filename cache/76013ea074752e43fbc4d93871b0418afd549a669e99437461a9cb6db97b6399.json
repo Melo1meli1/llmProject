@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"You acknowledge and agree that any and all copyright in and to advertising, marketing materials, and promotional plans developed by or on behalf of you will be our sole property, and you agree to sign such documents (and, if necessary, require your employees and independent contractors to sign such documents) that we deem reasonably necessary to give effect to this provision.\"]}",
+  "usage": {
+    "completion_tokens": 162,
+    "prompt_tokens": 4985,
+    "total_tokens": 5147,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4982,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

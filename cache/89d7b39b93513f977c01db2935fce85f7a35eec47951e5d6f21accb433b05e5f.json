@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"Unless earlier terminated as provided below, this Agreement shall remain in effect until the later to occur of the date that is (x) three (3) years from the date hereof and (y) the date on which an affiliate of Freedom Mortgage is not acting as the external manager of Cherry Hill.\"]}",
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 4127,
+    "total_tokens": 4205,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4124,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "raw": "{\"found\": true, \"passages\": [\"You shall, at our option and request, and without any additional consideration, assign to us all rights to all e-mail addresses, URLs, domain names, Internet listings, and Internet accounts related to the Franchised Business following demand by us upon your misuse of the same and/or the termination or expiration of this Agreement. Furthermore, you hereby appoint us as your attorney-in-fact with full power and authority for the sole purpose of assigning these rights to us. This appointment shall be deemed to be coupled with an interest and shall continue in full force and effect until and following the termination or expiration of this Agreement.\", \"During the term of this Agreement and after its expiration or termination, you shall not directly or indirectly contest the validity of, or our ownership of the Proprietary Marks, nor take any other action which may tend to jeopardize our or our affiliate's interest therein, or our right to use and to license others to use the Proprietary Marks.\", \"during the term of this Agreement, and for a continuous uninterrupted period commencing upon expiration or termination of this Agreement, regardless of the cause for termination, and continuing for a period of three (3) years thereafter, neither you nor your principals shall, directly or indirectly, for themselves, or through, on behalf of, or in conjunction with any person, persons, partnership, limited liability company or corporat\"]}",
+  "usage": {
+    "completion_tokens": 403,
+    "prompt_tokens": 5022,
+    "total_tokens": 5425,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5019,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}
