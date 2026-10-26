@@ -1,0 +1,17 @@
+{
+  "n_bootstrap": 5000,
+  "seed": 42,
+  "n_contracts": 102,
+  "categories": [
+    "Expiration Date",
+    "Renewal Term",
+    "Notice Period To Terminate Renewal",
+    "Cap On Liability",
+    "Ip Ownership Assignment",
+    "Post-Termination Services"
+  ],
+  "sampling_unit": "Hel kontrakt med alle kategorier",
+  "paired": true,
+  "interval_method": "Percentilintervall: 2.5 og 97.5",
+  "zero_division": 0
+}
