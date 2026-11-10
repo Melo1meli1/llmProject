@@ -1,0 +1,23 @@
+{
+  "model": "gpt-6-luna",
+  "raw": "{\"found\":true,\"passages\":[\"The Term of this Agreement will commence on the date above, and shall continue for a term of one (1) year. mPhase shall have the right to annually renew this agreement for a period of one year upon each annual expiration with the written consent of Lucent, which written consent shall not be unreasonably withheld.\"]}",
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 1882,
+    "total_tokens": 1963,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 0,
+      "cached_tokens": 1879,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

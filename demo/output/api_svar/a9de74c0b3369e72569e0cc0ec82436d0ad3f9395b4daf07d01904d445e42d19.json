@@ -1,0 +1,23 @@
+{
+  "model": "gpt-6-luna",
+  "raw": "{\"found\": true, \"passages\": [\"Upon termination of this Agreement, mPhase shall immediately cease use of the Lucent Co-Branding Logo, provided, however, that mPhase shall have no obligation to remove such Co-Branding Logo from any Goods sold prior to the date of such termination.\"]}",
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 2740,
+    "total_tokens": 2811,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 0,
+      "cached_tokens": 2737,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}
