@@ -1,0 +1,23 @@
+{
+  "model": "gpt-6-luna",
+  "raw": "{\"found\": true, \"passages\": [\"Consultant agrees to disclose in writing to the Company all inventions, products, designs, drawings, notes, documents, information, documentation, improvements, works of authorship, processes, techniques, know-how, algorithms, technical and business plans, specifications, hardware, circuits, computer languages, computer programs, databases, user interfaces, encoding techniques, and other materials or innovations of any kind that Consultant may make, conceive, develop or reduce to practice, alone or jointly with others, in connection with performing Services or that result from or that are related to such Services, whether or not they are eligible for patent, copyright, mask work, trade secret, trademark or other legal protection (collectively, \\\"Innovations\\\"). Consultant and the Company agree that, to the fullest extent legally possible, all Innovations will be works made for hire owned exclusively by the Company. Consultant agrees that, regardless of whether the Innovations are legally works made for hire, all Innovations will be the sole and exclusive property of the Company. Consultant hereby irrevocably transfers and assigns to the Company, and agrees to irrevocably transfer and assign to the Company, all right, title and interest in and to the Innovations, including all worldwide patent rights (including patent applications and disclosures), copyright rights, mask work rights, trade secret rights, know-how, and any and all other intellectual property or proprietary rights (collectively, \\\"Intellectual Property Rights\\\") therein.\"]}",
+  "usage": {
+    "completion_tokens": 471,
+    "prompt_tokens": 4742,
+    "total_tokens": 5213,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 162,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4739,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}
