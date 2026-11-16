@@ -1,0 +1,23 @@
+{
+  "model": "gpt-6-luna",
+  "raw": "{\"found\": true, \"passages\": [\"At the Company's request and expense, during and after the term of this Agreement, Consultant will assist and cooperate with the Company in all respects and will execute documents, and, subject to the reasonable availability of Consultant, give testimony and take such further acts reasonably requested by the Company to enable the Company to acquire, transfer, maintain, perfect and enforce its Intellectual Property Rights and other legal protections for the Innovations.\", \"Consultant's obligation to assist the Company shall continue beyond the termination of Consultant's relationship with the Company, but the Company shall compensate Consultant at a reasonable rate after the termination of such relationship for time actually spent at the Company's request providing such assistance.\"]}",
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 4841,
+    "total_tokens": 4989,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4838,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

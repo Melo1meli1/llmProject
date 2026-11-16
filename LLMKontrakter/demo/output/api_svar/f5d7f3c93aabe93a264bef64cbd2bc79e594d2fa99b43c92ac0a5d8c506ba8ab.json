@@ -1,0 +1,23 @@
+{
+  "model": "gpt-6-luna",
+  "raw": "{\"found\": true, \"passages\": [\"This provision is intended to be severable from the other provisions of this Agreement, and shall survive expiration or termination and shall not be merged into any such judgment\", \"Sections 6.0 (Payment), 10.0 (Limited Warranty), 19.0 (Confidential Information), 15.0 (Patent and Copyright Infringement), 18 (Term and Termination), 17.0 (Reports and Records), 20.0 (Export Restrictions), 22.0 (Limitation of Liability), 23.0 (Consequential Damages Waiver), 27.0 (General) and the license to use the Software set out in Exhibit C (Software License Agreement) (subject to the termination provisions set forth in Section 18.0) shall survive the termination of this Agreement.\", \"Upon expiration or termination of the Agreement, (a) all rights and licenses of DISTRIBUTOR under this Support Exhibit shall terminate, (b) DISTRIBUTOR shall immediately discontinue all representations that DISTRIBUTOR provides maintenance services for Cisco Product, and (c) DISTRIBUTOR access to CCO shall terminate.\"]}",
+  "usage": {
+    "completion_tokens": 425,
+    "prompt_tokens": 5473,
+    "total_tokens": 5898,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 173,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5470,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "model": "gpt-6-luna",
+  "raw": "{\"found\":true,\"passages\":[\"Upon termination or expiration of this Agreement, (a) Cisco reserves the right to cease all further delivery of Product or Services due against any existing Purchase Orders unless Distributor agrees to pay for such deliveries in advance by certified or cashier's check, (b) all outstanding invoices immediately become due and payable by certified or cashier's check, and (c) all rights and licenses of Distributor hereunder shall terminate, subject to the terms of the following sentence. Except for a termination of this Agreement resulting from Distributor's breach of Section 9.0 (Proprietary Rights and Software Licensing) or Section 19.0(Confidential Information), upon termination or expiration of this Agreement, Distributor may continue to use, in accordance with the terms and conditions of this Agreement, Products shipped to it by Cisco prior to the date of termination or expiration.\",\"Upon termination or expiration of this Agreement, Distributor shall immediately return to Cisco all Confidential Information (including all copies thereof) then in Distributor's possession, custody or control; provided, that except for a termination resulting from Distributor's breach of Section 9.0 (Proprietary Rights and Software Licensing) or Section 19.0 (Confidential Information), Distributor may retain a sufficient amount of such Confidential Information and material to support its installed base of Products.\",\"In the event of termination by Cisco for convenience, termination by Distributor for Cisco's material breach, or expiration of this Agreement where Cisco has provided Distributor with written notice from an authorized representative of its intention not to renew the Agreement, Cisco agrees to repurchase all Product in Distributor's inventory within [*****] days following the effective date of termination or expiration.\",\"Within [*****] days following the effective date of termination or expiration, Distributor shall return to Cisco all Product held in inventory as of the effective date of termination.\",\"Cisco further agrees to immediately return to Distributor, at Distributor's request, all Distributor Confidential Information in Cisco's possession, custody, or control upon termination of this Agreement at any time and for any reason, except for POS reports or Distributor lists that Cisco may use for internal business or end user support purposes or government-related purposes.\",\"EXCEPT AS OTHERWISE EXPRESSLY SET FORTH HEREIN, THIS SECTION SHALL IN NO WAY BE INTERPRETED TO RELEASE EITHER CISCO OR DISTRIBUTOR FROM ANY PAYMENTS OR FINANCIAL OBLIGATION MADE PRIOR TO TERMINATION.\",\"This provision is intended to be severable from the other provisions of this Agreement, and shall survive expiration or termination and shall not be merged into any such judgment\"]}",
+  "usage": {
+    "completion_tokens": 666,
+    "prompt_tokens": 5040,
+    "total_tokens": 5706,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 140,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 5037,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

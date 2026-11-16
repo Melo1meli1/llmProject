@@ -1,0 +1,52 @@
+{
+  "prompt_version": "v3_expiration_date_clarified",
+  "description_source": "category_descriptions.csv",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "chunk_chars": 20000,
+  "overlap_chars": 2000,
+  "seed": 42,
+  "dev_size": 100,
+  "n_llm_dev": 20,
+  "eval_titles": [
+    "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT",
+    "FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",
+    "DOMINIADVISORTRUST_02_18_2005-EX-99.(H)(2)-SPONSORSHIP AGREEMENT",
+    "ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT",
+    "OPERALTD_04_30_2020-EX-4.14-SERVICE AGREEMENT",
+    "BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT",
+    "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement",
+    "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT",
+    "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT",
+    "SENMIAOTECHNOLOGYLTD_02_19_2019-EX-10.5-Collaboration Agreement",
+    "HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement",
+    "ENERGOUSCORP_03_16_2017-EX-10.24-STRATEGIC ALLIANCE AGREEMENT",
+    "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement",
+    "SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement",
+    "WPPPLC_04_30_2020-EX-4.28-SERVICE AGREEMENT",
+    "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement2",
+    "BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT",
+    "INTERNATIONALFASTFOODCORP_04_04_1997-EX-99-FRANCHISE AGREEMENT",
+    "NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment",
+    "REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT"
+  ],
+  "min_score": 1,
+  "top_k": 2,
+  "system_prompt": "You are a careful contract-analysis assistant. You are given part of a commercial contract and a clause type. Decide whether this text contains a clause of that type. If so, return the relevant passages copied VERBATIM from the text (do not paraphrase; keep each passage as short as possible while covering the provision). If there is no such clause, say so. Respond ONLY with JSON: {\"found\": true/false, \"passages\": [\"...\"]}",
+  "descriptions": {
+    "Expiration Date": "Identify the passage specifying when the agreement's initial term expires or how long it lasts. This may be an explicit calendar date, a duration measured from the effective or commencement date, or a statement that the agreement continues indefinitely, perpetually, or until terminated by notice. A calendar date is not required: a stated initial-term duration is sufficient. Return the original passage, not a calculated date. Exclude durations that apply only to individual obligations, such as confidentiality or payment, rather than to the agreement itself.",
+    "Renewal Term": "What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+    "Notice Period To Terminate Renewal": "What is the notice period required to terminate renewal?",
+    "Cap On Liability": "Does the contract include a cap on liability upon the breach of a party’s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+    "Ip Ownership Assignment": "Does intellectual property created by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+    "Post-Termination Services": "Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?"
+  },
+  "kategorier": [
+    "Expiration Date",
+    "Renewal Term",
+    "Notice Period To Terminate Renewal",
+    "Cap On Liability",
+    "Ip Ownership Assignment",
+    "Post-Termination Services"
+  ]
+}

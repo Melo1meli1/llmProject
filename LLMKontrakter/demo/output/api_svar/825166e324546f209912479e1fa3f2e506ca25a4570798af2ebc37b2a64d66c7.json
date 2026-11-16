@@ -1,0 +1,23 @@
+{
+  "model": "gpt-6-luna",
+  "raw": "{\"found\": true, \"passages\": [\"Any and all web pages used by Contractor in connection with the Offering (the \\\"Web Pages\\\"), and all associated Proprietary Rights, shall be owned exclusively by the Company.\"]}",
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 4633,
+    "total_tokens": 4767,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4630,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

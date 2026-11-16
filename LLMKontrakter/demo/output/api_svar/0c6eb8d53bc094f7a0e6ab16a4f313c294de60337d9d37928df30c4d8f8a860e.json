@@ -1,0 +1,23 @@
+{
+  "model": "gpt-6-luna",
+  "raw": "{\"found\": true, \"passages\": [\"This Agreement shall become effective as of the date first set forth above, and shall continue in full force and effect until terminated as provided below.\", \"The Company will have the ability to terminate this Agreement by giving 60 days' prior written notice to the Contractor. The Contractor will have the ability to terminate this Agreement by giving 90 days' prior written notice to the Company.\"]}",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 3979,
+    "total_tokens": 4072,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 3976,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

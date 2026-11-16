@@ -1,0 +1,30 @@
+{
+  "evaluation_version": "eval_v2",
+  "prompt_version": "v3_expiration_date_clarified",
+  "antall_kontrakter": 20,
+  "eval_titles": [
+    "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT",
+    "FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",
+    "DOMINIADVISORTRUST_02_18_2005-EX-99.(H)(2)-SPONSORSHIP AGREEMENT",
+    "ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT",
+    "OPERALTD_04_30_2020-EX-4.14-SERVICE AGREEMENT",
+    "BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT",
+    "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement",
+    "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT",
+    "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT",
+    "SENMIAOTECHNOLOGYLTD_02_19_2019-EX-10.5-Collaboration Agreement",
+    "HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement",
+    "ENERGOUSCORP_03_16_2017-EX-10.24-STRATEGIC ALLIANCE AGREEMENT",
+    "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement",
+    "SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement",
+    "WPPPLC_04_30_2020-EX-4.28-SERVICE AGREEMENT",
+    "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement2",
+    "BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT",
+    "INTERNATIONALFASTFOODCORP_04_04_1997-EX-99-FRANCHISE AGREEMENT",
+    "NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment",
+    "REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT"
+  ],
+  "dekning_fasit": "Gjennomsnittlig beste token-F1 per fasitpassasje. Manglende prediksjon gir null.",
+  "treffsikkerhet_utdrag": "Gjennomsnittlig beste token-F1 per returnert utdrag. Manglende fasit gir null.",
+  "vekting": "Hver passasje teller likt innenfor kategorien. Beste match beregnes uten krav om en-til-en-matching."
+}

@@ -1,0 +1,23 @@
+{
+  "model": "gpt-6-luna",
+  "raw": "{\"found\":true,\"passages\":[\"ALL LIABILITY OF EACH PARTY, INCLUDING EACH PARTY'S AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS AND SUPPLIERS COLLECTIVELY, FOR CLAIMS ARISING UNDER THIS AGREEMENT OR OTHERWISE HOWSOEVER ARISING SHALL BE LIMITED SEPARATELY FOR PRODUCTS AND SERVICES PURCHASES TO THE GREATER OF I) [*****] OR (ll)THE MONEY PAID TO CISCO FOR PRODUCTS OR FOR SERVICES, SEPARATELY AND AS APPLICABLE, UNDER THIS AGREEMENT DURING THE [*****] PERIOD PRECEDING THE EVENT OR CIRCUMSTANCES FIRST GIVING RISE TO SUCH LIABILITY. THESE LIMITATIONS OF LIABILITY FOR PRODUCT AND SERVICES ARE CUMULATIVE AND NOT PER-INCIDENT (I.E., THE EXISTENCE OF TWO OR MORE CLAIMS WILL NOT ENLARGE THIS LIMIT).\"]}",
+  "usage": {
+    "completion_tokens": 189,
+    "prompt_tokens": 4115,
+    "total_tokens": 4304,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4112,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

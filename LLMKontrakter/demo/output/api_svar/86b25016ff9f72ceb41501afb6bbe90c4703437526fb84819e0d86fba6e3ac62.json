@@ -1,0 +1,23 @@
+{
+  "model": "gpt-6-luna",
+  "raw": "{\"found\": true, \"passages\": [\"If this Agreement is terminated, or otherwise at the instruction of the Company, the Contractor shall promptly deliver to the Company or its designee, as the case may be, all Note files and records (including, without limitation, copies of computerized records and servicing and other software, except as may be prohibited by any third party contract or license) related to the administration of the Notes and all monies collected by it relating to the Renewable Note Program (less any fees or expenses due to the Contractor).\", \"In addition to delivering such data and monies, the Contractor shall use its best efforts to effect the orderly and efficient transfer of the administration of the Notes to the Company or other party designated by the Company to assume responsibility for such administration, including, without limitation, directing Holders to remit all repurchase or other notices to the address designated by the Company.\"]}",
+  "usage": {
+    "completion_tokens": 297,
+    "prompt_tokens": 4732,
+    "total_tokens": 5029,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4729,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

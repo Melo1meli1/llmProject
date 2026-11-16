@@ -1,0 +1,23 @@
+{
+  "model": "gpt-6-luna",
+  "raw": "{\"found\": true, \"passages\": [\"the Contractor agrees to use its best efforts perform such tasks until the later of the termination of the Offering or the sale of all of the Notes, or until the termination of this Agreement, if earlier.\"]}",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 4239,
+    "total_tokens": 4297,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4236,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

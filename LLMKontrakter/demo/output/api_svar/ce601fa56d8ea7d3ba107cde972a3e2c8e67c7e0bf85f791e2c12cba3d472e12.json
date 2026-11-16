@@ -1,0 +1,23 @@
+{
+  "model": "gpt-6-luna",
+  "raw": "{\"found\": true, \"passages\": [\"The Company or the Contractor may terminate this Agreement at any time in whole or in part as more specifically provided below, and in such case, the Contractor will be paid fees incurred up to the date of such termination plus its expenses accrued as of such date within 30 days of such termination.\", \"The respective indemnity and contribution agreements of the Company and the Contractor set forth herein and the respective representations, warranties, covenants and agreements of the Company and the Contractor set forth herein, shall remain operative and in full force and effect, regardless of any investigation made by, or on behalf of, the Contractor, the Company, any of its officers and directors, or any controlling person referred to in Article VII and shall survive the sale of the Notes and any termination or cancellation of this Agreement.\"]}",
+  "usage": {
+    "completion_tokens": 175,
+    "prompt_tokens": 4837,
+    "total_tokens": 5012,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4834,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

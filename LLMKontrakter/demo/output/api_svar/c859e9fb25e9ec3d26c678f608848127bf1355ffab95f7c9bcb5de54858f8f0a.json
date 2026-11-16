@@ -1,0 +1,23 @@
+{
+  "model": "gpt-6-luna",
+  "raw": "{\"found\": true, \"passages\": [\"Distributor must make the initial credit request to Cisco, in writing, within [*****] of the underlying point of sale transaction. Any initial credit requests submitted by the Distributor to Cisco greater than [*****] after the underlying point of sale transaction will not be honored by Cisco and Cisco will not grant such credit to Distributor.\", \"Distributor will have [*****] from the effective date of the price change to exercise protection under this program by issuing a request for credit memo with supporting documentation to Cisco. Claims for price protection submitted more than [*****] from the effective date of a price decrease will be rejected.\"]}",
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 4263,
+    "total_tokens": 4400,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": 4260,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}
